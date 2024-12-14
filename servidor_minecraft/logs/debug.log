@@ -3013,3 +3013,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Dec2024 20:51:35.113] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [14Dec2024 20:56:35.099] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [14Dec2024 20:56:35.105] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 20:56:50.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Diamonds!]
+[14Dec2024 21:01:35.101] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 21:01:35.107] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[14Dec2024 21:02:14.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Assimilated Enderman
+[14Dec2024 21:06:35.098] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[14Dec2024 21:06:35.103] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

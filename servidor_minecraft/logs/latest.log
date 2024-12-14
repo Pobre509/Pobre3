@@ -500,3 +500,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Dec2024 20:43:27.401] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@419c93d0
 [14Dec2024 20:43:27.410] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: R3hsk[/127.250.204.19:34509] logged in with entity id 11973 at (-585.5759603217268, 19.0, 137.69999998807907)
 [14Dec2024 20:43:27.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk joined the game
+[14Dec2024 20:56:50.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Diamonds!]
+[14Dec2024 21:02:14.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Assimilated Enderman
