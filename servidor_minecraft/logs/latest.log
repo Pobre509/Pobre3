@@ -509,3 +509,15 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Dec2024 21:14:42.892] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['JhonOK22'/26263, l='ServerLevel[world]', x=-430.42, y=-27.08, z=53.46] died: JhonOK22 was slain by Assimilated Horse
 [14Dec2024 21:15:12.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Ice Bucket Challenge]
 [14Dec2024 21:16:38.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [We Need to Go Deeper]
+[14Dec2024 21:18:15.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk burned to death
+[14Dec2024 21:22:45.586] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AssimilatedRoamerEntity['Flames'/32164, l='ServerLevel[world]', x=-745.98, y=-6.00, z=461.52] died: Flames forgot Infected Human was a bioweapon
+[14Dec2024 21:26:40.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Assimilated Enderman
+[14Dec2024 21:27:40.721] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Helldwin'/37716, l='ServerLevel[world]', x=25.43, y=-11.00, z=-147.28] died: Helldwin was slain by Assimilated Enderman
+[14Dec2024 21:27:51.534] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['WhisperFire26'/37809, l='ServerLevel[world]', x=48.86, y=-11.00, z=-126.51] died: WhisperFire26 was slain by Assimilated Enderman
+[14Dec2024 21:30:48.384] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Joker_de_Coeur'/40628, l='ServerLevel[world]', x=-373.57, y=-18.00, z=375.70] died: Joker_de_Coeur was slain by Assimilated Human
+[14Dec2024 21:39:35.485] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Helldwin'/43787, l='ServerLevel[world]', x=-168.38, y=-49.00, z=378.26] died: Helldwin was slain by Assimilated Human
+[14Dec2024 21:43:55.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk died because of Assimilated Enderman
+[14Dec2024 21:44:40.333] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['hacie'/45186, l='ServerLevel[world]', x=111.93, y=66.00, z=-310.77] died: hacie was slain by Assimilated Human
+[14Dec2024 21:44:49.981] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Mademoiselle2016'/45441, l='ServerLevel[world]', x=152.33, y=56.00, z=-292.30] died: Mademoiselle2016 was slain by Flames
+[14Dec2024 21:45:08.634] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AssimilatedRoamerEntity['Flames'/45357, l='ServerLevel[world]', x=151.18, y=53.00, z=-298.81] died: Flames was shot by JhonOK22
+[14Dec2024 21:45:24.436] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['JhonOK22'/45440, l='ServerLevel[world]', x=151.60, y=52.00, z=-294.69] died: JhonOK22 was slain by Assimilated Spider
