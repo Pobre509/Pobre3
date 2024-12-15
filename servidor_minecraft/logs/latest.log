@@ -617,3 +617,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Dec2024 23:20:21.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Gamerule keepInventory is now set to: true]
 [15Dec2024 23:20:30.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made R3hsk no longer a server operator
 [15Dec2024 23:21:38.658] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Kraken'/6393, l='ServerLevel[world]', x=-51.81, y=-1.00, z=113.23] died: Kraken was slain by Assimilated Human
+[15Dec2024 23:29:16.013] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DevelopedRoamerEntity['Flames'/9349, l='ServerLevel[world]', x=-58.10, y=24.00, z=-8.60] died: Flames was eaten alive by Infected Pillager
