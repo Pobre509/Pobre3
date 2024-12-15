@@ -485,3 +485,5 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Dec2024 23:46:00.877] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=1659, y=62, z=1710}
 [14Dec2024 23:46:47.854] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/7727, l='ServerLevel[world]', x=1462.37, y=73.56, z=1781.72] died, message: 'Villager suffocated in a wall'
 [14Dec2024 23:54:06.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Assimilated Enderman
+[14Dec2024 23:55:56.357] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: R3hsk lost connection: Disconnected
+[14Dec2024 23:55:56.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk left the game
