@@ -4089,3 +4089,14 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Dec2024 23:34:27.816] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['bartsek009 '/11922, l='ServerLevel[world]', x=-33.87, y=10.00, z=81.12] died: bartsek009  was slain by Assimilated Witch
 [15Dec2024 23:38:08.087] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Dec2024 23:38:08.094] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 23:43:08.088] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 23:43:08.095] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 23:45:54.911] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Whisper'/16180, l='ServerLevel[world]', x=129.65, y=-29.00, z=134.94] died: Whisper was slain by Assimilated Human
+[15Dec2024 23:48:08.098] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 23:48:08.104] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 23:49:03.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Diamonds!]
+[15Dec2024 23:49:29.670] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DevelopedRoamerEntity['Flames'/17444, l='ServerLevel[world]', x=-68.09, y=20.00, z=26.53] died: Flames was doomed to fall
+[15Dec2024 23:49:31.923] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AssimilatedRoamerEntity['DAKOTA'/17412, l='ServerLevel[world]', x=-69.93, y=31.00, z=25.82] died: DAKOTA suffocated in a wall
+[15Dec2024 23:49:53.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Not Today, Thank You]
+[15Dec2024 23:50:25.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Getting an Upgrade]
+[15Dec2024 23:50:55.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Monster Hunter]
