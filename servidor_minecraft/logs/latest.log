@@ -599,3 +599,21 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Dec2024 23:11:24.962] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: percentyack[/127.223.72.173:44023] logged in with entity id 2550 at (-8.5, 68.0, 10.5)
 [15Dec2024 23:11:24.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack joined the game
 [15Dec2024 23:11:25.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Ice and Fire]
+[15Dec2024 23:12:38.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Isn't It Iron Pick]
+[15Dec2024 23:12:42.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Stone Age]
+[15Dec2024 23:12:49.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Isn't It Iron Pick]
+[15Dec2024 23:13:36.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Monster Hunter]
+[15Dec2024 23:13:37.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Sweet Dreams]
+[15Dec2024 23:13:37.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Sweet Dreams]
+[15Dec2024 23:17:57.156] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Gistique'/5182, l='ServerLevel[world]', x=107.28, y=-8.83, z=-34.41] died: Gistique was slain by Tank
+[15Dec2024 23:18:05.361] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Dany_Why'/5181, l='ServerLevel[world]', x=112.94, y=-49.00, z=-10.92] died: Dany_Why fell from a high place
+[15Dec2024 23:18:30.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Soul Collector]
+[15Dec2024 23:18:48.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Stone Age]
+[15Dec2024 23:19:51.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk died
+[15Dec2024 23:19:51.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Killed R3hsk
+[15Dec2024 23:20:09.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Incorrect argument for command
+[15Dec2024 23:20:09.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gamerule keepinventory true<--[HERE]
+[15Dec2024 23:20:15.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made R3hsk a server operator
+[15Dec2024 23:20:21.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Gamerule keepInventory is now set to: true]
+[15Dec2024 23:20:30.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made R3hsk no longer a server operator
+[15Dec2024 23:21:38.658] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Kraken'/6393, l='ServerLevel[world]', x=-51.81, y=-1.00, z=113.23] died: Kraken was slain by Assimilated Human

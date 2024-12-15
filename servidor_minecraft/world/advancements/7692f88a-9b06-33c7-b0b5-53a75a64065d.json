@@ -1,31 +1,43 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-15 23:15:06 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/stone_tower_shield": {
+    "criteria": {
+      "has_cobblestone": "2024-12-15 23:12:42 +0000"
+    },
+    "done": true
+  },
   "mobz:recipes/totemmiddle_recipe": {
     "criteria": {
       "got_the_log": "2024-12-15 23:06:44 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/travelersbackpack/gold_tier_upgrade": {
+  "jeg:recipes/jeg/workbench": {
     "criteria": {
-      "has_gold_ingot": "2024-12-15 23:07:25 +0000"
+      "has_planks": "2024-12-15 23:11:13 +0000"
     },
     "done": true
   },
-  "spartanshields:recipes/spartanshields/golden_tower_shield": {
+  "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
-      "has_gold_ingot": "2024-12-15 23:07:25 +0000"
+      "has_stick": "2024-12-15 23:11:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/iron_bars": {
+  "minecraft:recipes/redstone/lever": {
     "criteria": {
-      "has_iron_ingot": "2024-12-15 23:07:26 +0000"
+      "has_cobblestone": "2024-12-15 23:12:42 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_pickaxe": {
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
-      "has_gold_ingot": "2024-12-15 23:07:25 +0000"
+      "has_cobblestone": "2024-12-15 23:12:42 +0000"
     },
     "done": true
   },
@@ -35,15 +47,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/gold_block": {
+  "backpacked:recipes/backpacked/crimson_backpack_shelf": {
     "criteria": {
-      "has_gold_ingot": "2024-12-15 23:07:25 +0000"
+      "has_stick": "2024-12-15 23:11:16 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/backpacked/oak_backpack_shelf": {
+    "criteria": {
+      "has_stick": "2024-12-15 23:11:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-15 23:12:41 +0000"
     },
     "done": true
   },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2024-12-15 23:07:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-15 23:15:06 +0000"
     },
     "done": true
   },
@@ -65,15 +95,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/minecart": {
+  "spartanshields:recipes/spartanshields/wooden_tower_shield": {
     "criteria": {
-      "has_iron_ingot": "2024-12-15 23:07:26 +0000"
-    },
-    "done": true
-  },
-  "advancednetherite:recipes/advancednetherite.tab/netherite_iron_ingot": {
-    "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/iron]": "2024-12-15 23:07:26 +0000"
+      "has_planks": "2024-12-15 23:11:13 +0000"
     },
     "done": true
   },
@@ -89,33 +113,21 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:forest": "2024-12-15 23:06:10 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/redstone/iron_door": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-15 23:07:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:unlock_deep_pockets_book": {
-    "criteria": {
-      "exists": "2024-12-15 23:06:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_coal": "2024-12-15 23:07:27 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/charcoal": {
+  "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "has_log": "2024-12-15 23:06:44 +0000"
+      "has_planks": "2024-12-15 23:11:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-15 23:15:06 +0000"
     },
     "done": true
   },
@@ -125,9 +137,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/iron_hoe": {
+  "iceandfire:iceandfire/root": {
     "criteria": {
-      "has_iron_ingot": "2024-12-15 23:07:26 +0000"
+      "tick": "2024-12-15 23:06:10 +0000"
     },
     "done": true
   },
@@ -137,9 +149,9 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/root": {
+  "minecraft:recipes/decorations/ladder": {
     "criteria": {
-      "tick": "2024-12-15 23:06:10 +0000"
+      "has_stick": "2024-12-15 23:11:16 +0000"
     },
     "done": true
   },
@@ -149,21 +161,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/birch_boat": {
-    "criteria": {
-      "in_water": "2024-12-15 23:07:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2024-12-15 23:07:25 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/golden_apple": {
+  "minecraft:recipes/decorations/chest": {
     "criteria": {
-      "has_gold_ingot": "2024-12-15 23:07:25 +0000"
+      "has_lots_of_items": "2024-12-15 23:12:39 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/lapis_lazuli_basic_shield": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-15 23:12:41 +0000"
     },
     "done": true
   },
@@ -179,39 +191,27 @@
     },
     "done": true
   },
-  "cgm:recipes/cgm/grenade_launcher": {
+  "travelersbackpack:recipes/travelersbackpack/wolf": {
     "criteria": {
-      "has_iron_ingot": "2024-12-15 23:07:26 +0000"
+      "has_bone": "2024-12-15 23:12:34 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/iron_shovel": {
+  "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
-      "has_iron_ingot": "2024-12-15 23:07:26 +0000"
+      "has_stick": "2024-12-15 23:11:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/acacia_boat": {
+  "travelersbackpack:recipes/travelersbackpack/spider": {
     "criteria": {
-      "in_water": "2024-12-15 23:07:10 +0000"
+      "has_string": "2024-12-15 23:15:06 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/travelersbackpack/iron": {
+  "backpacked:recipes/backpacked/warped_backpack_shelf": {
     "criteria": {
-      "has_iron_ingot": "2024-12-15 23:07:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/smithing_table": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-15 23:07:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/iron_trapdoor": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-15 23:07:26 +0000"
+      "has_stick": "2024-12-15 23:11:16 +0000"
     },
     "done": true
   },
@@ -221,15 +221,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_boat": {
+  "minecraft:recipes/misc/stick": {
     "criteria": {
-      "in_water": "2024-12-15 23:07:10 +0000"
-    },
-    "done": true
-  },
-  "cgm:recipes/cgm/pistol": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-15 23:07:26 +0000"
+      "has_planks": "2024-12-15 23:11:13 +0000"
     },
     "done": true
   },
@@ -245,27 +239,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2024-12-15 23:11:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-12-15 23:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-12-15 23:12:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2024-12-15 23:06:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+  "travelersbackpack:recipes/travelersbackpack/crafting_upgrade": {
     "criteria": {
-      "has_iron_ingot": "2024-12-15 23:07:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2024-12-15 23:07:10 +0000"
-    },
-    "done": true
-  },
-  "cgm:recipes/cgm/heavy_rifle": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-15 23:07:26 +0000"
+      "has_crafting_table": "2024-12-15 23:11:16 +0000"
     },
     "done": true
   },
@@ -311,15 +311,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/shield": {
+  "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
-      "has_iron_ingot": "2024-12-15 23:07:26 +0000"
+      "has_stick": "2024-12-15 23:11:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_leggings": {
+  "minecraft:recipes/combat/shield": {
     "criteria": {
-      "has_gold_ingot": "2024-12-15 23:07:25 +0000"
+      "has_iron_ingot": "2024-12-15 23:07:26 +0000"
     },
     "done": true
   },
@@ -329,9 +329,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lantern": {
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
-      "has_iron_ingot": "2024-12-15 23:07:26 +0000"
+      "has_cobblestone": "2024-12-15 23:12:42 +0000"
     },
     "done": true
   },
@@ -347,6 +347,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-15 23:15:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-15 23:11:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-15 23:07:26 +0000"
@@ -359,13 +371,19 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/hopper": {
+  "minecraft:recipes/misc/bone_meal": {
     "criteria": {
-      "has_iron_ingot": "2024-12-15 23:07:26 +0000"
+      "has_bone": "2024-12-15 23:12:34 +0000"
     },
     "done": true
   },
-  "spartanshields:recipes/spartanshields/iron_tower_shield": {
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-12-15 23:12:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-12-15 23:07:26 +0000"
     },
@@ -383,21 +401,9 @@
     },
     "done": true
   },
-  "spartanshields:recipes/spartanshields/iron_basic_shield": {
+  "minecraft:story/iron_tools": {
     "criteria": {
-      "has_iron_ingot": "2024-12-15 23:07:26 +0000"
-    },
-    "done": true
-  },
-  "mobz:recipes/amatingotrecipes": {
-    "criteria": {
-      "got_the_amat_ingot": "2024-12-15 23:06:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chain": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-15 23:07:26 +0000"
+      "iron_pickaxe": "2024-12-15 23:12:38 +0000"
     },
     "done": true
   },
@@ -407,21 +413,21 @@
     },
     "done": true
   },
-  "travelersbackpack:recipes/travelersbackpack/coal": {
-    "criteria": {
-      "has_coal": "2024-12-15 23:07:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2024-12-15 23:06:44 +0000"
     },
     "done": true
   },
-  "midnight_madness:midnight_madness_advancement": {
+  "travelersbackpack:recipes/travelersbackpack/coal": {
     "criteria": {
-      "midnight_madness_advancement": "2024-12-15 23:06:10 +0000"
+      "has_coal": "2024-12-15 23:07:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-15 23:11:16 +0000"
     },
     "done": true
   },
@@ -431,33 +437,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/oak_boat": {
-    "criteria": {
-      "in_water": "2024-12-15 23:07:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2024-12-15 23:07:26 +0000"
     },
     "done": true
   },
-  "minecraft:story/smelt_iron": {
+  "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
-      "iron": "2024-12-15 23:07:26 +0000"
+      "has_planks": "2024-12-15 23:11:13 +0000"
     },
     "done": true
   },
-  "advancednetherite:recipes/advancednetherite.tab/netherite_gold_ingot": {
+  "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
-      "has_TagKey[minecraft:item / forge:ingots/gold]": "2024-12-15 23:07:25 +0000"
+      "has_planks": "2024-12-15 23:11:13 +0000"
     },
     "done": true
   },
-  "cgm:recipes/cgm/mini_gun": {
+  "backpacked:recipes/backpacked/dark_oak_backpack_shelf": {
     "criteria": {
-      "has_iron_ingot": "2024-12-15 23:07:26 +0000"
+      "has_stick": "2024-12-15 23:11:16 +0000"
     },
     "done": true
   },
@@ -473,21 +473,15 @@
     },
     "done": true
   },
-  "cgm:recipes/cgm/rifle": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-15 23:07:26 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/travelersbackpack/backpack_tank": {
     "criteria": {
       "has_iron": "2024-12-15 23:07:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/iron_helmet": {
+  "backpacked:recipes/backpacked/spruce_backpack_shelf": {
     "criteria": {
-      "has_iron_ingot": "2024-12-15 23:07:26 +0000"
+      "has_stick": "2024-12-15 23:11:16 +0000"
     },
     "done": true
   },
@@ -497,15 +491,477 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_boots": {
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-15 23:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-15 23:15:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-12-15 23:12:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-15 23:11:13 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/gold_tier_upgrade": {
     "criteria": {
       "has_gold_ingot": "2024-12-15 23:07:25 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/stone_basic_shield": {
+    "criteria": {
+      "has_cobblestone": "2024-12-15 23:12:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:spider": "2024-12-15 23:13:36 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/golden_tower_shield": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-15 23:07:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/iron_bars": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-15 23:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-15 23:11:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-15 23:07:25 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/backpacked/acacia_backpack_shelf": {
+    "criteria": {
+      "has_stick": "2024-12-15 23:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-15 23:07:25 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/skeleton": {
+    "criteria": {
+      "has_arrow": "2024-12-15 23:12:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-12-15 23:12:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2024-12-15 23:12:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-15 23:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-12-15 23:12:42 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/advancednetherite.tab/netherite_iron_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/iron]": "2024-12-15 23:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2024-12-15 23:06:10 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-15 23:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:unlock_deep_pockets_book": {
+    "criteria": {
+      "exists": "2024-12-15 23:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-12-15 23:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-15 23:13:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_hoe": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-15 23:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-15 23:15:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-12-15 23:11:16 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/wooden_basic_shield": {
+    "criteria": {
+      "has_planks": "2024-12-15 23:11:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-15 23:12:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-12-15 23:07:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-15 23:07:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-12-15 23:12:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-15 23:11:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-12-15 23:12:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-12-15 23:11:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-15 23:07:10 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/grenade_launcher": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-15 23:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-15 23:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-15 23:13:36 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/iron": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-15 23:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-15 23:12:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-15 23:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/iron_trapdoor": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-15 23:07:26 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/backpacked/jungle_backpack_shelf": {
+    "criteria": {
+      "has_stick": "2024-12-15 23:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-15 23:11:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-12-15 23:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-12-15 23:07:10 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/pistol": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-15 23:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-12-15 23:12:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-15 23:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-15 23:15:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-15 23:12:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-15 23:07:10 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/heavy_rifle": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-15 23:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2024-12-15 23:13:36 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-15 23:12:41 +0000"
+    },
+    "done": true
+  },
+  "backpacked:recipes/backpacked/birch_backpack_shelf": {
+    "criteria": {
+      "has_stick": "2024-12-15 23:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-15 23:07:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-15 23:07:26 +0000"
+    },
+    "done": true
+  },
+  "mobz:mob/started": {
+    "criteria": {
+      "adventurestart": "2024-12-15 23:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-12-15 23:12:38 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/iron_tower_shield": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-15 23:07:26 +0000"
+    },
+    "done": true
+  },
+  "mobz:recipes/amatingotrecipes": {
+    "criteria": {
+      "got_the_amat_ingot": "2024-12-15 23:06:44 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/iron_basic_shield": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-15 23:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chain": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-15 23:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2024-12-15 23:11:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-15 23:12:41 +0000"
+    },
+    "done": true
+  },
+  "midnight_madness:midnight_madness_advancement": {
+    "criteria": {
+      "midnight_madness_advancement": "2024-12-15 23:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-15 23:11:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-15 23:07:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2024-12-15 23:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2024-12-15 23:07:26 +0000"
+    },
+    "done": true
+  },
+  "advancednetherite:recipes/advancednetherite.tab/netherite_gold_ingot": {
+    "criteria": {
+      "has_TagKey[minecraft:item / forge:ingots/gold]": "2024-12-15 23:07:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-12-15 23:12:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-15 23:11:13 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/mini_gun": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-15 23:07:26 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/rifle": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-15 23:07:26 +0000"
     },
     "done": true
   },
   "mobz:recipes/speedboots2_recipe": {
     "criteria": {
       "got_the_speedboots": "2024-12-15 23:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-15 23:07:25 +0000"
     },
     "done": true
   },
