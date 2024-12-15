@@ -4083,3 +4083,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Dec2024 23:28:08.089] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [15Dec2024 23:28:08.095] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [15Dec2024 23:29:16.013] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DevelopedRoamerEntity['Flames'/9349, l='ServerLevel[world]', x=-58.10, y=24.00, z=-8.60] died: Flames was eaten alive by Infected Pillager
+[15Dec2024 23:33:08.084] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 23:33:08.089] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Dec2024 23:33:55.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Soul Collector]
+[15Dec2024 23:34:27.816] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['bartsek009 '/11922, l='ServerLevel[world]', x=-33.87, y=10.00, z=81.12] died: bartsek009  was slain by Assimilated Witch
+[15Dec2024 23:38:08.087] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Dec2024 23:38:08.094] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
