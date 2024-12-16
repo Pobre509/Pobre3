@@ -18,3 +18,23 @@
 [16Dec2024 00:01:53.488] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: R3hsk[/127.250.204.19:47137] logged in with entity id 22669 at (41.30000001192093, 12.0, 55.30000001192093)
 [16Dec2024 00:01:53.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk joined the game
 [16Dec2024 00:02:09.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made R3hsk a server operator
+[16Dec2024 00:02:13.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Spectator Mode]
+[16Dec2024 00:02:26.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set percentyack's game mode to Survival Mode]
+[16Dec2024 00:02:26.864] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DevelopedRoamerEntity['NPC_D'/22785, l='ServerLevel[world]', x=36.50, y=24.00, z=-24.50] died: NPC_D suffocated in a wall
+[16Dec2024 00:05:00.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported R3hsk to percentyack]
+[16Dec2024 00:05:03.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[16Dec2024 00:06:22.076] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Ike'/23678, l='ServerLevel[world]', x=126.57, y=-13.00, z=78.70] died: Ike was slain by Tank
+[16Dec2024 00:06:25.727] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Nova69'/23679, l='ServerLevel[world]', x=123.78, y=-13.00, z=77.78] died: Nova69 was slain by Zombie
+[16Dec2024 00:07:30.768] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DevelopedRoamerEntity['Flames'/23863, l='ServerLevel[world]', x=-56.40, y=18.00, z=62.66] died: Flames has succumbed to the infection
+[16Dec2024 00:08:15.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Hot Stuff]
+[16Dec2024 00:08:38.218] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DevelopedRoamerEntity['NPC_D'/23807, l='ServerLevel[world]', x=48.02, y=-8.00, z=-44.01] died: NPC_D was shot by Infected Pillager
+[16Dec2024 00:11:19.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was killed by magic
+[16Dec2024 00:11:21.672] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: percentyack lost connection: Disconnected
+[16Dec2024 00:11:21.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack left the game
+[16Dec2024 00:11:37.021] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['LoneGuy'/24968, l='ServerLevel[world]', x=22.09, y=-8.00, z=-27.33] died: LoneGuy was slain by Dwarf
+[16Dec2024 00:11:45.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[16Dec2024 00:11:49.577] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@22e3c56c
+[16Dec2024 00:11:49.584] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: percentyack[/127.223.72.173:55267] logged in with entity id 25823 at (-32.69999998807907, -3.0, 43.30000001192093)
+[16Dec2024 00:11:49.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack joined the game
+[16Dec2024 00:11:52.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set percentyack's game mode to Creative Mode]
+[16Dec2024 00:12:08.218] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AssimilatedRoamerEntity['Flames'/25550, l='ServerLevel[world]', x=6.90, y=63.00, z=58.18] died: Flames was slain by R3hsk
