@@ -1325,6 +1325,12 @@
     },
     "done": true
   },
+  "spore:spore": {
+    "criteria": {
+      "requirement": "2024-12-16 00:16:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2024-12-15 23:48:11 +0000"

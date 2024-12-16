@@ -289,7 +289,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_beef": "2024-12-15 23:26:23 +0000"
+      "cooked_beef": "2024-12-15 23:26:23 +0000",
+      "apple": "2024-12-16 00:16:12 +0000"
     },
     "done": false
   },
@@ -416,6 +417,12 @@
   "cgm:recipes/cgm/machine_pistol": {
     "criteria": {
       "has_iron_ingot": "2024-12-15 23:07:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-16 00:08:27 +0000"
     },
     "done": true
   },
@@ -614,6 +621,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2024-12-15 23:07:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-16 00:08:27 +0000"
     },
     "done": true
   },
@@ -1104,6 +1117,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-12-16 00:08:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-15 23:07:26 +0000"
@@ -1582,6 +1601,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-15 23:07:26 +0000"
+    },
+    "done": true
+  },
+  "gobber2:root": {
+    "criteria": {
+      "gobber2_globette": "2024-12-16 00:10:06 +0000"
     },
     "done": true
   },
