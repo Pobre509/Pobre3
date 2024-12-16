@@ -5585,3 +5585,15 @@ Caused by: java.lang.IllegalArgumentException: Player literal{R3hsk} is missing 
 [16Dec2024 00:42:12.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has completed the challenge [Back to the Underworld]
 [16Dec2024 00:42:12.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has completed the challenge [Back to the Underworld]
 [16Dec2024 00:42:22.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Wither Skeleton
+[16Dec2024 00:43:08.076] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Dec2024 00:43:08.081] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Dec2024 00:43:52.663] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['JhonOK22'/51983, l='ServerLevel[world]', x=133.22, y=63.00, z=73.47] died: JhonOK22 was slain by Light Hook
+[16Dec2024 00:44:45.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Cover Me with Diamonds]
+[16Dec2024 00:45:06.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Full Moon Essence]
+[16Dec2024 00:45:47.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [No King Rules Forever]
+[16Dec2024 00:46:08.207] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: percentyack lost connection: Disconnected
+[16Dec2024 00:46:08.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack left the game
+[16Dec2024 00:46:30.309] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: R3hsk lost connection: Disconnected
+[16Dec2024 00:46:30.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk left the game
+[16Dec2024 00:48:08.057] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Dec2024 00:48:08.062] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -563,6 +563,12 @@
     },
     "done": true
   },
+  "midnight_madness:no_king_rules_forever": {
+    "criteria": {
+      "no_king_rules_forever": "2024-12-16 00:45:47 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/spartanshields/copper_basic_shield": {
     "criteria": {
       "has_copper_ingot": "2024-12-15 23:35:09 +0000"
@@ -578,6 +584,12 @@
   "advancednetherite:recipes/advancednetherite.tab/netherite_iron_ingot": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/iron]": "2024-12-15 23:53:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-12-16 00:44:11 +0000"
     },
     "done": true
   },
@@ -763,7 +775,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2024-12-15 23:50:55 +0000"
+      "minecraft:skeleton": "2024-12-15 23:50:55 +0000",
+      "minecraft:wither_skeleton": "2024-12-16 00:45:23 +0000"
     },
     "done": false
   },
@@ -1181,6 +1194,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-12-16 00:42:28 +0000"
+    },
+    "done": true
+  },
   "cgm:recipes/cgm/bazooka": {
     "criteria": {
       "has_redstone": "2024-12-15 23:48:11 +0000"
@@ -1352,6 +1371,12 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:skeleton": "2024-12-15 23:50:55 +0000"
+    },
+    "done": true
+  },
+  "midnight_madness:back_to_underworld": {
+    "criteria": {
+      "back_to_underworld": "2024-12-16 00:42:12 +0000"
     },
     "done": true
   },
