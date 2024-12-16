@@ -221,6 +221,12 @@
     },
     "done": true
   },
+  "midnight_madness:face_the_fear": {
+    "criteria": {
+      "face_the_fear": "2024-12-16 00:29:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2024-12-15 23:53:06 +0000"
@@ -959,6 +965,12 @@
     },
     "done": true
   },
+  "midnight_madness:the_guardian_falls_apart": {
+    "criteria": {
+      "the_guardian_falls_apart": "2024-12-16 00:33:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-15 23:28:48 +0000"
@@ -1346,6 +1358,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-12-15 23:19:29 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_armor_dragon": {
+    "criteria": {
+      "gobber2_helmet_dragon": "2024-12-16 00:35:32 +0000"
     },
     "done": true
   },

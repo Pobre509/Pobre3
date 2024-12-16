@@ -251,6 +251,12 @@
     },
     "done": true
   },
+  "midnight_madness:face_the_fear": {
+    "criteria": {
+      "face_the_fear": "2024-12-16 00:29:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2024-12-15 23:07:26 +0000"
@@ -269,9 +275,27 @@
     },
     "done": true
   },
+  "mobz:mob/armored": {
+    "criteria": {
+      "armoreding": "2024-12-16 00:30:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-12-15 23:07:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-16 00:29:22 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/creeper": {
+    "criteria": {
+      "has_gunpowder": "2024-12-16 00:29:22 +0000"
     },
     "done": true
   },
@@ -308,7 +332,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_beef": "2024-12-15 23:26:23 +0000",
-      "apple": "2024-12-16 00:16:12 +0000"
+      "apple": "2024-12-16 00:16:12 +0000",
+      "golden_apple": "2024-12-16 00:32:41 +0000"
     },
     "done": false
   },
@@ -480,6 +505,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-16 00:29:22 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/gold_tier_upgrade": {
     "criteria": {
       "has_gold_ingot": "2024-12-15 23:07:25 +0000"
@@ -507,6 +538,12 @@
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-15 23:30:42 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/grenade": {
+    "criteria": {
+      "has_gunpowder": "2024-12-16 00:29:22 +0000"
     },
     "done": true
   },
@@ -743,6 +780,7 @@
       "minecraft:skeleton": "2024-12-15 23:49:54 +0000",
       "minecraft:spider": "2024-12-15 23:13:36 +0000",
       "minecraft:creeper": "2024-12-16 00:20:09 +0000",
+      "minecraft:wither_skeleton": "2024-12-16 00:34:22 +0000",
       "minecraft:zombie": "2024-12-16 00:24:00 +0000"
     },
     "done": false
@@ -810,6 +848,12 @@
   "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-15 23:28:59 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/stun_grenade": {
+    "criteria": {
+      "has_gunpowder": "2024-12-16 00:29:22 +0000"
     },
     "done": true
   },
@@ -918,6 +962,12 @@
   "skinandbonesremastered:no_more_hiding": {
     "criteria": {
       "no_more_hiding": "2024-12-15 23:57:15 +0000"
+    },
+    "done": true
+  },
+  "midnight_madness:the_guardian_falls_apart": {
+    "criteria": {
+      "the_guardian_falls_apart": "2024-12-16 00:33:43 +0000"
     },
     "done": true
   },
@@ -1161,6 +1211,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/black_dye_from_wither_rose": {
+    "criteria": {
+      "has_wither_rose": "2024-12-16 00:38:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-15 23:07:26 +0000"
@@ -1329,6 +1385,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_armor_dragon": {
+    "criteria": {
+      "gobber2_helmet_dragon": "2024-12-16 00:36:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_pickaxe": {
     "criteria": {
       "has_gold_ingot": "2024-12-15 23:07:25 +0000"
@@ -1362,6 +1424,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-15 23:43:23 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/missile": {
+    "criteria": {
+      "has_gunpowder": "2024-12-16 00:29:22 +0000"
     },
     "done": true
   },

@@ -80,3 +80,227 @@
 [16Dec2024 00:31:43.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack died
 [16Dec2024 00:31:43.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk died
 [16Dec2024 00:31:43.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Killed 473 entities]
+[16Dec2024 00:32:47.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[16Dec2024 00:33:12.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Demon King
+[16Dec2024 00:33:14.109] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ABucketOfFriedChicken'/44312, l='ServerLevel[world]', x=72.94, y=-2.00, z=5.38] died: ABucketOfFriedChicken was slain by Assimilated Enderman
+[16Dec2024 00:33:43.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has completed the challenge [The Guardian Falls Apart]
+[16Dec2024 00:33:43.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has completed the challenge [The Guardian Falls Apart]
+[16Dec2024 00:33:43.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk died because of Reaper
+[16Dec2024 00:34:16.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Skeleton King
+[16Dec2024 00:34:33.662] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Dany_Why'/45177, l='ServerLevel[world]', x=-48.62, y=17.00, z=40.82] died: Dany_Why was slain by Troll
+[16Dec2024 00:34:47.409] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Azami'/45178, l='ServerLevel[world]', x=-70.78, y=16.00, z=41.83] died: Azami was slain by Assimilated Bear
+[16Dec2024 00:35:21.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Demon King
+[16Dec2024 00:35:32.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Unbreakable Armor With Creative Flight]
+[16Dec2024 00:35:49.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Demon King
+[16Dec2024 00:36:05.909] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['cheesepuff'/46716, l='ServerLevel[world]', x=-51.96, y=17.00, z=36.60] died: cheesepuff was slain by Assimilated Villager
+[16Dec2024 00:36:06.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Unbreakable Armor With Creative Flight]
+[16Dec2024 00:36:13.860] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DevelopedRoamerEntity['Flames'/46122, l='ServerLevel[world]', x=105.50, y=-20.00, z=39.50] died: Flames was slain by Infected Pillager
+[16Dec2024 00:36:29.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Demon King
+[16Dec2024 00:36:42.175] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Sire_AwfulThe1st'/47026, l='ServerLevel[world]', x=-65.91, y=-2.00, z=90.75] died: Sire_AwfulThe1st was slain by Human Stage 3
+[16Dec2024 00:36:45.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[16Dec2024 00:36:56.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[16Dec2024 00:36:57.712] [Server thread/WARN] [cgm/]: literal{R3hsk}(7692f88a-9b06-33c7-b0b5-53a75a64065d) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
+[16Dec2024 00:36:57.812] [Server thread/WARN] [cgm/]: literal{R3hsk}(7692f88a-9b06-33c7-b0b5-53a75a64065d) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
+[16Dec2024 00:37:03.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was shot by a skull from Wither
+[16Dec2024 00:37:04.764] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Player literal{R3hsk} is missing a damage model!
+	Index: 1
+	Listeners:
+		0: LOW
+		1: ASM: class ichttt.mods.firstaid.common.EventHandler onHeal(Lnet/minecraftforge/event/entity/living/LivingHealEvent;)V
+java.lang.IllegalArgumentException: Player literal{R3hsk} is missing a damage model!
+	at TRANSFORMER/firstaid@1.12.0/ichttt.mods.firstaid.common.util.CommonUtils.lambda$getDamageModel$1(CommonUtils.java:145)
+	at TRANSFORMER/forge@43.4.2/net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:281)
+	at TRANSFORMER/firstaid@1.12.0/ichttt.mods.firstaid.common.util.CommonUtils.getDamageModel(CommonUtils.java:145)
+	at TRANSFORMER/firstaid@1.12.0/ichttt.mods.firstaid.common.damagesystem.distribution.HealthDistribution.distributeHealth(HealthDistribution.java:94)
+	at TRANSFORMER/firstaid@1.12.0/ichttt.mods.firstaid.common.EventHandler.onHeal(EventHandler.java:248)
+	at TRANSFORMER/firstaid@1.12.0/ichttt.mods.firstaid.common.__EventHandler_onHeal_LivingHealEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@43.4.2/net.minecraftforge.event.ForgeEventFactory.onLivingHeal(ForgeEventFactory.java:471)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.LivingEntity.m_5634_(LivingEntity.java:1003)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.effect.MobEffect.m_6742_(MobEffect.java:57)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.effect.MobEffectInstance.m_19550_(MobEffectInstance.java:187)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.effect.MobEffectInstance.m_19552_(MobEffectInstance.java:160)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:745)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:418)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.Entity.m_8119_(Entity.java:417)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2252)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.player.Player.m_8119_(Player.java:243)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:447)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:264)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.network.Connection.m_129483_(Connection.java:248)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:880)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:292)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:806)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:654)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[16Dec2024 00:37:04.826] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /127.250.204.19:36805
+net.minecraft.ReportedException: Ticking player
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:510) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:264) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:248) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:880) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:292) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:806) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:654) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.IllegalArgumentException: Player literal{R3hsk} is missing a damage model!
+	at ichttt.mods.firstaid.common.util.CommonUtils.lambda$getDamageModel$1(CommonUtils.java:145) ~[firstaid-1.12.0.jar%23140!/:1.12.0]
+	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:281) ~[forge-1.19.2-43.4.2-universal.jar%23164!/:?]
+	at ichttt.mods.firstaid.common.util.CommonUtils.getDamageModel(CommonUtils.java:145) ~[firstaid-1.12.0.jar%23140!/:1.12.0]
+	at ichttt.mods.firstaid.common.damagesystem.distribution.HealthDistribution.distributeHealth(HealthDistribution.java:94) ~[firstaid-1.12.0.jar%23140!/:1.12.0]
+	at ichttt.mods.firstaid.common.EventHandler.onHeal(EventHandler.java:248) ~[firstaid-1.12.0.jar%23140!/:1.12.0]
+	at ichttt.mods.firstaid.common.__EventHandler_onHeal_LivingHealEvent.invoke(.dynamic) ~[firstaid-1.12.0.jar%23140!/:1.12.0]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.onLivingHeal(ForgeEventFactory.java:471) ~[forge-1.19.2-43.4.2-universal.jar%23164!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_5634_(LivingEntity.java:1003) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
+	at net.minecraft.world.effect.MobEffect.m_6742_(MobEffect.java:57) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
+	at net.minecraft.world.effect.MobEffectInstance.m_19550_(MobEffectInstance.java:187) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
+	at net.minecraft.world.effect.MobEffectInstance.m_19552_(MobEffectInstance.java:160) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:745) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:418) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:417) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2252) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:243) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:447) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
+	... 9 more
+[16Dec2024 00:37:04.843] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: R3hsk lost connection: Internal server error
+[16Dec2024 00:37:04.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk left the game
+[16Dec2024 00:37:15.115] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@32f7a526
+[16Dec2024 00:37:15.120] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: R3hsk[/127.250.204.19:52697] logged in with entity id 47567 at (29.257104604469212, 69.0, 57.236377548947274)
+[16Dec2024 00:37:15.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk joined the game
+[16Dec2024 00:37:19.857] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['The_Harbinger69'/47427, l='ServerLevel[world]', x=-58.77, y=13.00, z=74.51] died: The_Harbinger69 was slain by Assimilated Pillager
+[16Dec2024 00:37:26.564] [Server thread/WARN] [cgm/]: literal{R3hsk}(7692f88a-9b06-33c7-b0b5-53a75a64065d) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
+[16Dec2024 00:37:26.564] [Server thread/WARN] [cgm/]: literal{R3hsk}(7692f88a-9b06-33c7-b0b5-53a75a64065d) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 98
+[16Dec2024 00:37:56.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was shot by a skull from Wither
+[16Dec2024 00:38:07.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk withered away whilst fighting Wither
+[16Dec2024 00:38:19.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Assimilated Human
+[16Dec2024 00:38:21.111] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Player literal{R3hsk} is missing a damage model!
+	Index: 1
+	Listeners:
+		0: LOW
+		1: ASM: class ichttt.mods.firstaid.common.EventHandler onHeal(Lnet/minecraftforge/event/entity/living/LivingHealEvent;)V
+java.lang.IllegalArgumentException: Player literal{R3hsk} is missing a damage model!
+	at TRANSFORMER/firstaid@1.12.0/ichttt.mods.firstaid.common.util.CommonUtils.lambda$getDamageModel$1(CommonUtils.java:145)
+	at TRANSFORMER/forge@43.4.2/net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:281)
+	at TRANSFORMER/firstaid@1.12.0/ichttt.mods.firstaid.common.util.CommonUtils.getDamageModel(CommonUtils.java:145)
+	at TRANSFORMER/firstaid@1.12.0/ichttt.mods.firstaid.common.damagesystem.distribution.HealthDistribution.distributeHealth(HealthDistribution.java:94)
+	at TRANSFORMER/firstaid@1.12.0/ichttt.mods.firstaid.common.EventHandler.onHeal(EventHandler.java:248)
+	at TRANSFORMER/firstaid@1.12.0/ichttt.mods.firstaid.common.__EventHandler_onHeal_LivingHealEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@43.4.2/net.minecraftforge.event.ForgeEventFactory.onLivingHeal(ForgeEventFactory.java:471)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.LivingEntity.m_5634_(LivingEntity.java:1003)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.effect.MobEffect.m_6742_(MobEffect.java:57)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.effect.MobEffectInstance.m_19550_(MobEffectInstance.java:187)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.effect.MobEffectInstance.m_19552_(MobEffectInstance.java:160)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:745)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:418)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.Entity.m_8119_(Entity.java:417)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2252)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.player.Player.m_8119_(Player.java:243)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:447)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:264)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.network.Connection.m_129483_(Connection.java:248)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:880)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:292)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:806)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:654)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[16Dec2024 00:38:21.138] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /127.250.204.19:52697
+net.minecraft.ReportedException: Ticking player
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:510) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:264) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:248) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:880) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:292) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:806) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:654) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.IllegalArgumentException: Player literal{R3hsk} is missing a damage model!
+	at ichttt.mods.firstaid.common.util.CommonUtils.lambda$getDamageModel$1(CommonUtils.java:145) ~[firstaid-1.12.0.jar%23140!/:1.12.0]
+	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:281) ~[forge-1.19.2-43.4.2-universal.jar%23164!/:?]
+	at ichttt.mods.firstaid.common.util.CommonUtils.getDamageModel(CommonUtils.java:145) ~[firstaid-1.12.0.jar%23140!/:1.12.0]
+	at ichttt.mods.firstaid.common.damagesystem.distribution.HealthDistribution.distributeHealth(HealthDistribution.java:94) ~[firstaid-1.12.0.jar%23140!/:1.12.0]
+	at ichttt.mods.firstaid.common.EventHandler.onHeal(EventHandler.java:248) ~[firstaid-1.12.0.jar%23140!/:1.12.0]
+	at ichttt.mods.firstaid.common.__EventHandler_onHeal_LivingHealEvent.invoke(.dynamic) ~[firstaid-1.12.0.jar%23140!/:1.12.0]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.onLivingHeal(ForgeEventFactory.java:471) ~[forge-1.19.2-43.4.2-universal.jar%23164!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_5634_(LivingEntity.java:1003) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
+	at net.minecraft.world.effect.MobEffect.m_6742_(MobEffect.java:57) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
+	at net.minecraft.world.effect.MobEffectInstance.m_19550_(MobEffectInstance.java:187) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
+	at net.minecraft.world.effect.MobEffectInstance.m_19552_(MobEffectInstance.java:160) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:745) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:418) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:417) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2252) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:243) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:447) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
+	... 9 more
+[16Dec2024 00:38:21.160] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: R3hsk lost connection: Internal server error
+[16Dec2024 00:38:21.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk left the game
+[16Dec2024 00:38:26.916] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@71fd8f9
+[16Dec2024 00:38:26.921] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: R3hsk[/127.250.204.19:58553] logged in with entity id 48683 at (36.806414395938894, 63.0, 57.8334185803875)
+[16Dec2024 00:38:26.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk joined the game
+[16Dec2024 00:38:45.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was shot by a skull from Wither
+[16Dec2024 00:38:59.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was shot by a skull from Wither
+[16Dec2024 00:39:18.072] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 93
+[16Dec2024 00:39:19.116] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 55
+[16Dec2024 00:39:19.713] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 57
+[16Dec2024 00:39:20.311] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 56
+[16Dec2024 00:39:21.912] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 57
+[16Dec2024 00:39:22.312] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
+[16Dec2024 00:39:22.513] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 64
+[16Dec2024 00:39:22.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Assimilated Human
+[16Dec2024 00:39:22.717] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[16Dec2024 00:39:22.920] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 92
+[16Dec2024 00:39:26.118] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 98
+[16Dec2024 00:39:31.270] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 92
+[16Dec2024 00:39:37.863] [Server thread/WARN] [cgm/]: literal{R3hsk}(7692f88a-9b06-33c7-b0b5-53a75a64065d) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
+[16Dec2024 00:39:37.864] [Server thread/WARN] [cgm/]: literal{R3hsk}(7692f88a-9b06-33c7-b0b5-53a75a64065d) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
+[16Dec2024 00:39:38.215] [Server thread/WARN] [cgm/]: literal{R3hsk}(7692f88a-9b06-33c7-b0b5-53a75a64065d) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[16Dec2024 00:39:38.216] [Server thread/WARN] [cgm/]: literal{R3hsk}(7692f88a-9b06-33c7-b0b5-53a75a64065d) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[16Dec2024 00:39:38.217] [Server thread/WARN] [cgm/]: literal{R3hsk}(7692f88a-9b06-33c7-b0b5-53a75a64065d) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
+[16Dec2024 00:39:38.416] [Server thread/WARN] [cgm/]: literal{R3hsk}(7692f88a-9b06-33c7-b0b5-53a75a64065d) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[16Dec2024 00:39:38.724] [Server thread/WARN] [cgm/]: literal{R3hsk}(7692f88a-9b06-33c7-b0b5-53a75a64065d) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
+[16Dec2024 00:39:39.064] [Server thread/WARN] [cgm/]: literal{R3hsk}(7692f88a-9b06-33c7-b0b5-53a75a64065d) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[16Dec2024 00:39:59.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has completed the challenge [The Revenge of Humanity]
+[16Dec2024 00:40:55.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Skeleton King
+[16Dec2024 00:41:04.014] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 52
+[16Dec2024 00:41:04.418] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 96
+[16Dec2024 00:41:07.562] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 58
+[16Dec2024 00:41:33.760] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 51
+[16Dec2024 00:41:34.511] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 51
+[16Dec2024 00:41:35.567] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 52
+[16Dec2024 00:41:36.210] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 51
+[16Dec2024 00:41:36.610] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 52
+[16Dec2024 00:41:37.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Skeleton King
+[16Dec2024 00:41:38.713] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 55
+[16Dec2024 00:41:39.617] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 52
+[16Dec2024 00:41:42.909] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 52
+[16Dec2024 00:41:43.210] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 51
+[16Dec2024 00:41:44.112] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 52
+[16Dec2024 00:41:44.412] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 54
+[16Dec2024 00:41:45.162] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 52
+[16Dec2024 00:41:46.067] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 54
+[16Dec2024 00:41:46.961] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 51
+[16Dec2024 00:41:47.712] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 52
+[16Dec2024 00:42:12.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has completed the challenge [Back to the Underworld]
+[16Dec2024 00:42:12.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has completed the challenge [Back to the Underworld]
+[16Dec2024 00:42:22.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Wither Skeleton
