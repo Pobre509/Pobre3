@@ -1388,6 +1388,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2024-12-15 23:16:58 +0000",
+      "minecraft:dripstone_caves": "2024-12-16 00:19:57 +0000",
       "minecraft:forest": "2024-12-15 23:11:25 +0000"
     },
     "done": false

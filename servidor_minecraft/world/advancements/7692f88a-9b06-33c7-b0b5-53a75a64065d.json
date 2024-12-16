@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "mobz:mob/boss": {
+    "criteria": {
+      "bossing": "2024-12-16 00:26:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2024-12-15 23:12:42 +0000"
@@ -221,6 +227,12 @@
     },
     "done": true
   },
+  "mobz:mob/skeli2": {
+    "criteria": {
+      "skeliing2": "2024-12-16 00:25:30 +0000"
+    },
+    "done": true
+  },
   "backpacked:recipes/backpacked/warped_backpack_shelf": {
     "criteria": {
       "has_stick": "2024-12-15 23:11:16 +0000"
@@ -260,6 +272,12 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2024-12-15 23:07:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-16 00:20:36 +0000"
     },
     "done": true
   },
@@ -369,6 +387,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-15 23:18:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dripstone_block": {
+    "criteria": {
+      "has_pointed_dripstone": "2024-12-16 00:24:24 +0000"
     },
     "done": true
   },
@@ -690,6 +714,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-16 00:20:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-12-15 23:12:42 +0000"
@@ -711,7 +741,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-15 23:49:54 +0000",
-      "minecraft:spider": "2024-12-15 23:13:36 +0000"
+      "minecraft:spider": "2024-12-15 23:13:36 +0000",
+      "minecraft:creeper": "2024-12-16 00:20:09 +0000",
+      "minecraft:zombie": "2024-12-16 00:24:00 +0000"
     },
     "done": false
   },
@@ -766,6 +798,12 @@
   "spartanshields:recipes/spartanshields/iron_tower_shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-15 23:07:26 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-16 00:20:34 +0000"
     },
     "done": true
   },
@@ -1330,6 +1368,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2024-12-15 23:50:10 +0000",
+      "minecraft:dripstone_caves": "2024-12-16 00:20:17 +0000",
       "minecraft:forest": "2024-12-15 23:06:10 +0000"
     },
     "done": false
@@ -1442,6 +1481,12 @@
     },
     "done": true
   },
+  "mobz:mob/screeper": {
+    "criteria": {
+      "scriping": "2024-12-16 00:25:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2024-12-15 23:07:10 +0000"
@@ -1523,6 +1568,12 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2024-12-15 23:07:26 +0000"
+    },
+    "done": true
+  },
+  "skinandbonesremastered:slayer_of_the_beast_achievement": {
+    "criteria": {
+      "slayer_of_the_beast_achievement": "2024-12-16 00:25:54 +0000"
     },
     "done": true
   },

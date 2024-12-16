@@ -4998,3 +4998,24 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16Dec2024 00:20:34.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [They Have a Cave Troll!]
 [16Dec2024 00:21:37.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
 [16Dec2024 00:22:03.770] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DevelopedRoamerEntity['DAKOTA'/28493, l='ServerLevel[world]', x=-85.50, y=-4.00, z=28.50] died: DAKOTA was taken down by R3hsk
+[16Dec2024 00:23:06.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
+[16Dec2024 00:23:08.086] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Dec2024 00:23:08.091] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Dec2024 00:23:08.220] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Pajera'/31730, l='ServerLevel[world]', x=-48.30, y=8.30, z=78.65] died: Pajera was slain by Assimilated Pillager
+[16Dec2024 00:23:21.272] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Helldwin'/30554, l='ServerLevel[world]', x=-98.70, y=23.02, z=-14.30] died: Helldwin was annihilated by R3hsk
+[16Dec2024 00:23:31.918] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DevelopedRoamerEntity['TqLxQuanZ'/29401, l='ServerLevel[world]', x=-76.72, y=16.00, z=47.71] died: TqLxQuanZ was executed by R3hsk
+[16Dec2024 00:24:34.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Removed 269 items from 2 players]
+[16Dec2024 00:25:54.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has completed the challenge [Slayer Of The Beast Achievement]
+[16Dec2024 00:26:30.163] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Zero'/33937, l='ServerLevel[world]', x=-55.87, y=2.00, z=123.16] died: Zero was slain by Enderman
+[16Dec2024 00:28:08.094] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[16Dec2024 00:28:08.099] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[16Dec2024 00:28:52.825] [Server thread/WARN] [jeg/]: literal{R3hsk}(7692f88a-9b06-33c7-b0b5-53a75a64065d) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 57
+[16Dec2024 00:28:54.322] [Server thread/WARN] [jeg/]: literal{R3hsk}(7692f88a-9b06-33c7-b0b5-53a75a64065d) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 51
+[16Dec2024 00:28:56.721] [Server thread/WARN] [jeg/]: literal{R3hsk}(7692f88a-9b06-33c7-b0b5-53a75a64065d) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 53
+[16Dec2024 00:28:57.721] [Server thread/WARN] [jeg/]: literal{R3hsk}(7692f88a-9b06-33c7-b0b5-53a75a64065d) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 57
+[16Dec2024 00:28:59.571] [Server thread/WARN] [jeg/]: literal{R3hsk}(7692f88a-9b06-33c7-b0b5-53a75a64065d) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 59
+[16Dec2024 00:29:16.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Face the Fear]
+[16Dec2024 00:29:32.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Face the Fear]
+[16Dec2024 00:31:43.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack died
+[16Dec2024 00:31:43.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk died
+[16Dec2024 00:31:43.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Killed 473 entities]
