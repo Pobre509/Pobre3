@@ -255,3 +255,10 @@
 [17Dec2024 23:36:32.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Sweet Dreams]
 [17Dec2024 23:37:51.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has reached the goal [Earthslime Island]
 [17Dec2024 23:42:12.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Getting an Upgrade]
+[17Dec2024 23:49:27.484] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: percentyack lost connection: Disconnected
+[17Dec2024 23:49:27.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack left the game
+[17Dec2024 23:49:55.955] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3f58a15d
+[17Dec2024 23:49:55.967] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: percentyack[/127.113.173.157:43209] logged in with entity id 14632 at (85.10021490867106, 58.20678589016269, 27.29114128531752)
+[17Dec2024 23:49:55.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack joined the game
+[17Dec2024 23:52:52.558] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[17Dec2024 23:53:04.326] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
