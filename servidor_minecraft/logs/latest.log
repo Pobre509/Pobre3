@@ -1,314 +1,195 @@
-[16Dec2024 00:00:32.913] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: R3hsk lost connection: Disconnected
-[16Dec2024 00:00:32.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk left the game
-[16Dec2024 00:00:33.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was slain by Assimilated Enderman
-[16Dec2024 00:00:41.512] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['cheesepuff'/21442, l='ServerLevel[world]', x=41.01, y=-10.08, z=-15.32] died: cheesepuff was slain by Assimilated Human
-[16Dec2024 00:00:54.989] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@25876e02
-[16Dec2024 00:00:54.998] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: R3hsk[/127.250.204.19:60531] logged in with entity id 22177 at (41.69999998807907, 12.0, 55.30000001192093)
-[16Dec2024 00:00:55.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk joined the game
-[16Dec2024 00:01:03.068] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: percentyack lost connection: Disconnected
-[16Dec2024 00:01:03.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack left the game
-[16Dec2024 00:01:05.217] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: R3hsk lost connection: Disconnected
-[16Dec2024 00:01:05.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk left the game
-[16Dec2024 00:01:15.471] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4822f3c8
-[16Dec2024 00:01:15.478] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: percentyack[/127.223.72.173:34075] logged in with entity id 22284 at (42.30000001192093, 41.0, 55.68554839617133)
-[16Dec2024 00:01:15.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack joined the game
-[16Dec2024 00:01:19.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was slain by Assimilated Enderman
-[16Dec2024 00:01:23.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set percentyack's game mode to Creative Mode
-[16Dec2024 00:01:53.480] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@20adc989
-[16Dec2024 00:01:53.488] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: R3hsk[/127.250.204.19:47137] logged in with entity id 22669 at (41.30000001192093, 12.0, 55.30000001192093)
-[16Dec2024 00:01:53.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk joined the game
-[16Dec2024 00:02:09.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made R3hsk a server operator
-[16Dec2024 00:02:13.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Spectator Mode]
-[16Dec2024 00:02:26.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set percentyack's game mode to Survival Mode]
-[16Dec2024 00:02:26.864] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DevelopedRoamerEntity['NPC_D'/22785, l='ServerLevel[world]', x=36.50, y=24.00, z=-24.50] died: NPC_D suffocated in a wall
-[16Dec2024 00:05:00.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported R3hsk to percentyack]
-[16Dec2024 00:05:03.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
-[16Dec2024 00:06:22.076] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Ike'/23678, l='ServerLevel[world]', x=126.57, y=-13.00, z=78.70] died: Ike was slain by Tank
-[16Dec2024 00:06:25.727] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Nova69'/23679, l='ServerLevel[world]', x=123.78, y=-13.00, z=77.78] died: Nova69 was slain by Zombie
-[16Dec2024 00:07:30.768] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DevelopedRoamerEntity['Flames'/23863, l='ServerLevel[world]', x=-56.40, y=18.00, z=62.66] died: Flames has succumbed to the infection
-[16Dec2024 00:08:15.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Hot Stuff]
-[16Dec2024 00:08:38.218] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DevelopedRoamerEntity['NPC_D'/23807, l='ServerLevel[world]', x=48.02, y=-8.00, z=-44.01] died: NPC_D was shot by Infected Pillager
-[16Dec2024 00:11:19.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was killed by magic
-[16Dec2024 00:11:21.672] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: percentyack lost connection: Disconnected
-[16Dec2024 00:11:21.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack left the game
-[16Dec2024 00:11:37.021] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['LoneGuy'/24968, l='ServerLevel[world]', x=22.09, y=-8.00, z=-27.33] died: LoneGuy was slain by Dwarf
-[16Dec2024 00:11:45.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
-[16Dec2024 00:11:49.577] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@22e3c56c
-[16Dec2024 00:11:49.584] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: percentyack[/127.223.72.173:55267] logged in with entity id 25823 at (-32.69999998807907, -3.0, 43.30000001192093)
-[16Dec2024 00:11:49.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack joined the game
-[16Dec2024 00:11:52.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set percentyack's game mode to Creative Mode]
-[16Dec2024 00:12:08.218] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity AssimilatedRoamerEntity['Flames'/25550, l='ServerLevel[world]', x=6.90, y=63.00, z=58.18] died: Flames was slain by R3hsk
-[16Dec2024 00:12:30.273] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DevelopedRoamerEntity['Flames'/25574, l='ServerLevel[world]', x=42.92, y=63.00, z=55.35] died: Flames was slain by R3hsk
-[16Dec2024 00:12:38.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported R3hsk to percentyack]
-[16Dec2024 00:13:34.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
-[16Dec2024 00:13:37.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set percentyack's game mode to Survival Mode]
-[16Dec2024 00:14:07.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk burned to death
-[16Dec2024 00:14:16.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported R3hsk to percentyack]
-[16Dec2024 00:14:56.573] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DevelopedRoamerEntity['Flames'/27244, l='ServerLevel[world]', x=-23.23, y=33.00, z=50.50] died: Flames suffocated in a wall
-[16Dec2024 00:16:20.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Spore]
-[16Dec2024 00:16:58.370] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Ripley'/27978, l='ServerLevel[world]', x=-34.64, y=-1.00, z=111.70] died: Ripley was slain by Assimilated Bear
-[16Dec2024 00:18:02.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was slain by Assimilated Enderman
-[16Dec2024 00:18:04.766] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: R3hsk lost connection: Disconnected
-[16Dec2024 00:18:04.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk left the game
-[16Dec2024 00:18:18.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set percentyack's game mode to Creative Mode
-[16Dec2024 00:18:35.179] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@465f2a45
-[16Dec2024 00:18:35.184] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: R3hsk[/127.250.204.19:36805] logged in with entity id 28557 at (-31.527475175782595, -34.0, 38.52067236498685)
-[16Dec2024 00:18:35.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk joined the game
-[16Dec2024 00:18:41.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set R3hsk's game mode to Creative Mode
-[16Dec2024 00:18:43.069] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Pajera'/28560, l='ServerLevel[world]', x=18.18, y=-19.00, z=-24.77] died: Pajera was doomed to fall by Armored Zombie
-[16Dec2024 00:18:55.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
-[16Dec2024 00:19:31.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Spectator Mode]
-[16Dec2024 00:19:49.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
-[16Dec2024 00:20:21.222] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DevelopedRoamerEntity['Kristofer'/29084, l='ServerLevel[world]', x=-117.72, y=4.00, z=67.50] died: Kristofer was annihilated by R3hsk
-[16Dec2024 00:20:34.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [They Have a Cave Troll!]
-[16Dec2024 00:21:37.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
-[16Dec2024 00:22:03.770] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DevelopedRoamerEntity['DAKOTA'/28493, l='ServerLevel[world]', x=-85.50, y=-4.00, z=28.50] died: DAKOTA was taken down by R3hsk
-[16Dec2024 00:23:06.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
-[16Dec2024 00:23:08.220] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Pajera'/31730, l='ServerLevel[world]', x=-48.30, y=8.30, z=78.65] died: Pajera was slain by Assimilated Pillager
-[16Dec2024 00:23:21.272] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Helldwin'/30554, l='ServerLevel[world]', x=-98.70, y=23.02, z=-14.30] died: Helldwin was annihilated by R3hsk
-[16Dec2024 00:23:31.918] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DevelopedRoamerEntity['TqLxQuanZ'/29401, l='ServerLevel[world]', x=-76.72, y=16.00, z=47.71] died: TqLxQuanZ was executed by R3hsk
-[16Dec2024 00:24:34.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Removed 269 items from 2 players]
-[16Dec2024 00:25:54.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has completed the challenge [Slayer Of The Beast Achievement]
-[16Dec2024 00:26:30.163] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Zero'/33937, l='ServerLevel[world]', x=-55.87, y=2.00, z=123.16] died: Zero was slain by Enderman
-[16Dec2024 00:28:52.825] [Server thread/WARN] [jeg/]: literal{R3hsk}(7692f88a-9b06-33c7-b0b5-53a75a64065d) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 57
-[16Dec2024 00:28:54.322] [Server thread/WARN] [jeg/]: literal{R3hsk}(7692f88a-9b06-33c7-b0b5-53a75a64065d) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 51
-[16Dec2024 00:28:56.721] [Server thread/WARN] [jeg/]: literal{R3hsk}(7692f88a-9b06-33c7-b0b5-53a75a64065d) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 53
-[16Dec2024 00:28:57.721] [Server thread/WARN] [jeg/]: literal{R3hsk}(7692f88a-9b06-33c7-b0b5-53a75a64065d) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 57
-[16Dec2024 00:28:59.571] [Server thread/WARN] [jeg/]: literal{R3hsk}(7692f88a-9b06-33c7-b0b5-53a75a64065d) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 59
-[16Dec2024 00:29:16.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Face the Fear]
-[16Dec2024 00:29:32.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Face the Fear]
-[16Dec2024 00:31:43.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack died
-[16Dec2024 00:31:43.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk died
-[16Dec2024 00:31:43.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Killed 473 entities]
-[16Dec2024 00:32:47.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
-[16Dec2024 00:33:12.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Demon King
-[16Dec2024 00:33:14.109] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['ABucketOfFriedChicken'/44312, l='ServerLevel[world]', x=72.94, y=-2.00, z=5.38] died: ABucketOfFriedChicken was slain by Assimilated Enderman
-[16Dec2024 00:33:43.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has completed the challenge [The Guardian Falls Apart]
-[16Dec2024 00:33:43.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has completed the challenge [The Guardian Falls Apart]
-[16Dec2024 00:33:43.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk died because of Reaper
-[16Dec2024 00:34:16.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Skeleton King
-[16Dec2024 00:34:33.662] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Dany_Why'/45177, l='ServerLevel[world]', x=-48.62, y=17.00, z=40.82] died: Dany_Why was slain by Troll
-[16Dec2024 00:34:47.409] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Azami'/45178, l='ServerLevel[world]', x=-70.78, y=16.00, z=41.83] died: Azami was slain by Assimilated Bear
-[16Dec2024 00:35:21.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Demon King
-[16Dec2024 00:35:32.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Unbreakable Armor With Creative Flight]
-[16Dec2024 00:35:49.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Demon King
-[16Dec2024 00:36:05.909] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['cheesepuff'/46716, l='ServerLevel[world]', x=-51.96, y=17.00, z=36.60] died: cheesepuff was slain by Assimilated Villager
-[16Dec2024 00:36:06.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Unbreakable Armor With Creative Flight]
-[16Dec2024 00:36:13.860] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity DevelopedRoamerEntity['Flames'/46122, l='ServerLevel[world]', x=105.50, y=-20.00, z=39.50] died: Flames was slain by Infected Pillager
-[16Dec2024 00:36:29.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Demon King
-[16Dec2024 00:36:42.175] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['Sire_AwfulThe1st'/47026, l='ServerLevel[world]', x=-65.91, y=-2.00, z=90.75] died: Sire_AwfulThe1st was slain by Human Stage 3
-[16Dec2024 00:36:45.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
-[16Dec2024 00:36:56.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
-[16Dec2024 00:36:57.712] [Server thread/WARN] [cgm/]: literal{R3hsk}(7692f88a-9b06-33c7-b0b5-53a75a64065d) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
-[16Dec2024 00:36:57.812] [Server thread/WARN] [cgm/]: literal{R3hsk}(7692f88a-9b06-33c7-b0b5-53a75a64065d) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
-[16Dec2024 00:37:03.515] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was shot by a skull from Wither
-[16Dec2024 00:37:04.764] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Player literal{R3hsk} is missing a damage model!
-	Index: 1
-	Listeners:
-		0: LOW
-		1: ASM: class ichttt.mods.firstaid.common.EventHandler onHeal(Lnet/minecraftforge/event/entity/living/LivingHealEvent;)V
-java.lang.IllegalArgumentException: Player literal{R3hsk} is missing a damage model!
-	at TRANSFORMER/firstaid@1.12.0/ichttt.mods.firstaid.common.util.CommonUtils.lambda$getDamageModel$1(CommonUtils.java:145)
-	at TRANSFORMER/forge@43.4.2/net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:281)
-	at TRANSFORMER/firstaid@1.12.0/ichttt.mods.firstaid.common.util.CommonUtils.getDamageModel(CommonUtils.java:145)
-	at TRANSFORMER/firstaid@1.12.0/ichttt.mods.firstaid.common.damagesystem.distribution.HealthDistribution.distributeHealth(HealthDistribution.java:94)
-	at TRANSFORMER/firstaid@1.12.0/ichttt.mods.firstaid.common.EventHandler.onHeal(EventHandler.java:248)
-	at TRANSFORMER/firstaid@1.12.0/ichttt.mods.firstaid.common.__EventHandler_onHeal_LivingHealEvent.invoke(.dynamic)
-	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
-	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
-	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
-	at TRANSFORMER/forge@43.4.2/net.minecraftforge.event.ForgeEventFactory.onLivingHeal(ForgeEventFactory.java:471)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.LivingEntity.m_5634_(LivingEntity.java:1003)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.effect.MobEffect.m_6742_(MobEffect.java:57)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.effect.MobEffectInstance.m_19550_(MobEffectInstance.java:187)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.effect.MobEffectInstance.m_19552_(MobEffectInstance.java:160)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:745)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:418)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.Entity.m_8119_(Entity.java:417)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2252)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.player.Player.m_8119_(Player.java:243)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:447)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:264)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.network.Connection.m_129483_(Connection.java:248)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:880)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:292)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:806)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:654)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244)
-	at java.base/java.lang.Thread.run(Thread.java:1583)
-
-[16Dec2024 00:37:04.826] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /127.250.204.19:36805
-net.minecraft.ReportedException: Ticking player
-	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:510) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:264) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
-	at net.minecraft.network.Connection.m_129483_(Connection.java:248) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
-	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
-	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:880) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
-	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:292) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
-	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:806) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:654) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
-	at java.lang.Thread.run(Thread.java:1583) [?:?]
-Caused by: java.lang.IllegalArgumentException: Player literal{R3hsk} is missing a damage model!
-	at ichttt.mods.firstaid.common.util.CommonUtils.lambda$getDamageModel$1(CommonUtils.java:145) ~[firstaid-1.12.0.jar%23140!/:1.12.0]
-	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:281) ~[forge-1.19.2-43.4.2-universal.jar%23164!/:?]
-	at ichttt.mods.firstaid.common.util.CommonUtils.getDamageModel(CommonUtils.java:145) ~[firstaid-1.12.0.jar%23140!/:1.12.0]
-	at ichttt.mods.firstaid.common.damagesystem.distribution.HealthDistribution.distributeHealth(HealthDistribution.java:94) ~[firstaid-1.12.0.jar%23140!/:1.12.0]
-	at ichttt.mods.firstaid.common.EventHandler.onHeal(EventHandler.java:248) ~[firstaid-1.12.0.jar%23140!/:1.12.0]
-	at ichttt.mods.firstaid.common.__EventHandler_onHeal_LivingHealEvent.invoke(.dynamic) ~[firstaid-1.12.0.jar%23140!/:1.12.0]
-	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.3.jar%2351!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.3.jar%2351!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.3.jar%2351!/:?]
-	at net.minecraftforge.event.ForgeEventFactory.onLivingHeal(ForgeEventFactory.java:471) ~[forge-1.19.2-43.4.2-universal.jar%23164!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_5634_(LivingEntity.java:1003) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
-	at net.minecraft.world.effect.MobEffect.m_6742_(MobEffect.java:57) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
-	at net.minecraft.world.effect.MobEffectInstance.m_19550_(MobEffectInstance.java:187) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
-	at net.minecraft.world.effect.MobEffectInstance.m_19552_(MobEffectInstance.java:160) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:745) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:418) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
-	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:417) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2252) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
-	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:243) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
-	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:447) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
-	... 9 more
-[16Dec2024 00:37:04.843] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: R3hsk lost connection: Internal server error
-[16Dec2024 00:37:04.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk left the game
-[16Dec2024 00:37:15.115] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@32f7a526
-[16Dec2024 00:37:15.120] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: R3hsk[/127.250.204.19:52697] logged in with entity id 47567 at (29.257104604469212, 69.0, 57.236377548947274)
-[16Dec2024 00:37:15.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk joined the game
-[16Dec2024 00:37:19.857] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['The_Harbinger69'/47427, l='ServerLevel[world]', x=-58.77, y=13.00, z=74.51] died: The_Harbinger69 was slain by Assimilated Pillager
-[16Dec2024 00:37:26.564] [Server thread/WARN] [cgm/]: literal{R3hsk}(7692f88a-9b06-33c7-b0b5-53a75a64065d) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
-[16Dec2024 00:37:26.564] [Server thread/WARN] [cgm/]: literal{R3hsk}(7692f88a-9b06-33c7-b0b5-53a75a64065d) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 98
-[16Dec2024 00:37:56.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was shot by a skull from Wither
-[16Dec2024 00:38:07.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk withered away whilst fighting Wither
-[16Dec2024 00:38:19.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Assimilated Human
-[16Dec2024 00:38:21.111] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Player literal{R3hsk} is missing a damage model!
-	Index: 1
-	Listeners:
-		0: LOW
-		1: ASM: class ichttt.mods.firstaid.common.EventHandler onHeal(Lnet/minecraftforge/event/entity/living/LivingHealEvent;)V
-java.lang.IllegalArgumentException: Player literal{R3hsk} is missing a damage model!
-	at TRANSFORMER/firstaid@1.12.0/ichttt.mods.firstaid.common.util.CommonUtils.lambda$getDamageModel$1(CommonUtils.java:145)
-	at TRANSFORMER/forge@43.4.2/net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:281)
-	at TRANSFORMER/firstaid@1.12.0/ichttt.mods.firstaid.common.util.CommonUtils.getDamageModel(CommonUtils.java:145)
-	at TRANSFORMER/firstaid@1.12.0/ichttt.mods.firstaid.common.damagesystem.distribution.HealthDistribution.distributeHealth(HealthDistribution.java:94)
-	at TRANSFORMER/firstaid@1.12.0/ichttt.mods.firstaid.common.EventHandler.onHeal(EventHandler.java:248)
-	at TRANSFORMER/firstaid@1.12.0/ichttt.mods.firstaid.common.__EventHandler_onHeal_LivingHealEvent.invoke(.dynamic)
-	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
-	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
-	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
-	at TRANSFORMER/forge@43.4.2/net.minecraftforge.event.ForgeEventFactory.onLivingHeal(ForgeEventFactory.java:471)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.LivingEntity.m_5634_(LivingEntity.java:1003)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.effect.MobEffect.m_6742_(MobEffect.java:57)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.effect.MobEffectInstance.m_19550_(MobEffectInstance.java:187)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.effect.MobEffectInstance.m_19552_(MobEffectInstance.java:160)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:745)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:418)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.Entity.m_8119_(Entity.java:417)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2252)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.player.Player.m_8119_(Player.java:243)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:447)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:264)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.network.Connection.m_129483_(Connection.java:248)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:880)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:292)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:806)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:654)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244)
-	at java.base/java.lang.Thread.run(Thread.java:1583)
-
-[16Dec2024 00:38:21.138] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /127.250.204.19:52697
-net.minecraft.ReportedException: Ticking player
-	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:510) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:264) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
-	at net.minecraft.network.Connection.m_129483_(Connection.java:248) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
-	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
-	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:880) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
-	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:292) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
-	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:806) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:654) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
-	at java.lang.Thread.run(Thread.java:1583) [?:?]
-Caused by: java.lang.IllegalArgumentException: Player literal{R3hsk} is missing a damage model!
-	at ichttt.mods.firstaid.common.util.CommonUtils.lambda$getDamageModel$1(CommonUtils.java:145) ~[firstaid-1.12.0.jar%23140!/:1.12.0]
-	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:281) ~[forge-1.19.2-43.4.2-universal.jar%23164!/:?]
-	at ichttt.mods.firstaid.common.util.CommonUtils.getDamageModel(CommonUtils.java:145) ~[firstaid-1.12.0.jar%23140!/:1.12.0]
-	at ichttt.mods.firstaid.common.damagesystem.distribution.HealthDistribution.distributeHealth(HealthDistribution.java:94) ~[firstaid-1.12.0.jar%23140!/:1.12.0]
-	at ichttt.mods.firstaid.common.EventHandler.onHeal(EventHandler.java:248) ~[firstaid-1.12.0.jar%23140!/:1.12.0]
-	at ichttt.mods.firstaid.common.__EventHandler_onHeal_LivingHealEvent.invoke(.dynamic) ~[firstaid-1.12.0.jar%23140!/:1.12.0]
-	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.3.jar%2351!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.3.jar%2351!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.3.jar%2351!/:?]
-	at net.minecraftforge.event.ForgeEventFactory.onLivingHeal(ForgeEventFactory.java:471) ~[forge-1.19.2-43.4.2-universal.jar%23164!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_5634_(LivingEntity.java:1003) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
-	at net.minecraft.world.effect.MobEffect.m_6742_(MobEffect.java:57) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
-	at net.minecraft.world.effect.MobEffectInstance.m_19550_(MobEffectInstance.java:187) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
-	at net.minecraft.world.effect.MobEffectInstance.m_19552_(MobEffectInstance.java:160) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:745) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:418) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
-	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:417) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2252) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
-	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:243) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
-	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:447) ~[server-1.19.2-20220805.130853-srg.jar%23159!/:?]
-	... 9 more
-[16Dec2024 00:38:21.160] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: R3hsk lost connection: Internal server error
-[16Dec2024 00:38:21.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk left the game
-[16Dec2024 00:38:26.916] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@71fd8f9
-[16Dec2024 00:38:26.921] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: R3hsk[/127.250.204.19:58553] logged in with entity id 48683 at (36.806414395938894, 63.0, 57.8334185803875)
-[16Dec2024 00:38:26.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk joined the game
-[16Dec2024 00:38:45.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was shot by a skull from Wither
-[16Dec2024 00:38:59.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was shot by a skull from Wither
-[16Dec2024 00:39:18.072] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 93
-[16Dec2024 00:39:19.116] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 55
-[16Dec2024 00:39:19.713] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 57
-[16Dec2024 00:39:20.311] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 56
-[16Dec2024 00:39:21.912] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 57
-[16Dec2024 00:39:22.312] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
-[16Dec2024 00:39:22.513] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 64
-[16Dec2024 00:39:22.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Assimilated Human
-[16Dec2024 00:39:22.717] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
-[16Dec2024 00:39:22.920] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 92
-[16Dec2024 00:39:26.118] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 98
-[16Dec2024 00:39:31.270] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 92
-[16Dec2024 00:39:37.863] [Server thread/WARN] [cgm/]: literal{R3hsk}(7692f88a-9b06-33c7-b0b5-53a75a64065d) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
-[16Dec2024 00:39:37.864] [Server thread/WARN] [cgm/]: literal{R3hsk}(7692f88a-9b06-33c7-b0b5-53a75a64065d) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
-[16Dec2024 00:39:38.215] [Server thread/WARN] [cgm/]: literal{R3hsk}(7692f88a-9b06-33c7-b0b5-53a75a64065d) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
-[16Dec2024 00:39:38.216] [Server thread/WARN] [cgm/]: literal{R3hsk}(7692f88a-9b06-33c7-b0b5-53a75a64065d) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
-[16Dec2024 00:39:38.217] [Server thread/WARN] [cgm/]: literal{R3hsk}(7692f88a-9b06-33c7-b0b5-53a75a64065d) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
-[16Dec2024 00:39:38.416] [Server thread/WARN] [cgm/]: literal{R3hsk}(7692f88a-9b06-33c7-b0b5-53a75a64065d) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
-[16Dec2024 00:39:38.724] [Server thread/WARN] [cgm/]: literal{R3hsk}(7692f88a-9b06-33c7-b0b5-53a75a64065d) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
-[16Dec2024 00:39:39.064] [Server thread/WARN] [cgm/]: literal{R3hsk}(7692f88a-9b06-33c7-b0b5-53a75a64065d) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
-[16Dec2024 00:39:59.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has completed the challenge [The Revenge of Humanity]
-[16Dec2024 00:40:55.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Skeleton King
-[16Dec2024 00:41:04.014] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 52
-[16Dec2024 00:41:04.418] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 96
-[16Dec2024 00:41:07.562] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 58
-[16Dec2024 00:41:33.760] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 51
-[16Dec2024 00:41:34.511] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 51
-[16Dec2024 00:41:35.567] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 52
-[16Dec2024 00:41:36.210] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 51
-[16Dec2024 00:41:36.610] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 52
-[16Dec2024 00:41:37.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Skeleton King
-[16Dec2024 00:41:38.713] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 55
-[16Dec2024 00:41:39.617] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 52
-[16Dec2024 00:41:42.909] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 52
-[16Dec2024 00:41:43.210] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 51
-[16Dec2024 00:41:44.112] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 52
-[16Dec2024 00:41:44.412] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 54
-[16Dec2024 00:41:45.162] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 52
-[16Dec2024 00:41:46.067] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 54
-[16Dec2024 00:41:46.961] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 51
-[16Dec2024 00:41:47.712] [Server thread/WARN] [jeg/]: literal{percentyack}(580ec885-9d4b-3219-941b-44aee1c47317) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 52
-[16Dec2024 00:42:12.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has completed the challenge [Back to the Underworld]
-[16Dec2024 00:42:12.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has completed the challenge [Back to the Underworld]
-[16Dec2024 00:42:22.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Wither Skeleton
-[16Dec2024 00:43:52.663] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity InfectedPlayer['JhonOK22'/51983, l='ServerLevel[world]', x=133.22, y=63.00, z=73.47] died: JhonOK22 was slain by Light Hook
-[16Dec2024 00:44:45.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Cover Me with Diamonds]
-[16Dec2024 00:45:06.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Full Moon Essence]
-[16Dec2024 00:45:47.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [No King Rules Forever]
-[16Dec2024 00:46:08.207] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: percentyack lost connection: Disconnected
-[16Dec2024 00:46:08.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack left the game
-[16Dec2024 00:46:30.309] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: R3hsk lost connection: Disconnected
-[16Dec2024 00:46:30.309] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk left the game
+[17Dec2024 22:45:40.241] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[17Dec2024 22:45:40.244] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[17Dec2024 22:45:40.938] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[17Dec2024 22:45:40.939] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/pobre/servidor_minecraft/mods/OptiFine_1.19.2_HD_U_I2.jar%23133!/
+[17Dec2024 22:45:40.944] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/pobre/servidor_minecraft/mods/OptiFine_1.19.2_HD_U_I2.jar
+[17Dec2024 22:45:40.946] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[17Dec2024 22:45:40.995] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/pobre/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[17Dec2024 22:45:41.004] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[17Dec2024 22:45:41.336] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/pobre/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
+[17Dec2024 22:45:41.339] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/pobre/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[17Dec2024 22:45:41.340] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/pobre/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[17Dec2024 22:45:41.342] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/pobre/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[17Dec2024 22:45:41.501] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 7 dependencies adding them to mods collection
+[17Dec2024 22:45:42.025] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[17Dec2024 22:45:42.035] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 384
+[17Dec2024 22:45:42.484] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[17Dec2024 22:45:43.133] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[17Dec2024 22:45:43.193] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[17Dec2024 22:45:43.890] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[17Dec2024 22:45:48.786] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[17Dec2024 22:45:51.352] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[17Dec2024 22:45:51.357] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[17Dec2024 22:45:51.556] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[17Dec2024 22:45:51.557] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 9
+[17Dec2024 22:45:51.562] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 9 has been initalized!
+[17Dec2024 22:45:51.604] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[17Dec2024 22:45:51.608] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[17Dec2024 22:45:51.612] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[17Dec2024 22:45:51.613] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[17Dec2024 22:45:51.617] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[17Dec2024 22:45:51.617] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[17Dec2024 22:45:51.618] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[17Dec2024 22:45:51.686] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[17Dec2024 22:45:51.809] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
+[17Dec2024 22:45:51.821] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
+[17Dec2024 22:45:52.164] [main/INFO] [net.minecraft.server.packs.resources.ReloadableResourceManager/]: Reloading ResourceManager: advancednetherite-1.14.7-1.19.2.jar, YungsBetterDungeons-1.19.2-Forge-3.2.2.jar, BiomesOPlenty-1.19.2-17.1.2.544.jar, Bookshelf-Forge-1.19.2-16.3.20.jar, brutalbosses-1.19.2-6.8.jar, caelus-forge-1.19.2-3.0.0.6.jar, citadel-2.1.4-1.19.jar, cloth-config-8.3.134-forge.jar, cupboard-1.19.2-2.6.jar, curios-forge-1.19.2-5.1.6.4.jar, dreadsteel-1.19.2-1.1.6.jar, DungeonsArise-1.19.2-2.1.56-beta.jar, elytraslot-forge-6.1.2+1.19.2.jar, EnchantmentDescriptions-Forge-1.19.2-13.0.14.jar, firstaid-1.12.0.jar, forge-1.19.2-43.4.2-universal.jar, framework-forge-1.19.2-0.7.12.jar, geckolib-forge-1.19-3.1.40 (1).jar, Gobber2-Forge-1.19.2-2.7.32.jar, goblintraders-1.8.0-1.19.2.jar, iceandfire-1.19.2-2.1.13-beta-3.jar, inventorio-1.19-forge-1.9.1.jar, jei-1.19.2-forge-11.8.1.1034.jar, JsonThings-1.19.2-0.7.15.jar, kffmod-3.12.0.jar, Mantle-1.19.2-1.10.36.jar, mixinextras-forge-0.3.5.jar, mixinsquared-forge-0.1.2-beta.6.jar, mowziesmobs-1.6.3.jar, shadowizardlib-1.19.2-1.0.8.jar, spartanshields-1.19.2-3.0.1.jar, SpartanWeaponry-1.19.2-3.0.7-all.jar, TConstruct-1.19.2-3.8.4.50.jar, TerraBlender-forge-1.19.2-2.0.1.166.jar, Tinker-Things-1.19.2-1.2.1.jar, travelersbackpack-forge-1.19.2-8.2.41.jar, YungsApi-1.19.2-Forge-3.8.10.jar
+[17Dec2024 22:45:54.979] [main/INFO] [dev.gigaherz.jsonthings.things.parsers.BlockParser/]: Started registering Block things, errors about unexpected registry domains are harmless...
+[17Dec2024 22:45:54.985] [main/INFO] [dev.gigaherz.jsonthings.things.parsers.BlockParser/]: Done processing thingpack Blocks.
+[17Dec2024 22:45:55.052] [main/INFO] [dev.gigaherz.jsonthings.things.parsers.FluidParser/]: Started registering Fluid things, errors about unexpected registry domains are harmless...
+[17Dec2024 22:45:55.056] [main/INFO] [dev.gigaherz.jsonthings.things.parsers.FluidParser/]: Done processing thingpack Fluids.
+[17Dec2024 22:45:55.388] [main/INFO] [dev.gigaherz.jsonthings.things.parsers.ItemParser/]: Started registering Item things, errors about unexpected registry domains are harmless...
+[17Dec2024 22:45:55.395] [main/INFO] [dev.gigaherz.jsonthings.things.parsers.ItemParser/]: Done processing thingpack Items.
+[17Dec2024 22:45:55.414] [main/INFO] [dev.gigaherz.jsonthings.things.parsers.EnchantmentParser/]: Started registering Enchantment things, errors about unexpected registry domains are harmless...
+[17Dec2024 22:45:55.415] [main/INFO] [dev.gigaherz.jsonthings.things.parsers.EnchantmentParser/]: Done processing thingpack Enchantments.
+[17Dec2024 22:45:55.840] [main/INFO] [dev.gigaherz.jsonthings.things.parsers.FluidTypeParser/]: Started registering FluidType things, errors about unexpected registry domains are harmless...
+[17Dec2024 22:45:55.843] [main/INFO] [dev.gigaherz.jsonthings.things.parsers.FluidTypeParser/]: Done processing thingpack FluidTypes.
+[17Dec2024 22:45:55.958] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[17Dec2024 22:45:55.960] [Thread-0/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[17Dec2024 22:45:55.962] [Thread-0/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[17Dec2024 22:45:56.025] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[17Dec2024 22:45:56.046] [modloading-worker-0/INFO] [com.brutalbosses.BrutalBosses/]: brutalbosses mod initialized
+[17Dec2024 22:45:56.089] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[17Dec2024 22:45:56.095] [modloading-worker-0/INFO] [firstaid/]: firstaid starting...
+[17Dec2024 22:45:56.307] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.19.2
+[17Dec2024 22:45:56.587] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[17Dec2024 22:45:56.587] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[17Dec2024 22:45:56.587] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[17Dec2024 22:45:56.588] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[17Dec2024 22:45:56.588] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[17Dec2024 22:45:56.588] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[17Dec2024 22:45:56.588] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[17Dec2024 22:45:56.682] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[17Dec2024 22:45:56.682] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[17Dec2024 22:45:56.687] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[17Dec2024 22:45:56.688] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[17Dec2024 22:45:56.821] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA_OUTDATED Current: 13.0.14 Target: 13.0.20
+[17Dec2024 22:45:56.821] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[17Dec2024 22:45:57.332] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.8.0 Target: 1.8.0
+[17Dec2024 22:45:57.333] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
+[17Dec2024 22:45:57.377] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 1.14.7 Target: 1.14.7
+[17Dec2024 22:45:57.378] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[17Dec2024 22:45:57.426] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 8.2.41 Target: null
+[17Dec2024 22:45:57.427] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.19.2
+[17Dec2024 22:45:57.530] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 16.3.20 Target: 16.3.20
+[17Dec2024 22:45:57.530] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[17Dec2024 22:45:57.874] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[17Dec2024 22:45:57.874] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[17Dec2024 22:45:57.975] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.4.6
+[17Dec2024 22:45:58.894] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17Dec2024 22:46:00.354] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/pobre/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23169!/assets/.mcassetsroot' uses unexpected schema
+[17Dec2024 22:46:00.354] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/pobre/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23169!/data/.mcassetsroot' uses unexpected schema
+[17Dec2024 22:46:00.355] [main/ERROR] [net.minecraft.server.packs.VanillaPackResources/]: File /things/.mcassetsroot does not exist in classpath
+[17Dec2024 22:46:02.516] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
+[17Dec2024 22:46:03.333] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 21 recipes
+[17Dec2024 22:46:03.573] [main/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[17Dec2024 22:46:03.587] [main/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[17Dec2024 22:46:03.673] [main/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[17Dec2024 22:46:03.873] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/spartanshields/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
+[17Dec2024 22:46:03.892] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/spartanshields/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
+[17Dec2024 22:46:03.961] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2691 advancements
+[17Dec2024 22:46:03.998] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 131 dynamic modifiers and 0 modifier redirects in 33.78531 ms
+[17Dec2024 22:46:04.004] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 38 modifier tags for 145 modifiers in 6.621524 ms
+[17Dec2024 22:46:04.005] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 50 enchantment to modifier mappings in 0.759027 ms
+[17Dec2024 22:46:04.007] [main/INFO] [slimeknights.mantle.fluid.transfer.FluidContainerTransferManager/]: Loaded 24 dynamic modifiers in 1.726203 ms
+[17Dec2024 22:46:04.033] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:drowned
+[17Dec2024 22:46:04.034] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:iron_golem
+[17Dec2024 22:46:04.034] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:snow_golem
+[17Dec2024 22:46:04.034] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
+[17Dec2024 22:46:04.034] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:skeleton
+[17Dec2024 22:46:04.034] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:pillager
+[17Dec2024 22:46:04.034] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vex
+[17Dec2024 22:46:04.035] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:evoker
+[17Dec2024 22:46:04.035] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
+[17Dec2024 22:46:04.035] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vindicator
+[17Dec2024 22:46:04.035] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wither_skeleton
+[17Dec2024 22:46:04.036] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wither_skeleton
+[17Dec2024 22:46:04.036] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:cave_spider
+[17Dec2024 22:46:04.036] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
+[17Dec2024 22:46:04.036] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:husk
+[17Dec2024 22:46:04.036] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:evoker
+[17Dec2024 22:46:04.036] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wandering_trader
+[17Dec2024 22:46:04.036] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:guardian
+[17Dec2024 22:46:04.036] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vindicator
+[17Dec2024 22:46:04.037] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:shulker
+[17Dec2024 22:46:04.037] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zoglin
+[17Dec2024 22:46:04.037] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:chicken
+[17Dec2024 22:46:04.037] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:blaze
+[17Dec2024 22:46:04.037] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:witch
+[17Dec2024 22:46:04.037] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:phantom
+[17Dec2024 22:46:04.037] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:mooshroom
+[17Dec2024 22:46:04.037] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:rabbit
+[17Dec2024 22:46:04.037] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:piglin_brute
+[17Dec2024 22:46:04.038] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:ghast
+[17Dec2024 22:46:04.038] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:stray
+[17Dec2024 22:46:04.040] [main/WARN] [Mantle/]: Using deprecated key 'name' for fluid ingredient, use 'fluid' instead. This will be removed in the future
+[17Dec2024 22:46:04.040] [main/INFO] [tconstruct/]: Loaded 50 spilling fluids in 1.934682 ms
+[17Dec2024 22:46:04.054] [main/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 50 materials in 6.529963 ms
+[17Dec2024 22:46:04.056] [main/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 1 material tags for 19 materials in 1.111756 ms
+[17Dec2024 22:46:04.064] [main/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 359 stats loaded for 62 materials in 8.04379 ms
+[17Dec2024 22:46:04.074] [main/INFO] [slimeknights.tconstruct.library.materials.traits.MaterialTraitsManager/]: 195 traits loaded for 62 materials in 9.923139 ms
+[17Dec2024 22:46:04.084] [main/INFO] [slimeknights.tconstruct.library.tools.definition.ToolDefinitionLoader/]: Loaded 48 tool definitions in 9.958806 ms
+[17Dec2024 22:46:04.089] [main/INFO] [slimeknights.tconstruct.library.tools.layout.StationSlotLayoutLoader/]: Loaded 24 station slot layouts in 5.062844 ms
+[17Dec2024 22:46:05.252] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 4.042819ms
+[17Dec2024 22:46:05.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
+[17Dec2024 22:46:05.327] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[17Dec2024 22:46:05.327] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[17Dec2024 22:46:05.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[17Dec2024 22:46:05.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[17Dec2024 22:46:05.494] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[17Dec2024 22:46:05.581] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[17Dec2024 22:46:05.582] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[17Dec2024 22:46:05.582] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[17Dec2024 22:46:05.582] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[17Dec2024 22:46:05.716] [Server thread/INFO] [Framework/]: Loading server configs...
+[17Dec2024 22:46:05.743] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[17Dec2024 22:46:05.993] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[17Dec2024 22:46:05.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[17Dec2024 22:46:06.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[17Dec2024 22:46:07.472] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[17Dec2024 22:46:09.191] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[17Dec2024 22:46:10.878] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[17Dec2024 22:46:12.553] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[17Dec2024 22:46:13.425] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Dec2024 22:46:13.427] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Dec2024 22:46:13.428] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Dec2024 22:46:13.429] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Dec2024 22:46:13.430] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Dec2024 22:46:13.431] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Dec2024 22:46:13.432] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Dec2024 22:46:13.433] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Dec2024 22:46:13.434] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Dec2024 22:46:13.435] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Dec2024 22:46:13.436] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Dec2024 22:46:13.437] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Dec2024 22:46:13.438] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Dec2024 22:46:13.439] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Dec2024 22:46:13.440] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Dec2024 22:46:13.754] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[17Dec2024 22:46:14.251] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 26%
+[17Dec2024 22:46:14.636] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): literal{Server is still starting! Please wait before reconnecting.}
+[17Dec2024 22:46:14.757] [Worker-Main-2/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 88%
+[17Dec2024 22:46:14.836] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: brutalbosses.json
+[17Dec2024 22:46:14.900] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 8650 ms
+[17Dec2024 22:46:14.901] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (9.310s)! For help, type "help"
+[17Dec2024 22:46:14.942] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[17Dec2024 22:46:14.947] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[17Dec2024 22:46:14.947] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[17Dec2024 22:46:19.538] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3e2ab1de[id=<null>,name=percentyack,properties={},legacy=false] (/127.113.173.157:44803) lost connection: Disconnected
+[17Dec2024 22:51:41.511] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@73a673e7
+[17Dec2024 22:51:41.533] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: percentyack[/127.113.173.157:51517] logged in with entity id 221 at (40.5, 70.0, 123.5)
+[17Dec2024 22:51:41.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack joined the game
+[17Dec2024 22:51:41.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Ice and Fire]
+[17Dec2024 22:52:45.645] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=41, y=74, z=119}
+[17Dec2024 22:52:48.693] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=44, y=74, z=119}
+[17Dec2024 22:55:31.365] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=27, y=75, z=154} BlockPos{x=28, y=71, z=127}
+[17Dec2024 22:55:31.560] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=27, y=75, z=154} BlockPos{x=28, y=71, z=127}
+[17Dec2024 22:55:31.749] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=27, y=75, z=154} BlockPos{x=28, y=71, z=127}
+[17Dec2024 22:55:32.072] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=27, y=75, z=154} BlockPos{x=28, y=71, z=127}
+[17Dec2024 22:55:32.331] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=27, y=75, z=154} BlockPos{x=28, y=71, z=127}
+[17Dec2024 22:55:33.941] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=27, y=75, z=154} BlockPos{x=29, y=72, z=128}
+[17Dec2024 22:55:33.974] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=27, y=75, z=154} BlockPos{x=29, y=72, z=128}
+[17Dec2024 22:55:34.045] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=27, y=75, z=154} BlockPos{x=28, y=71, z=127}
+[17Dec2024 22:55:34.129] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=27, y=75, z=154} BlockPos{x=28, y=71, z=126}
+[17Dec2024 22:55:34.271] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=27, y=75, z=154} BlockPos{x=27, y=70, z=126}
+[17Dec2024 22:55:34.531] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=27, y=75, z=154} BlockPos{x=27, y=70, z=125}
