@@ -193,3 +193,16 @@
 [17Dec2024 22:55:34.129] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=27, y=75, z=154} BlockPos{x=28, y=71, z=126}
 [17Dec2024 22:55:34.271] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=27, y=75, z=154} BlockPos{x=27, y=70, z=126}
 [17Dec2024 22:55:34.531] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=27, y=75, z=154} BlockPos{x=27, y=70, z=125}
+[17Dec2024 22:55:39.773] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=27, y=75, z=154} BlockPos{x=28, y=71, z=125}
+[17Dec2024 22:55:39.877] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=27, y=75, z=154} BlockPos{x=27, y=70, z=125}
+[17Dec2024 22:55:40.661] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=27, y=75, z=154} BlockPos{x=27, y=70, z=125}
+[17Dec2024 22:55:41.974] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=27, y=75, z=154} BlockPos{x=27, y=69, z=126}
+[17Dec2024 22:55:42.079] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=27, y=75, z=154} BlockPos{x=27, y=70, z=126}
+[17Dec2024 22:59:19.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was slain by Spider
+[17Dec2024 22:59:50.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has reached the goal [Earthslime Island]
+[17Dec2024 23:02:12.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Stone Age]
+[17Dec2024 23:02:21.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Getting an Upgrade]
+[17Dec2024 23:05:24.238] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=82, y=70, z=111} BlockPos{x=33, y=71, z=120}
+[17Dec2024 23:05:24.673] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=82, y=70, z=111} BlockPos{x=31, y=71, z=122}
+[17Dec2024 23:05:24.722] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=82, y=70, z=111} BlockPos{x=30, y=71, z=122}
+[17Dec2024 23:05:24.774] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=82, y=70, z=111} BlockPos{x=30, y=71, z=123}

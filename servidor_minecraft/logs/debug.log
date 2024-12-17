@@ -3759,3 +3759,35 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [17Dec2024 22:55:34.129] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=27, y=75, z=154} BlockPos{x=28, y=71, z=126}
 [17Dec2024 22:55:34.271] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=27, y=75, z=154} BlockPos{x=27, y=70, z=126}
 [17Dec2024 22:55:34.531] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=27, y=75, z=154} BlockPos{x=27, y=70, z=125}
+[17Dec2024 22:55:39.773] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=27, y=75, z=154} BlockPos{x=28, y=71, z=125}
+[17Dec2024 22:55:39.877] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=27, y=75, z=154} BlockPos{x=27, y=70, z=125}
+[17Dec2024 22:55:40.661] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=27, y=75, z=154} BlockPos{x=27, y=70, z=125}
+[17Dec2024 22:55:41.974] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=27, y=75, z=154} BlockPos{x=27, y=69, z=126}
+[17Dec2024 22:55:42.079] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=27, y=75, z=154} BlockPos{x=27, y=70, z=126}
+[17Dec2024 22:56:14.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 22:56:14.954] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 22:58:27.439] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 22:58:27.439] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Dec2024 22:58:47.946] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 22:58:47.946] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Dec2024 22:58:48.133] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 22:58:48.134] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Dec2024 22:58:48.282] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 22:58:48.282] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Dec2024 22:58:57.715] [Worker-Main-15/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=273, y=-43, z=-135} at Chest with:minecraft:chests/simple_dungeon
+[17Dec2024 22:59:15.075] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 22:59:15.075] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Dec2024 22:59:19.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was slain by Spider
+[17Dec2024 22:59:50.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has reached the goal [Earthslime Island]
+[17Dec2024 23:01:14.945] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17Dec2024 23:01:14.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17Dec2024 23:02:12.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Stone Age]
+[17Dec2024 23:02:21.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Getting an Upgrade]
+[17Dec2024 23:05:24.238] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=82, y=70, z=111} BlockPos{x=33, y=71, z=120}
+[17Dec2024 23:05:24.673] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=82, y=70, z=111} BlockPos{x=31, y=71, z=122}
+[17Dec2024 23:05:24.722] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=82, y=70, z=111} BlockPos{x=30, y=71, z=122}
+[17Dec2024 23:05:24.774] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=82, y=70, z=111} BlockPos{x=30, y=71, z=123}
+[17Dec2024 23:05:42.339] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 23:05:42.339] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[17Dec2024 23:05:46.106] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[17Dec2024 23:05:46.106] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
