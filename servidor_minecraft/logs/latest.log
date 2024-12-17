@@ -206,3 +206,20 @@
 [17Dec2024 23:05:24.673] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=82, y=70, z=111} BlockPos{x=31, y=71, z=122}
 [17Dec2024 23:05:24.722] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=82, y=70, z=111} BlockPos{x=30, y=71, z=122}
 [17Dec2024 23:05:24.774] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=82, y=70, z=111} BlockPos{x=30, y=71, z=123}
+[17Dec2024 23:07:15.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack fell from a high place
+[17Dec2024 23:07:19.072] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=42, y=71, z=120}
+[17Dec2024 23:07:20.534] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@58157950
+[17Dec2024 23:07:20.547] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: R3hsk[/127.250.204.19:43177] logged in with entity id 4130 at (39.36277181427271, 70.0, 128.20446752215506)
+[17Dec2024 23:07:20.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk joined the game
+[17Dec2024 23:07:22.323] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=38, y=70, z=111} BlockPos{x=36, y=70, z=112}
+[17Dec2024 23:07:34.629] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=38, y=70, z=111} BlockPos{x=21, y=68, z=136}
+[17Dec2024 23:08:02.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[17Dec2024 23:08:05.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Made R3hsk no longer a server operator]
+[17Dec2024 23:08:15.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made R3hsk a server operator
+[17Dec2024 23:08:24.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Gamerule keepInventory is now set to: true]
+[17Dec2024 23:08:30.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made R3hsk no longer a server operator
+[17Dec2024 23:11:04.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Monster Hunter]
+[17Dec2024 23:12:25.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Monster Hunter]
+[17Dec2024 23:13:21.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Not Today, Thank You]
+[17Dec2024 23:15:27.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Zombie
+[17Dec2024 23:15:28.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was slain by Zombie

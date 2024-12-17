@@ -1,25 +1,61 @@
 {
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-12-17 05:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2024-12-17 23:09:52 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/handle_from_wool": {
+    "criteria": {
+      "has_stick": "2024-12-17 23:09:52 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/simple_handle": {
+    "criteria": {
+      "has_stick": "2024-12-17 23:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:09:48 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_warhammer": {
+    "criteria": {
+      "has_wood": "2024-12-17 23:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-12-17 23:10:45 +0000"
+    },
+    "done": true
+  },
   "tconstruct:tools/materials_and_you": {
     "criteria": {
       "crafted_book": "2024-12-17 05:00:21 +0000"
     },
     "done": true
   },
-  "minecraft:unlock_deep_pockets_book": {
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_throwing_knife": {
     "criteria": {
-      "exists": "2024-12-17 05:00:21 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:wda_root": {
-    "criteria": {
-      "WDA": "2024-12-17 05:00:21 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:biomesoplenty/root": {
-    "criteria": {
-      "woodland": "2024-12-17 05:00:21 +0000"
+      "has_wood": "2024-12-17 23:09:48 +0000"
     },
     "done": true
   },
@@ -29,9 +65,9 @@
     },
     "done": true
   },
-  "betterdungeons:root": {
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_katana": {
     "criteria": {
-      "always": "2024-12-17 05:00:21 +0000"
+      "has_wood": "2024-12-17 23:09:48 +0000"
     },
     "done": true
   },
@@ -41,9 +77,147 @@
     },
     "done": false
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_quarterstaff": {
+    "criteria": {
+      "has_wood": "2024-12-17 23:09:48 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_spear": {
+    "criteria": {
+      "has_wood": "2024-12-17 23:09:48 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/wooden_tower_shield": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:stony_shore": "2024-12-17 05:03:13 +0000"
+    },
+    "done": false
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_longbow": {
+    "criteria": {
+      "has_wood": "2024-12-17 23:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:unlock_deep_pockets_book": {
+    "criteria": {
+      "exists": "2024-12-17 05:00:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_battleaxe": {
+    "criteria": {
+      "has_wood": "2024-12-17 23:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:09:48 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_scythe": {
+    "criteria": {
+      "has_wood": "2024-12-17 23:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2024-12-17 23:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-12-17 23:09:10 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_pike": {
+    "criteria": {
+      "has_wood": "2024-12-17 23:09:48 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_javelin": {
+    "criteria": {
+      "has_wood": "2024-12-17 23:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2024-12-17 23:09:52 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/spartanshields/wooden_basic_shield": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:09:48 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2024-12-17 05:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2024-12-17 23:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2024-12-17 23:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:09:48 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_parrying_dagger": {
+    "criteria": {
+      "has_wood": "2024-12-17 23:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:09:48 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/handle_from_leather": {
+    "criteria": {
+      "has_stick": "2024-12-17 23:09:52 +0000"
     },
     "done": true
   },
@@ -53,11 +227,203 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_club": {
     "criteria": {
-      "minecraft:stony_shore": "2024-12-17 05:03:13 +0000"
+      "has_wood_log": "2024-12-17 23:09:10 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_saber": {
+    "criteria": {
+      "has_wood": "2024-12-17 23:09:48 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_dagger": {
+    "criteria": {
+      "has_wood": "2024-12-17 23:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2024-12-17 23:09:52 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/tables/pattern": {
+    "criteria": {
+      "has_item": "2024-12-17 23:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-12-17 23:09:10 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/pole_from_leather": {
+    "criteria": {
+      "has_stick": "2024-12-17 23:09:52 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_longsword": {
+    "criteria": {
+      "has_wood": "2024-12-17 23:09:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/crafting_upgrade": {
+    "criteria": {
+      "has_crafting_table": "2024-12-17 23:09:52 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:wda_root": {
+    "criteria": {
+      "WDA": "2024-12-17 05:00:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_tomahawk": {
+    "criteria": {
+      "has_wood": "2024-12-17 23:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-12-17 23:09:52 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_heavy_crossbow": {
+    "criteria": {
+      "has_wood": "2024-12-17 23:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:09:48 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/pole_from_string": {
+    "criteria": {
+      "has_stick": "2024-12-17 23:09:52 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_glaive": {
+    "criteria": {
+      "has_wood": "2024-12-17 23:09:48 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "woodland": "2024-12-17 05:00:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_lance": {
+    "criteria": {
+      "has_wood": "2024-12-17 23:09:48 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_rapier": {
+    "criteria": {
+      "has_wood": "2024-12-17 23:09:48 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_battle_hammer": {
+    "criteria": {
+      "has_wood": "2024-12-17 23:09:48 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_greatsword": {
+    "criteria": {
+      "has_wood": "2024-12-17 23:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-17 23:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-17 23:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2024-12-17 23:09:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2024-12-17 23:09:52 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/pole_from_wool": {
+    "criteria": {
+      "has_stick": "2024-12-17 23:09:52 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_flanged_mace": {
+    "criteria": {
+      "has_wood": "2024-12-17 23:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2024-12-17 23:09:48 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_boomerang": {
+    "criteria": {
+      "has_wood": "2024-12-17 23:09:48 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_halberd": {
+    "criteria": {
+      "has_wood": "2024-12-17 23:09:48 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3120
 }
