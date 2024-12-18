@@ -490,3 +490,8 @@ Caused by: java.lang.IllegalArgumentException: Player literal{R3hsk} is missing 
 [18Dec2024 03:54:46.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
 [18Dec2024 03:54:56.073] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: R3hsk lost connection: Disconnected
 [18Dec2024 03:54:56.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk left the game
+[18Dec2024 04:06:43.372] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/82665, l='ServerLevel[world]', x=-4533.13, y=60.00, z=-5366.39] died, message: 'Nitwit was slain by Zombie'
+[18Dec2024 04:07:02.484] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@9523877
+[18Dec2024 04:07:02.490] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: R3hsk[/127.250.204.19:58513] logged in with entity id 105780 at (-4532.84788436551, 65.0, -5351.58272651975)
+[18Dec2024 04:07:02.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk joined the game
+[18Dec2024 04:07:42.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Mother of Dragons]
