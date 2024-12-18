@@ -181,3 +181,10 @@
 [18Dec2024 01:57:23.314] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7f90a60a
 [18Dec2024 01:57:23.324] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: R3hsk[/127.250.204.19:57453] logged in with entity id 50770 at (-56.60930277583925, -40.0, 217.37878718076152)
 [18Dec2024 01:57:23.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk joined the game
+[18Dec2024 01:58:10.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Applied effect Regeneration to 2 targets]
+[18Dec2024 01:58:21.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[18Dec2024 01:59:15.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[18Dec2024 02:01:55.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Spectator Mode]
+[18Dec2024 02:05:12.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: R3hsk moved too quickly! -9.538486916742727,0.0,-3.532343785341709
+[18Dec2024 02:05:46.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[18Dec2024 02:07:38.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was shot by Skeleton
