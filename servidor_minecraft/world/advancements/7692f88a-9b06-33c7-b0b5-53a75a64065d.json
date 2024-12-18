@@ -470,9 +470,11 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2024-12-17 05:00:21 +0000",
+      "shrubland": "2024-12-18 00:22:53 +0000",
       "scrubland": "2024-12-17 23:43:56 +0000",
       "old_growth_woodland": "2024-12-17 23:40:36 +0000",
-      "wooded_scrubland": "2024-12-17 23:47:42 +0000"
+      "wooded_scrubland": "2024-12-17 23:47:42 +0000",
+      "dune_beach": "2024-12-18 00:24:44 +0000"
     },
     "done": false
   },
@@ -1300,6 +1302,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2024-12-18 00:25:01 +0000",
       "minecraft:lukewarm_ocean": "2024-12-17 23:20:04 +0000",
       "minecraft:river": "2024-12-17 23:40:31 +0000",
       "minecraft:stony_shore": "2024-12-17 05:03:13 +0000",
@@ -1900,6 +1903,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-17 23:45:59 +0000",
+      "cooked_mutton": "2024-12-18 00:22:54 +0000",
       "apple": "2024-12-17 23:11:33 +0000"
     },
     "done": false

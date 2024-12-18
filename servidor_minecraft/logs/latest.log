@@ -3,3 +3,20 @@
 [18Dec2024 00:11:50.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Suit Up]
 [18Dec2024 00:11:57.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Acquire Hardware]
 [18Dec2024 00:12:03.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Isn't It Iron Pick]
+[18Dec2024 00:17:23.171] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: percentyack lost connection: Disconnected
+[18Dec2024 00:17:23.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack left the game
+[18Dec2024 00:19:35.884] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3b3ef654
+[18Dec2024 00:19:35.895] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: percentyack[/127.113.173.157:53979] logged in with entity id 19746 at (25.467562458534896, 67.0, 31.689430747079477)
+[18Dec2024 00:19:35.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack joined the game
+[18Dec2024 00:23:43.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported percentyack to R3hsk
+[18Dec2024 00:24:16.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack withered away whilst fighting Cockatrice
+[18Dec2024 00:24:33.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported percentyack to R3hsk
+[18Dec2024 00:25:07.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was turned to stone by Gorgon
+[18Dec2024 00:25:24.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported R3hsk to percentyack
+[18Dec2024 00:25:48.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was turned into gorgonzola by Gorgon
+[18Dec2024 00:25:57.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made R3hsk a server operator
+[18Dec2024 00:26:01.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported R3hsk to percentyack]
+[18Dec2024 00:26:05.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Take Aim, Chaps!]
+[18Dec2024 00:26:09.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was turned to stone by Gorgon
+[18Dec2024 00:26:17.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported R3hsk to percentyack]
+[18Dec2024 00:26:21.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was turned to stone by Gorgon
