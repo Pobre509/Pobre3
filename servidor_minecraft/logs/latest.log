@@ -532,3 +532,7 @@ Caused by: java.lang.IllegalArgumentException: Player literal{R3hsk} is missing 
 [18Dec2024 04:27:24.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
 [18Dec2024 04:27:36.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
 [18Dec2024 04:28:01.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[18Dec2024 04:30:28.329] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: R3hsk lost connection: Disconnected
+[18Dec2024 04:30:28.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk left the game
+[18Dec2024 04:31:24.324] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: percentyack lost connection: Disconnected
+[18Dec2024 04:31:24.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack left the game
