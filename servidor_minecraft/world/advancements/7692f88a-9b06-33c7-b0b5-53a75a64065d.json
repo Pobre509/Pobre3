@@ -1209,6 +1209,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-18 01:04:24 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/fir_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-17 23:19:34 +0000"
@@ -1440,6 +1446,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2024-12-17 23:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-18 01:04:28 +0000"
     },
     "done": true
   },

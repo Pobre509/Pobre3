@@ -49,3 +49,6 @@
 [18Dec2024 00:44:08.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
 [18Dec2024 00:44:24.488] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Fisk of the Sand'/24173, l='ServerLevel[world]', x=644.51, y=65.00, z=-8.49] died: Fisk of the Sand was slain by R3hsk
 [18Dec2024 00:44:49.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
+[18Dec2024 01:04:12.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported R3hsk to percentyack]
+[18Dec2024 01:04:24.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Isn't It Iron Pick]
+[18Dec2024 01:04:38.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack tried to swim in lava
