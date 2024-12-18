@@ -704,6 +704,7 @@
       "minecraft:vindicator": "2024-12-17 23:23:17 +0000",
       "minecraft:spider": "2024-12-17 23:49:09 +0000",
       "minecraft:creeper": "2024-12-17 23:18:53 +0000",
+      "minecraft:witch": "2024-12-18 01:25:26 +0000",
       "minecraft:husk": "2024-12-18 00:44:24 +0000",
       "minecraft:enderman": "2024-12-18 00:28:07 +0000",
       "minecraft:zombie": "2024-12-17 23:12:25 +0000"
@@ -1158,6 +1159,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/silver_scythe": {
     "criteria": {
       "has_silver_ingot": "2024-12-18 00:13:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-18 01:25:27 +0000"
     },
     "done": true
   },
@@ -1858,6 +1865,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/spectral_bolt": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-18 01:25:27 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/silver_longbow": {
     "criteria": {
       "has_silver_ingot": "2024-12-18 00:13:16 +0000"
@@ -2037,6 +2050,7 @@
       "cooked_porkchop": "2024-12-17 23:45:59 +0000",
       "cooked_mutton": "2024-12-18 00:22:54 +0000",
       "apple": "2024-12-17 23:11:33 +0000",
+      "golden_apple": "2024-12-18 01:19:29 +0000",
       "cooked_chicken": "2024-12-18 00:50:29 +0000"
     },
     "done": false
@@ -2140,6 +2154,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-18 00:47:35 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2024-12-18 01:20:35 +0000"
     },
     "done": true
   },
@@ -2479,6 +2499,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-12-18 01:25:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-12-17 23:32:05 +0000"
@@ -2710,6 +2736,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/stone_lance": {
     "criteria": {
       "has_cobblestone": "2024-12-17 23:19:52 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/throwball/glow_ball": {
+    "criteria": {
+      "has_item": "2024-12-18 01:25:27 +0000"
     },
     "done": true
   },
@@ -3028,6 +3060,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-17 23:43:05 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/throwball/efln_ball": {
+    "criteria": {
+      "has_item": "2024-12-18 01:25:27 +0000"
     },
     "done": true
   },

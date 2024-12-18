@@ -545,6 +545,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-12-18 01:22:46 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_throwing_knife": {
     "criteria": {
       "has_wood": "2024-12-17 23:01:56 +0000"
@@ -2260,6 +2266,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-18 00:41:03 +0000",
+      "baked_potato": "2024-12-18 01:18:45 +0000",
       "cooked_cod": "2024-12-17 23:50:11 +0000",
       "salmon": "2024-12-18 00:29:42 +0000",
       "cooked_salmon": "2024-12-17 23:50:14 +0000"

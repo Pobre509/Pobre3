@@ -59,3 +59,25 @@
 [18Dec2024 01:12:09.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
 [18Dec2024 01:14:45.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Masquerade]
 [18Dec2024 01:16:01.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Cockatrice
+[18Dec2024 01:18:57.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
+[18Dec2024 01:19:30.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack fell from a high place
+[18Dec2024 01:19:42.130] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=26, y=75, z=133}
+[18Dec2024 01:19:55.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Applied effect Regeneration to R3hsk]
+[18Dec2024 01:19:59.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported R3hsk to percentyack]
+[18Dec2024 01:20:35.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Wingin' It]
+[18Dec2024 01:21:19.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was killed by Naga using magic
+[18Dec2024 01:22:22.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was slain by Naga
+[18Dec2024 01:22:41.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Naga
+[18Dec2024 01:24:05.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was slain by Naga
+[18Dec2024 01:24:09.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was killed by Naga using magic
+[18Dec2024 01:24:54.272] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:24:54.272] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:24:54.272] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:24:54.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was killed by Naga using magic
+[18Dec2024 01:25:05.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was slain by Naga
+[18Dec2024 01:25:19.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Naga
+[18Dec2024 01:26:08.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Naga
+[18Dec2024 01:26:40.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Naga
+[18Dec2024 01:26:50.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[18Dec2024 01:26:54.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was slain by Naga
+[18Dec2024 01:26:55.673] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=29, y=77, z=135}
