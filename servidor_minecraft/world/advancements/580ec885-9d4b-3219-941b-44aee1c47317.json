@@ -641,6 +641,12 @@
     },
     "done": true
   },
+  "spartanweaponry:greatsword": {
+    "criteria": {
+      "has_greatsword": "2024-12-18 23:11:18 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/spartanshields/iron_tower_shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:18:46 +0000"
@@ -2538,6 +2544,12 @@
     },
     "done": true
   },
+  "avaritia:recipes/misc/extreme_crafting_table": {
+    "criteria": {
+      "has_item": "2024-12-18 23:09:58 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/copper_katana": {
     "criteria": {
       "has_copper_ingot": "2024-12-18 00:03:37 +0000"
@@ -3038,6 +3050,7 @@
       "minecraft:creeper": "2024-12-18 03:09:00 +0000",
       "minecraft:slime": "2024-12-18 00:21:44 +0000",
       "minecraft:cave_spider": "2024-12-18 01:38:12 +0000",
+      "minecraft:enderman": "2024-12-18 23:13:53 +0000",
       "minecraft:zombie": "2024-12-17 23:11:09 +0000",
       "minecraft:drowned": "2024-12-18 01:36:18 +0000"
     },
@@ -3869,6 +3882,12 @@
   "iceandfire:iceandfire/dragon_egg": {
     "criteria": {
       "egg": "2024-12-18 04:07:42 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/low_covalence_dust": {
+    "criteria": {
+      "has_cobble": "2024-12-18 23:13:44 +0000"
     },
     "done": true
   },

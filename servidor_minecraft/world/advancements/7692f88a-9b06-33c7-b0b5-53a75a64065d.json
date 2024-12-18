@@ -335,6 +335,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-18 23:15:39 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_slab_stonecutter": {
     "criteria": {
       "has_item": "2024-12-18 02:15:53 +0000"
@@ -938,6 +944,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_scythe": {
     "criteria": {
       "has_gold_ingot": "2024-12-18 03:11:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2024-12-18 23:15:39 +0000"
     },
     "done": true
   },
@@ -1890,6 +1902,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2024-12-18 23:15:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-18 00:48:42 +0000"
@@ -2697,6 +2715,12 @@
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-18 01:35:31 +0000"
+    },
+    "done": true
+  },
+  "avaritia:recipes/misc/extreme_crafting_table": {
+    "criteria": {
+      "has_item": "2024-12-18 23:12:38 +0000"
     },
     "done": true
   },
