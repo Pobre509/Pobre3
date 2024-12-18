@@ -506,3 +506,29 @@ Caused by: java.lang.IllegalArgumentException: Player literal{R3hsk} is missing 
 [18Dec2024 04:15:52.258] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4525, y=65, z=-5656} BlockPos{x=-4525, y=64, z=-5655}
 [18Dec2024 04:16:54.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
 [18Dec2024 04:17:03.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[18Dec2024 04:19:46.138] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@60726a5f
+[18Dec2024 04:19:46.144] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: percentyack[/127.113.173.157:60285] logged in with entity id 109425 at (-4532.546151617685, 65.0, -5353.699999988079)
+[18Dec2024 04:19:46.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack joined the game
+[18Dec2024 04:20:08.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Dragon Commander]
+[18Dec2024 04:20:51.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Enchanter]
+[18Dec2024 04:21:07.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [The Song of the Dragons]
+[18Dec2024 04:21:21.178] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/108840, l='ServerLevel[world]', x=-4535.51, y=67.00, z=-5352.30] died, message: 'Nitwit was slain by R3hsk'
+[18Dec2024 04:22:05.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [An Ear-Shattering Roar]
+[18Dec2024 04:22:19.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [An Ear-Shattering Roar]
+[18Dec2024 04:22:20.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [The Song of the Dragons]
+[18Dec2024 04:22:21.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Dragon Commander]
+[18Dec2024 04:22:44.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Ice Bucket Challenge]
+[18Dec2024 04:22:44.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Gave 16 [Obsidian] to R3hsk]
+[18Dec2024 04:24:00.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [We Need to Go Deeper]
+[18Dec2024 04:24:00.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: percentyack moved too quickly! -0.47513997979876876,1.0244240882136921,-9.957984514244345
+[18Dec2024 04:24:09.215] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-555, y=73, z=-652} BlockPos{x=-556, y=72, z=-652}
+[18Dec2024 04:24:09.261] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-555, y=73, z=-652} BlockPos{x=-555, y=72, z=-651}
+[18Dec2024 04:24:09.402] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-555, y=73, z=-652} BlockPos{x=-555, y=73, z=-651}
+[18Dec2024 04:24:13.280] [Worker-Main-13/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-42, -34], pos: MutableBlockPos{x=-672, y=96, z=-531}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
+[18Dec2024 04:25:13.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set the weather to rain & thunder]
+[18Dec2024 04:25:26.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set the weather to rain & thunder]
+[18Dec2024 04:26:55.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[18Dec2024 04:27:22.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Spectator Mode]
+[18Dec2024 04:27:24.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[18Dec2024 04:27:36.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[18Dec2024 04:28:01.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
