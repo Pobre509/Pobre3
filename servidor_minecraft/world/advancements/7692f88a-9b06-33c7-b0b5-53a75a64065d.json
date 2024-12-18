@@ -53,6 +53,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-18 01:35:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-18 01:35:31 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_katana": {
     "criteria": {
       "has_wood": "2024-12-17 23:09:48 +0000"
@@ -134,6 +146,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-17 23:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-18 01:35:31 +0000"
     },
     "done": true
   },
@@ -323,6 +341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-18 01:35:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2024-12-17 23:19:55 +0000"
@@ -350,6 +374,12 @@
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-17 23:19:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-18 01:35:31 +0000"
     },
     "done": true
   },
@@ -501,9 +531,16 @@
       "mediterranean_forest": "2024-12-18 00:32:22 +0000",
       "dune_beach": "2024-12-18 00:24:44 +0000",
       "rocky_rainforest": "2024-12-18 00:43:29 +0000",
+      "glowing_grotto": "2024-12-18 01:32:34 +0000",
       "rainforest": "2024-12-18 00:43:21 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-18 01:35:31 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
@@ -704,8 +741,10 @@
       "minecraft:vindicator": "2024-12-17 23:23:17 +0000",
       "minecraft:spider": "2024-12-17 23:49:09 +0000",
       "minecraft:creeper": "2024-12-17 23:18:53 +0000",
+      "minecraft:slime": "2024-12-18 01:34:16 +0000",
       "minecraft:witch": "2024-12-18 01:25:26 +0000",
       "minecraft:husk": "2024-12-18 00:44:24 +0000",
+      "minecraft:cave_spider": "2024-12-18 01:38:26 +0000",
       "minecraft:enderman": "2024-12-18 00:28:07 +0000",
       "minecraft:zombie": "2024-12-17 23:12:25 +0000"
     },
@@ -720,6 +759,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_flanged_mace": {
     "criteria": {
       "has_diamond": "2024-12-17 23:32:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-18 01:35:31 +0000"
     },
     "done": true
   },
@@ -798,6 +843,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2024-12-17 23:44:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-18 01:35:31 +0000"
     },
     "done": true
   },
@@ -949,6 +1000,12 @@
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2024-12-17 23:22:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-18 01:35:31 +0000"
     },
     "done": true
   },
@@ -1258,6 +1315,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cobbled_deepslate_wall": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-18 01:35:31 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/silver_battle_hammer": {
     "criteria": {
       "has_silver_ingot": "2024-12-18 00:13:16 +0000"
@@ -1348,6 +1411,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-18 01:35:31 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_saber": {
     "criteria": {
       "has_iron_ingot": "2024-12-18 00:11:57 +0000"
@@ -1396,6 +1465,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-18 01:35:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2024-12-18 00:25:01 +0000",
@@ -1404,9 +1479,16 @@
       "minecraft:stony_shore": "2024-12-17 05:03:13 +0000",
       "minecraft:forest": "2024-12-17 23:11:18 +0000",
       "minecraft:ocean": "2024-12-17 23:21:34 +0000",
-      "minecraft:savanna": "2024-12-18 00:31:23 +0000"
+      "minecraft:savanna": "2024-12-18 00:31:23 +0000",
+      "minecraft:plains": "2024-12-18 01:30:15 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-18 01:35:31 +0000"
+    },
+    "done": true
   },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_scythe": {
     "criteria": {
@@ -1495,6 +1577,12 @@
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/wooden_arrow": {
     "criteria": {
       "has_feather": "2024-12-17 23:14:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-18 01:35:31 +0000"
     },
     "done": true
   },
@@ -1676,6 +1764,12 @@
   "advancednetherite:recipes/advancednetherite.tab/netherite_diamond_ingot": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:gems/diamond]": "2024-12-17 23:32:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-18 01:35:31 +0000"
     },
     "done": true
   },
@@ -1898,6 +1992,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/large_quiver_upgrade_kit": {
     "criteria": {
       "has_diamond": "2024-12-17 23:32:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-18 01:35:31 +0000"
     },
     "done": true
   },
@@ -2151,6 +2251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-18 01:35:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-18 00:47:35 +0000"
@@ -2385,6 +2491,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-18 01:35:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-17 23:11:33 +0000"
@@ -2436,6 +2548,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-17 23:19:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-18 01:35:31 +0000"
     },
     "done": true
   },
@@ -2508,6 +2626,12 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-12-17 23:32:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-18 01:35:31 +0000"
     },
     "done": true
   },
@@ -2907,6 +3031,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
+    "criteria": {
+      "has_cobbled_deepslate": "2024-12-18 01:35:31 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_longbow": {
     "criteria": {
       "has_diamond": "2024-12-17 23:32:05 +0000"
@@ -3129,6 +3259,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2024-12-18 01:28:54 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/gadgets/gadgets/frame/diamond": {
     "criteria": {
       "has_item": "2024-12-17 23:32:05 +0000"
@@ -3264,6 +3400,12 @@
   "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-12-17 23:36:42 +0000"
+    },
+    "done": true
+  },
+  "gobber2:root": {
+    "criteria": {
+      "gobber2_globette": "2024-12-18 01:31:51 +0000"
     },
     "done": true
   },

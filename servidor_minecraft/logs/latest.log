@@ -81,3 +81,103 @@
 [18Dec2024 01:26:50.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
 [18Dec2024 01:26:54.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was slain by Naga
 [18Dec2024 01:26:55.673] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=29, y=77, z=135}
+[18Dec2024 01:27:26.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[18Dec2024 01:30:01.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Spectator Mode]
+[18Dec2024 01:30:18.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack drowned
+[18Dec2024 01:30:31.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[18Dec2024 01:31:22.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[18Dec2024 01:33:15.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was shot by Skeleton
+[18Dec2024 01:35:06.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[18Dec2024 01:35:08.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Spectator Mode]
+[18Dec2024 01:35:25.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[18Dec2024 01:37:09.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was shot by Skeleton
+[18Dec2024 01:37:14.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Spectator Mode]
+[18Dec2024 01:37:33.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was slain by Cockatrice
+[18Dec2024 01:37:47.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[18Dec2024 01:37:57.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
+[18Dec2024 01:38:36.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was slain by Cave Spider
+[18Dec2024 01:39:27.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
+[18Dec2024 01:40:35.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Cave Spider
+[18Dec2024 01:40:40.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported R3hsk to percentyack]
+[18Dec2024 01:42:06.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
+[18Dec2024 01:44:42.626] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:42.627] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:42.627] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:42.627] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:42.627] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:43.372] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:43.373] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:43.373] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:43.373] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:43.373] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:44.221] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:44.222] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:44.222] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:44.222] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:44.222] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:44.973] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:44.973] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:44.974] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:44.974] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:44.974] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:46.224] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:46.224] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:46.224] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:46.224] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:46.224] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:47.472] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:47.472] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:47.473] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:47.473] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:48.724] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:48.724] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:48.724] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:48.724] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:49.973] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:49.973] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:49.973] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:49.973] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:52.621] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:52.621] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:52.621] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:53.620] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:53.620] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:53.620] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:54.621] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:54.621] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:44:54.621] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:45:15.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Applied effect Regeneration to 2 targets]
+[18Dec2024 01:45:24.873] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:45:24.874] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:45:24.874] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:45:25.872] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:45:25.872] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:45:25.872] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:45:26.627] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:45:26.627] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:45:26.627] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:45:27.673] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:45:27.673] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:45:27.673] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:45:28.422] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:45:28.423] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:45:28.423] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:45:29.673] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:45:29.673] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:45:29.673] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:45:30.926] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:45:30.926] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:45:30.926] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:45:32.175] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:45:32.175] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:45:32.175] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:45:33.424] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:45:33.424] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:45:33.424] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 01:46:05.125] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: R3hsk lost connection: Timed out
+[18Dec2024 01:46:05.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk left the game
+[18Dec2024 01:46:05.188] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18Dec2024 01:48:47.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Make a Tunnel to Nowhere]
+[18Dec2024 01:57:23.314] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7f90a60a
+[18Dec2024 01:57:23.324] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: R3hsk[/127.250.204.19:57453] logged in with entity id 50770 at (-56.60930277583925, -40.0, 217.37878718076152)
+[18Dec2024 01:57:23.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk joined the game
