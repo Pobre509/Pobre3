@@ -1122,6 +1122,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2024-12-18 03:23:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_sword": "2024-12-17 23:25:04 +0000"
@@ -1222,6 +1228,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2024-12-18 02:15:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-18 03:34:53 +0000"
     },
     "done": true
   },
@@ -1474,6 +1486,12 @@
   "tconstruct:recipes/tconstruct/gadgets/gadgets/frame/gold": {
     "criteria": {
       "has_item": "2024-12-18 03:09:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2024-12-18 03:22:53 +0000"
     },
     "done": true
   },
@@ -1962,6 +1980,7 @@
       "minecraft:cold_ocean": "2024-12-18 02:41:01 +0000",
       "minecraft:forest": "2024-12-17 23:06:03 +0000",
       "minecraft:ocean": "2024-12-17 23:21:39 +0000",
+      "minecraft:flower_forest": "2024-12-18 03:20:00 +0000",
       "minecraft:deep_dark": "2024-12-18 02:09:28 +0000",
       "minecraft:savanna": "2024-12-18 00:31:43 +0000",
       "minecraft:plains": "2024-12-18 03:03:48 +0000"
@@ -2335,6 +2354,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2024-12-18 03:17:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-17 23:02:12 +0000"
@@ -2419,6 +2444,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-18 03:21:19 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/willow_boat": {
     "criteria": {
       "in_water": "2024-12-17 23:07:24 +0000"
@@ -2440,6 +2471,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-18 00:28:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2024-12-18 03:16:31 +0000"
     },
     "done": true
   },
@@ -4270,6 +4307,12 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_glow_ink_sac": "2024-12-18 01:56:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-18 03:21:32 +0000"
     },
     "done": true
   },

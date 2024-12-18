@@ -351,3 +351,10 @@ Caused by: java.lang.IllegalArgumentException: Player literal{R3hsk} is missing 
 [18Dec2024 03:18:20.917] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7b9d4059
 [18Dec2024 03:18:20.928] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: R3hsk[/127.250.204.19:47989] logged in with entity id 82209 at (-4784.043625165594, 72.0, -5239.655417872724)
 [18Dec2024 03:18:20.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk joined the game
+[18Dec2024 03:19:37.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Applied effect Regeneration to R3hsk]
+[18Dec2024 03:22:30.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Gave 20000000 experience points to 2 players]
+[18Dec2024 03:22:42.026] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guardian['Esdras the Eager'/83492, l='ServerLevel[world]', x=-4398.09, y=62.00, z=-5287.01] died: Esdras the Eager was slain by Sea Serpent
+[18Dec2024 03:26:23.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Enchanter]
+[18Dec2024 03:28:12.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Applied enchantment Sharpness V to R3hsk's item]
+[18Dec2024 03:34:00.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported R3hsk to percentyack]
+[18Dec2024 03:37:09.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
