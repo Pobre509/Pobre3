@@ -1,538 +1,497 @@
-[18Dec2024 00:10:07.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 1 [Witherbone] to R3hsk
-[18Dec2024 00:10:18.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Splintering II]
-[18Dec2024 00:11:50.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Suit Up]
-[18Dec2024 00:11:57.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Acquire Hardware]
-[18Dec2024 00:12:03.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Isn't It Iron Pick]
-[18Dec2024 00:17:23.171] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: percentyack lost connection: Disconnected
-[18Dec2024 00:17:23.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack left the game
-[18Dec2024 00:19:35.884] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3b3ef654
-[18Dec2024 00:19:35.895] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: percentyack[/127.113.173.157:53979] logged in with entity id 19746 at (25.467562458534896, 67.0, 31.689430747079477)
-[18Dec2024 00:19:35.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack joined the game
-[18Dec2024 00:23:43.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported percentyack to R3hsk
-[18Dec2024 00:24:16.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack withered away whilst fighting Cockatrice
-[18Dec2024 00:24:33.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported percentyack to R3hsk
-[18Dec2024 00:25:07.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was turned to stone by Gorgon
-[18Dec2024 00:25:24.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported R3hsk to percentyack
-[18Dec2024 00:25:48.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was turned into gorgonzola by Gorgon
-[18Dec2024 00:25:57.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made R3hsk a server operator
-[18Dec2024 00:26:01.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported R3hsk to percentyack]
-[18Dec2024 00:26:05.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Take Aim, Chaps!]
-[18Dec2024 00:26:09.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was turned to stone by Gorgon
-[18Dec2024 00:26:17.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported R3hsk to percentyack]
-[18Dec2024 00:26:21.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was turned to stone by Gorgon
-[18Dec2024 00:26:27.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
-[18Dec2024 00:26:47.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Clash of the Titans]
-[18Dec2024 00:29:12.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: percentyack moved too quickly! 9.74933191452618,1.252203340253729,2.54627581706481
-[18Dec2024 00:29:17.573] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 00:29:17.573] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 00:29:19.471] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 00:29:19.471] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 00:29:23.774] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 00:29:23.774] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 00:30:14.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was shot by Skeleton
-[18Dec2024 00:30:20.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported R3hsk to percentyack]
-[18Dec2024 00:30:58.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack discovered the floor was lava
-[18Dec2024 00:31:40.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
-[18Dec2024 00:33:27.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Cockatrice
-[18Dec2024 00:33:36.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported R3hsk to percentyack]
-[18Dec2024 00:36:17.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk fell from a high place
-[18Dec2024 00:36:23.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported R3hsk to percentyack]
-[18Dec2024 00:36:57.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Take Aim, Chaps!]
-[18Dec2024 00:38:53.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Spectator Mode]
-[18Dec2024 00:39:04.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
-[18Dec2024 00:39:51.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Take Aim]
-[18Dec2024 00:41:07.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Applied effect Regeneration to R3hsk]
-[18Dec2024 00:41:32.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was shot by Skeleton
-[18Dec2024 00:41:38.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported R3hsk to percentyack]
-[18Dec2024 00:42:57.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Spectator Mode]
-[18Dec2024 00:43:35.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was shot by Skeleton
-[18Dec2024 00:44:08.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
-[18Dec2024 00:44:24.488] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Fisk of the Sand'/24173, l='ServerLevel[world]', x=644.51, y=65.00, z=-8.49] died: Fisk of the Sand was slain by R3hsk
-[18Dec2024 00:44:49.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
-[18Dec2024 01:04:12.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported R3hsk to percentyack]
-[18Dec2024 01:04:24.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Isn't It Iron Pick]
-[18Dec2024 01:04:38.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack tried to swim in lava
-[18Dec2024 01:07:32.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Zombie
-[18Dec2024 01:11:04.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported R3hsk to percentyack]
-[18Dec2024 01:11:36.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
-[18Dec2024 01:11:42.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Hammer Time!]
-[18Dec2024 01:12:09.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
-[18Dec2024 01:14:45.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Masquerade]
-[18Dec2024 01:16:01.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Cockatrice
-[18Dec2024 01:18:57.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
-[18Dec2024 01:19:30.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack fell from a high place
-[18Dec2024 01:19:42.130] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=26, y=75, z=133}
-[18Dec2024 01:19:55.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Applied effect Regeneration to R3hsk]
-[18Dec2024 01:19:59.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported R3hsk to percentyack]
-[18Dec2024 01:20:35.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Wingin' It]
-[18Dec2024 01:21:19.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was killed by Naga using magic
-[18Dec2024 01:22:22.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was slain by Naga
-[18Dec2024 01:22:41.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Naga
-[18Dec2024 01:24:05.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was slain by Naga
-[18Dec2024 01:24:09.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was killed by Naga using magic
-[18Dec2024 01:24:54.272] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:24:54.272] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:24:54.272] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:24:54.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was killed by Naga using magic
-[18Dec2024 01:25:05.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was slain by Naga
-[18Dec2024 01:25:19.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Naga
-[18Dec2024 01:26:08.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Naga
-[18Dec2024 01:26:40.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Naga
-[18Dec2024 01:26:50.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
-[18Dec2024 01:26:54.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was slain by Naga
-[18Dec2024 01:26:55.673] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=29, y=77, z=135}
-[18Dec2024 01:27:26.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
-[18Dec2024 01:30:01.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Spectator Mode]
-[18Dec2024 01:30:18.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack drowned
-[18Dec2024 01:30:31.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
-[18Dec2024 01:31:22.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
-[18Dec2024 01:33:15.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was shot by Skeleton
-[18Dec2024 01:35:06.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
-[18Dec2024 01:35:08.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Spectator Mode]
-[18Dec2024 01:35:25.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
-[18Dec2024 01:37:09.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was shot by Skeleton
-[18Dec2024 01:37:14.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Spectator Mode]
-[18Dec2024 01:37:33.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was slain by Cockatrice
-[18Dec2024 01:37:47.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
-[18Dec2024 01:37:57.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
-[18Dec2024 01:38:36.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was slain by Cave Spider
-[18Dec2024 01:39:27.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
-[18Dec2024 01:40:35.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Cave Spider
-[18Dec2024 01:40:40.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported R3hsk to percentyack]
-[18Dec2024 01:42:06.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
-[18Dec2024 01:44:42.626] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:42.627] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:42.627] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:42.627] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:42.627] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:43.372] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:43.373] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:43.373] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:43.373] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:43.373] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:44.221] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:44.222] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:44.222] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:44.222] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:44.222] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:44.973] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:44.973] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:44.974] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:44.974] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:44.974] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:46.224] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:46.224] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:46.224] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:46.224] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:46.224] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:47.472] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:47.472] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:47.473] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:47.473] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:48.724] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:48.724] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:48.724] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:48.724] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:49.973] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:49.973] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:49.973] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:49.973] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:52.621] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:52.621] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:52.621] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:53.620] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:53.620] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:53.620] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:54.621] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:54.621] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:44:54.621] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:45:15.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Applied effect Regeneration to 2 targets]
-[18Dec2024 01:45:24.873] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:45:24.874] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:45:24.874] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:45:25.872] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:45:25.872] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:45:25.872] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:45:26.627] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:45:26.627] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:45:26.627] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:45:27.673] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:45:27.673] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:45:27.673] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:45:28.422] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:45:28.423] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:45:28.423] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:45:29.673] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:45:29.673] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:45:29.673] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:45:30.926] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:45:30.926] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:45:30.926] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:45:32.175] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:45:32.175] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:45:32.175] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:45:33.424] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:45:33.424] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:45:33.424] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
-[18Dec2024 01:46:05.125] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: R3hsk lost connection: Timed out
-[18Dec2024 01:46:05.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk left the game
-[18Dec2024 01:46:05.188] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[18Dec2024 01:48:47.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Make a Tunnel to Nowhere]
-[18Dec2024 01:57:23.314] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7f90a60a
-[18Dec2024 01:57:23.324] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: R3hsk[/127.250.204.19:57453] logged in with entity id 50770 at (-56.60930277583925, -40.0, 217.37878718076152)
-[18Dec2024 01:57:23.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk joined the game
-[18Dec2024 01:58:10.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Applied effect Regeneration to 2 targets]
-[18Dec2024 01:58:21.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
-[18Dec2024 01:59:15.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
-[18Dec2024 02:01:55.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Spectator Mode]
-[18Dec2024 02:05:12.032] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: R3hsk moved too quickly! -9.538486916742727,0.0,-3.532343785341709
-[18Dec2024 02:05:46.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
-[18Dec2024 02:07:38.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was shot by Skeleton
-[18Dec2024 02:09:08.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Cover Me with Diamonds]
-[18Dec2024 02:09:29.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
-[18Dec2024 02:09:44.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
-[18Dec2024 02:10:49.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Applied effect Regeneration to 2 targets]
-[18Dec2024 02:12:14.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was slain by Zombie
-[18Dec2024 02:13:14.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
-[18Dec2024 02:13:23.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
-[18Dec2024 02:13:27.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
-[18Dec2024 02:14:07.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
-[18Dec2024 02:14:23.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
-[18Dec2024 02:14:44.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
-[18Dec2024 02:14:51.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
-[18Dec2024 02:19:27.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Tie me to the Mast]
-[18Dec2024 02:19:48.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Sea Serpent
-[18Dec2024 02:19:54.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported R3hsk to percentyack]
-[18Dec2024 02:19:54.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was slain by Sea Serpent
-[18Dec2024 02:19:58.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Sea? Not a Problem]
-[18Dec2024 02:20:21.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
-[18Dec2024 02:21:22.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [The Right Suit Makes all the Difference]
-[18Dec2024 02:21:43.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Sea Serpent
-[18Dec2024 02:21:44.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was slain by Sea Serpent
-[18Dec2024 02:22:17.522] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=35, y=70, z=115}
-[18Dec2024 02:28:19.123] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Sargent the Soaked'/62594, l='ServerLevel[world]', x=5.49, y=45.11, z=-1171.69] died: Sargent the Soaked was slain by Sea Serpent
-[18Dec2024 02:37:08.874] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Yomach the Toxic'/65403, l='ServerLevel[world]', x=-100.43, y=-22.00, z=-1683.50] died: Yomach the Toxic tried to swim in lava
-[18Dec2024 02:38:21.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
-[18Dec2024 02:38:41.257] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Sargent the Soaked'/65821, l='ServerLevel[world]', x=-101.86, y=53.17, z=-1766.43] died: Sargent the Soaked was slain by percentyack
-[18Dec2024 02:42:10.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Sea? Not a Problem]
-[18Dec2024 02:42:17.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was slain by Siren
-[18Dec2024 02:42:42.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
-[18Dec2024 02:45:28.367] [Worker-Main-15/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1424, y=23, z=-1586}
-[18Dec2024 02:46:05.056] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Drowned['Sargent the Soaked'/70736, l='ServerLevel[world]', x=-1258.27, y=58.23, z=-1427.78] died: Sargent the Soaked was slain by percentyack
-[18Dec2024 02:46:05.058] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6641ms or 132 ticks behind
-[18Dec2024 02:46:25.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was impaled by Drowned
-[18Dec2024 02:46:55.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
-[18Dec2024 02:48:29.207] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[18Dec2024 02:48:29.208] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[18Dec2024 02:48:29.208] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[18Dec2024 02:48:29.209] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[18Dec2024 02:48:29.243] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[18Dec2024 02:48:29.243] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[18Dec2024 02:48:29.253] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[18Dec2024 02:48:29.253] [Worker-Main-15/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[18Dec2024 02:48:41.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Smoke On The Water]
-[18Dec2024 02:48:42.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Smoke On The Water]
-[18Dec2024 02:48:59.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was impaled by Drowned
-[18Dec2024 02:49:08.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
-[18Dec2024 02:49:33.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was impaled by Drowned
-[18Dec2024 02:49:44.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
-[18Dec2024 02:49:45.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
-[18Dec2024 02:49:51.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
-[18Dec2024 02:50:12.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was doomed to fall by Skeleton
-[18Dec2024 02:50:19.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
-[18Dec2024 02:50:55.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [A Better Blade]
-[18Dec2024 02:51:14.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported R3hsk to -4999.500000, 60.000000, -4999.500000]
-[18Dec2024 02:51:34.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
-[18Dec2024 02:52:03.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Gave 1 [Black Bed] to R3hsk]
-[18Dec2024 02:52:06.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
-[18Dec2024 02:52:15.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
-[18Dec2024 02:52:37.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk fell from a high place
-[18Dec2024 02:52:39.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was frozen by Ice Dragon
-[18Dec2024 02:52:57.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was slain by Ice Dragon
-[18Dec2024 02:53:42.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was frozen by Ice Dragon
-[18Dec2024 02:53:44.923] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was slain by Ice Dragon
-[18Dec2024 02:55:08.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was frozen by Ice Dragon
-[18Dec2024 02:55:25.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was turned to ice by Ice Dragon
-[18Dec2024 02:56:25.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Ice Dragon
-[18Dec2024 02:56:45.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Dragonslayer]
-[18Dec2024 02:57:20.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk died
-[18Dec2024 02:57:20.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Killed R3hsk]
-[18Dec2024 03:00:58.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was slain by Drowned
-[18Dec2024 03:01:18.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk fell from a high place
-[18Dec2024 03:05:30.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk fell from a high place
-[18Dec2024 03:05:37.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported R3hsk to percentyack]
-[18Dec2024 03:06:30.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Who You Gonna Call?]
-[18Dec2024 03:06:39.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Who You Gonna Call?]
-[18Dec2024 03:06:56.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Ghost
-[18Dec2024 03:06:57.999] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-4832, y=80, z=-5191}
-[18Dec2024 03:07:17.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was slain by Ghost
-[18Dec2024 03:08:36.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Applied effect Regeneration to R3hsk]
-[18Dec2024 03:09:51.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Dragonslayer]
-[18Dec2024 03:12:49.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
-[18Dec2024 03:13:17.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
-[18Dec2024 03:15:16.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [A Flaming Sword]
-[18Dec2024 03:16:04.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Cover Me with Diamonds]
-[18Dec2024 03:16:31.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Book of Monsters]
-[18Dec2024 03:17:07.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Book of Monsters]
-[18Dec2024 03:17:44.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Would you Like to Know More?]
-[18Dec2024 03:18:00.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk fell from a high place
-[18Dec2024 03:18:01.182] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Player literal{R3hsk} is missing a damage model!
-	Index: 1
-	Listeners:
-		0: LOW
-		1: ASM: class ichttt.mods.firstaid.common.EventHandler onHeal(Lnet/minecraftforge/event/entity/living/LivingHealEvent;)V
-java.lang.IllegalArgumentException: Player literal{R3hsk} is missing a damage model!
-	at TRANSFORMER/firstaid@1.12.0/ichttt.mods.firstaid.common.util.CommonUtils.lambda$getDamageModel$1(CommonUtils.java:145)
-	at TRANSFORMER/forge@43.4.2/net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:281)
-	at TRANSFORMER/firstaid@1.12.0/ichttt.mods.firstaid.common.util.CommonUtils.getDamageModel(CommonUtils.java:145)
-	at TRANSFORMER/firstaid@1.12.0/ichttt.mods.firstaid.common.damagesystem.distribution.HealthDistribution.distributeHealth(HealthDistribution.java:94)
-	at TRANSFORMER/firstaid@1.12.0/ichttt.mods.firstaid.common.EventHandler.onHeal(EventHandler.java:248)
-	at TRANSFORMER/firstaid@1.12.0/ichttt.mods.firstaid.common.__EventHandler_onHeal_LivingHealEvent.invoke(.dynamic)
-	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
-	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
-	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
-	at TRANSFORMER/forge@43.4.2/net.minecraftforge.event.ForgeEventFactory.onLivingHeal(ForgeEventFactory.java:471)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.LivingEntity.m_5634_(LivingEntity.java:1003)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.effect.MobEffect.m_6742_(MobEffect.java:57)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.effect.MobEffectInstance.m_19550_(MobEffectInstance.java:187)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.effect.MobEffectInstance.m_19552_(MobEffectInstance.java:160)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:745)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:418)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.Entity.m_8119_(Entity.java:417)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2252)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.player.Player.m_8119_(Player.java:243)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:447)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:264)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.network.Connection.m_129483_(Connection.java:248)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:880)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:292)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:806)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:654)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244)
-	at java.base/java.lang.Thread.run(Thread.java:1583)
-
-[18Dec2024 03:18:01.230] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /127.250.204.19:57453
-net.minecraft.ReportedException: Ticking player
-	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:510) ~[server-1.19.2-20220805.130853-srg.jar%23169!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:264) ~[server-1.19.2-20220805.130853-srg.jar%23169!/:?]
-	at net.minecraft.network.Connection.m_129483_(Connection.java:248) ~[server-1.19.2-20220805.130853-srg.jar%23169!/:?]
-	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143) ~[server-1.19.2-20220805.130853-srg.jar%23169!/:?]
-	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:880) ~[server-1.19.2-20220805.130853-srg.jar%23169!/:?]
-	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:292) ~[server-1.19.2-20220805.130853-srg.jar%23169!/:?]
-	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:806) ~[server-1.19.2-20220805.130853-srg.jar%23169!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:654) ~[server-1.19.2-20220805.130853-srg.jar%23169!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23169!/:?]
-	at java.lang.Thread.run(Thread.java:1583) [?:?]
-Caused by: java.lang.IllegalArgumentException: Player literal{R3hsk} is missing a damage model!
-	at ichttt.mods.firstaid.common.util.CommonUtils.lambda$getDamageModel$1(CommonUtils.java:145) ~[firstaid-1.12.0.jar%23147!/:1.12.0]
-	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:281) ~[forge-1.19.2-43.4.2-universal.jar%23174!/:?]
-	at ichttt.mods.firstaid.common.util.CommonUtils.getDamageModel(CommonUtils.java:145) ~[firstaid-1.12.0.jar%23147!/:1.12.0]
-	at ichttt.mods.firstaid.common.damagesystem.distribution.HealthDistribution.distributeHealth(HealthDistribution.java:94) ~[firstaid-1.12.0.jar%23147!/:1.12.0]
-	at ichttt.mods.firstaid.common.EventHandler.onHeal(EventHandler.java:248) ~[firstaid-1.12.0.jar%23147!/:1.12.0]
-	at ichttt.mods.firstaid.common.__EventHandler_onHeal_LivingHealEvent.invoke(.dynamic) ~[firstaid-1.12.0.jar%23147!/:1.12.0]
-	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.3.jar%2351!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.3.jar%2351!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.3.jar%2351!/:?]
-	at net.minecraftforge.event.ForgeEventFactory.onLivingHeal(ForgeEventFactory.java:471) ~[forge-1.19.2-43.4.2-universal.jar%23174!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_5634_(LivingEntity.java:1003) ~[server-1.19.2-20220805.130853-srg.jar%23169!/:?]
-	at net.minecraft.world.effect.MobEffect.m_6742_(MobEffect.java:57) ~[server-1.19.2-20220805.130853-srg.jar%23169!/:?]
-	at net.minecraft.world.effect.MobEffectInstance.m_19550_(MobEffectInstance.java:187) ~[server-1.19.2-20220805.130853-srg.jar%23169!/:?]
-	at net.minecraft.world.effect.MobEffectInstance.m_19552_(MobEffectInstance.java:160) ~[server-1.19.2-20220805.130853-srg.jar%23169!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:745) ~[server-1.19.2-20220805.130853-srg.jar%23169!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:418) ~[server-1.19.2-20220805.130853-srg.jar%23169!/:?]
-	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:417) ~[server-1.19.2-20220805.130853-srg.jar%23169!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2252) ~[server-1.19.2-20220805.130853-srg.jar%23169!/:?]
-	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:243) ~[server-1.19.2-20220805.130853-srg.jar%23169!/:?]
-	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:447) ~[server-1.19.2-20220805.130853-srg.jar%23169!/:?]
-	... 9 more
-[18Dec2024 03:18:01.254] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: R3hsk lost connection: Internal server error
-[18Dec2024 03:18:01.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk left the game
-[18Dec2024 03:18:20.917] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7b9d4059
-[18Dec2024 03:18:20.928] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: R3hsk[/127.250.204.19:47989] logged in with entity id 82209 at (-4784.043625165594, 72.0, -5239.655417872724)
-[18Dec2024 03:18:20.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk joined the game
-[18Dec2024 03:19:37.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Applied effect Regeneration to R3hsk]
-[18Dec2024 03:22:30.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Gave 20000000 experience points to 2 players]
-[18Dec2024 03:22:42.026] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guardian['Esdras the Eager'/83492, l='ServerLevel[world]', x=-4398.09, y=62.00, z=-5287.01] died: Esdras the Eager was slain by Sea Serpent
-[18Dec2024 03:26:23.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Enchanter]
-[18Dec2024 03:28:12.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Applied enchantment Sharpness V to R3hsk's item]
-[18Dec2024 03:34:00.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported R3hsk to percentyack]
-[18Dec2024 03:37:09.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
-[18Dec2024 03:39:30.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
-[18Dec2024 03:40:24.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported R3hsk to 5000.500000, 60.000000, 5000.500000]
-[18Dec2024 03:40:24.150] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2383ms or 47 ticks behind
-[18Dec2024 03:40:38.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Spectator Mode]
-[18Dec2024 03:40:45.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
-[18Dec2024 03:41:11.086] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2569ms or 51 ticks behind
-[18Dec2024 03:41:44.206] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: R3hsk moved wrongly!
-[18Dec2024 03:42:43.391] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[18Dec2024 03:42:43.393] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[18Dec2024 03:42:43.399] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[18Dec2024 03:42:43.399] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[18Dec2024 03:42:43.424] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[18Dec2024 03:42:43.425] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[18Dec2024 03:42:43.426] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[18Dec2024 03:42:43.426] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[18Dec2024 03:42:43.433] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[18Dec2024 03:42:43.435] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[18Dec2024 03:42:43.943] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[18Dec2024 03:42:43.943] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[18Dec2024 03:42:43.962] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[18Dec2024 03:42:43.963] [Worker-Main-13/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[18Dec2024 03:42:43.988] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[18Dec2024 03:42:43.988] [Worker-Main-14/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: dungeons_arise:underworld/foundry/foundry_corridor_gears
-[18Dec2024 03:43:35.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported R3hsk to 4288.500000, 68.000000, 4240.500000]
-[18Dec2024 03:43:36.582] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2565ms or 51 ticks behind
-[18Dec2024 03:44:12.044] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4341, y=68, z=4225} BlockPos{x=4342, y=69, z=4224}
-[18Dec2024 03:44:36.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported R3hsk to 4608.500000, 68.000000, 5264.500000]
-[18Dec2024 03:44:37.532] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2515ms or 50 ticks behind
-[18Dec2024 03:45:01.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was turned to stone by Gorgon
-[18Dec2024 03:45:02.790] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Player literal{R3hsk} is missing a damage model!
-	Index: 1
-	Listeners:
-		0: LOW
-		1: ASM: class ichttt.mods.firstaid.common.EventHandler onHeal(Lnet/minecraftforge/event/entity/living/LivingHealEvent;)V
-java.lang.IllegalArgumentException: Player literal{R3hsk} is missing a damage model!
-	at TRANSFORMER/firstaid@1.12.0/ichttt.mods.firstaid.common.util.CommonUtils.lambda$getDamageModel$1(CommonUtils.java:145)
-	at TRANSFORMER/forge@43.4.2/net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:281)
-	at TRANSFORMER/firstaid@1.12.0/ichttt.mods.firstaid.common.util.CommonUtils.getDamageModel(CommonUtils.java:145)
-	at TRANSFORMER/firstaid@1.12.0/ichttt.mods.firstaid.common.damagesystem.distribution.HealthDistribution.distributeHealth(HealthDistribution.java:94)
-	at TRANSFORMER/firstaid@1.12.0/ichttt.mods.firstaid.common.EventHandler.onHeal(EventHandler.java:248)
-	at TRANSFORMER/firstaid@1.12.0/ichttt.mods.firstaid.common.__EventHandler_onHeal_LivingHealEvent.invoke(.dynamic)
-	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
-	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
-	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
-	at TRANSFORMER/forge@43.4.2/net.minecraftforge.event.ForgeEventFactory.onLivingHeal(ForgeEventFactory.java:471)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.LivingEntity.m_5634_(LivingEntity.java:1003)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.effect.MobEffect.m_6742_(MobEffect.java:57)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.effect.MobEffectInstance.m_19550_(MobEffectInstance.java:187)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.effect.MobEffectInstance.m_19552_(MobEffectInstance.java:160)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:745)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:418)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.Entity.m_8119_(Entity.java:417)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2252)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.player.Player.m_8119_(Player.java:243)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:447)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:264)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.network.Connection.m_129483_(Connection.java:248)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:880)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:292)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:806)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:654)
-	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244)
-	at java.base/java.lang.Thread.run(Thread.java:1583)
-
-[18Dec2024 03:45:02.830] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /127.250.204.19:47989
-net.minecraft.ReportedException: Ticking player
-	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:510) ~[server-1.19.2-20220805.130853-srg.jar%23169!/:?]
-	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:264) ~[server-1.19.2-20220805.130853-srg.jar%23169!/:?]
-	at net.minecraft.network.Connection.m_129483_(Connection.java:248) ~[server-1.19.2-20220805.130853-srg.jar%23169!/:?]
-	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143) ~[server-1.19.2-20220805.130853-srg.jar%23169!/:?]
-	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:880) ~[server-1.19.2-20220805.130853-srg.jar%23169!/:?]
-	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:292) ~[server-1.19.2-20220805.130853-srg.jar%23169!/:?]
-	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:806) ~[server-1.19.2-20220805.130853-srg.jar%23169!/:?]
-	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:654) ~[server-1.19.2-20220805.130853-srg.jar%23169!/:?]
-	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23169!/:?]
-	at java.lang.Thread.run(Thread.java:1583) [?:?]
-Caused by: java.lang.IllegalArgumentException: Player literal{R3hsk} is missing a damage model!
-	at ichttt.mods.firstaid.common.util.CommonUtils.lambda$getDamageModel$1(CommonUtils.java:145) ~[firstaid-1.12.0.jar%23147!/:1.12.0]
-	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:281) ~[forge-1.19.2-43.4.2-universal.jar%23174!/:?]
-	at ichttt.mods.firstaid.common.util.CommonUtils.getDamageModel(CommonUtils.java:145) ~[firstaid-1.12.0.jar%23147!/:1.12.0]
-	at ichttt.mods.firstaid.common.damagesystem.distribution.HealthDistribution.distributeHealth(HealthDistribution.java:94) ~[firstaid-1.12.0.jar%23147!/:1.12.0]
-	at ichttt.mods.firstaid.common.EventHandler.onHeal(EventHandler.java:248) ~[firstaid-1.12.0.jar%23147!/:1.12.0]
-	at ichttt.mods.firstaid.common.__EventHandler_onHeal_LivingHealEvent.invoke(.dynamic) ~[firstaid-1.12.0.jar%23147!/:1.12.0]
-	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.3.jar%2351!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.3.jar%2351!/:?]
-	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.3.jar%2351!/:?]
-	at net.minecraftforge.event.ForgeEventFactory.onLivingHeal(ForgeEventFactory.java:471) ~[forge-1.19.2-43.4.2-universal.jar%23174!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_5634_(LivingEntity.java:1003) ~[server-1.19.2-20220805.130853-srg.jar%23169!/:?]
-	at net.minecraft.world.effect.MobEffect.m_6742_(MobEffect.java:57) ~[server-1.19.2-20220805.130853-srg.jar%23169!/:?]
-	at net.minecraft.world.effect.MobEffectInstance.m_19550_(MobEffectInstance.java:187) ~[server-1.19.2-20220805.130853-srg.jar%23169!/:?]
-	at net.minecraft.world.effect.MobEffectInstance.m_19552_(MobEffectInstance.java:160) ~[server-1.19.2-20220805.130853-srg.jar%23169!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:745) ~[server-1.19.2-20220805.130853-srg.jar%23169!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:418) ~[server-1.19.2-20220805.130853-srg.jar%23169!/:?]
-	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:417) ~[server-1.19.2-20220805.130853-srg.jar%23169!/:?]
-	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2252) ~[server-1.19.2-20220805.130853-srg.jar%23169!/:?]
-	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:243) ~[server-1.19.2-20220805.130853-srg.jar%23169!/:?]
-	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:447) ~[server-1.19.2-20220805.130853-srg.jar%23169!/:?]
-	... 9 more
-[18Dec2024 03:45:02.908] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: R3hsk lost connection: Internal server error
-[18Dec2024 03:45:02.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk left the game
-[18Dec2024 03:45:13.341] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@54c7c9c5
-[18Dec2024 03:45:13.350] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: R3hsk[/127.250.204.19:42979] logged in with entity id 99985 at (4642.778742307031, 61.0, 5259.699999988079)
-[18Dec2024 03:45:13.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk joined the game
-[18Dec2024 03:45:36.455] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: R3hsk moved too quickly! -4.609217745313799,1.4768052574946324,-12.235068130796208
-[18Dec2024 03:45:41.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was doomed to fall by Zombie
-[18Dec2024 03:45:56.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Applied effect Regeneration to R3hsk]
-[18Dec2024 03:46:11.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported R3hsk to 10000.500000, 70.000000, 10000.500000]
-[18Dec2024 03:46:11.149] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2082ms or 41 ticks behind
-[18Dec2024 03:46:19.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
-[18Dec2024 03:46:54.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
-[18Dec2024 03:47:46.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
-[18Dec2024 03:47:56.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
-[18Dec2024 03:48:26.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Summoned new Ice Dragon]
-[18Dec2024 03:49:10.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Summoned new Fire Dragon]
-[18Dec2024 03:49:51.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Spectator Mode]
-[18Dec2024 03:50:00.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
-[18Dec2024 03:51:53.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
-[18Dec2024 03:52:16.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Mother of Dragons]
-[18Dec2024 03:52:33.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Spectator Mode]
-[18Dec2024 03:52:35.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
-[18Dec2024 03:53:24.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported R3hsk to percentyack]
-[18Dec2024 03:53:26.681] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Scribe'/82874, l='ServerLevel[world]', x=-4551.50, y=71.00, z=-5349.70] died, message: 'Scribe was slain by Zombie'
-[18Dec2024 03:53:37.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
-[18Dec2024 03:53:42.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
-[18Dec2024 03:53:51.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
-[18Dec2024 03:54:04.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
-[18Dec2024 03:54:29.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
-[18Dec2024 03:54:33.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Dragon Growth Hormone]
-[18Dec2024 03:54:46.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
-[18Dec2024 03:54:56.073] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: R3hsk lost connection: Disconnected
-[18Dec2024 03:54:56.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk left the game
-[18Dec2024 04:06:43.372] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/82665, l='ServerLevel[world]', x=-4533.13, y=60.00, z=-5366.39] died, message: 'Nitwit was slain by Zombie'
-[18Dec2024 04:07:02.484] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@9523877
-[18Dec2024 04:07:02.490] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: R3hsk[/127.250.204.19:58513] logged in with entity id 105780 at (-4532.84788436551, 65.0, -5351.58272651975)
-[18Dec2024 04:07:02.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk joined the game
-[18Dec2024 04:07:42.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Mother of Dragons]
-[18Dec2024 04:09:58.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Cyclops
-[18Dec2024 04:11:00.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [My Name is Nobody]
-[18Dec2024 04:11:37.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack fell from a high place
-[18Dec2024 04:11:47.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
-[18Dec2024 04:12:09.234] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: percentyack lost connection: Disconnected
-[18Dec2024 04:12:09.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack left the game
-[18Dec2024 04:14:05.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Applied effect Regeneration to R3hsk]
-[18Dec2024 04:14:07.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4496, y=64, z=-5461} BlockPos{x=-4496, y=64, z=-5463}
-[18Dec2024 04:15:52.258] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4525, y=65, z=-5656} BlockPos{x=-4525, y=64, z=-5655}
-[18Dec2024 04:16:54.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
-[18Dec2024 04:17:03.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
-[18Dec2024 04:19:46.138] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@60726a5f
-[18Dec2024 04:19:46.144] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: percentyack[/127.113.173.157:60285] logged in with entity id 109425 at (-4532.546151617685, 65.0, -5353.699999988079)
-[18Dec2024 04:19:46.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack joined the game
-[18Dec2024 04:20:08.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Dragon Commander]
-[18Dec2024 04:20:51.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Enchanter]
-[18Dec2024 04:21:07.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [The Song of the Dragons]
-[18Dec2024 04:21:21.178] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/108840, l='ServerLevel[world]', x=-4535.51, y=67.00, z=-5352.30] died, message: 'Nitwit was slain by R3hsk'
-[18Dec2024 04:22:05.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [An Ear-Shattering Roar]
-[18Dec2024 04:22:19.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [An Ear-Shattering Roar]
-[18Dec2024 04:22:20.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [The Song of the Dragons]
-[18Dec2024 04:22:21.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Dragon Commander]
-[18Dec2024 04:22:44.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Ice Bucket Challenge]
-[18Dec2024 04:22:44.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Gave 16 [Obsidian] to R3hsk]
-[18Dec2024 04:24:00.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [We Need to Go Deeper]
-[18Dec2024 04:24:00.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: percentyack moved too quickly! -0.47513997979876876,1.0244240882136921,-9.957984514244345
-[18Dec2024 04:24:09.215] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-555, y=73, z=-652} BlockPos{x=-556, y=72, z=-652}
-[18Dec2024 04:24:09.261] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-555, y=73, z=-652} BlockPos{x=-555, y=72, z=-651}
-[18Dec2024 04:24:09.402] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-555, y=73, z=-652} BlockPos{x=-555, y=73, z=-651}
-[18Dec2024 04:24:13.280] [Worker-Main-13/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [-42, -34], pos: MutableBlockPos{x=-672, y=96, z=-531}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / tconstruct:ichor_geode]
-[18Dec2024 04:25:13.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set the weather to rain & thunder]
-[18Dec2024 04:25:26.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set the weather to rain & thunder]
-[18Dec2024 04:26:55.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
-[18Dec2024 04:27:22.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Spectator Mode]
-[18Dec2024 04:27:24.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
-[18Dec2024 04:27:36.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
-[18Dec2024 04:28:01.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
-[18Dec2024 04:30:28.329] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: R3hsk lost connection: Disconnected
-[18Dec2024 04:30:28.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk left the game
-[18Dec2024 04:31:24.324] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: percentyack lost connection: Disconnected
-[18Dec2024 04:31:24.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack left the game
+[18Dec2024 22:50:25.568] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.4.2, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[18Dec2024 22:50:25.574] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 21.0.4 by Microsoft; OS Linux arch amd64 version 6.5.0-1025-azure
+[18Dec2024 22:50:27.412] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.onLoad
+[18Dec2024 22:50:27.413] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file URL: union:/workspaces/pobre/servidor_minecraft/mods/OptiFine_1.19.2_HD_U_I2.jar%23135!/
+[18Dec2024 22:50:27.420] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFine ZIP file: /workspaces/pobre/servidor_minecraft/mods/OptiFine_1.19.2_HD_U_I2.jar
+[18Dec2024 22:50:27.421] [main/INFO] [optifine.OptiFineTransformer/]: Target.PRE_CLASS is available
+[18Dec2024 22:50:27.543] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/pobre/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[18Dec2024 22:50:27.551] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.initialize
+[18Dec2024 22:50:28.166] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/pobre/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.19.2-43.4.2/fmlcore-1.19.2-43.4.2.jar is missing mods.toml file
+[18Dec2024 22:50:28.173] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/pobre/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.4.2/javafmllanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[18Dec2024 22:50:28.176] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/pobre/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.4.2/lowcodelanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[18Dec2024 22:50:28.177] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/pobre/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.19.2-43.4.2/mclanguage-1.19.2-43.4.2.jar is missing mods.toml file
+[18Dec2024 22:50:28.391] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 7 dependencies adding them to mods collection
+[18Dec2024 22:50:29.658] [main/INFO] [optifine.OptiFineTransformationService/]: OptiFineTransformationService.transformers
+[18Dec2024 22:50:29.668] [main/INFO] [optifine.OptiFineTransformer/]: Targets: 384
+[18Dec2024 22:50:30.214] [main/INFO] [optifine.OptiFineTransformationService/]: additionalClassesLocator: [optifine., net.optifine.]
+[18Dec2024 22:50:31.569] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[18Dec2024 22:50:31.652] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[18Dec2024 22:50:33.022] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[18Dec2024 22:50:39.859] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[18Dec2024 22:50:43.826] [modloading-worker-0/INFO] [Spartan Shields/]: Constructing Mod: Spartan Shields
+[18Dec2024 22:50:44.409] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[18Dec2024 22:50:44.483] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[18Dec2024 22:50:44.490] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 9
+[18Dec2024 22:50:44.492] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 9 has been initalized!
+[18Dec2024 22:50:44.539] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[18Dec2024 22:50:44.539] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[18Dec2024 22:50:44.540] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[18Dec2024 22:50:44.540] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[18Dec2024 22:50:44.541] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[18Dec2024 22:50:44.541] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[18Dec2024 22:50:44.542] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tadpole_bucket is now minecraft:bucket.
+[18Dec2024 22:50:44.581] [modloading-worker-0/INFO] [com.cupboard.Cupboard/]: Loaded config for: cupboard.json
+[18Dec2024 22:50:44.668] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.4.2, for MC 1.19.2 with MCP 20220805.130853
+[18Dec2024 22:50:44.669] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.4.2 Initialized
+[18Dec2024 22:50:45.235] [main/INFO] [net.minecraft.server.packs.resources.ReloadableResourceManager/]: Reloading ResourceManager: advancednetherite-1.14.7-1.19.2.jar, Re-Avaritia-forged-1.19.2-1.3.3.jar, YungsBetterDungeons-1.19.2-Forge-3.2.2.jar, BiomesOPlenty-1.19.2-17.1.2.544.jar, Bookshelf-Forge-1.19.2-16.3.20.jar, brutalbosses-1.19.2-6.8.jar, caelus-forge-1.19.2-3.0.0.6.jar, citadel-2.1.4-1.19.jar, cloth-config-8.3.134-forge.jar, cupboard-1.19.2-2.6.jar, curios-forge-1.19.2-5.1.6.4.jar, dreadsteel-1.19.2-1.1.6.jar, DungeonsArise-1.19.2-2.1.56-beta.jar, elytraslot-forge-6.1.2+1.19.2.jar, EnchantmentDescriptions-Forge-1.19.2-13.0.14.jar, firstaid-1.12.0.jar, forge-1.19.2-43.4.2-universal.jar, framework-forge-1.19.2-0.7.12.jar, geckolib-forge-1.19-3.1.40 (1).jar, Gobber2-Forge-1.19.2-2.7.32.jar, goblintraders-1.8.0-1.19.2.jar, iceandfire-1.19.2-2.1.13-beta-3.jar, inventorio-1.19-forge-1.9.1.jar, jei-1.19.2-forge-11.8.1.1034.jar, JsonThings-1.19.2-0.7.15.jar, kffmod-3.12.0.jar, Mantle-1.19.2-1.10.36.jar, mixinextras-forge-0.3.5.jar, mixinsquared-forge-0.1.2-beta.6.jar, mowziesmobs-1.6.3.jar, ProjectE-1.19.2-PE1.1.0.jar, shadowizardlib-1.19.2-1.0.8.jar, spartanshields-1.19.2-3.0.1.jar, SpartanWeaponry-1.19.2-3.0.7-all.jar, TConstruct-1.19.2-3.8.4.50.jar, TerraBlender-forge-1.19.2-2.0.1.166.jar, Tinker-Things-1.19.2-1.2.1.jar, travelersbackpack-forge-1.19.2-8.2.41.jar, YungsApi-1.19.2-Forge-3.8.10.jar
+[18Dec2024 22:50:48.919] [main/INFO] [dev.gigaherz.jsonthings.things.parsers.BlockParser/]: Started registering Block things, errors about unexpected registry domains are harmless...
+[18Dec2024 22:50:48.927] [main/INFO] [dev.gigaherz.jsonthings.things.parsers.BlockParser/]: Done processing thingpack Blocks.
+[18Dec2024 22:50:48.958] [main/INFO] [dev.gigaherz.jsonthings.things.parsers.FluidParser/]: Started registering Fluid things, errors about unexpected registry domains are harmless...
+[18Dec2024 22:50:48.962] [main/INFO] [dev.gigaherz.jsonthings.things.parsers.FluidParser/]: Done processing thingpack Fluids.
+[18Dec2024 22:50:49.396] [main/INFO] [dev.gigaherz.jsonthings.things.parsers.ItemParser/]: Started registering Item things, errors about unexpected registry domains are harmless...
+[18Dec2024 22:50:49.403] [main/INFO] [dev.gigaherz.jsonthings.things.parsers.ItemParser/]: Done processing thingpack Items.
+[18Dec2024 22:50:49.437] [main/INFO] [dev.gigaherz.jsonthings.things.parsers.EnchantmentParser/]: Started registering Enchantment things, errors about unexpected registry domains are harmless...
+[18Dec2024 22:50:49.438] [main/INFO] [dev.gigaherz.jsonthings.things.parsers.EnchantmentParser/]: Done processing thingpack Enchantments.
+[18Dec2024 22:50:49.939] [main/INFO] [dev.gigaherz.jsonthings.things.parsers.FluidTypeParser/]: Started registering FluidType things, errors about unexpected registry domains are harmless...
+[18Dec2024 22:50:49.942] [main/INFO] [dev.gigaherz.jsonthings.things.parsers.FluidTypeParser/]: Done processing thingpack FluidTypes.
+[18Dec2024 22:50:50.055] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/pobre/servidor_minecraft/config/avaritia-common.toml is not correct. Correcting
+[18Dec2024 22:50:50.056] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18Dec2024 22:50:50.057] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.Is Stone was corrected from null to its default, false. 
+[18Dec2024 22:50:50.057] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.Is Merge Matter Cluster was corrected from null to its default, false. 
+[18Dec2024 22:50:50.057] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.Sword Range Damage was corrected from null to its default, 10000. 
+[18Dec2024 22:50:50.057] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.Sword Attack Range was corrected from null to its default, 32. 
+[18Dec2024 22:50:50.057] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.Is Sword Damage was corrected from null to its default, true. 
+[18Dec2024 22:50:50.057] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.Sub Arrow Damage was corrected from null to its default, 10000. 
+[18Dec2024 22:50:50.058] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.Axe Chain Count was corrected from null to its default, 64. 
+[18Dec2024 22:50:50.058] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.Food Time was corrected from null to its default, 1.0. 
+[18Dec2024 22:50:50.060] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.PickAxe Break Range was corrected from null to its default, 8. 
+[18Dec2024 22:50:50.060] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.Shovel Break Range was corrected from null to its default, 8. 
+[18Dec2024 22:50:50.061] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.Neutron Collector Product Tick was corrected from null to its default, 3600. 
+[18Dec2024 22:50:50.061] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key general.Singularity Time Required was corrected from null to its default, 240. 
+[18Dec2024 22:50:50.079] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/pobre/servidor_minecraft/config/ProjectE/common.toml is not correct. Correcting
+[18Dec2024 22:50:50.079] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18Dec2024 22:50:50.079] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.debugLogging was corrected from null to its default, false. 
+[18Dec2024 22:50:50.079] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.craftableTome was corrected from null to its default, false. 
+[18Dec2024 22:50:50.080] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.fullKleinStars was corrected from null to its default, false. 
+[18Dec2024 22:50:50.082] [main/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[18Dec2024 22:50:50.083] [Thread-0/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[18Dec2024 22:50:50.084] [Thread-0/INFO] [Spartan Shields/]: Loading config spartanshields-common.toml
+[18Dec2024 22:50:50.200] [modloading-worker-0/INFO] [moze_intel.projecte.PECore/]: Found and loaded EMC mapper: CraftingMapper, with priority 0
+[18Dec2024 22:50:50.205] [modloading-worker-0/INFO] [moze_intel.projecte.PECore/]: Found and loaded EMC mapper: CustomConversionMapper, with priority 0
+[18Dec2024 22:50:50.206] [modloading-worker-0/INFO] [moze_intel.projecte.PECore/]: Found and loaded EMC mapper: WeatheredCopperMapper, with priority 0
+[18Dec2024 22:50:50.206] [modloading-worker-0/INFO] [moze_intel.projecte.PECore/]: Found and loaded EMC mapper: TippedArrowMapper, with priority 0
+[18Dec2024 22:50:50.207] [modloading-worker-0/INFO] [moze_intel.projecte.PECore/]: Found and loaded EMC mapper: RawOresBlacklistMapper, with priority 0
+[18Dec2024 22:50:50.208] [modloading-worker-0/INFO] [moze_intel.projecte.PECore/]: Found and loaded EMC mapper: OresBlacklistMapper, with priority 0
+[18Dec2024 22:50:50.208] [modloading-worker-0/INFO] [moze_intel.projecte.PECore/]: Found and loaded EMC mapper: CustomEMCMapper, with priority 0
+[18Dec2024 22:50:50.217] [modloading-worker-0/INFO] [moze_intel.projecte.PECore/]: Found and loaded EMC mapper: BrewingMapper, with priority 0
+[18Dec2024 22:50:50.224] [modloading-worker-0/INFO] [moze_intel.projecte.PECore/]: Found and loaded EMC mapper: APICustomEMCMapper, with priority 0
+[18Dec2024 22:50:50.228] [modloading-worker-0/INFO] [Spartan Shields/]: Setting up Spartan Shields!
+[18Dec2024 22:50:50.233] [modloading-worker-0/INFO] [moze_intel.projecte.PECore/]: Found and loaded RecipeType Mapper: VanillaRecipeTypes, with priority 0
+[18Dec2024 22:50:50.235] [modloading-worker-0/INFO] [moze_intel.projecte.PECore/]: Found and loaded RecipeType Mapper: Smithing, with priority 0
+[18Dec2024 22:50:50.235] [modloading-worker-0/INFO] [moze_intel.projecte.PECore/]: Found and loaded RecipeType Mapper: FallbackRecipeType, with priority -2147483648
+[18Dec2024 22:50:50.242] [modloading-worker-0/INFO] [moze_intel.projecte.PECore/]: Found and loaded NBT Processor: StoredEMCProcessor, with priority 0
+[18Dec2024 22:50:50.243] [modloading-worker-0/INFO] [moze_intel.projecte.PECore/]: Found and loaded NBT Processor: EnchantmentProcessor, with priority 0
+[18Dec2024 22:50:50.247] [modloading-worker-0/INFO] [moze_intel.projecte.PECore/]: Found and loaded NBT Processor: DamageProcessor, with priority 2147483647
+[18Dec2024 22:50:50.247] [modloading-worker-0/INFO] [com.brutalbosses.BrutalBosses/]: brutalbosses mod initialized
+[18Dec2024 22:50:50.263] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[18Dec2024 22:50:50.266] [modloading-worker-0/INFO] [firstaid/]: firstaid starting...
+[18Dec2024 22:50:50.547] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.19.2
+[18Dec2024 22:50:50.830] [main/INFO] [terrablender/]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[18Dec2024 22:50:50.831] [main/INFO] [terrablender/]: Registered region minecraft:nether to index 0 for type NETHER
+[18Dec2024 22:50:50.831] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[18Dec2024 22:50:50.832] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[18Dec2024 22:50:50.832] [main/INFO] [terrablender/]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[18Dec2024 22:50:50.833] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[18Dec2024 22:50:50.833] [main/INFO] [terrablender/]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[18Dec2024 22:50:51.016] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[18Dec2024 22:50:51.016] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[18Dec2024 22:50:51.021] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[18Dec2024 22:50:51.021] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[18Dec2024 22:50:51.045] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA_OUTDATED Current: 13.0.14 Target: 13.0.20
+[18Dec2024 22:50:51.045] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Starting version check at https://mrcrayfish.com/modupdatejson?id=goblintraders
+[18Dec2024 22:50:51.527] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [goblintraders] Found status: BETA Current: 1.8.0 Target: 1.8.0
+[18Dec2024 22:50:51.528] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [projecte] Starting version check at https://raw.githubusercontent.com/sinkillerj/ProjectE/mc1.19.x/update.json
+[18Dec2024 22:50:51.624] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [projecte] Found status: UP_TO_DATE Current: 1.1.0 Target: null
+[18Dec2024 22:50:51.625] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Starting version check at https://raw.githubusercontent.com/Autovw/ModUpdates/master/advancednetherite/update.json
+[18Dec2024 22:50:51.639] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [advancednetherite] Found status: BETA Current: 1.14.7 Target: 1.14.7
+[18Dec2024 22:50:51.640] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[18Dec2024 22:50:51.689] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: AHEAD Current: 8.2.41 Target: null
+[18Dec2024 22:50:51.690] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.19.2
+[18Dec2024 22:50:51.794] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 16.3.20 Target: 16.3.20
+[18Dec2024 22:50:51.794] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[18Dec2024 22:50:52.156] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.7.12 Target: 0.7.12
+[18Dec2024 22:50:52.156] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[18Dec2024 22:50:52.352] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 43.4.2 Target: 43.4.6
+[18Dec2024 22:50:53.640] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[18Dec2024 22:50:53.845] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: avaritia:compressed_crafting_table Expected: 1337 Got: 1894
+[18Dec2024 22:50:53.846] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: avaritia:double_compressed_crafting_table Expected: 1338 Got: 1895
+[18Dec2024 22:50:53.846] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: avaritia:neutron Expected: 1339 Got: 1896
+[18Dec2024 22:50:53.846] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: avaritia:infinity Expected: 1340 Got: 1897
+[18Dec2024 22:50:53.847] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: avaritia:crystal_matrix Expected: 1341 Got: 1898
+[18Dec2024 22:50:53.847] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: avaritia:extreme_crafting_table Expected: 1342 Got: 1899
+[18Dec2024 22:50:53.847] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: avaritia:neutron_collector Expected: 1343 Got: 1900
+[18Dec2024 22:50:53.848] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: avaritia:neutron_compressor Expected: 1344 Got: 1901
+[18Dec2024 22:50:53.848] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: projecte:alchemical_chest Expected: 1677 Got: 1902
+[18Dec2024 22:50:53.848] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: projecte:alchemical_coal_block Expected: 1678 Got: 1903
+[18Dec2024 22:50:53.848] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: projecte:mobius_fuel_block Expected: 1679 Got: 1904
+[18Dec2024 22:50:53.849] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: projecte:aeternalis_fuel_block Expected: 1680 Got: 1905
+[18Dec2024 22:50:53.849] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: projecte:collector_mk1 Expected: 1681 Got: 1906
+[18Dec2024 22:50:53.849] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: projecte:collector_mk2 Expected: 1682 Got: 1907
+[18Dec2024 22:50:53.849] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: projecte:collector_mk3 Expected: 1683 Got: 1908
+[18Dec2024 22:50:53.850] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: projecte:condenser_mk1 Expected: 1684 Got: 1909
+[18Dec2024 22:50:53.850] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: projecte:condenser_mk2 Expected: 1685 Got: 1910
+[18Dec2024 22:50:53.850] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: projecte:dm_pedestal Expected: 1686 Got: 1911
+[18Dec2024 22:50:53.851] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: projecte:dm_furnace Expected: 1687 Got: 1912
+[18Dec2024 22:50:53.851] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: projecte:rm_furnace Expected: 1688 Got: 1913
+[18Dec2024 22:50:53.851] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: projecte:dark_matter_block Expected: 1689 Got: 1914
+[18Dec2024 22:50:53.851] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: projecte:red_matter_block Expected: 1690 Got: 1915
+[18Dec2024 22:50:53.852] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: projecte:interdiction_torch Expected: 1691 Got: 1916
+[18Dec2024 22:50:53.852] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: projecte:wall_interdiction_torch Expected: 1692 Got: 1917
+[18Dec2024 22:50:53.852] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: projecte:nova_catalyst Expected: 1693 Got: 1918
+[18Dec2024 22:50:53.853] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: projecte:nova_cataclysm Expected: 1694 Got: 1919
+[18Dec2024 22:50:53.853] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: projecte:transmutation_table Expected: 1695 Got: 1920
+[18Dec2024 22:50:53.853] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: projecte:relay_mk1 Expected: 1696 Got: 1921
+[18Dec2024 22:50:53.853] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: projecte:relay_mk2 Expected: 1697 Got: 1922
+[18Dec2024 22:50:53.854] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: projecte:relay_mk3 Expected: 1698 Got: 1923
+[18Dec2024 22:50:53.856] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: avaritia:infinity_pickaxe Expected: 1793 Got: 3531
+[18Dec2024 22:50:53.856] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: avaritia:infinity_shovel Expected: 1794 Got: 3532
+[18Dec2024 22:50:53.856] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: avaritia:infinity_axe Expected: 1795 Got: 3533
+[18Dec2024 22:50:53.857] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: avaritia:infinity_hoe Expected: 1796 Got: 3534
+[18Dec2024 22:50:53.857] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: avaritia:matter_cluster Expected: 1797 Got: 3535
+[18Dec2024 22:50:53.857] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: avaritia:infinity_sword Expected: 1798 Got: 3536
+[18Dec2024 22:50:53.857] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: avaritia:skull_fire_sword Expected: 1799 Got: 3537
+[18Dec2024 22:50:53.857] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: avaritia:infinity_bow Expected: 1800 Got: 3538
+[18Dec2024 22:50:53.858] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: avaritia:infinity_helmet Expected: 1801 Got: 3539
+[18Dec2024 22:50:53.858] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: avaritia:infinity_chestplate Expected: 1802 Got: 3540
+[18Dec2024 22:50:53.858] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: avaritia:infinity_pants Expected: 1803 Got: 3541
+[18Dec2024 22:50:53.858] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: avaritia:infinity_boots Expected: 1804 Got: 3542
+[18Dec2024 22:50:53.859] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: avaritia:ultimate_stew Expected: 1805 Got: 3543
+[18Dec2024 22:50:53.859] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: avaritia:cosmic_meatballs Expected: 1806 Got: 3544
+[18Dec2024 22:50:53.859] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: avaritia:endest_pearl Expected: 1807 Got: 3545
+[18Dec2024 22:50:53.859] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: avaritia:diamond_lattice Expected: 1808 Got: 3546
+[18Dec2024 22:50:53.860] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: avaritia:crystal_matrix_ingot Expected: 1809 Got: 3547
+[18Dec2024 22:50:53.860] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: avaritia:neutron_pile Expected: 1810 Got: 3548
+[18Dec2024 22:50:53.860] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: avaritia:neutron_nugget Expected: 1811 Got: 3549
+[18Dec2024 22:50:53.860] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: avaritia:neutron_ingot Expected: 1812 Got: 3550
+[18Dec2024 22:50:53.861] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: avaritia:neutron_gear Expected: 1813 Got: 3551
+[18Dec2024 22:50:53.861] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: avaritia:infinity_nugget Expected: 1814 Got: 3552
+[18Dec2024 22:50:53.861] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: avaritia:infinity_catalyst Expected: 1815 Got: 3553
+[18Dec2024 22:50:53.861] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: avaritia:infinity_ingot Expected: 1816 Got: 3554
+[18Dec2024 22:50:53.862] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: avaritia:star_fuel Expected: 1817 Got: 3555
+[18Dec2024 22:50:53.862] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: avaritia:record_fragment Expected: 1818 Got: 3556
+[18Dec2024 22:50:53.862] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: avaritia:singularity Expected: 1819 Got: 3557
+[18Dec2024 22:50:53.862] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: avaritia:compressed_crafting_table Expected: 1820 Got: 3558
+[18Dec2024 22:50:53.862] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: avaritia:double_compressed_crafting_table Expected: 1821 Got: 3559
+[18Dec2024 22:50:53.863] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: avaritia:neutron Expected: 1822 Got: 3560
+[18Dec2024 22:50:53.863] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: avaritia:infinity Expected: 1823 Got: 3561
+[18Dec2024 22:50:53.863] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: avaritia:crystal_matrix Expected: 1824 Got: 3562
+[18Dec2024 22:50:53.864] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: avaritia:extreme_crafting_table Expected: 1825 Got: 3563
+[18Dec2024 22:50:53.864] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: avaritia:neutron_collector Expected: 1826 Got: 3564
+[18Dec2024 22:50:53.864] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: avaritia:neutron_compressor Expected: 1827 Got: 3565
+[18Dec2024 22:50:53.864] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:alchemical_chest Expected: 2177 Got: 3566
+[18Dec2024 22:50:53.864] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:alchemical_coal_block Expected: 2178 Got: 3567
+[18Dec2024 22:50:53.864] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:mobius_fuel_block Expected: 2179 Got: 3568
+[18Dec2024 22:50:53.865] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:aeternalis_fuel_block Expected: 2180 Got: 3569
+[18Dec2024 22:50:53.865] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:collector_mk1 Expected: 2181 Got: 3570
+[18Dec2024 22:50:53.865] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:collector_mk2 Expected: 2182 Got: 3571
+[18Dec2024 22:50:53.865] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:collector_mk3 Expected: 2183 Got: 3572
+[18Dec2024 22:50:53.866] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:condenser_mk1 Expected: 2184 Got: 3573
+[18Dec2024 22:50:53.866] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:condenser_mk2 Expected: 2185 Got: 3574
+[18Dec2024 22:50:53.866] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:dm_pedestal Expected: 2186 Got: 3575
+[18Dec2024 22:50:53.866] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:dm_furnace Expected: 2187 Got: 3576
+[18Dec2024 22:50:53.866] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:rm_furnace Expected: 2188 Got: 3577
+[18Dec2024 22:50:53.867] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:dark_matter_block Expected: 2189 Got: 3578
+[18Dec2024 22:50:53.867] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:red_matter_block Expected: 2190 Got: 3579
+[18Dec2024 22:50:53.867] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:interdiction_torch Expected: 2191 Got: 3580
+[18Dec2024 22:50:53.867] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:nova_catalyst Expected: 2192 Got: 3581
+[18Dec2024 22:50:53.867] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:nova_cataclysm Expected: 2193 Got: 3582
+[18Dec2024 22:50:53.867] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:transmutation_table Expected: 2194 Got: 3583
+[18Dec2024 22:50:53.868] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:relay_mk1 Expected: 2195 Got: 3584
+[18Dec2024 22:50:53.868] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:relay_mk2 Expected: 2196 Got: 3585
+[18Dec2024 22:50:53.868] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:relay_mk3 Expected: 2197 Got: 3586
+[18Dec2024 22:50:53.868] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:philosophers_stone Expected: 2198 Got: 3587
+[18Dec2024 22:50:53.869] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:repair_talisman Expected: 2199 Got: 3588
+[18Dec2024 22:50:53.869] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:white_alchemical_bag Expected: 2200 Got: 3589
+[18Dec2024 22:50:53.869] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:orange_alchemical_bag Expected: 2201 Got: 3590
+[18Dec2024 22:50:53.869] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:magenta_alchemical_bag Expected: 2202 Got: 3591
+[18Dec2024 22:50:53.869] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:light_blue_alchemical_bag Expected: 2203 Got: 3592
+[18Dec2024 22:50:53.869] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:yellow_alchemical_bag Expected: 2204 Got: 3593
+[18Dec2024 22:50:53.870] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:lime_alchemical_bag Expected: 2205 Got: 3594
+[18Dec2024 22:50:53.870] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:pink_alchemical_bag Expected: 2206 Got: 3595
+[18Dec2024 22:50:53.870] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:gray_alchemical_bag Expected: 2207 Got: 3596
+[18Dec2024 22:50:53.870] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:light_gray_alchemical_bag Expected: 2208 Got: 3597
+[18Dec2024 22:50:53.870] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:cyan_alchemical_bag Expected: 2209 Got: 3598
+[18Dec2024 22:50:53.870] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:purple_alchemical_bag Expected: 2210 Got: 3599
+[18Dec2024 22:50:53.871] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:blue_alchemical_bag Expected: 2211 Got: 3600
+[18Dec2024 22:50:53.871] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:brown_alchemical_bag Expected: 2212 Got: 3601
+[18Dec2024 22:50:53.871] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:green_alchemical_bag Expected: 2213 Got: 3602
+[18Dec2024 22:50:53.871] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:red_alchemical_bag Expected: 2214 Got: 3603
+[18Dec2024 22:50:53.871] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:black_alchemical_bag Expected: 2215 Got: 3604
+[18Dec2024 22:50:53.872] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:klein_star_ein Expected: 2216 Got: 3605
+[18Dec2024 22:50:53.872] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:klein_star_zwei Expected: 2217 Got: 3606
+[18Dec2024 22:50:53.872] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:klein_star_drei Expected: 2218 Got: 3607
+[18Dec2024 22:50:53.872] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:klein_star_vier Expected: 2219 Got: 3608
+[18Dec2024 22:50:53.872] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:klein_star_sphere Expected: 2220 Got: 3609
+[18Dec2024 22:50:53.872] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:klein_star_omega Expected: 2221 Got: 3610
+[18Dec2024 22:50:53.873] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:alchemical_coal Expected: 2222 Got: 3611
+[18Dec2024 22:50:53.873] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:mobius_fuel Expected: 2223 Got: 3612
+[18Dec2024 22:50:53.873] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:aeternalis_fuel Expected: 2224 Got: 3613
+[18Dec2024 22:50:53.873] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:low_covalence_dust Expected: 2225 Got: 3614
+[18Dec2024 22:50:53.874] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:medium_covalence_dust Expected: 2226 Got: 3615
+[18Dec2024 22:50:53.874] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:high_covalence_dust Expected: 2227 Got: 3616
+[18Dec2024 22:50:53.874] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:dark_matter Expected: 2228 Got: 3617
+[18Dec2024 22:50:53.874] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:red_matter Expected: 2229 Got: 3618
+[18Dec2024 22:50:53.874] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:dm_pick Expected: 2230 Got: 3619
+[18Dec2024 22:50:53.874] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:dm_axe Expected: 2231 Got: 3620
+[18Dec2024 22:50:53.875] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:dm_shovel Expected: 2232 Got: 3621
+[18Dec2024 22:50:53.875] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:dm_sword Expected: 2233 Got: 3622
+[18Dec2024 22:50:53.875] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:dm_hoe Expected: 2234 Got: 3623
+[18Dec2024 22:50:53.875] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:dm_shears Expected: 2235 Got: 3624
+[18Dec2024 22:50:53.875] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:dm_hammer Expected: 2236 Got: 3625
+[18Dec2024 22:50:53.876] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:rm_pick Expected: 2237 Got: 3626
+[18Dec2024 22:50:53.876] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:rm_axe Expected: 2238 Got: 3627
+[18Dec2024 22:50:53.876] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:rm_shovel Expected: 2239 Got: 3628
+[18Dec2024 22:50:53.876] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:rm_sword Expected: 2240 Got: 3629
+[18Dec2024 22:50:53.876] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:rm_hoe Expected: 2241 Got: 3630
+[18Dec2024 22:50:53.877] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:rm_shears Expected: 2242 Got: 3631
+[18Dec2024 22:50:53.877] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:rm_hammer Expected: 2243 Got: 3632
+[18Dec2024 22:50:53.877] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:rm_katar Expected: 2244 Got: 3633
+[18Dec2024 22:50:53.877] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:rm_morning_star Expected: 2245 Got: 3634
+[18Dec2024 22:50:53.877] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:dm_helmet Expected: 2246 Got: 3635
+[18Dec2024 22:50:53.877] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:dm_chestplate Expected: 2247 Got: 3636
+[18Dec2024 22:50:53.878] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:dm_leggings Expected: 2248 Got: 3637
+[18Dec2024 22:50:53.878] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:dm_boots Expected: 2249 Got: 3638
+[18Dec2024 22:50:53.878] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:rm_helmet Expected: 2250 Got: 3639
+[18Dec2024 22:50:53.878] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:rm_chestplate Expected: 2251 Got: 3640
+[18Dec2024 22:50:53.878] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:rm_leggings Expected: 2252 Got: 3641
+[18Dec2024 22:50:53.879] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:rm_boots Expected: 2253 Got: 3642
+[18Dec2024 22:50:53.879] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:gem_helmet Expected: 2254 Got: 3643
+[18Dec2024 22:50:53.879] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:gem_chestplate Expected: 2255 Got: 3644
+[18Dec2024 22:50:53.879] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:gem_leggings Expected: 2256 Got: 3645
+[18Dec2024 22:50:53.880] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:gem_boots Expected: 2257 Got: 3646
+[18Dec2024 22:50:53.880] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:iron_band Expected: 2258 Got: 3647
+[18Dec2024 22:50:53.880] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:black_hole_band Expected: 2259 Got: 3648
+[18Dec2024 22:50:53.880] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:archangel_smite Expected: 2260 Got: 3649
+[18Dec2024 22:50:53.880] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:harvest_goddess_band Expected: 2261 Got: 3650
+[18Dec2024 22:50:53.881] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:ignition_ring Expected: 2262 Got: 3651
+[18Dec2024 22:50:53.881] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:zero_ring Expected: 2263 Got: 3652
+[18Dec2024 22:50:53.881] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:swiftwolf_rending_gale Expected: 2264 Got: 3653
+[18Dec2024 22:50:53.881] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:watch_of_flowing_time Expected: 2265 Got: 3654
+[18Dec2024 22:50:53.881] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:evertide_amulet Expected: 2266 Got: 3655
+[18Dec2024 22:50:53.882] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:volcanite_amulet Expected: 2267 Got: 3656
+[18Dec2024 22:50:53.882] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:gem_of_eternal_density Expected: 2268 Got: 3657
+[18Dec2024 22:50:53.882] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:mercurial_eye Expected: 2269 Got: 3658
+[18Dec2024 22:50:53.882] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:void_ring Expected: 2270 Got: 3659
+[18Dec2024 22:50:53.882] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:arcana_ring Expected: 2271 Got: 3660
+[18Dec2024 22:50:53.882] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:body_stone Expected: 2272 Got: 3661
+[18Dec2024 22:50:53.883] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:soul_stone Expected: 2273 Got: 3662
+[18Dec2024 22:50:53.883] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:mind_stone Expected: 2274 Got: 3663
+[18Dec2024 22:50:53.883] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:life_stone Expected: 2275 Got: 3664
+[18Dec2024 22:50:53.883] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:divining_rod_1 Expected: 2276 Got: 3665
+[18Dec2024 22:50:53.883] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:divining_rod_2 Expected: 2277 Got: 3666
+[18Dec2024 22:50:53.883] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:divining_rod_3 Expected: 2278 Got: 3667
+[18Dec2024 22:50:53.884] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:destruction_catalyst Expected: 2279 Got: 3668
+[18Dec2024 22:50:53.884] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:hyperkinetic_lens Expected: 2280 Got: 3669
+[18Dec2024 22:50:53.884] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:catalytic_lens Expected: 2281 Got: 3670
+[18Dec2024 22:50:53.884] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:tome Expected: 2282 Got: 3671
+[18Dec2024 22:50:53.884] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:item: Object did not get ID it asked for. Name: projecte:transmutation_tablet Expected: 2283 Got: 3672
+[18Dec2024 22:50:53.885] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: projecte:windmagic Expected: 1632 Got: 1656
+[18Dec2024 22:50:53.885] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: projecte:watermagic Expected: 1633 Got: 1657
+[18Dec2024 22:50:53.885] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: projecte:power Expected: 1634 Got: 1658
+[18Dec2024 22:50:53.886] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: projecte:heal Expected: 1635 Got: 1659
+[18Dec2024 22:50:53.886] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: projecte:destruct Expected: 1636 Got: 1660
+[18Dec2024 22:50:53.886] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: projecte:charge Expected: 1637 Got: 1661
+[18Dec2024 22:50:53.886] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: projecte:uncharge Expected: 1638 Got: 1662
+[18Dec2024 22:50:53.886] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:sound_event: Object did not get ID it asked for. Name: projecte:transmute Expected: 1639 Got: 1663
+[18Dec2024 22:50:53.887] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: avaritia:immortal Expected: 161 Got: 238
+[18Dec2024 22:50:53.887] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: avaritia:enderst_pearl Expected: 162 Got: 239
+[18Dec2024 22:50:53.887] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: avaritia:gaping_void Expected: 163 Got: 240
+[18Dec2024 22:50:53.887] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: avaritia:heaven_arrow Expected: 164 Got: 241
+[18Dec2024 22:50:53.887] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: avaritia:heaven_sub_arrow Expected: 165 Got: 242
+[18Dec2024 22:50:53.887] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: projecte:fire_projectile Expected: 170 Got: 243
+[18Dec2024 22:50:53.887] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: projecte:homing_arrow Expected: 171 Got: 244
+[18Dec2024 22:50:53.888] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: projecte:lava_projectile Expected: 172 Got: 245
+[18Dec2024 22:50:53.888] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: projecte:lens_projectile Expected: 173 Got: 246
+[18Dec2024 22:50:53.888] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: projecte:mob_randomizer Expected: 174 Got: 247
+[18Dec2024 22:50:53.888] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: projecte:nova_catalyst_primed Expected: 175 Got: 248
+[18Dec2024 22:50:53.888] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: projecte:nova_cataclysm_primed Expected: 176 Got: 249
+[18Dec2024 22:50:53.888] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: projecte:swrg_projectile Expected: 177 Got: 250
+[18Dec2024 22:50:53.889] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:entity_type: Object did not get ID it asked for. Name: projecte:water_projectile Expected: 178 Got: 251
+[18Dec2024 22:50:55.778] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/pobre/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23173!/assets/.mcassetsroot' uses unexpected schema
+[18Dec2024 22:50:55.779] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/pobre/servidor_minecraft/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23173!/data/.mcassetsroot' uses unexpected schema
+[18Dec2024 22:50:55.779] [main/ERROR] [net.minecraft.server.packs.VanillaPackResources/]: File /things/.mcassetsroot does not exist in classpath
+[18Dec2024 22:50:58.771] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
+[18Dec2024 22:50:59.783] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe projecte:tome_alt as it's serializer returned null
+[18Dec2024 22:50:59.821] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe projecte:tome as it's serializer returned null
+[18Dec2024 22:50:59.864] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 22 recipes
+[18Dec2024 22:51:00.117] [main/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[18Dec2024 22:51:00.129] [main/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[18Dec2024 22:51:00.207] [main/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[18Dec2024 22:51:00.438] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/spartanshields/basic_mekanists_basic_shield: Unknown item id 'mekanism:energy_tablet'
+[18Dec2024 22:51:00.457] [main/ERROR] [net.minecraft.server.ServerAdvancementManager/]: Parsing error loading custom advancement spartanshields:recipes/spartanshields/basic_mekanists_tower_shield: Unknown item id 'mekanism:energy_tablet'
+[18Dec2024 22:51:00.560] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2884 advancements
+[18Dec2024 22:51:00.572] [main/INFO] [committee.nova.mods.avaritia.Static/]: Skipping loading Singularity avaritia:steel as its conditions were not met
+[18Dec2024 22:51:00.573] [main/INFO] [committee.nova.mods.avaritia.Static/]: Skipping loading Singularity avaritia:tin as its conditions were not met
+[18Dec2024 22:51:00.573] [main/INFO] [committee.nova.mods.avaritia.Static/]: Skipping loading Singularity avaritia:bronze as its conditions were not met
+[18Dec2024 22:51:00.574] [main/INFO] [committee.nova.mods.avaritia.Static/]: Skipping loading Singularity avaritia:platinum as its conditions were not met
+[18Dec2024 22:51:00.575] [main/INFO] [committee.nova.mods.avaritia.Static/]: Skipping loading Singularity avaritia:nickel as its conditions were not met
+[18Dec2024 22:51:00.575] [main/INFO] [committee.nova.mods.avaritia.Static/]: Skipping loading Singularity avaritia:lead as its conditions were not met
+[18Dec2024 22:51:00.575] [main/INFO] [committee.nova.mods.avaritia.Static/]: Skipping loading Singularity avaritia:aluminum as its conditions were not met
+[18Dec2024 22:51:00.575] [main/INFO] [committee.nova.mods.avaritia.Static/]: Skipping loading Singularity avaritia:electrum as its conditions were not met
+[18Dec2024 22:51:00.576] [main/INFO] [committee.nova.mods.avaritia.Static/]: Skipping loading Singularity avaritia:invar as its conditions were not met
+[18Dec2024 22:51:00.576] [main/INFO] [committee.nova.mods.avaritia.Static/]: Loaded 10 singularity type(s) in 11 ms
+[18Dec2024 22:51:00.624] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 131 dynamic modifiers and 0 modifier redirects in 41.1786 ms
+[18Dec2024 22:51:00.631] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 38 modifier tags for 145 modifiers in 6.751438 ms
+[18Dec2024 22:51:00.631] [main/INFO] [slimeknights.tconstruct.library.modifiers.ModifierManager/]: Loaded 50 enchantment to modifier mappings in 0.770517 ms
+[18Dec2024 22:51:00.633] [main/WARN] [Mantle/]: Using deprecated key 'name' for fluid ingredient, use 'fluid' instead. This will be removed in the future
+[18Dec2024 22:51:00.634] [main/INFO] [tconstruct/]: Loaded 50 spilling fluids in 2.234676 ms
+[18Dec2024 22:51:00.636] [main/INFO] [slimeknights.mantle.fluid.transfer.FluidContainerTransferManager/]: Loaded 24 dynamic modifiers in 2.27423 ms
+[18Dec2024 22:51:00.661] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:drowned
+[18Dec2024 22:51:00.662] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:iron_golem
+[18Dec2024 22:51:00.662] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:snow_golem
+[18Dec2024 22:51:00.662] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
+[18Dec2024 22:51:00.662] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:skeleton
+[18Dec2024 22:51:00.662] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:pillager
+[18Dec2024 22:51:00.662] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vex
+[18Dec2024 22:51:00.662] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:evoker
+[18Dec2024 22:51:00.662] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
+[18Dec2024 22:51:00.663] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vindicator
+[18Dec2024 22:51:00.663] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wither_skeleton
+[18Dec2024 22:51:00.663] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wither_skeleton
+[18Dec2024 22:51:00.663] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:cave_spider
+[18Dec2024 22:51:00.663] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zombie
+[18Dec2024 22:51:00.663] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:husk
+[18Dec2024 22:51:00.664] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:evoker
+[18Dec2024 22:51:00.664] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:wandering_trader
+[18Dec2024 22:51:00.664] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:guardian
+[18Dec2024 22:51:00.664] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:vindicator
+[18Dec2024 22:51:00.664] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:shulker
+[18Dec2024 22:51:00.664] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:zoglin
+[18Dec2024 22:51:00.664] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:chicken
+[18Dec2024 22:51:00.664] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:blaze
+[18Dec2024 22:51:00.665] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:witch
+[18Dec2024 22:51:00.665] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:phantom
+[18Dec2024 22:51:00.665] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:mooshroom
+[18Dec2024 22:51:00.665] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:rabbit
+[18Dec2024 22:51:00.665] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:piglin_brute
+[18Dec2024 22:51:00.665] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:ghast
+[18Dec2024 22:51:00.665] [main/INFO] [com.brutalbosses.BrutalBosses/]: Loaded boss variant for: minecraft:stray
+[18Dec2024 22:51:00.679] [main/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 50 materials in 4.662303 ms
+[18Dec2024 22:51:00.680] [main/INFO] [slimeknights.tconstruct.library.materials.definition.MaterialManager/]: Loaded 1 material tags for 19 materials in 0.96555 ms
+[18Dec2024 22:51:00.688] [main/INFO] [slimeknights.tconstruct.library.materials.stats.MaterialStatsManager/]: 359 stats loaded for 62 materials in 7.79259 ms
+[18Dec2024 22:51:00.700] [main/INFO] [slimeknights.tconstruct.library.materials.traits.MaterialTraitsManager/]: 195 traits loaded for 62 materials in 11.578622 ms
+[18Dec2024 22:51:00.712] [main/INFO] [slimeknights.tconstruct.library.tools.definition.ToolDefinitionLoader/]: Loaded 48 tool definitions in 12.064892 ms
+[18Dec2024 22:51:00.719] [main/INFO] [slimeknights.tconstruct.library.tools.layout.StationSlotLayoutLoader/]: Loaded 24 station slot layouts in 6.79572 ms
+[18Dec2024 22:51:01.989] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 4.439617ms
+[18Dec2024 22:51:02.123] [main/INFO] [moze_intel.projecte.PECore/]: Considering file projecte:pe_custom_conversions/defaults.json, ID projecte:defaults
+[18Dec2024 22:51:02.134] [main/INFO] [moze_intel.projecte.PECore/]: Considering file projecte:pe_custom_conversions/metals.json, ID projecte:metals
+[18Dec2024 22:51:02.267] [main/WARN] [moze_intel.projecte.PECore/]: EMC Exploit: "0 + 9*Item: minecraft:gold_nugget => 1*Item: minecraft:gold_ingot" ingredient cost: 2043 value of result: 2048 setValueFromConversion: 0 + 8*Item Tag: forge:ingots/iron => 1*Item: minecraft:gold_ingot
+[18Dec2024 22:51:02.274] [main/WARN] [moze_intel.projecte.PECore/]: EMC Exploit: "0 + 9*Item: iceandfire:copper_nugget => 1*Item: minecraft:copper_ingot" ingredient cost: 126 value of result: 128 setValueFromConversion: 0 + 1*Item Tag: forge:ingots/iron => 2*Item: minecraft:copper_ingot
+[18Dec2024 22:51:02.275] [main/WARN] [moze_intel.projecte.PECore/]: EMC Exploit: "0 + 8*NSSFAKE:craftingMapper/29 + 1*Item: tconstruct:copper_nugget => 1*Item: minecraft:copper_ingot" ingredient cost: 126 value of result: 128 setValueFromConversion: 0 + 1*Item Tag: forge:ingots/iron => 2*Item: minecraft:copper_ingot
+[18Dec2024 22:51:02.291] [main/WARN] [moze_intel.projecte.PECore/]: EMC Exploit: ingredients (0 + 9*Item: minecraft:iron_nugget => 1*Item: minecraft:iron_ingot) cost 252 but output value is 256
+[18Dec2024 22:51:02.296] [main/WARN] [moze_intel.projecte.PECore/]: EMC Exploit: ingredients (0 + 9*Item: minecraft:disc_fragment_5 => 1*Item: minecraft:music_disc_5) cost 2043 but output value is 2048
+[18Dec2024 22:51:02.296] [main/WARN] [moze_intel.projecte.PECore/]: EMC Exploit: "0 + 9*Item: iceandfire:silver_nugget => 1*Item: iceandfire:silver_ingot" ingredient cost: 504 value of result: 512 setValueFromConversion: 0 + 2*Item Tag: forge:ingots/iron => 1*Item: iceandfire:silver_ingot
+[18Dec2024 22:51:02.297] [main/WARN] [moze_intel.projecte.PECore/]: EMC Exploit: ingredients (0 + 1*Item: minecraft:cobblestone + 1*Item: minecraft:diorite => 2*Item: minecraft:andesite) cost 17 but output value is 16
+[18Dec2024 22:51:02.308] [main/INFO] [moze_intel.projecte.PECore/]: Registered 2092 EMC values. (took 319 ms)
+[18Dec2024 22:51:02.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
+[18Dec2024 22:51:02.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[18Dec2024 22:51:02.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[18Dec2024 22:51:02.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[18Dec2024 22:51:02.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[18Dec2024 22:51:02.522] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[18Dec2024 22:51:02.661] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[18Dec2024 22:51:02.662] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[18Dec2024 22:51:02.662] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[18Dec2024 22:51:02.662] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[18Dec2024 22:51:02.683] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/pobre/servidor_minecraft/config/ProjectE/server.toml is not correct. Correcting
+[18Dec2024 22:51:02.684] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18Dec2024 22:51:02.685] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.difficulty was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18Dec2024 22:51:02.685] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.difficulty.offensiveAbilities was corrected from null to its default, false. 
+[18Dec2024 22:51:02.685] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.difficulty.katarDeathAura was corrected from null to its default, 1000.0. 
+[18Dec2024 22:51:02.686] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.difficulty.covalenceLoss was corrected from null to its default, 1.0. 
+[18Dec2024 22:51:02.686] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.difficulty.covalenceLossRounding was corrected from null to its default, true. 
+[18Dec2024 22:51:02.686] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.items was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18Dec2024 22:51:02.687] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.items.pickaxeAoeVeinMining was corrected from null to its default, false. 
+[18Dec2024 22:51:02.687] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.items.harvBandGrass was corrected from null to its default, false. 
+[18Dec2024 22:51:02.687] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.items.disableAllRadiusMining was corrected from null to its default, false. 
+[18Dec2024 22:51:02.687] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.items.enableTimeWatch was corrected from null to its default, true. 
+[18Dec2024 22:51:02.688] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.items.opEvertide was corrected from null to its default, false. 
+[18Dec2024 22:51:02.688] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.effects was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18Dec2024 22:51:02.688] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.effects.timePedBonus was corrected from null to its default, 18. 
+[18Dec2024 22:51:02.688] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.effects.timePedMobSlowness was corrected from null to its default, 0.1. 
+[18Dec2024 22:51:02.689] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.effects.interdictionMode was corrected from null to its default, true. 
+[18Dec2024 22:51:02.689] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.misc was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18Dec2024 22:51:02.689] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.misc.unsafeKeyBinds was corrected from null to its default, false. 
+[18Dec2024 22:51:02.689] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.misc.hwylaTOPDisplay was corrected from null to its default, true. 
+[18Dec2024 22:51:02.690] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.cooldown was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18Dec2024 22:51:02.690] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.cooldown.cooldown was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18Dec2024 22:51:02.690] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.cooldown.cooldown.pedestal was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18Dec2024 22:51:02.691] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.cooldown.cooldown.pedestal.archangel was corrected from null to its default, 40. 
+[18Dec2024 22:51:02.691] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.cooldown.cooldown.pedestal.body was corrected from null to its default, 10. 
+[18Dec2024 22:51:02.691] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.cooldown.cooldown.pedestal.evertide was corrected from null to its default, 20. 
+[18Dec2024 22:51:02.691] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.cooldown.cooldown.pedestal.harvest was corrected from null to its default, 10. 
+[18Dec2024 22:51:02.692] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.cooldown.cooldown.pedestal.ignition was corrected from null to its default, 40. 
+[18Dec2024 22:51:02.692] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.cooldown.cooldown.pedestal.life was corrected from null to its default, 5. 
+[18Dec2024 22:51:02.692] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.cooldown.cooldown.pedestal.repair was corrected from null to its default, 20. 
+[18Dec2024 22:51:02.692] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.cooldown.cooldown.pedestal.swrg was corrected from null to its default, 70. 
+[18Dec2024 22:51:02.693] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.cooldown.cooldown.pedestal.soul was corrected from null to its default, 10. 
+[18Dec2024 22:51:02.693] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.cooldown.cooldown.pedestal.volcanite was corrected from null to its default, 20. 
+[18Dec2024 22:51:02.693] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.cooldown.cooldown.pedestal.zero was corrected from null to its default, 40. 
+[18Dec2024 22:51:02.694] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.cooldown.cooldown.player was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18Dec2024 22:51:02.694] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.cooldown.cooldown.player.projectile was corrected from null to its default, 0. 
+[18Dec2024 22:51:02.694] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.cooldown.cooldown.player.gemChest was corrected from null to its default, 0. 
+[18Dec2024 22:51:02.694] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.cooldown.cooldown.player.repair was corrected from null to its default, 20. 
+[18Dec2024 22:51:02.695] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.cooldown.cooldown.player.heal was corrected from null to its default, 20. 
+[18Dec2024 22:51:02.695] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.cooldown.cooldown.player.feed was corrected from null to its default, 20. 
+[18Dec2024 22:51:02.712] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/pobre/servidor_minecraft/config/ProjectE/processing.toml is not correct. Correcting
+[18Dec2024 22:51:02.713] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key processors was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18Dec2024 22:51:02.713] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key processors.DamageProcessor was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18Dec2024 22:51:02.713] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key processors.DamageProcessor.enabled was corrected from null to its default, true. 
+[18Dec2024 22:51:02.714] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key processors.StoredEMCProcessor was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18Dec2024 22:51:02.714] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key processors.StoredEMCProcessor.enabled was corrected from null to its default, true. 
+[18Dec2024 22:51:02.714] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key processors.EnchantmentProcessor was corrected from null to its default, SimpleCommentedConfig:{}. 
+[18Dec2024 22:51:02.714] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key processors.EnchantmentProcessor.enabled was corrected from null to its default, false. 
+[18Dec2024 22:51:02.715] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key processors.EnchantmentProcessor.persistent was corrected from null to its default, false. 
+[18Dec2024 22:51:02.839] [Server thread/INFO] [Framework/]: Loading server configs...
+[18Dec2024 22:51:02.871] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[18Dec2024 22:51:03.413] [Server thread/INFO] [terrablender/]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[18Dec2024 22:51:03.414] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[18Dec2024 22:51:03.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[18Dec2024 22:51:16.726] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 22:51:16.820] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 22:51:16.821] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 22:51:16.823] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 22:51:16.824] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 22:51:16.824] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 22:51:16.825] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 22:51:16.826] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 22:51:16.828] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 22:51:16.828] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 22:51:16.829] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 22:51:16.830] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 22:51:16.831] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 22:51:16.832] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 22:51:16.834] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 22:51:16.840] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 22:51:16.841] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 22:51:16.842] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 22:51:16.842] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 22:51:16.843] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 22:51:16.844] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 22:51:16.845] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 22:51:16.846] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 22:51:16.847] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 22:51:16.848] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 22:51:16.849] [Worker-Main-1/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 22:51:16.850] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[18Dec2024 22:51:17.342] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 6%
+[18Dec2024 22:51:17.842] [Worker-Main-3/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 17%
+[18Dec2024 22:51:18.397] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 14556 ms
+[18Dec2024 22:51:18.399] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (15.725s)! For help, type "help"
+[18Dec2024 22:51:18.837] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[18Dec2024 22:51:18.841] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {iceandfire:fire_dragon_roost=true, iceandfire:fire_lily=true, iceandfire:spawn_dragon_skeleton_fire=true, iceandfire:lightning_dragon_roost=true, iceandfire:spawn_dragon_skeleton_lightning=true, iceandfire:ice_dragon_roost=true, iceandfire:ice_dragon_cave=true, iceandfire:lightning_dragon_cave=true, iceandfire:cyclops_cave=true, iceandfire:spawn_wandering_cyclops=true, iceandfire:spawn_sea_serpent=true, iceandfire:frost_lily=true, iceandfire:hydra_cave=true, iceandfire:lightning_lily=true, iceandfire:pixie_village=true, iceandfire:myrmex_hive_jungle=true, iceandfire:myrmex_hive_desert=true, iceandfire:silver_ore=true, iceandfire:siren_island=true, iceandfire:spawn_dragon_skeleton_ice=true, iceandfire:spawn_stymphalian_bird=true, iceandfire:fire_dragon_cave=true, iceandfire:sapphire_ore=true, iceandfire:spawn_hippocampus=true, iceandfire:spawn_death_worm=true}
+[18Dec2024 22:51:18.841] [Server thread/INFO] [com.github.alexthe666.iceandfire.IceAndFire/]: {TROLL_S=true, HIPPOGRYPH=true, AMPHITHERE=true, COCKATRICE=true, TROLL_M=true, DREAD_LICH=true, TROLL_F=true}
+[18Dec2024 22:51:18.842] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: brutalbosses.json
+[18Dec2024 22:51:47.698] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@73c27714
+[18Dec2024 22:51:47.732] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: percentyack[/127.113.173.157:57341] logged in with entity id 91 at (-4531.407151015268, 64.0, -5342.981595549373)
+[18Dec2024 22:51:47.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack joined the game
+[18Dec2024 22:51:50.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2399ms or 47 ticks behind
+[18Dec2024 22:55:38.274] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5e5f112a
+[18Dec2024 22:55:38.285] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: R3hsk[/127.250.204.19:58683] logged in with entity id 618 at (-4507.357458355931, 66.71673120911866, -5281.164940567423)
+[18Dec2024 22:55:38.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk joined the game
+[18Dec2024 22:56:26.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[18Dec2024 22:57:07.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Best Friends Forever]
+[18Dec2024 22:57:43.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[18Dec2024 22:58:25.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[18Dec2024 22:58:50.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set the weather to rain & thunder]
+[18Dec2024 22:59:58.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
