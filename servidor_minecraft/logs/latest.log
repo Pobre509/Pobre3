@@ -495,3 +495,21 @@
 [18Dec2024 22:58:25.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
 [18Dec2024 22:58:50.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set the weather to rain & thunder]
 [18Dec2024 22:59:58.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[18Dec2024 23:00:24.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Summoned new Iron Golem]
+[18Dec2024 23:00:37.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[18Dec2024 23:02:40.360] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/100, l='ServerLevel[world]', x=-4520.59, y=59.00, z=-5362.20] died, message: 'Toolsmith was slain by Zombie'
+[18Dec2024 23:03:31.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set the weather to rain & thunder]
+[18Dec2024 23:04:51.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Surge Protector]
+[18Dec2024 23:05:02.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[18Dec2024 23:05:13.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[18Dec2024 23:05:44.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set the weather to clear]
+[18Dec2024 23:05:54.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Best Friends Forever]
+[18Dec2024 23:08:44.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of R3hsk) moved wrongly! 0.4585413800641618
+[18Dec2024 23:08:44.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of R3hsk) moved wrongly! 1.0717854841623193
+[18Dec2024 23:08:44.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of R3hsk) moved wrongly! 0.45333044912968035
+[18Dec2024 23:08:44.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of R3hsk) moved wrongly! 0.9259998540364904
+[18Dec2024 23:08:46.430] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of R3hsk) moved wrongly! 0.292356779767033
+[18Dec2024 23:08:46.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of R3hsk) moved wrongly! 0.9938133011364698
+[18Dec2024 23:08:46.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of R3hsk) moved wrongly! 1.7044024695633198
+[18Dec2024 23:08:46.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of R3hsk) moved wrongly! 2.4196572136495345
+[18Dec2024 23:08:46.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of R3hsk) moved wrongly! 2.9467742739583036

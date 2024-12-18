@@ -569,6 +569,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/lightning_rod_with_villager_no_fire": {
+    "criteria": {
+      "lightning_rod_with_villager_no_fire": "2024-12-18 23:04:51 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/copper_dagger": {
     "criteria": {
       "has_copper_ingot": "2024-12-18 02:15:54 +0000"
@@ -683,6 +689,12 @@
     },
     "done": true
   },
+  "avaritia:recipes/misc/neutron_collector": {
+    "criteria": {
+      "has_item": "2024-12-18 23:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2024-12-18 03:11:56 +0000"
@@ -716,6 +728,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_pike": {
     "criteria": {
       "has_gold_ingot": "2024-12-18 03:11:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-12-18 22:57:07 +0000"
     },
     "done": true
   },
@@ -1503,6 +1521,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/iron_spear": {
     "criteria": {
       "has_iron_ingot": "2024-12-18 00:11:57 +0000"
+    },
+    "done": true
+  },
+  "avaritia:recipes/misc/double_compressed_crafting_table": {
+    "criteria": {
+      "has_item": "2024-12-18 23:02:23 +0000"
     },
     "done": true
   },
@@ -3634,6 +3658,12 @@
     },
     "done": true
   },
+  "avaritia:recipes/misc/compressed_crafting_table": {
+    "criteria": {
+      "has_the_recipe": "2024-12-18 23:02:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-12-17 23:13:32 +0000"
@@ -3903,6 +3933,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-18 23:01:57 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/grease_ball": {
     "criteria": {
       "has_meat": "2024-12-17 23:13:55 +0000"
@@ -4158,6 +4194,12 @@
   "iceandfire:iceandfire/dragon_egg": {
     "criteria": {
       "egg": "2024-12-18 03:52:16 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/low_covalence_dust": {
+    "criteria": {
+      "has_cobble": "2024-12-18 22:59:10 +0000"
     },
     "done": true
   },

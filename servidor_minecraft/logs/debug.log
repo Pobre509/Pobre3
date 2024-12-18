@@ -6253,3 +6253,76 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [18Dec2024 22:58:50.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set the weather to rain & thunder]
 [18Dec2024 22:59:06.430] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
 [18Dec2024 22:59:58.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[18Dec2024 23:00:24.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Summoned new Iron Golem]
+[18Dec2024 23:00:26.910] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:00:26.910] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:00:26.914] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[18Dec2024 23:00:37.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[18Dec2024 23:01:21.207] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 23:01:21.220] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 23:02:40.360] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/100, l='ServerLevel[world]', x=-4520.59, y=59.00, z=-5362.20] died, message: 'Toolsmith was slain by Zombie'
+[18Dec2024 23:03:08.990] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:03:08.991] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:03:12.535] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:03:12.535] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:03:13.063] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:03:13.064] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:03:13.723] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:03:13.724] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:03:14.322] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:03:14.322] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:03:15.012] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:03:15.012] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:03:16.294] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:03:16.294] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:03:17.060] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:03:17.060] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:03:22.058] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:03:22.059] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:03:22.694] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:03:22.694] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:03:23.939] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:03:23.939] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:03:31.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set the weather to rain & thunder]
+[18Dec2024 23:04:04.637] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:04:04.638] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:04:06.760] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:04:06.760] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:04:07.481] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:04:07.481] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:04:09.017] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:04:09.017] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:04:10.557] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:04:10.557] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:04:51.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Surge Protector]
+[18Dec2024 23:05:02.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[18Dec2024 23:05:08.584] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:05:08.584] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:05:11.483] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:05:11.483] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:05:12.339] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:05:12.339] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:05:13.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[18Dec2024 23:05:13.711] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:05:13.711] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:05:14.592] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:05:14.592] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:05:16.018] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:05:16.018] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:05:17.020] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:05:17.020] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:05:44.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set the weather to clear]
+[18Dec2024 23:05:54.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Best Friends Forever]
+[18Dec2024 23:06:21.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 23:06:21.210] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 23:07:56.722] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:07:56.723] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:08:44.408] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of R3hsk) moved wrongly! 0.4585413800641618
+[18Dec2024 23:08:44.409] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of R3hsk) moved wrongly! 1.0717854841623193
+[18Dec2024 23:08:44.458] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of R3hsk) moved wrongly! 0.45333044912968035
+[18Dec2024 23:08:44.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of R3hsk) moved wrongly! 0.9259998540364904
+[18Dec2024 23:08:46.430] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of R3hsk) moved wrongly! 0.292356779767033
+[18Dec2024 23:08:46.460] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of R3hsk) moved wrongly! 0.9938133011364698
+[18Dec2024 23:08:46.556] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of R3hsk) moved wrongly! 1.7044024695633198
+[18Dec2024 23:08:46.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of R3hsk) moved wrongly! 2.4196572136495345
+[18Dec2024 23:08:46.611] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of R3hsk) moved wrongly! 2.9467742739583036
