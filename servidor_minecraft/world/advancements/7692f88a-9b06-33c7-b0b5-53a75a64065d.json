@@ -1125,6 +1125,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2024-12-18 01:14:45 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/crafting_upgrade": {
     "criteria": {
       "has_crafting_table": "2024-12-17 23:09:52 +0000"

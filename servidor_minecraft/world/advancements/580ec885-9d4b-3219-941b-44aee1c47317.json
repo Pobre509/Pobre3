@@ -792,6 +792,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/standard_smithing": {
+    "criteria": {
+      "has_standard": "2024-12-18 01:08:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2024-12-18 00:03:37 +0000"
@@ -993,6 +999,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_pike": {
     "criteria": {
       "has_gold_ingot": "2024-12-18 01:02:34 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:standard_from_custom": {
+    "criteria": {
+      "has_backpack": "2024-12-18 01:08:58 +0000"
     },
     "done": true
   },
@@ -3379,6 +3391,12 @@
   "travelersbackpack:recipes/travelersbackpack/hose_nozzle": {
     "criteria": {
       "has_iron": "2024-12-17 23:18:46 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:battle_hammer": {
+    "criteria": {
+      "has_battle_hammer": "2024-12-18 01:11:42 +0000"
     },
     "done": true
   },
