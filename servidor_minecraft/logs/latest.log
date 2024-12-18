@@ -37,3 +37,15 @@
 [18Dec2024 00:33:36.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported R3hsk to percentyack]
 [18Dec2024 00:36:17.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk fell from a high place
 [18Dec2024 00:36:23.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported R3hsk to percentyack]
+[18Dec2024 00:36:57.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Take Aim, Chaps!]
+[18Dec2024 00:38:53.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Spectator Mode]
+[18Dec2024 00:39:04.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[18Dec2024 00:39:51.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Take Aim]
+[18Dec2024 00:41:07.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Applied effect Regeneration to R3hsk]
+[18Dec2024 00:41:32.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was shot by Skeleton
+[18Dec2024 00:41:38.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported R3hsk to percentyack]
+[18Dec2024 00:42:57.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Spectator Mode]
+[18Dec2024 00:43:35.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was shot by Skeleton
+[18Dec2024 00:44:08.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[18Dec2024 00:44:24.488] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Fisk of the Sand'/24173, l='ServerLevel[world]', x=644.51, y=65.00, z=-8.49] died: Fisk of the Sand was slain by R3hsk
+[18Dec2024 00:44:49.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
