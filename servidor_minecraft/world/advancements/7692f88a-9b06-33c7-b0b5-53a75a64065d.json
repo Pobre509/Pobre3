@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-18 02:57:29 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_tinted_glass": {
     "criteria": {
       "has_item": "2024-12-18 02:15:15 +0000"
@@ -125,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-18 02:57:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-17 23:19:55 +0000"
@@ -164,6 +176,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/copper_rapier": {
     "criteria": {
       "has_copper_ingot": "2024-12-18 02:15:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-18 02:57:29 +0000"
     },
     "done": true
   },
@@ -611,6 +629,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-18 02:57:29 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_siren": {
     "criteria": {
       "killed_fire_dragon": "2024-12-18 02:19:27 +0000"
@@ -777,6 +801,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/copper_longbow": {
     "criteria": {
       "has_copper_ingot": "2024-12-18 02:15:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-18 02:57:29 +0000"
     },
     "done": true
   },
@@ -1067,6 +1097,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-18 02:57:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2024-12-17 23:14:35 +0000"
@@ -1212,6 +1248,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-18 02:57:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2024-12-17 23:13:55 +0000"
@@ -1347,6 +1389,12 @@
   "travelersbackpack:recipes/travelersbackpack/diamond_tier_upgrade": {
     "criteria": {
       "has_diamond": "2024-12-17 23:32:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2024-12-18 02:57:29 +0000"
     },
     "done": true
   },
@@ -1503,6 +1551,12 @@
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2024-12-17 23:54:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-18 02:57:29 +0000"
     },
     "done": true
   },
@@ -1917,6 +1971,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2024-12-18 02:17:53 +0000",
+      "minecraft:sunflower_plains": "2024-12-18 03:05:42 +0000",
       "minecraft:birch_forest": "2024-12-18 02:05:04 +0000",
       "minecraft:beach": "2024-12-18 00:25:01 +0000",
       "minecraft:lukewarm_ocean": "2024-12-17 23:20:04 +0000",
@@ -2052,6 +2107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-18 02:57:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-12-17 23:40:43 +0000"
@@ -2085,6 +2146,12 @@
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2024-12-17 23:47:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-18 02:57:29 +0000"
     },
     "done": true
   },
@@ -2551,6 +2618,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-18 02:57:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2024-12-17 23:33:15 +0000"
@@ -2753,6 +2826,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_ice_dragon": "2024-12-18 02:56:45 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tools/common/slime/lead": {
     "criteria": {
       "has_slime_ball": "2024-12-18 02:15:55 +0000"
@@ -2774,6 +2853,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2024-12-18 00:47:35 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/brewing/common/glass/vanilla/glass_bottle": {
+    "criteria": {
+      "has_glass": "2024-12-18 02:57:29 +0000"
     },
     "done": true
   },
@@ -3197,6 +3282,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-18 02:57:29 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/copper_throwing_knife": {
     "criteria": {
       "has_copper_ingot": "2024-12-18 02:15:54 +0000"
@@ -3371,6 +3462,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2024-12-18 02:57:29 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/tables/part_builder": {
     "criteria": {
       "has_item": "2024-12-18 02:16:00 +0000"
@@ -3386,6 +3483,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_wall": {
     "criteria": {
       "has_item": "2024-12-18 02:15:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-18 02:57:29 +0000"
     },
     "done": true
   },
@@ -3593,6 +3696,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-18 02:57:29 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:longbow": {
     "criteria": {
       "has_longbow": "2024-12-18 00:36:57 +0000"
@@ -3704,6 +3813,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2024-12-18 00:47:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-18 02:57:29 +0000"
     },
     "done": true
   },
@@ -4298,6 +4413,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/stone_javelin": {
     "criteria": {
       "has_cobblestone": "2024-12-17 23:19:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-18 02:57:29 +0000"
     },
     "done": true
   },

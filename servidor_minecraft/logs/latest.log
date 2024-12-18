@@ -257,3 +257,12 @@
 [18Dec2024 02:56:45.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Dragonslayer]
 [18Dec2024 02:57:20.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk died
 [18Dec2024 02:57:20.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Killed R3hsk]
+[18Dec2024 03:00:58.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was slain by Drowned
+[18Dec2024 03:01:18.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk fell from a high place
+[18Dec2024 03:05:30.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk fell from a high place
+[18Dec2024 03:05:37.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported R3hsk to percentyack]
+[18Dec2024 03:06:30.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Who You Gonna Call?]
+[18Dec2024 03:06:39.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Who You Gonna Call?]
+[18Dec2024 03:06:56.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Ghost
+[18Dec2024 03:06:57.999] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-4832, y=80, z=-5191}
+[18Dec2024 03:07:17.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was slain by Ghost

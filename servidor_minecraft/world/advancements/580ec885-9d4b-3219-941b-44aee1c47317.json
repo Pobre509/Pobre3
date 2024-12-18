@@ -730,6 +730,7 @@
       "cherry_blossom_grove": "2024-12-18 02:41:43 +0000",
       "dune_beach": "2024-12-18 00:25:06 +0000",
       "rocky_rainforest": "2024-12-18 00:43:15 +0000",
+      "fir_clearing": "2024-12-18 03:04:14 +0000",
       "grassland": "2024-12-18 02:37:51 +0000"
     },
     "done": false
@@ -1933,6 +1934,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:deep_ocean": "2024-12-18 02:17:53 +0000",
+      "minecraft:sunflower_plains": "2024-12-18 03:05:42 +0000",
       "minecraft:beach": "2024-12-18 00:25:43 +0000",
       "minecraft:lukewarm_ocean": "2024-12-17 22:57:52 +0000",
       "minecraft:river": "2024-12-18 00:29:59 +0000",
@@ -1941,7 +1943,8 @@
       "minecraft:forest": "2024-12-17 23:06:03 +0000",
       "minecraft:ocean": "2024-12-17 23:21:39 +0000",
       "minecraft:deep_dark": "2024-12-18 02:09:28 +0000",
-      "minecraft:savanna": "2024-12-18 00:31:43 +0000"
+      "minecraft:savanna": "2024-12-18 00:31:43 +0000",
+      "minecraft:plains": "2024-12-18 03:03:48 +0000"
     },
     "done": false
   },
