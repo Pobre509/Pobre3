@@ -20,3 +20,20 @@
 [18Dec2024 00:26:09.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was turned to stone by Gorgon
 [18Dec2024 00:26:17.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported R3hsk to percentyack]
 [18Dec2024 00:26:21.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was turned to stone by Gorgon
+[18Dec2024 00:26:27.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
+[18Dec2024 00:26:47.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Clash of the Titans]
+[18Dec2024 00:29:12.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: percentyack moved too quickly! 9.74933191452618,1.252203340253729,2.54627581706481
+[18Dec2024 00:29:17.573] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 00:29:17.573] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 00:29:19.471] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 00:29:19.471] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 00:29:23.774] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 00:29:23.774] [Server thread/WARN] [firstaid/]: Failed to lookup healer for item air
+[18Dec2024 00:30:14.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was shot by Skeleton
+[18Dec2024 00:30:20.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported R3hsk to percentyack]
+[18Dec2024 00:30:58.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack discovered the floor was lava
+[18Dec2024 00:31:40.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
+[18Dec2024 00:33:27.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Cockatrice
+[18Dec2024 00:33:36.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported R3hsk to percentyack]
+[18Dec2024 00:36:17.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk fell from a high place
+[18Dec2024 00:36:23.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported R3hsk to percentyack]
