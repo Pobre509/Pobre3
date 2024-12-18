@@ -7412,3 +7412,624 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [18Dec2024 23:20:29.563] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4605, y=-49, z=-5025}
 [18Dec2024 23:20:29.718] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4604, y=-49, z=-5025}
 [18Dec2024 23:20:29.773] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4605, y=-50, z=-5025}
+[18Dec2024 23:20:48.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Gave 64 [String] to percentyack]
+[18Dec2024 23:21:02.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Gave 64 [Blue Wool] to percentyack]
+[18Dec2024 23:21:04.161] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-48, z=-5020}
+[18Dec2024 23:21:04.665] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-47, z=-5019}
+[18Dec2024 23:21:05.317] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-48, z=-5018}
+[18Dec2024 23:21:05.415] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-47, z=-5017}
+[18Dec2024 23:21:06.417] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4607, y=-47, z=-5019}
+[18Dec2024 23:21:06.462] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4608, y=-47, z=-5019}
+[18Dec2024 23:21:07.262] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-48, z=-5017}
+[18Dec2024 23:21:07.418] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-48, z=-5016}
+[18Dec2024 23:21:08.472] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4607, y=-46, z=-5019}
+[18Dec2024 23:21:08.616] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4608, y=-46, z=-5019}
+[18Dec2024 23:21:08.715] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4609, y=-46, z=-5019}
+[18Dec2024 23:21:19.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Applied enchantment Fortune III to R3hsk's item]
+[18Dec2024 23:21:21.206] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 23:21:21.213] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 23:21:25.518] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:21:25.518] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:21:27.784] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:21:27.784] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:21:28.815] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-47, z=-5014}
+[18Dec2024 23:21:28.974] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-48, z=-5015}
+[18Dec2024 23:21:29.092] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:21:29.092] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:21:29.573] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-47, z=-5013}
+[18Dec2024 23:21:29.724] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-48, z=-5013}
+[18Dec2024 23:21:29.865] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-47, z=-5012}
+[18Dec2024 23:21:30.022] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-48, z=-5012}
+[18Dec2024 23:21:30.261] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:21:30.261] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:21:30.612] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-47, z=-5011}
+[18Dec2024 23:21:30.671] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-48, z=-5010}
+[18Dec2024 23:21:31.211] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-48, z=-5009}
+[18Dec2024 23:21:31.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-47, z=-5009}
+[18Dec2024 23:21:31.968] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-47, z=-5008}
+[18Dec2024 23:21:32.125] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-48, z=-5007}
+[18Dec2024 23:21:32.269] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-48, z=-5006}
+[18Dec2024 23:21:32.416] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-47, z=-5007}
+[18Dec2024 23:21:32.487] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:21:32.488] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:21:33.072] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-47, z=-5006}
+[18Dec2024 23:21:34.061] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-48, z=-5004}
+[18Dec2024 23:21:34.224] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-48, z=-5003}
+[18Dec2024 23:21:34.328] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-48, z=-5002}
+[18Dec2024 23:21:34.860] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4605, y=-47, z=-5006}
+[18Dec2024 23:21:35.013] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4605, y=-47, z=-5005}
+[18Dec2024 23:21:35.667] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-46, z=-5006}
+[18Dec2024 23:21:35.818] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-46, z=-5005}
+[18Dec2024 23:21:36.374] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-47, z=-5003}
+[18Dec2024 23:21:36.962] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-47, z=-5001}
+[18Dec2024 23:21:37.113] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-48, z=-5001}
+[18Dec2024 23:21:37.270] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-48, z=-5000}
+[18Dec2024 23:21:37.918] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-47, z=-5000}
+[18Dec2024 23:21:38.073] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-47, z=-4999}
+[18Dec2024 23:21:38.414] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4605, y=-47, z=-5001}
+[18Dec2024 23:21:38.519] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4605, y=-47, z=-5000}
+[18Dec2024 23:21:38.721] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4605, y=-48, z=-5001}
+[18Dec2024 23:21:38.864] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4605, y=-48, z=-5000}
+[18Dec2024 23:21:39.012] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4604, y=-48, z=-5000}
+[18Dec2024 23:21:39.612] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-47, z=-4998}
+[18Dec2024 23:21:39.770] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-48, z=-4998}
+[18Dec2024 23:21:39.863] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-48, z=-4997}
+[18Dec2024 23:21:40.016] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-47, z=-4997}
+[18Dec2024 23:21:40.172] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-48, z=-4996}
+[18Dec2024 23:21:40.374] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-48, z=-4995}
+[18Dec2024 23:21:41.066] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-47, z=-4995}
+[18Dec2024 23:21:41.670] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-48, z=-4994}
+[18Dec2024 23:21:41.817] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-48, z=-4993}
+[18Dec2024 23:21:41.916] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-47, z=-4993}
+[18Dec2024 23:21:42.767] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-47, z=-4992}
+[18Dec2024 23:21:42.864] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-47, z=-4991}
+[18Dec2024 23:21:43.016] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-48, z=-4991}
+[18Dec2024 23:21:43.171] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-48, z=-4990}
+[18Dec2024 23:21:43.319] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-48, z=-4989}
+[18Dec2024 23:21:43.514] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-47, z=-4990}
+[18Dec2024 23:21:43.679] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-47, z=-4989}
+[18Dec2024 23:21:43.726] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-48, z=-4988}
+[18Dec2024 23:21:43.875] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-47, z=-4988}
+[18Dec2024 23:21:43.921] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-48, z=-4987}
+[18Dec2024 23:21:43.962] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-47, z=-5035} BlockPos{x=-4606, y=-47, z=-4987}
+[18Dec2024 23:21:44.171] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4606, y=-48, z=-4986}
+[18Dec2024 23:21:44.219] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-4589, y=19, z=-4783} at Chest with:minecraft:chests/simple_dungeon
+[18Dec2024 23:21:44.449] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4606, y=-48, z=-4985}
+[18Dec2024 23:21:44.591] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4606, y=-47, z=-4986}
+[18Dec2024 23:21:44.723] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4606, y=-47, z=-4985}
+[18Dec2024 23:21:50.565] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4606, y=-48, z=-4984}
+[18Dec2024 23:21:51.175] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4606, y=-47, z=-4983}
+[18Dec2024 23:21:51.363] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4606, y=-47, z=-4982}
+[18Dec2024 23:21:51.517] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4606, y=-48, z=-4982}
+[18Dec2024 23:21:51.673] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4606, y=-48, z=-4981}
+[18Dec2024 23:21:51.812] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4606, y=-47, z=-4981}
+[18Dec2024 23:21:51.921] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4606, y=-47, z=-4980}
+[18Dec2024 23:21:52.124] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4606, y=-46, z=-4983}
+[18Dec2024 23:21:52.313] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4606, y=-46, z=-4982}
+[18Dec2024 23:21:52.817] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4607, y=-46, z=-4982}
+[18Dec2024 23:21:53.019] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4607, y=-46, z=-4983}
+[18Dec2024 23:21:53.175] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4607, y=-45, z=-4982}
+[18Dec2024 23:21:53.220] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4608, y=-46, z=-4982}
+[18Dec2024 23:21:53.713] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4607, y=-47, z=-4981}
+[18Dec2024 23:21:53.764] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4607, y=-47, z=-4980}
+[18Dec2024 23:21:53.824] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4606, y=-47, z=-4979}
+[18Dec2024 23:21:53.869] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4605, y=-47, z=-4980}
+[18Dec2024 23:21:54.017] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4606, y=-48, z=-4980}
+[18Dec2024 23:21:54.366] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4607, y=-47, z=-4982}
+[18Dec2024 23:21:54.471] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4608, y=-47, z=-4981}
+[18Dec2024 23:21:54.713] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:21:54.713] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:21:55.642] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:21:55.642] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:21:57.765] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4606, y=-47, z=-4978}
+[18Dec2024 23:21:57.866] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4606, y=-47, z=-4977}
+[18Dec2024 23:21:58.470] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4606, y=-47, z=-4976}
+[18Dec2024 23:21:58.564] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4606, y=-48, z=-4976}
+[18Dec2024 23:21:58.716] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4606, y=-48, z=-4977}
+[18Dec2024 23:22:00.133] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4606, y=-47, z=-4973}
+[18Dec2024 23:22:00.294] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4606, y=-48, z=-4973}
+[18Dec2024 23:22:00.429] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4606, y=-48, z=-4974}
+[18Dec2024 23:22:00.591] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4606, y=-48, z=-4972}
+[18Dec2024 23:22:00.749] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=-4695, y=67, z=-4759} at Chest with:minecraft:chests/buried_treasure
+[18Dec2024 23:22:00.985] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4606, y=-47, z=-4972}
+[18Dec2024 23:22:01.235] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4606, y=-47, z=-4971}
+[18Dec2024 23:22:01.365] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4606, y=-47, z=-4970}
+[18Dec2024 23:22:08.430] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:22:08.430] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:22:12.228] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-4358, y=-29, z=-5031} at Chest with:minecraft:chests/simple_dungeon
+[18Dec2024 23:22:17.020] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4575, y=-32, z=-4947}
+[18Dec2024 23:22:17.164] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4575, y=-31, z=-4947}
+[18Dec2024 23:22:17.325] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4576, y=-31, z=-4947}
+[18Dec2024 23:22:17.920] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4575, y=-30, z=-4947}
+[18Dec2024 23:22:18.113] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4575, y=-29, z=-4947}
+[18Dec2024 23:22:18.268] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4575, y=-29, z=-4946}
+[18Dec2024 23:22:18.367] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4575, y=-28, z=-4946}
+[18Dec2024 23:22:18.424] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4575, y=-30, z=-4946}
+[18Dec2024 23:22:18.515] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4575, y=-33, z=-4947}
+[18Dec2024 23:22:18.567] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4575, y=-34, z=-4947}
+[18Dec2024 23:22:18.671] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4575, y=-35, z=-4947}
+[18Dec2024 23:22:18.720] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4575, y=-36, z=-4947}
+[18Dec2024 23:22:18.765] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4575, y=-37, z=-4947}
+[18Dec2024 23:22:18.925] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4575, y=-38, z=-4947}
+[18Dec2024 23:22:19.069] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4575, y=-35, z=-4946}
+[18Dec2024 23:22:19.215] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4575, y=-34, z=-4946}
+[18Dec2024 23:22:19.424] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4575, y=-33, z=-4946}
+[18Dec2024 23:22:19.466] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4575, y=-33, z=-4945}
+[18Dec2024 23:22:19.525] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4575, y=-34, z=-4945}
+[18Dec2024 23:22:19.663] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4575, y=-36, z=-4946}
+[18Dec2024 23:22:19.821] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4575, y=-32, z=-4945}
+[18Dec2024 23:22:19.867] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4575, y=-31, z=-4945}
+[18Dec2024 23:22:20.116] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4575, y=-32, z=-4946}
+[18Dec2024 23:22:20.469] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4575, y=-37, z=-4946}
+[18Dec2024 23:22:20.625] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4575, y=-36, z=-4945}
+[18Dec2024 23:22:20.673] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4575, y=-33, z=-4944}
+[18Dec2024 23:22:21.172] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4575, y=-32, z=-4944}
+[18Dec2024 23:22:21.216] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4575, y=-35, z=-4945}
+[18Dec2024 23:22:21.711] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4576, y=-35, z=-4946}
+[18Dec2024 23:22:21.868] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4576, y=-34, z=-4946}
+[18Dec2024 23:22:22.514] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4576, y=-32, z=-4946}
+[18Dec2024 23:22:22.716] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4576, y=-31, z=-4946}
+[18Dec2024 23:22:22.920] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4576, y=-30, z=-4946}
+[18Dec2024 23:22:23.075] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4576, y=-29, z=-4946}
+[18Dec2024 23:22:24.815] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=-48, z=-4987} BlockPos{x=-4576, y=-33, z=-4947}
+[18Dec2024 23:22:26.566] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:22:26.566] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:22:29.623] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:22:29.623] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:22:29.624] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[18Dec2024 23:22:29.624] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:22:29.624] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:22:30.174] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:22:30.174] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:22:30.822] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:22:30.822] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:22:30.823] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[18Dec2024 23:22:31.473] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:22:31.473] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:22:31.473] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[18Dec2024 23:22:31.473] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:22:31.474] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:22:32.014] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:22:32.014] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:22:32.015] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[18Dec2024 23:22:33.672] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:22:33.672] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:22:37.417] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:22:37.417] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:22:37.963] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:22:37.963] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:22:38.112] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4580, y=-42, z=-4951} BlockPos{x=-4591, y=-41, z=-4947}
+[18Dec2024 23:22:38.165] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4580, y=-42, z=-4951} BlockPos{x=-4592, y=-41, z=-4946}
+[18Dec2024 23:22:42.593] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=-4402, y=61, z=-4727} at Chest with:minecraft:chests/underwater_ruin_small
+[18Dec2024 23:22:52.369] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:22:52.417] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:22:52.467] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:22:52.518] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:22:52.568] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:22:52.623] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:22:52.663] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:22:52.729] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:22:52.768] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:22:52.826] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:22:52.903] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:22:52.922] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:22:52.978] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:22:53.021] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:22:53.075] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:22:53.119] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:22:53.168] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:22:53.231] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:22:53.269] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:22:53.330] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:22:53.375] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:22:53.422] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:22:53.466] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:22:53.530] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:22:53.577] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:22:53.920] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:22:53.963] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:22:54.016] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:22:54.064] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:22:55.473] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:22:55.473] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:22:56.096] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:22:56.097] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:22:56.795] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:22:56.795] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:22:57.235] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:22:57.236] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:22:57.972] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:22:57.972] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:22:58.818] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:22:58.870] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:22:58.923] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:22:58.974] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:22:59.021] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:22:59.067] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:22:59.118] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:22:59.166] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:22:59.218] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:22:59.673] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:22:59.673] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:22:59.673] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[18Dec2024 23:22:59.815] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:22:59.815] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:23:00.275] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:23:00.275] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:23:01.216] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:23:01.216] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:23:01.267] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:23:01.267] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:23:01.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [They Have a Cave Troll!]
+[18Dec2024 23:23:02.239] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:23:02.239] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:23:03.217] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:23:03.217] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:23:03.217] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[18Dec2024 23:23:04.472] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:23:04.473] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:23:04.473] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[18Dec2024 23:23:08.566] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4598, y=-52, z=-4862} BlockPos{x=-4599, y=-53, z=-4861}
+[18Dec2024 23:23:08.624] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4598, y=-52, z=-4862} BlockPos{x=-4600, y=-53, z=-4861}
+[18Dec2024 23:23:09.072] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:23:09.072] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:23:09.072] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[18Dec2024 23:23:09.719] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:23:09.719] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:23:09.720] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[18Dec2024 23:23:09.834] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4598, y=-52, z=-4862} BlockPos{x=-4599, y=-53, z=-4860}
+[18Dec2024 23:23:10.924] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:23:10.924] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:23:11.512] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:23:11.512] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:23:12.866] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:23:12.866] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:23:13.925] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:23:13.925] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:23:14.911] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:23:14.912] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:23:15.212] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4598, y=-52, z=-4862} BlockPos{x=-4613, y=-54, z=-4854}
+[18Dec2024 23:23:15.413] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4598, y=-52, z=-4862} BlockPos{x=-4612, y=-54, z=-4854}
+[18Dec2024 23:23:15.473] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4598, y=-52, z=-4862} BlockPos{x=-4613, y=-55, z=-4854}
+[18Dec2024 23:23:15.518] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4598, y=-52, z=-4862} BlockPos{x=-4612, y=-55, z=-4854}
+[18Dec2024 23:23:15.719] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4598, y=-52, z=-4862} BlockPos{x=-4612, y=-54, z=-4855}
+[18Dec2024 23:23:15.844] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:23:15.844] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:23:15.919] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4598, y=-52, z=-4862} BlockPos{x=-4613, y=-54, z=-4855}
+[18Dec2024 23:23:16.164] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4598, y=-52, z=-4862} BlockPos{x=-4613, y=-55, z=-4855}
+[18Dec2024 23:23:16.216] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4598, y=-52, z=-4862} BlockPos{x=-4613, y=-56, z=-4855}
+[18Dec2024 23:23:16.365] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4598, y=-52, z=-4862} BlockPos{x=-4612, y=-55, z=-4855}
+[18Dec2024 23:23:16.522] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4613, y=-56, z=-4855} BlockPos{x=-4613, y=-56, z=-4856}
+[18Dec2024 23:23:16.573] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4613, y=-56, z=-4855} BlockPos{x=-4613, y=-55, z=-4856}
+[18Dec2024 23:23:17.242] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:23:17.242] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:23:17.464] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4613, y=-56, z=-4855} BlockPos{x=-4612, y=-54, z=-4856}
+[18Dec2024 23:23:17.513] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4613, y=-56, z=-4855} BlockPos{x=-4612, y=-54, z=-4857}
+[18Dec2024 23:23:22.365] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4613, y=-56, z=-4855} BlockPos{x=-4606, y=-53, z=-4856}
+[18Dec2024 23:23:22.473] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4613, y=-56, z=-4855} BlockPos{x=-4605, y=-53, z=-4856}
+[18Dec2024 23:23:22.617] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4613, y=-56, z=-4855} BlockPos{x=-4606, y=-53, z=-4857}
+[18Dec2024 23:23:22.674] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4613, y=-56, z=-4855} BlockPos{x=-4605, y=-53, z=-4857}
+[18Dec2024 23:23:27.365] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:23:27.365] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:23:33.362] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4613, y=-56, z=-4855} BlockPos{x=-4639, y=-52, z=-4834}
+[18Dec2024 23:23:33.514] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4613, y=-56, z=-4855} BlockPos{x=-4639, y=-53, z=-4834}
+[18Dec2024 23:23:33.564] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4613, y=-56, z=-4855} BlockPos{x=-4639, y=-53, z=-4833}
+[18Dec2024 23:23:33.713] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4613, y=-56, z=-4855} BlockPos{x=-4640, y=-53, z=-4834}
+[18Dec2024 23:23:33.825] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4613, y=-56, z=-4855} BlockPos{x=-4640, y=-53, z=-4833}
+[18Dec2024 23:23:33.871] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4613, y=-56, z=-4855} BlockPos{x=-4640, y=-53, z=-4835}
+[18Dec2024 23:23:34.026] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4613, y=-56, z=-4855} BlockPos{x=-4640, y=-52, z=-4834}
+[18Dec2024 23:23:34.116] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4613, y=-56, z=-4855} BlockPos{x=-4640, y=-52, z=-4833}
+[18Dec2024 23:23:34.218] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4613, y=-56, z=-4855} BlockPos{x=-4640, y=-53, z=-4832}
+[18Dec2024 23:23:34.272] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4613, y=-56, z=-4855} BlockPos{x=-4640, y=-52, z=-4832}
+[18Dec2024 23:23:34.320] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4613, y=-56, z=-4855} BlockPos{x=-4640, y=-51, z=-4834}
+[18Dec2024 23:23:51.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Applied effect Haste to R3hsk]
+[18Dec2024 23:23:52.972] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-50, z=-4804} BlockPos{x=-4654, y=-49, z=-4803}
+[18Dec2024 23:23:53.115] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-50, z=-4804} BlockPos{x=-4654, y=-50, z=-4803}
+[18Dec2024 23:23:53.711] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-50, z=-4804} BlockPos{x=-4654, y=-49, z=-4802}
+[18Dec2024 23:23:53.822] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-50, z=-4804} BlockPos{x=-4654, y=-50, z=-4801}
+[18Dec2024 23:23:54.369] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-50, z=-4804} BlockPos{x=-4654, y=-50, z=-4800}
+[18Dec2024 23:23:54.519] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-50, z=-4804} BlockPos{x=-4654, y=-49, z=-4800}
+[18Dec2024 23:23:54.572] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-50, z=-4804} BlockPos{x=-4654, y=-50, z=-4799}
+[18Dec2024 23:23:55.116] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-50, z=-4804} BlockPos{x=-4654, y=-50, z=-4798}
+[18Dec2024 23:23:55.717] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-50, z=-4804} BlockPos{x=-4654, y=-49, z=-4797}
+[18Dec2024 23:23:55.880] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-50, z=-4804} BlockPos{x=-4654, y=-50, z=-4797}
+[18Dec2024 23:23:56.034] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-50, z=-4804} BlockPos{x=-4654, y=-50, z=-4796}
+[18Dec2024 23:23:56.056] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-4621, y=1, z=-4591} at Chest with:minecraft:chests/simple_dungeon
+[18Dec2024 23:23:56.382] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-50, z=-4804} BlockPos{x=-4654, y=-49, z=-4796}
+[18Dec2024 23:23:57.020] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:strayboss at BlockPos{x=-4479, y=-27, z=-4589} at Chest with:minecraft:chests/simple_dungeon
+[18Dec2024 23:23:58.465] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-51, z=-4785}
+[18Dec2024 23:23:59.064] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-51, z=-4783}
+[18Dec2024 23:24:06.519] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4653, y=-50, z=-4776}
+[18Dec2024 23:24:06.973] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4653, y=-50, z=-4775}
+[18Dec2024 23:24:07.512] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-51, z=-4774}
+[18Dec2024 23:24:07.671] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-51, z=-4773}
+[18Dec2024 23:24:07.776] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-51, z=-4772}
+[18Dec2024 23:24:08.365] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-50, z=-4772}
+[18Dec2024 23:24:08.514] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-50, z=-4771}
+[18Dec2024 23:24:08.624] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-51, z=-4771}
+[18Dec2024 23:24:09.669] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-50, z=-4769}
+[18Dec2024 23:24:09.722] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-50, z=-4768}
+[18Dec2024 23:24:09.864] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-51, z=-4769}
+[18Dec2024 23:24:09.967] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-51, z=-4768}
+[18Dec2024 23:24:10.133] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-51, z=-4767}
+[18Dec2024 23:24:10.267] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-51, z=-4766}
+[18Dec2024 23:24:10.417] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-50, z=-4767}
+[18Dec2024 23:24:10.525] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-51, z=-4765}
+[18Dec2024 23:24:11.051] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=-4797, y=-49, z=-4556} at Chest with:minecraft:chests/simple_dungeon
+[18Dec2024 23:24:11.121] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-50, z=-4765}
+[18Dec2024 23:24:11.641] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-50, z=-4763}
+[18Dec2024 23:24:11.769] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-51, z=-4764}
+[18Dec2024 23:24:11.930] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-51, z=-4763}
+[18Dec2024 23:24:11.965] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-51, z=-4762}
+[18Dec2024 23:24:12.084] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-50, z=-4762}
+[18Dec2024 23:24:12.183] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-51, z=-4761}
+[18Dec2024 23:24:12.281] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-50, z=-4761}
+[18Dec2024 23:24:12.419] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-51, z=-4760}
+[18Dec2024 23:24:13.041] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-50, z=-4760}
+[18Dec2024 23:24:13.618] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-50, z=-4758}
+[18Dec2024 23:24:14.171] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-51, z=-4758}
+[18Dec2024 23:24:14.318] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-51, z=-4757}
+[18Dec2024 23:24:14.417] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-50, z=-4756}
+[18Dec2024 23:24:14.573] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-51, z=-4756}
+[18Dec2024 23:24:14.715] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-51, z=-4755}
+[18Dec2024 23:24:14.868] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-51, z=-4754}
+[18Dec2024 23:24:15.963] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-50, z=-4753}
+[18Dec2024 23:24:16.074] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-51, z=-4753}
+[18Dec2024 23:24:16.171] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-50, z=-4752}
+[18Dec2024 23:24:16.320] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-51, z=-4752}
+[18Dec2024 23:24:16.969] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-50, z=-4751}
+[18Dec2024 23:24:17.125] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-50, z=-4750}
+[18Dec2024 23:24:17.220] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-51, z=-4750}
+[18Dec2024 23:24:17.824] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-50, z=-4749}
+[18Dec2024 23:24:17.976] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-50, z=-4748}
+[18Dec2024 23:24:18.126] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-50, z=-4747}
+[18Dec2024 23:24:18.228] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-51, z=-4747}
+[18Dec2024 23:24:18.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-51, z=-4748}
+[18Dec2024 23:24:18.428] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-51, z=-4746}
+[18Dec2024 23:24:20.323] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-50, z=-4745}
+[18Dec2024 23:24:20.471] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-51, z=-4745}
+[18Dec2024 23:24:20.623] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-51, z=-4744}
+[18Dec2024 23:24:21.312] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-50, z=-4744}
+[18Dec2024 23:24:21.913] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-50, z=-4742}
+[18Dec2024 23:24:22.065] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-51, z=-4742}
+[18Dec2024 23:24:22.221] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-51, z=-4741}
+[18Dec2024 23:24:24.170] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-51, z=-4739}
+[18Dec2024 23:24:24.265] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-51, z=-4738}
+[18Dec2024 23:24:24.313] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-50, z=-4738}
+[18Dec2024 23:24:24.464] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-51, z=-4737}
+[18Dec2024 23:24:24.572] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-52, z=-4737}
+[18Dec2024 23:24:24.712] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-51, z=-4736}
+[18Dec2024 23:24:24.867] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-50, z=-4737}
+[18Dec2024 23:24:25.373] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-51, z=-4735}
+[18Dec2024 23:24:25.976] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4653, y=-50, z=-4737}
+[18Dec2024 23:24:26.225] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4653, y=-50, z=-4738}
+[18Dec2024 23:24:26.423] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4653, y=-51, z=-4738}
+[18Dec2024 23:24:27.116] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4652, y=-50, z=-4738}
+[18Dec2024 23:24:27.316] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4652, y=-51, z=-4738}
+[18Dec2024 23:24:27.967] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4652, y=-50, z=-4739}
+[18Dec2024 23:24:28.119] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4652, y=-51, z=-4739}
+[18Dec2024 23:24:28.212] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4652, y=-51, z=-4740}
+[18Dec2024 23:24:28.371] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4651, y=-51, z=-4739}
+[18Dec2024 23:24:30.063] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-51, z=-4734}
+[18Dec2024 23:24:30.247] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-50, z=-4733}
+[18Dec2024 23:24:30.399] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-51, z=-4733}
+[18Dec2024 23:24:30.526] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-51, z=-4732}
+[18Dec2024 23:24:30.668] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-51, z=-4731}
+[18Dec2024 23:24:31.023] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-50, z=-4732}
+[18Dec2024 23:24:31.127] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-50, z=-4731}
+[18Dec2024 23:24:31.165] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-51, z=-4730}
+[18Dec2024 23:24:31.234] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4653, y=-51, z=-4731}
+[18Dec2024 23:24:31.331] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4653, y=-51, z=-4732}
+[18Dec2024 23:24:31.504] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4653, y=-51, z=-4733}
+[18Dec2024 23:24:31.579] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4653, y=-52, z=-4732}
+[18Dec2024 23:24:31.625] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4652, y=-51, z=-4732}
+[18Dec2024 23:24:31.687] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4653, y=-50, z=-4732}
+[18Dec2024 23:24:31.849] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4653, y=-51, z=-4730}
+[18Dec2024 23:24:31.987] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-50, z=-4730}
+[18Dec2024 23:24:32.023] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-50, z=-4729}
+[18Dec2024 23:24:32.191] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4653, y=-50, z=-4730}
+[18Dec2024 23:24:32.275] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4653, y=-50, z=-4729}
+[18Dec2024 23:24:32.876] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4653, y=-51, z=-4729}
+[18Dec2024 23:24:32.967] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4654, y=-51, z=-4729}
+[18Dec2024 23:24:33.068] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4653, y=-50, z=-4728}
+[18Dec2024 23:24:33.122] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4652, y=-50, z=-4729}
+[18Dec2024 23:24:33.368] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4652, y=-50, z=-4730}
+[18Dec2024 23:24:33.417] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4651, y=-50, z=-4729}
+[18Dec2024 23:24:33.615] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4652, y=-51, z=-4730}
+[18Dec2024 23:24:33.769] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4652, y=-51, z=-4729}
+[18Dec2024 23:24:33.925] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4652, y=-51, z=-4728}
+[18Dec2024 23:24:34.063] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4653, y=-51, z=-4728}
+[18Dec2024 23:24:34.173] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4653, y=-50, z=-4727}
+[18Dec2024 23:24:34.714] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4653, y=-51, z=-4727}
+[18Dec2024 23:24:34.775] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4653, y=-50, z=-4726}
+[18Dec2024 23:24:35.264] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4653, y=-51, z=-4726}
+[18Dec2024 23:24:35.414] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4653, y=-50, z=-4725}
+[18Dec2024 23:24:35.567] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4652, y=-50, z=-4726}
+[18Dec2024 23:24:35.661] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4652, y=-51, z=-4726}
+[18Dec2024 23:24:35.813] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4652, y=-51, z=-4727}
+[18Dec2024 23:24:35.969] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4652, y=-51, z=-4725}
+[18Dec2024 23:24:36.125] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4652, y=-51, z=-4724}
+[18Dec2024 23:24:36.327] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4652, y=-50, z=-4725}
+[18Dec2024 23:24:36.372] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4652, y=-50, z=-4724}
+[18Dec2024 23:24:36.516] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4652, y=-51, z=-4723}
+[18Dec2024 23:24:36.667] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4653, y=-51, z=-4725}
+[18Dec2024 23:24:36.774] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4653, y=-51, z=-4724}
+[18Dec2024 23:24:37.267] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4652, y=-51, z=-4722}
+[18Dec2024 23:24:37.364] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4653, y=-51, z=-4723}
+[18Dec2024 23:24:37.515] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4653, y=-50, z=-4723}
+[18Dec2024 23:24:37.667] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4652, y=-50, z=-4723}
+[18Dec2024 23:24:37.716] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4652, y=-50, z=-4722}
+[18Dec2024 23:24:37.868] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4652, y=-51, z=-4721}
+[18Dec2024 23:24:38.025] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4653, y=-51, z=-4722}
+[18Dec2024 23:24:38.515] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4652, y=-51, z=-4720}
+[18Dec2024 23:24:38.671] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4653, y=-51, z=-4721}
+[18Dec2024 23:24:38.718] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4653, y=-51, z=-4720}
+[18Dec2024 23:24:38.813] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4653, y=-50, z=-4721}
+[18Dec2024 23:24:38.917] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4653, y=-50, z=-4720}
+[18Dec2024 23:24:38.972] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4652, y=-51, z=-4719}
+[18Dec2024 23:24:39.073] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4654, y=-51, z=-4786} BlockPos{x=-4652, y=-50, z=-4721}
+[18Dec2024 23:24:58.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Removed effect Haste from R3hsk]
+[18Dec2024 23:25:27.178] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:25:27.178] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:25:28.767] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:25:28.810] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:25:28.862] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:25:29.367] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:25:29.411] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:25:29.464] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:25:29.513] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[18Dec2024 23:25:30.517] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:25:30.517] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:25:31.076] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:25:31.076] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:25:34.377] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:25:34.377] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:25:40.165] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:25:40.165] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:25:40.724] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:25:40.724] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:25:42.964] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:25:42.964] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:25:44.565] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:25:44.565] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:25:51.526] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:25:51.526] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:25:51.526] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[18Dec2024 23:25:52.111] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:25:52.111] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:25:56.964] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:25:56.964] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:26:10.014] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:26:10.014] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:26:10.014] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[18Dec2024 23:26:14.913] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:26:14.914] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:26:15.421] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:26:15.421] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:26:21.208] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18Dec2024 23:26:21.214] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18Dec2024 23:26:21.911] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:26:21.911] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:26:23.125] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:26:23.125] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:26:25.620] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:26:25.620] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:26:30.527] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:26:30.527] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:26:31.174] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:26:31.174] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:26:41.766] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:26:41.767] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:26:42.318] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:26:42.318] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:26:43.012] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:26:43.012] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:26:44.436] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:26:44.436] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:26:45.931] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:26:45.931] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:26:47.011] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:26:47.011] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:26:48.311] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:26:48.311] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:26:49.365] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:26:49.365] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:26:50.763] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:26:50.763] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:26:51.662] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:26:51.662] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:26:52.264] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:26:52.264] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:26:52.861] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:26:52.861] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:26:52.872] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:26:52.872] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:26:59.234] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:26:59.234] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:27:00.424] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:27:00.424] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:27:01.077] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:27:01.077] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:27:01.666] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:27:01.666] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:27:13.621] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=-4351, y=50, z=-4963} at Chest with:minecraft:chests/shipwreck_treasure
+[18Dec2024 23:27:16.231] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-4322, y=-36, z=-4810} at Chest with:minecraft:chests/simple_dungeon
+[18Dec2024 23:27:19.974] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:27:19.974] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:27:20.578] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:27:20.578] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:27:21.263] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:27:21.263] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:27:27.073] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:27:27.073] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:27:27.817] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:27:27.818] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:27:29.721] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:27:29.721] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:27:30.325] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:27:30.325] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:27:30.973] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:27:30.973] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:27:31.714] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:27:31.714] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:27:32.964] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:27:32.964] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:27:33.613] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:27:33.613] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:27:34.911] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:27:34.911] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:27:36.030] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:27:36.030] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:28:43.064] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:28:43.064] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:28:44.435] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:28:44.435] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:28:45.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [...And My Axe!]
+[18Dec2024 23:29:29.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Quite the Renovation]
+[18Dec2024 23:29:31.122] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:29:31.122] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:29:31.728] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:29:31.728] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:29:32.313] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:29:32.313] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:29:32.966] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:29:32.967] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:29:32.967] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[18Dec2024 23:29:32.967] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:29:32.967] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:29:34.228] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:29:34.228] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:29:34.816] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:29:34.816] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:29:36.326] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:29:36.326] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:29:36.974] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:29:36.974] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:29:37.834] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:29:37.834] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:30:23.566] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:30:23.566] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:30:24.168] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:30:24.168] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:30:24.867] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:30:24.867] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:30:31.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack tried to swim in lava
+[18Dec2024 23:30:32.378] [Server thread/DEBUG] [moze_intel.projecte.PECore/]: Clearing offline data cache in preparation to load online data
+[18Dec2024 23:30:37.516] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:30:37.516] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:30:37.517] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[18Dec2024 23:30:38.273] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:30:38.273] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:30:38.973] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:30:38.973] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:30:39.579] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:30:39.579] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:30:40.465] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:30:40.465] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:30:41.113] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:30:41.113] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:30:41.625] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:30:41.625] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:30:42.213] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[18Dec2024 23:30:42.214] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[18Dec2024 23:30:42.214] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!

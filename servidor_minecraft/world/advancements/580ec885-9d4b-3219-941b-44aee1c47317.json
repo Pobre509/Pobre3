@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/decorations/common/basalt_blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-18 23:23:21 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_glass": {
     "criteria": {
       "has_item": "2024-12-18 02:15:26 +0000"
@@ -386,6 +392,12 @@
   "spartanshields:recipes/spartanshields/golden_tower_shield": {
     "criteria": {
       "has_gold_ingot": "2024-12-18 01:02:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-18 23:16:23 +0000"
     },
     "done": true
   },
@@ -848,6 +860,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_throwing_knife": {
     "criteria": {
       "has_gold_ingot": "2024-12-18 01:02:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-18 23:19:24 +0000"
     },
     "done": true
   },
@@ -1320,6 +1338,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_bed": {
+    "criteria": {
+      "has_blue_wool": "2024-12-18 23:21:02 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_wall_stonecutter": {
     "criteria": {
       "has_item": "2024-12-18 02:15:48 +0000"
@@ -1758,6 +1782,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2024-12-18 23:16:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2024-12-17 23:33:17 +0000"
@@ -1839,6 +1869,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/grout": {
     "criteria": {
       "has_item": "2024-12-18 00:31:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-18 23:16:23 +0000"
     },
     "done": true
   },
@@ -2328,6 +2364,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2024-12-18 23:16:23 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/golden_longbow": {
     "criteria": {
       "has_gold_ingot": "2024-12-18 01:02:34 +0000"
@@ -2415,6 +2457,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2024-12-17 23:33:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-18 23:16:23 +0000"
     },
     "done": true
   },
@@ -2676,6 +2724,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_carpet": {
+    "criteria": {
+      "has_blue_wool": "2024-12-18 23:21:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-12-18 00:27:45 +0000"
@@ -2823,6 +2877,12 @@
   "travelersbackpack:recipes/travelersbackpack/gold_tier_upgrade": {
     "criteria": {
       "has_gold_ingot": "2024-12-18 01:02:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2024-12-18 23:19:24 +0000"
     },
     "done": true
   },
@@ -2978,6 +3038,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-17 23:01:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-18 23:16:23 +0000"
     },
     "done": true
   },
@@ -3699,9 +3765,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2024-12-18 23:16:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/red_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-18 04:04:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2024-12-18 23:16:23 +0000"
     },
     "done": true
   },
@@ -3714,6 +3792,12 @@
   "iceandfire:iceandfire/lectern": {
     "criteria": {
       "bestiary": "2024-12-18 03:17:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_banner": {
+    "criteria": {
+      "has_blue_wool": "2024-12-18 23:21:02 +0000"
     },
     "done": true
   },
@@ -3747,6 +3831,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2024-12-18 23:19:24 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_halberd": {
     "criteria": {
       "has_diamond": "2024-12-17 23:25:02 +0000"
@@ -3768,6 +3858,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2024-12-17 23:33:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-18 23:16:23 +0000"
     },
     "done": true
   },
@@ -3926,6 +4022,12 @@
       "cooked_salmon": "2024-12-17 23:50:14 +0000"
     },
     "done": false
+  },
+  "projecte:recipes/projecte/high_covalence_dust": {
+    "criteria": {
+      "has_diamond": "2024-12-18 23:25:05 +0000"
+    },
+    "done": true
   },
   "travelersbackpack:recipes/travelersbackpack/red_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
@@ -4449,6 +4551,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-18 23:16:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-12-17 23:12:45 +0000"
@@ -4494,6 +4602,12 @@
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2024-12-18 22:59:18 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/blue_sleeping_bag": {
+    "criteria": {
+      "has_blue_wool": "2024-12-18 23:21:02 +0000"
     },
     "done": true
   },
@@ -4560,6 +4674,12 @@
   "iceandfire:iceandfire/dragon_flute": {
     "criteria": {
       "bestiary": "2024-12-18 04:22:20 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-18 23:19:24 +0000"
     },
     "done": true
   },

@@ -677,6 +677,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-18 23:23:01 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/ingot_gauge": {
     "criteria": {
       "has_item": "2024-12-18 02:15:15 +0000"
@@ -896,6 +902,12 @@
   "travelersbackpack:recipes/travelersbackpack/brown_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
       "has_sleeping_bag": "2024-12-17 23:36:48 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/medium_covalence_dust": {
+    "criteria": {
+      "has_redstone": "2024-12-18 23:20:28 +0000"
     },
     "done": true
   },
@@ -1593,6 +1605,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/pole_from_leather": {
     "criteria": {
       "has_stick": "2024-12-17 23:09:52 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/netherite_arrow": {
+    "criteria": {
+      "has_bow": "2024-12-18 23:25:34 +0000"
     },
     "done": true
   },
@@ -2874,6 +2892,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2024-12-18 23:25:34 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_greatsword": {
     "criteria": {
       "has_iron_ingot": "2024-12-18 00:11:57 +0000"
@@ -3083,6 +3107,7 @@
       "wooded_scrubland": "2024-12-17 23:47:42 +0000",
       "field": "2024-12-18 03:43:37 +0000",
       "mediterranean_forest": "2024-12-18 00:32:22 +0000",
+      "coniferous_forest": "2024-12-18 23:23:37 +0000",
       "redwood_forest": "2024-12-18 02:04:46 +0000",
       "cherry_blossom_grove": "2024-12-18 02:04:53 +0000",
       "dune_beach": "2024-12-18 00:24:44 +0000",
@@ -3834,6 +3859,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2024-12-18 23:23:57 +0000",
       "minecraft:deep_ocean": "2024-12-18 02:17:53 +0000",
       "minecraft:frozen_river": "2024-12-18 03:42:11 +0000",
       "minecraft:sunflower_plains": "2024-12-18 03:05:42 +0000",
@@ -4266,6 +4292,12 @@
       "cooked_chicken": "2024-12-18 00:50:29 +0000"
     },
     "done": false
+  },
+  "projecte:recipes/projecte/high_covalence_dust": {
+    "criteria": {
+      "has_diamond": "2024-12-18 23:22:18 +0000"
+    },
+    "done": true
   },
   "travelersbackpack:recipes/travelersbackpack/red_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
