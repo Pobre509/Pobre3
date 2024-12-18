@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/copper_katana": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 00:03:37 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_katana": {
     "criteria": {
       "has_wood": "2024-12-17 23:01:56 +0000"
@@ -107,6 +113,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/copper_rapier": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 00:03:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 00:03:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/melon_seeds": {
     "criteria": {
       "has_melon": "2024-12-17 23:22:02 +0000"
@@ -152,6 +170,18 @@
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_warhammer": {
     "criteria": {
       "has_diamond": "2024-12-17 23:25:02 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/copper_battleaxe": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 00:03:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/copper_longsword": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 00:03:37 +0000"
     },
     "done": true
   },
@@ -281,6 +311,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/tools/tools/armor/travelers_boots": {
+    "criteria": {
+      "has_item": "2024-12-18 00:03:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-17 23:05:06 +0000"
@@ -395,6 +431,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2024-12-18 00:11:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2024-12-17 23:25:07 +0000"
@@ -406,6 +448,12 @@
       "woodland": "2024-12-17 22:51:42 +0000"
     },
     "done": false
+  },
+  "spartanshields:recipes/spartanshields/copper_basic_shield": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 00:03:37 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
@@ -434,6 +482,12 @@
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-12-17 23:36:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/copper_longbow": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 00:03:37 +0000"
     },
     "done": true
   },
@@ -551,6 +605,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 00:03:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-17 23:24:50 +0000",
@@ -564,6 +624,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_flanged_mace": {
     "criteria": {
       "has_diamond": "2024-12-17 23:25:02 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/copper_dagger": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 00:03:37 +0000"
     },
     "done": true
   },
@@ -650,6 +716,19 @@
       "has_iron_ingot": "2024-12-17 23:18:46 +0000"
     },
     "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/copper_parrying_dagger": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 00:03:37 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/tool_smith": {
+    "criteria": {
+      "sword": "2024-12-18 00:05:29 +0000",
+      "pickaxe": "2024-12-18 00:04:50 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
@@ -759,6 +838,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/tools/tools/armor/travelers_pants": {
+    "criteria": {
+      "has_item": "2024-12-18 00:03:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2024-12-17 23:00:24 +0000"
@@ -819,6 +904,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/copper_heavy_crossbow": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 00:03:37 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/tables/part_chest": {
     "criteria": {
       "has_item": "2024-12-17 23:38:50 +0000"
@@ -837,6 +928,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/copper_can": {
+    "criteria": {
+      "has_item": "2024-12-18 00:03:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2024-12-17 23:58:14 +0000"
@@ -846,6 +943,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-17 23:30:33 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/copper_saber": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 00:03:37 +0000"
     },
     "done": true
   },
@@ -903,6 +1006,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/copper_spear": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 00:03:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:18:46 +0000"
@@ -924,6 +1033,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-17 23:05:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-18 00:12:03 +0000"
     },
     "done": true
   },
@@ -1011,9 +1126,27 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/tools/tools/armor/travelers_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-18 00:03:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/copper_javelin": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 00:03:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:spider": "2024-12-17 23:11:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/copper_lance": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 00:03:37 +0000"
     },
     "done": true
   },
@@ -1182,6 +1315,18 @@
     },
     "done": true
   },
+  "tconstruct:tools/tinker_tool": {
+    "criteria": {
+      "crafted_tool": "2024-12-18 00:04:50 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/copper_pike": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 00:03:37 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2024-12-17 22:51:41 +0000"
@@ -1211,6 +1356,13 @@
       "has_iron_ingot": "2024-12-17 23:18:46 +0000"
     },
     "done": true
+  },
+  "tconstruct:tools/material_master": {
+    "criteria": {
+      "copper": "2024-12-18 00:04:50 +0000",
+      "flint": "2024-12-18 00:07:36 +0000"
+    },
+    "done": false
   },
   "biomesoplenty:recipes/transportation/jacaranda_boat": {
     "criteria": {
@@ -1269,6 +1421,12 @@
   "minecraft:recipes/building_blocks/red_wool": {
     "criteria": {
       "has_white_wool": "2024-12-17 23:33:17 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/tools/tools/armor/travelers_goggles": {
+    "criteria": {
+      "has_item": "2024-12-18 00:03:37 +0000"
     },
     "done": true
   },
@@ -1518,6 +1676,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/copper_glaive": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 00:03:37 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/pole_from_leather": {
     "criteria": {
       "has_stick": "2024-12-17 22:53:51 +0000"
@@ -1600,6 +1764,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_glaive": {
     "criteria": {
       "has_wood": "2024-12-17 23:01:56 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/copper_tomahawk": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 00:03:37 +0000"
     },
     "done": true
   },
@@ -1783,6 +1953,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/copper_warhammer": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 00:03:37 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_longsword": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:18:46 +0000"
@@ -1855,6 +2031,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/copper_greatsword": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 00:03:37 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/make_part": {
+    "criteria": {
+      "crafted_part": "2024-12-18 00:04:29 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_saber": {
     "criteria": {
       "has_diamond": "2024-12-17 23:25:02 +0000"
@@ -1864,6 +2052,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/iron_throwing_knife": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:18:46 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/copper_throwing_knife": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 00:03:37 +0000"
     },
     "done": true
   },
@@ -1933,6 +2127,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/copper_quarterstaff": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 00:03:37 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/diamond": {
     "criteria": {
       "has_diamond": "2024-12-17 23:25:02 +0000"
@@ -1942,6 +2142,24 @@
   "spartanweaponry:recipes/spartanweaponry.basic/stone_quarterstaff": {
     "criteria": {
       "has_cobblestone": "2024-12-17 23:02:12 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/copper_battle_hammer": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 00:03:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/copper_flanged_mace": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 00:03:37 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/copper_scythe": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 00:03:37 +0000"
     },
     "done": true
   },
@@ -2065,6 +2283,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/copper_halberd": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 00:03:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2024-12-17 23:25:02 +0000"
@@ -2092,6 +2316,12 @@
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2024-12-17 23:07:24 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/copper_platform": {
+    "criteria": {
+      "has_bars": "2024-12-18 00:03:37 +0000"
     },
     "done": true
   },
@@ -2239,6 +2469,12 @@
     },
     "done": true
   },
+  "spartanshields:recipes/spartanshields/copper_tower_shield": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 00:03:37 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_battleaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-17 23:02:12 +0000"
@@ -2278,6 +2514,12 @@
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-12-17 23:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2024-12-18 00:14:05 +0000"
     },
     "done": true
   },
@@ -2344,6 +2586,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2024-12-17 23:01:56 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/materials/copper_nugget_from_ingot": {
+    "criteria": {
+      "has_item": "2024-12-18 00:03:37 +0000"
     },
     "done": true
   },
@@ -2500,6 +2748,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/pole_from_string": {
     "criteria": {
       "has_stick": "2024-12-17 22:53:51 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/copper_boomerang": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-18 00:03:37 +0000"
     },
     "done": true
   },
