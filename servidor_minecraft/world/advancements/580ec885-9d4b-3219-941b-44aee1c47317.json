@@ -227,6 +227,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2024-12-18 03:16:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2024-12-18 01:02:34 +0000"
@@ -416,6 +422,12 @@
   "tconstruct:recipes/tconstruct/general/tables/crafting_station_from_logs": {
     "criteria": {
       "has_item": "2024-12-17 23:38:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-18 03:09:18 +0000"
     },
     "done": true
   },
@@ -731,7 +743,8 @@
       "dune_beach": "2024-12-18 00:25:06 +0000",
       "rocky_rainforest": "2024-12-18 00:43:15 +0000",
       "fir_clearing": "2024-12-18 03:04:14 +0000",
-      "grassland": "2024-12-18 02:37:51 +0000"
+      "grassland": "2024-12-18 02:37:51 +0000",
+      "prairie": "2024-12-18 03:14:29 +0000"
     },
     "done": false
   },
@@ -1011,6 +1024,7 @@
       "minecraft:skeleton": "2024-12-17 23:17:28 +0000",
       "minecraft:vindicator": "2024-12-17 23:22:49 +0000",
       "minecraft:spider": "2024-12-17 23:11:04 +0000",
+      "minecraft:creeper": "2024-12-18 03:09:00 +0000",
       "minecraft:slime": "2024-12-18 00:21:44 +0000",
       "minecraft:cave_spider": "2024-12-18 01:38:12 +0000",
       "minecraft:zombie": "2024-12-17 23:11:09 +0000",
@@ -1454,6 +1468,12 @@
   "tconstruct:recipes/tconstruct/general/tables/crafting_station": {
     "criteria": {
       "has_item": "2024-12-17 23:38:50 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/gadgets/gadgets/frame/gold": {
+    "criteria": {
+      "has_item": "2024-12-18 03:09:18 +0000"
     },
     "done": true
   },
@@ -2110,6 +2130,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-18 03:06:39 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_longsword": {
     "criteria": {
       "has_wood": "2024-12-17 23:01:56 +0000"
@@ -2477,6 +2503,12 @@
     },
     "done": true
   },
+  "advancednetherite:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_chiseled_stone_bricks": "2024-12-18 03:06:52 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2024-12-17 23:07:24 +0000"
@@ -2708,6 +2740,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-18 00:41:03 +0000",
+      "cooked_beef": "2024-12-18 03:13:54 +0000",
       "baked_potato": "2024-12-18 01:18:45 +0000",
       "cooked_cod": "2024-12-17 23:50:11 +0000",
       "salmon": "2024-12-18 00:29:42 +0000",
@@ -2779,6 +2812,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/copper_tomahawk": {
     "criteria": {
       "has_copper_ingot": "2024-12-18 00:03:37 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_fire_dragon": "2024-12-18 03:09:51 +0000"
     },
     "done": true
   },
@@ -3415,6 +3454,12 @@
   "minecraft:recipes/decorations/purple_banner": {
     "criteria": {
       "has_purple_wool": "2024-12-17 23:42:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-18 03:09:18 +0000"
     },
     "done": true
   },
