@@ -495,3 +495,14 @@ Caused by: java.lang.IllegalArgumentException: Player literal{R3hsk} is missing 
 [18Dec2024 04:07:02.490] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: R3hsk[/127.250.204.19:58513] logged in with entity id 105780 at (-4532.84788436551, 65.0, -5351.58272651975)
 [18Dec2024 04:07:02.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk joined the game
 [18Dec2024 04:07:42.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Mother of Dragons]
+[18Dec2024 04:09:58.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Cyclops
+[18Dec2024 04:11:00.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [My Name is Nobody]
+[18Dec2024 04:11:37.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack fell from a high place
+[18Dec2024 04:11:47.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
+[18Dec2024 04:12:09.234] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: percentyack lost connection: Disconnected
+[18Dec2024 04:12:09.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack left the game
+[18Dec2024 04:14:05.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Applied effect Regeneration to R3hsk]
+[18Dec2024 04:14:07.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4496, y=64, z=-5461} BlockPos{x=-4496, y=64, z=-5463}
+[18Dec2024 04:15:52.258] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4525, y=65, z=-5656} BlockPos{x=-4525, y=64, z=-5655}
+[18Dec2024 04:16:54.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[18Dec2024 04:17:03.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
