@@ -2691,3 +2691,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [19Dec2024 23:44:03.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
 [19Dec2024 23:44:06.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
 [19Dec2024 23:45:21.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Applied enchantment Efficiency V to R3hsk's item]
+[19Dec2024 23:53:45.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[19Dec2024 23:53:55.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
