@@ -8562,3 +8562,28 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [19Dec2024 00:11:05.839] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4620, y=110, z=-5401} BlockPos{x=-4618, y=110, z=-5401}
 [19Dec2024 00:11:05.887] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4620, y=110, z=-5401} BlockPos{x=-4618, y=110, z=-5401}
 [19Dec2024 00:11:05.942] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4620, y=110, z=-5401} BlockPos{x=-4618, y=110, z=-5401}
+[19Dec2024 00:11:21.190] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 00:11:21.197] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 00:11:30.609] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4611, y=111, z=-5392} BlockPos{x=-4611, y=110, z=-5393}
+[19Dec2024 00:11:35.174] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4606, y=110, z=-5388} BlockPos{x=-4607, y=110, z=-5389}
+[19Dec2024 00:11:46.889] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4604, y=110, z=-5395} BlockPos{x=-4603, y=110, z=-5395}
+[19Dec2024 00:11:46.934] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4604, y=110, z=-5395} BlockPos{x=-4603, y=110, z=-5395}
+[19Dec2024 00:11:46.982] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4604, y=110, z=-5395} BlockPos{x=-4603, y=110, z=-5395}
+[19Dec2024 00:11:47.024] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4604, y=110, z=-5395} BlockPos{x=-4603, y=110, z=-5395}
+[19Dec2024 00:11:47.091] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4604, y=110, z=-5395} BlockPos{x=-4603, y=110, z=-5395}
+[19Dec2024 00:11:47.136] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4604, y=110, z=-5395} BlockPos{x=-4603, y=110, z=-5395}
+[19Dec2024 00:11:47.180] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4604, y=110, z=-5395} BlockPos{x=-4603, y=110, z=-5395}
+[19Dec2024 00:11:47.227] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4604, y=110, z=-5395} BlockPos{x=-4603, y=110, z=-5395}
+[19Dec2024 00:11:47.294] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4604, y=110, z=-5395} BlockPos{x=-4603, y=110, z=-5395}
+[19Dec2024 00:11:47.338] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4604, y=110, z=-5395} BlockPos{x=-4603, y=110, z=-5395}
+[19Dec2024 00:11:47.384] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4604, y=110, z=-5395} BlockPos{x=-4603, y=110, z=-5395}
+[19Dec2024 00:11:47.430] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4604, y=110, z=-5395} BlockPos{x=-4603, y=110, z=-5395}
+[19Dec2024 00:11:47.478] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4604, y=110, z=-5395} BlockPos{x=-4603, y=110, z=-5395}
+[19Dec2024 00:15:17.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[19Dec2024 00:15:29.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Is this thing safe?]
+[19Dec2024 00:15:55.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[19Dec2024 00:16:21.180] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 00:16:21.186] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 00:20:44.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[19Dec2024 00:21:21.176] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 00:21:21.182] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

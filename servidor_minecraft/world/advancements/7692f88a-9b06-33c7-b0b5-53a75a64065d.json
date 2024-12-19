@@ -1013,6 +1013,12 @@
     },
     "done": true
   },
+  "projecte:recipes/projecte/rm_morning_star": {
+    "criteria": {
+      "has_pickaxe": "2024-12-19 00:15:29 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/copper_spear": {
     "criteria": {
       "has_copper_ingot": "2024-12-18 02:15:54 +0000"
@@ -1166,6 +1172,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_heavy_crossbow": {
     "criteria": {
       "has_gold_ingot": "2024-12-18 03:11:25 +0000"
+    },
+    "done": true
+  },
+  "projecte:dark_matter_pickaxe": {
+    "criteria": {
+      "dm_pick": "2024-12-19 00:06:33 +0000"
     },
     "done": true
   },
@@ -2005,6 +2017,12 @@
     },
     "done": true
   },
+  "projecte:red_matter_pickaxe": {
+    "criteria": {
+      "rm_pick": "2024-12-19 00:15:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2024-12-17 23:09:10 +0000"
@@ -2224,6 +2242,12 @@
   "projecte:recipes/projecte/harvest_goddess_band": {
     "criteria": {
       "has_matter": "2024-12-19 00:05:05 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/misc/conversions/diamond_to_emerald": {
+    "criteria": {
+      "has_diamond": "2024-12-19 00:06:31 +0000"
     },
     "done": true
   },
@@ -5594,6 +5618,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/pole_from_string": {
     "criteria": {
       "has_stick": "2024-12-17 23:09:52 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/misc/conversions/diamond_to_gold_ingot": {
+    "criteria": {
+      "has_diamond": "2024-12-19 00:06:31 +0000"
     },
     "done": true
   },
