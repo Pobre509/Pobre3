@@ -10452,3 +10452,68 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [19Dec2024 23:32:12.591] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4595, y=103, z=-5402}
 [19Dec2024 23:34:11.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: R3hsk moved too quickly! -0.6577660253151407,14.784968055533682,-3.246417807650687
 [19Dec2024 23:34:26.790] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4599, y=103, z=-5402}
+[19Dec2024 23:36:13.975] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 23:36:13.984] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 23:38:25.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[19Dec2024 23:38:41.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[19Dec2024 23:39:46.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[19Dec2024 23:39:58.115] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c2gliwg0aevb]: started parsing
+[19Dec2024 23:39:58.115] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0c2gliwg0aevb]: Consuming argument ``
+[19Dec2024 23:39:59.664] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [194vnn4ityjwv]: started parsing
+[19Dec2024 23:39:59.664] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [194vnn4ityjwv]: Consuming argument ``
+[19Dec2024 23:39:59.840] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dpm2xz0zcc6b]: started parsing
+[19Dec2024 23:39:59.841] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dpm2xz0zcc6b]: Consuming argument `a`
+[19Dec2024 23:39:59.953] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sohapy5hqoli]: started parsing
+[19Dec2024 23:39:59.953] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1sohapy5hqoli]: Consuming argument `ai`
+[19Dec2024 23:40:00.110] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ddt7lp05r50w]: started parsing
+[19Dec2024 23:40:00.110] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ddt7lp05r50w]: Consuming argument `air`
+[19Dec2024 23:40:00.116] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ddt7lp05r50w]: Finished looking at arguments. Finalizing command.
+[19Dec2024 23:40:00.540] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1leyr3zxz4yzk]: started parsing
+[19Dec2024 23:40:00.540] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1leyr3zxz4yzk]: Consuming argument `air`
+[19Dec2024 23:40:00.540] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1leyr3zxz4yzk]: Finished looking at arguments. Finalizing command.
+[19Dec2024 23:41:13.975] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 23:41:13.984] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 23:41:16.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[19Dec2024 23:42:02.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[19Dec2024 23:42:17.608] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1musaevual6ug]: started parsing
+[19Dec2024 23:42:17.608] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1musaevual6ug]: Consuming argument ``
+[19Dec2024 23:42:19.706] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j6hc37fna4il]: started parsing
+[19Dec2024 23:42:19.706] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1j6hc37fna4il]: Consuming argument `s`
+[19Dec2024 23:42:19.908] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0my7slbr822k8]: started parsing
+[19Dec2024 23:42:19.908] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0my7slbr822k8]: Consuming argument `sp`
+[19Dec2024 23:42:20.465] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fp34swkj9wf4]: started parsing
+[19Dec2024 23:42:20.465] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fp34swkj9wf4]: Consuming argument `spr`
+[19Dec2024 23:42:20.777] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08s723yavmpe4]: started parsing
+[19Dec2024 23:42:20.777] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [08s723yavmpe4]: Consuming argument `spru`
+[19Dec2024 23:42:21.023] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cdpex46igsmx]: started parsing
+[19Dec2024 23:42:21.024] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1cdpex46igsmx]: Consuming argument `spruc`
+[19Dec2024 23:42:21.497] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fpgacluqsmv4]: started parsing
+[19Dec2024 23:42:21.498] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0fpgacluqsmv4]: Consuming argument `spruce`
+[19Dec2024 23:42:24.557] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f0t72a5eh94f]: started parsing
+[19Dec2024 23:42:24.557] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f0t72a5eh94f]: Consuming argument `spruce_log`
+[19Dec2024 23:42:24.557] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0f0t72a5eh94f]: Finished looking at arguments. Finalizing command.
+[19Dec2024 23:42:28.926] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eiosc0opq1k3]: started parsing
+[19Dec2024 23:42:28.926] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1eiosc0opq1k3]: Consuming argument ``
+[19Dec2024 23:42:29.215] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0q486c0u74uw6]: started parsing
+[19Dec2024 23:42:29.215] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0q486c0u74uw6]: Consuming argument `s`
+[19Dec2024 23:42:29.506] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [051bw0spnbtjj]: started parsing
+[19Dec2024 23:42:29.506] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [051bw0spnbtjj]: Consuming argument `sp`
+[19Dec2024 23:42:29.955] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12k6qcn5jyju1]: started parsing
+[19Dec2024 23:42:29.956] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [12k6qcn5jyju1]: Consuming argument `spr`
+[19Dec2024 23:42:30.140] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kp2tphhmulpd]: started parsing
+[19Dec2024 23:42:30.140] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1kp2tphhmulpd]: Consuming argument `spru`
+[19Dec2024 23:42:30.227] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mi1c9jg47l05]: started parsing
+[19Dec2024 23:42:30.227] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1mi1c9jg47l05]: Consuming argument `spruc`
+[19Dec2024 23:42:30.451] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ubhtd78plie2]: started parsing
+[19Dec2024 23:42:30.451] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1ubhtd78plie2]: Consuming argument `spruce`
+[19Dec2024 23:42:34.615] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13lyzimt6ks4z]: started parsing
+[19Dec2024 23:42:34.615] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13lyzimt6ks4z]: Consuming argument `spruce_slab`
+[19Dec2024 23:42:34.615] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13lyzimt6ks4z]: Finished looking at arguments. Finalizing command.
+[19Dec2024 23:42:43.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[19Dec2024 23:43:11.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[19Dec2024 23:43:14.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[19Dec2024 23:43:29.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[19Dec2024 23:43:51.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[19Dec2024 23:44:03.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[19Dec2024 23:44:06.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[19Dec2024 23:45:21.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Applied enchantment Efficiency V to R3hsk's item]

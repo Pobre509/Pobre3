@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/jungle_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-19 23:36:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2024-12-17 23:19:52 +0000"
@@ -497,6 +503,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/acacia_lattice_fence": {
+    "criteria": {
+      "has_stick": "2024-12-19 23:36:33 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_saber": {
     "criteria": {
       "has_cobblestone": "2024-12-17 23:19:52 +0000"
@@ -695,6 +707,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/crimson_lattice_fence": {
+    "criteria": {
+      "has_stick": "2024-12-19 23:36:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-17 23:43:05 +0000"
@@ -722,6 +740,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/handle_from_leather": {
     "criteria": {
       "has_stick": "2024-12-17 23:09:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/mangrove_lattice_fence": {
+    "criteria": {
+      "has_stick": "2024-12-19 23:36:33 +0000"
     },
     "done": true
   },
@@ -782,6 +806,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-18 01:35:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/warped_lattice_fence": {
+    "criteria": {
+      "has_stick": "2024-12-19 23:36:33 +0000"
     },
     "done": true
   },
@@ -2593,6 +2623,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/sonic_security_system": {
+    "criteria": {
+      "has_stick": "2024-12-19 23:36:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-17 23:19:55 +0000"
@@ -2722,6 +2758,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/spruce_table": {
     "criteria": {
       "has_spruce_planks": "2024-12-19 23:09:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/jungle_lattice_fence": {
+    "criteria": {
+      "has_stick": "2024-12-19 23:36:33 +0000"
     },
     "done": true
   },
@@ -3427,6 +3469,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/flint_knife": {
+    "criteria": {
+      "has_stick": "2024-12-19 23:36:33 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/melon": {
     "criteria": {
       "has_melon_slice": "2024-12-18 02:15:36 +0000"
@@ -3643,6 +3691,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/dark_oak_lattice_fence": {
+    "criteria": {
+      "has_stick": "2024-12-19 23:36:33 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_battle_hammer": {
     "criteria": {
       "has_wood": "2024-12-17 23:09:48 +0000"
@@ -3769,6 +3823,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/crimson_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-19 23:36:33 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_tinted_glass": {
     "criteria": {
       "has_item": "2024-12-18 02:15:15 +0000"
@@ -3850,6 +3910,12 @@
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-18 02:57:29 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/mangrove_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-19 23:36:33 +0000"
     },
     "done": true
   },
@@ -4426,6 +4492,12 @@
   "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
       "has_iron_ingot": "2024-12-18 00:11:57 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cutting_board": {
+    "criteria": {
+      "has_stick": "2024-12-19 23:36:33 +0000"
     },
     "done": true
   },
@@ -5953,6 +6025,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/birch_lattice_fence": {
+    "criteria": {
+      "has_stick": "2024-12-19 23:36:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2024-12-17 23:22:05 +0000"
@@ -6445,6 +6523,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/birch_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-19 23:36:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_banner": {
     "criteria": {
       "has_purple_wool": "2024-12-18 02:15:37 +0000"
@@ -6703,6 +6787,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/dark_oak_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-19 23:36:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-18 02:57:29 +0000"
@@ -6766,6 +6856,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-12-17 23:19:52 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/acacia_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-19 23:36:33 +0000"
     },
     "done": true
   },
@@ -7063,6 +7159,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/warped_lattice_fence_gate": {
+    "criteria": {
+      "has_stick": "2024-12-19 23:36:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-17 23:43:05 +0000"
@@ -7096,6 +7198,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2024-12-19 22:21:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/motion_activated_light": {
+    "criteria": {
+      "has_stick": "2024-12-19 23:36:33 +0000"
     },
     "done": true
   },
