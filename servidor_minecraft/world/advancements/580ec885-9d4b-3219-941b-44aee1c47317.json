@@ -701,6 +701,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-18 23:39:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-12-17 23:01:56 +0000"
@@ -1968,6 +1974,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-18 23:39:04 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/golden_battleaxe": {
     "criteria": {
       "has_gold_ingot": "2024-12-18 01:02:34 +0000"
@@ -1983,6 +1995,12 @@
   "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
     "criteria": {
       "has_smooth_sandstone": "2024-12-18 02:37:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-18 23:39:04 +0000"
     },
     "done": true
   },
@@ -3756,6 +3774,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/copper_pike": {
     "criteria": {
       "has_copper_ingot": "2024-12-18 00:03:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2024-12-18 23:45:19 +0000"
     },
     "done": true
   },
