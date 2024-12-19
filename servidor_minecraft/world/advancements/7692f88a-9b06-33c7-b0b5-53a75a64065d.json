@@ -995,6 +995,12 @@
     },
     "done": true
   },
+  "projecte:recipes/projecte/klein_star_ein": {
+    "criteria": {
+      "has_components": "2024-12-19 21:46:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2024-12-18 03:11:25 +0000"
