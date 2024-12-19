@@ -271,3 +271,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [19Dec2024 22:19:20.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk joined the game
 [19Dec2024 22:44:58.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
 [19Dec2024 22:45:11.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[19Dec2024 22:50:12.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[19Dec2024 22:51:17.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
