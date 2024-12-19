@@ -262,3 +262,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [19Dec2024 21:19:03.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Spectator Mode]
 [19Dec2024 21:19:06.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
 [19Dec2024 21:29:37.507] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4665, y=102, z=-5435} BlockPos{x=-4664, y=103, z=-5433}
+[19Dec2024 21:42:10.161] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4675, y=102, z=-5455} BlockPos{x=-4675, y=103, z=-5455}
