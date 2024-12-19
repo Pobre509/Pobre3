@@ -1367,6 +1367,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-12-19 00:54:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2024-12-17 23:22:05 +0000"
@@ -1762,6 +1768,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/cestus": {
     "criteria": {
       "has_wool": "2024-12-17 23:33:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2024-12-19 00:54:50 +0000"
     },
     "done": true
   },
@@ -3395,6 +3407,7 @@
       "old_growth_woodland": "2024-12-17 23:40:36 +0000",
       "wooded_scrubland": "2024-12-17 23:47:42 +0000",
       "field": "2024-12-18 03:43:37 +0000",
+      "orchard": "2024-12-19 00:51:12 +0000",
       "mediterranean_forest": "2024-12-18 00:32:22 +0000",
       "coniferous_forest": "2024-12-18 23:23:37 +0000",
       "redwood_forest": "2024-12-18 02:04:46 +0000",
@@ -3564,6 +3577,7 @@
       "minecraft:husk": "2024-12-18 00:44:24 +0000",
       "minecraft:cave_spider": "2024-12-18 01:38:26 +0000",
       "minecraft:enderman": "2024-12-18 00:28:07 +0000",
+      "minecraft:stray": "2024-12-19 00:57:14 +0000",
       "minecraft:zombie": "2024-12-17 23:12:25 +0000",
       "minecraft:drowned": "2024-12-18 02:38:41 +0000",
       "minecraft:zombie_villager": "2024-12-18 23:26:23 +0000"
