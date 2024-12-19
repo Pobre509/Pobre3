@@ -38,3 +38,5 @@
 [19Dec2024 00:15:29.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Is this thing safe?]
 [19Dec2024 00:15:55.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
 [19Dec2024 00:20:44.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[19Dec2024 00:28:22.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Successfully filled 5951 blocks]
+[19Dec2024 00:29:27.855] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/25059, l='ServerLevel[world]', x=-4506.30, y=58.00, z=-5398.50] died, message: 'Villager was slain by Zombie'
