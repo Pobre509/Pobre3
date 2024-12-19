@@ -264,3 +264,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [19Dec2024 21:29:37.507] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4665, y=102, z=-5435} BlockPos{x=-4664, y=103, z=-5433}
 [19Dec2024 21:42:10.161] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4675, y=102, z=-5455} BlockPos{x=-4675, y=103, z=-5455}
 [19Dec2024 21:57:01.352] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4585, y=83, z=-5364} BlockPos{x=-4585, y=82, z=-5365}
+[19Dec2024 22:12:28.502] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: R3hsk lost connection: Disconnected
+[19Dec2024 22:12:28.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk left the game
