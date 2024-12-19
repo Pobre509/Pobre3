@@ -5852,3 +5852,74 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [19Dec2024 21:12:29.713] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u50u4xy08sm0]: started parsing
 [19Dec2024 21:12:29.713] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u50u4xy08sm0]: Consuming argument `grass_block`
 [19Dec2024 21:12:29.713] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0u50u4xy08sm0]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:15:11.759] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13f8bdjxc2yl3]: started parsing
+[19Dec2024 21:15:11.759] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [13f8bdjxc2yl3]: Consuming argument ``
+[19Dec2024 21:15:13.241] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14zn57ivaixca]: started parsing
+[19Dec2024 21:15:13.242] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [14zn57ivaixca]: Consuming argument `s`
+[19Dec2024 21:15:13.573] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nd2iclkfl3lf]: started parsing
+[19Dec2024 21:15:13.573] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0nd2iclkfl3lf]: Consuming argument `so`
+[19Dec2024 21:15:14.279] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zrvf4p77stgp]: started parsing
+[19Dec2024 21:15:14.279] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0zrvf4p77stgp]: Consuming argument `sot`
+[19Dec2024 21:15:14.654] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e37d0wj885z8]: started parsing
+[19Dec2024 21:15:14.654] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1e37d0wj885z8]: Consuming argument `so`
+[19Dec2024 21:15:14.837] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uyscqssjeaql]: started parsing
+[19Dec2024 21:15:14.837] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1uyscqssjeaql]: Consuming argument `s`
+[19Dec2024 21:15:14.924] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0e2xzeh1t3hz2]: started parsing
+[19Dec2024 21:15:14.924] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0e2xzeh1t3hz2]: Consuming argument `st`
+[19Dec2024 21:15:15.172] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1i01gh74n5w4h]: started parsing
+[19Dec2024 21:15:15.172] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1i01gh74n5w4h]: Consuming argument `sto`
+[19Dec2024 21:15:15.757] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vlk6wvffoi0s]: started parsing
+[19Dec2024 21:15:15.757] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1vlk6wvffoi0s]: Consuming argument `stou`
+[19Dec2024 21:15:16.151] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xhnu2ycwiojn]: started parsing
+[19Dec2024 21:15:16.151] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0xhnu2ycwiojn]: Consuming argument `sto`
+[19Dec2024 21:15:16.542] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m739b87kgnd6]: started parsing
+[19Dec2024 21:15:16.543] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0m739b87kgnd6]: Consuming argument `ston`
+[19Dec2024 21:15:17.126] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0744n4w8aqfn8]: started parsing
+[19Dec2024 21:15:17.126] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0744n4w8aqfn8]: Consuming argument `stone`
+[19Dec2024 21:15:17.127] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0744n4w8aqfn8]: Consuming argument ``
+[19Dec2024 21:15:17.651] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1btmh65m6va5o]: started parsing
+[19Dec2024 21:15:17.651] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1btmh65m6va5o]: Consuming argument `stone`
+[19Dec2024 21:15:17.651] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1btmh65m6va5o]: Consuming argument `g`
+[19Dec2024 21:15:17.893] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g6682u6wyoxf]: started parsing
+[19Dec2024 21:15:17.893] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g6682u6wyoxf]: Consuming argument `stone`
+[19Dec2024 21:15:17.893] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0g6682u6wyoxf]: Consuming argument `gr`
+[19Dec2024 21:15:18.231] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [134xzzw5kgr28]: started parsing
+[19Dec2024 21:15:18.231] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [134xzzw5kgr28]: Consuming argument `stone`
+[19Dec2024 21:15:18.231] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [134xzzw5kgr28]: Consuming argument `gra`
+[19Dec2024 21:15:18.636] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y2vspbotmyq6]: started parsing
+[19Dec2024 21:15:18.636] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y2vspbotmyq6]: Consuming argument `stone`
+[19Dec2024 21:15:18.637] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0y2vspbotmyq6]: Consuming argument `gras`
+[19Dec2024 21:15:18.836] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dw1sc5mmo9j0]: started parsing
+[19Dec2024 21:15:18.836] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dw1sc5mmo9j0]: Consuming argument `stone`
+[19Dec2024 21:15:18.836] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dw1sc5mmo9j0]: Consuming argument `grass`
+[19Dec2024 21:15:18.836] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1dw1sc5mmo9j0]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:15:19.713] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u0nrq6e33i2d]: started parsing
+[19Dec2024 21:15:19.713] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u0nrq6e33i2d]: Consuming argument `stone`
+[19Dec2024 21:15:19.714] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [1u0nrq6e33i2d]: Consuming argument `gras`
+[19Dec2024 21:15:20.908] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ie0nvi759zj9]: started parsing
+[19Dec2024 21:15:20.908] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ie0nvi759zj9]: Consuming argument `stone`
+[19Dec2024 21:15:20.908] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ie0nvi759zj9]: Consuming argument `grass_block`
+[19Dec2024 21:15:20.909] [Server thread/DEBUG] [org.enginehub.piston.impl.CommandParser/]: [0ie0nvi759zj9]: Finished looking at arguments. Finalizing command.
+[19Dec2024 21:15:59.047] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Dec2024 21:15:59.047] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[19Dec2024 21:15:59.951] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Dec2024 21:15:59.951] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[19Dec2024 21:16:09.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 21:16:09.192] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Dec2024 21:16:58.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[19Dec2024 21:17:17.738] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Dec2024 21:17:17.738] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[19Dec2024 21:17:34.126] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[19Dec2024 21:18:47.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[19Dec2024 21:18:51.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Spectator Mode]
+[19Dec2024 21:18:56.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[19Dec2024 21:18:59.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[19Dec2024 21:19:03.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Spectator Mode]
+[19Dec2024 21:19:06.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[19Dec2024 21:20:29.094] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Dec2024 21:20:29.094] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[19Dec2024 21:20:29.656] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[19Dec2024 21:20:29.656] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[19Dec2024 21:20:29.658] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[19Dec2024 21:21:09.133] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Dec2024 21:21:09.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
