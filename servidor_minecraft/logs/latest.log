@@ -266,3 +266,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [19Dec2024 21:57:01.352] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4585, y=83, z=-5364} BlockPos{x=-4585, y=82, z=-5365}
 [19Dec2024 22:12:28.502] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: R3hsk lost connection: Disconnected
 [19Dec2024 22:12:28.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk left the game
+[19Dec2024 22:19:20.099] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@333442e3
+[19Dec2024 22:19:20.111] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: R3hsk[/127.250.204.19:40515] logged in with entity id 13106 at (-4523.891094763133, 64.0, -5325.395781936324)
+[19Dec2024 22:19:20.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk joined the game
