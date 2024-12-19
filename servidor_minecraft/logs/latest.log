@@ -2671,3 +2671,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [19Dec2024 23:09:23.326] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: R3hsk[/127.250.204.19:33409] logged in with entity id 89 at (-4591.056014088907, 103.0, -5396.559963644308)
 [19Dec2024 23:09:23.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk joined the game
 [19Dec2024 23:09:25.996] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2712ms or 54 ticks behind
+[19Dec2024 23:19:04.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Applied effect Regeneration to R3hsk]
+[19Dec2024 23:24:42.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[19Dec2024 23:25:03.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
