@@ -269,3 +269,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [19Dec2024 22:19:20.099] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@333442e3
 [19Dec2024 22:19:20.111] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: R3hsk[/127.250.204.19:40515] logged in with entity id 13106 at (-4523.891094763133, 64.0, -5325.395781936324)
 [19Dec2024 22:19:20.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk joined the game
+[19Dec2024 22:44:58.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[19Dec2024 22:45:11.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
