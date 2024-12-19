@@ -1459,15 +1459,15 @@
     },
     "done": true
   },
-  "projecte:recipes/projecte/black_hole_band": {
-    "criteria": {
-      "has_matter": "2024-12-19 00:05:05 +0000"
-    },
-    "done": true
-  },
   "projecte:recipes/projecte/conversions/mobius_fuel_to_alchemical_coal": {
     "criteria": {
       "has_mobius_fuel": "2024-12-19 00:03:16 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/black_hole_band": {
+    "criteria": {
+      "has_matter": "2024-12-19 00:05:05 +0000"
     },
     "done": true
   },
@@ -3630,6 +3630,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2024-12-19 00:36:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_pillar_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2024-12-17 23:30:05 +0000"
@@ -4309,15 +4315,15 @@
     },
     "done": true
   },
-  "projecte:recipes/projecte/catalytic_lens": {
-    "criteria": {
-      "has_matter": "2024-12-19 00:05:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2024-12-18 23:01:57 +0000"
+    },
+    "done": true
+  },
+  "projecte:recipes/projecte/catalytic_lens": {
+    "criteria": {
+      "has_matter": "2024-12-19 00:05:05 +0000"
     },
     "done": true
   },
