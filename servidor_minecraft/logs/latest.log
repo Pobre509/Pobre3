@@ -3293,3 +3293,11 @@ Caused by: java.lang.IllegalArgumentException: Player literal{R3hsk} is missing 
 [20Dec2024 20:08:04.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Applied effect Resistance to R3hsk]
 [20Dec2024 20:09:37.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has reached the goal [Enderslime Island]
 [20Dec2024 20:12:18.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
+[20Dec2024 20:14:22.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack fell out of the world
+[20Dec2024 20:15:00.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
+[20Dec2024 20:15:56.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
+[20Dec2024 20:21:22.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [The City at the End of the Game]
+[20Dec2024 20:21:48.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was slain by Enderman
+[20Dec2024 20:22:02.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
+[20Dec2024 20:22:18.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
+[20Dec2024 20:23:03.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]

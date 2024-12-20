@@ -2360,6 +2360,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/redstone_smithing": {
+    "criteria": {
+      "has_redstone": "2024-12-20 20:14:35 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/protecto": {
     "criteria": {
       "has_ender_eye": "2024-12-20 19:24:43 +0000"
