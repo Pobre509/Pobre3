@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/popped_chorus_fruit": {
+    "criteria": {
+      "has_chorus_fruit": "2024-12-20 20:24:06 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/copper_longsword": {
     "criteria": {
       "has_copper_ingot": "2024-12-18 00:03:37 +0000"
@@ -6910,6 +6916,7 @@
     "criteria": {
       "cooked_porkchop": "2024-12-18 00:41:03 +0000",
       "cooked_beef": "2024-12-18 03:13:54 +0000",
+      "chorus_fruit": "2024-12-20 20:24:10 +0000",
       "baked_potato": "2024-12-18 01:18:45 +0000",
       "cooked_cod": "2024-12-17 23:50:11 +0000",
       "salmon": "2024-12-18 00:29:42 +0000",
@@ -7107,6 +7114,12 @@
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-12-17 23:58:03 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/gold_smithing": {
+    "criteria": {
+      "has_gold": "2024-12-20 20:28:44 +0000"
     },
     "done": true
   },

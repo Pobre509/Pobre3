@@ -3301,3 +3301,11 @@ Caused by: java.lang.IllegalArgumentException: Player literal{R3hsk} is missing 
 [20Dec2024 20:22:02.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
 [20Dec2024 20:22:18.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
 [20Dec2024 20:23:03.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
+[20Dec2024 20:25:57.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported R3hsk to 1968.500000, 57.000000, -639.500000]
+[20Dec2024 20:26:04.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [The City at the End of the Game]
+[20Dec2024 20:27:17.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has reached the goal [Sky's the Limit]
+[20Dec2024 20:27:33.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Hunt and Gather]
+[20Dec2024 20:28:40.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Spectator Mode]
+[20Dec2024 20:28:55.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[20Dec2024 20:30:27.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Will it Come Back?]
+[20Dec2024 20:32:09.083] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Agizahr the Archmage'/78186, l='ServerLevel[world]', x=1993.12, y=126.00, z=-656.26] died: Agizahr the Archmage was slain by R3hsk
