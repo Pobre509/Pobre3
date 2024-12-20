@@ -3519,3 +3519,7 @@ Caused by: java.lang.IllegalArgumentException: Player literal{R3hsk} is missing 
 [20Dec2024 22:13:54.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
 [20Dec2024 22:14:15.503] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: R3hsk lost connection: Disconnected
 [20Dec2024 22:14:15.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk left the game
+[20Dec2024 22:22:13.612] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@c0b7e7
+[20Dec2024 22:22:13.626] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: R3hsk[/127.250.204.19:34981] logged in with entity id 102712 at (-4610.615835753515, 103.0, -5411.280994539762)
+[20Dec2024 22:22:13.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk joined the game
+[20Dec2024 22:24:27.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
