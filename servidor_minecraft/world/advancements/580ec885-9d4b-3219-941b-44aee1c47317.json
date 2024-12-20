@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/birch_storage_jar": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lever": {
     "criteria": {
       "has_cobblestone": "2024-12-17 23:02:12 +0000"
@@ -74,6 +80,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-18 01:39:32 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/oak_lattice_fence_gate": {
+    "criteria": {
+      "has_oak_planks": "2024-12-20 00:47:47 +0000"
     },
     "done": true
   },
@@ -143,6 +155,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/oak_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_oak_planks": "2024-12-20 00:47:47 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/copper_rapier": {
     "criteria": {
       "has_copper_ingot": "2024-12-18 00:03:37 +0000"
@@ -152,6 +170,12 @@
   "minecraft:recipes/building_blocks/copper_block": {
     "criteria": {
       "has_copper_ingot": "2024-12-18 00:03:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_green_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
     },
     "done": true
   },
@@ -221,9 +245,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_orange_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-18 03:36:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
     },
     "done": true
   },
@@ -353,6 +389,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_white_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:18:46 +0000"
@@ -377,6 +419,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_red_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-18 01:39:32 +0000"
@@ -398,6 +446,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/silver_pike": {
     "criteria": {
       "has_silver_ingot": "2024-12-18 01:03:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
     },
     "done": true
   },
@@ -443,9 +497,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_blue_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-17 23:05:06 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_white_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
     },
     "done": true
   },
@@ -611,6 +677,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_purple_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/silver_parrying_dagger": {
     "criteria": {
       "has_silver_ingot": "2024-12-18 01:03:26 +0000"
@@ -647,6 +719,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_magenta_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-18 02:29:01 +0000"
@@ -674,6 +752,12 @@
   "travelersbackpack:recipes/travelersbackpack/standard_smithing": {
     "criteria": {
       "has_standard": "2024-12-18 01:08:58 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/oak_kitchen_cabinetry": {
+    "criteria": {
+      "has_oak_planks": "2024-12-20 00:47:47 +0000"
     },
     "done": true
   },
@@ -710,6 +794,12 @@
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2024-12-18 00:28:35 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_cobweb": {
+    "criteria": {
+      "has_cobweb": "2024-12-20 00:47:10 +0000"
     },
     "done": true
   },
@@ -797,6 +887,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_light_gray_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_yellow_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2024-12-18 03:34:53 +0000"
@@ -842,6 +944,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/green_sofa": {
     "criteria": {
       "has_white_wool": "2024-12-20 00:41:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
     },
     "done": true
   },
@@ -959,6 +1067,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-20 00:52:24 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_battle_hammer": {
     "criteria": {
       "has_cobblestone": "2024-12-17 23:02:12 +0000"
@@ -974,6 +1088,12 @@
   "tconstruct:recipes/tconstruct/general/tables/crafting_station": {
     "criteria": {
       "has_item": "2024-12-17 23:38:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_black_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
     },
     "done": true
   },
@@ -1037,6 +1157,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/dark_oak_storage_jar": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/projecte/medium_covalence_dust": {
     "criteria": {
       "has_redstone": "2024-12-18 23:30:24 +0000"
@@ -1058,6 +1184,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_throwing_knife": {
     "criteria": {
       "has_gold_ingot": "2024-12-18 01:02:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2024-12-20 00:48:16 +0000"
     },
     "done": true
   },
@@ -1181,6 +1313,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/brown_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-20 00:47:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-18 22:59:18 +0000"
@@ -1286,6 +1424,12 @@
   "securitycraft:recipes/securitycraft/trophy_system": {
     "criteria": {
       "has_iron": "2024-12-20 00:41:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
     },
     "done": true
   },
@@ -1530,6 +1674,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-12-20 00:55:49 +0000"
+    },
+    "done": false
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_pike": {
     "criteria": {
       "has_cobblestone": "2024-12-17 23:02:12 +0000"
@@ -1563,6 +1713,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/spruce_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2024-12-20 00:43:19 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
     },
     "done": true
   },
@@ -1611,6 +1767,12 @@
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2024-12-17 23:05:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_lime_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
     },
     "done": true
   },
@@ -1716,6 +1878,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_green_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-18 00:28:35 +0000"
@@ -1725,6 +1893,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/purple_stool": {
     "criteria": {
       "has_white_wool": "2024-12-20 00:41:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-20 00:55:49 +0000"
     },
     "done": true
   },
@@ -1788,6 +1962,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_light_blue_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/silver_longbow": {
     "criteria": {
       "has_silver_ingot": "2024-12-18 01:03:26 +0000"
@@ -1803,6 +1983,12 @@
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-18 03:36:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_red_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
     },
     "done": true
   },
@@ -1914,6 +2100,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/cyan_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-20 00:47:47 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/acacia_toilet": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 00:41:08 +0000"
@@ -1929,6 +2121,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/pole_from_leather": {
     "criteria": {
       "has_stick": "2024-12-17 22:53:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_blue_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
     },
     "done": true
   },
@@ -2004,6 +2202,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-20 00:51:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_light_blue_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-18 04:04:21 +0000"
@@ -2013,6 +2223,12 @@
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2024-12-18 00:58:21 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/oak_chair": {
+    "criteria": {
+      "has_oak_planks": "2024-12-20 00:47:47 +0000"
     },
     "done": true
   },
@@ -2208,6 +2424,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_gray_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2024-12-17 23:01:42 +0000"
@@ -2235,6 +2457,12 @@
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:18:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_gray_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
     },
     "done": true
   },
@@ -2289,6 +2517,12 @@
   "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-18 00:58:21 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_brown_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
     },
     "done": true
   },
@@ -2424,6 +2658,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-20 00:55:49 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/golden_battleaxe": {
     "criteria": {
       "has_gold_ingot": "2024-12-18 01:02:34 +0000"
@@ -2433,6 +2673,18 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-18 04:04:21 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2024-12-20 00:52:24 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/oak_cutting_board": {
+    "criteria": {
+      "has_oak_planks": "2024-12-20 00:47:47 +0000"
     },
     "done": true
   },
@@ -2487,6 +2739,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/copper_scythe": {
     "criteria": {
       "has_copper_ingot": "2024-12-18 00:03:37 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/blue_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-20 00:47:47 +0000"
     },
     "done": true
   },
@@ -2574,6 +2832,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-20 00:47:46 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/claymore": {
     "criteria": {
       "has_redstone": "2024-12-20 00:45:03 +0000"
@@ -2583,6 +2847,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-12-17 22:53:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/warped_storage_jar": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
     },
     "done": true
   },
@@ -2658,6 +2928,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_brown_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/projecte/transmutation_table": {
     "criteria": {
       "has_philo_stone": "2024-12-20 00:43:11 +0000"
@@ -2703,6 +2979,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_club": {
     "criteria": {
       "has_wood_log": "2024-12-17 23:01:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_yellow_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
     },
     "done": true
   },
@@ -2814,9 +3096,27 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/magenta_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-20 00:47:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_black_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-17 23:01:56 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/oak_desk": {
+    "criteria": {
+      "has_oak_planks": "2024-12-20 00:47:47 +0000"
     },
     "done": true
   },
@@ -2934,6 +3234,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/black_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-20 00:47:47 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:battle_hammer": {
     "criteria": {
       "has_battle_hammer": "2024-12-18 01:11:42 +0000"
@@ -2967,6 +3273,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/crimson_bath": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 00:41:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
     },
     "done": true
   },
@@ -3006,6 +3318,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2024-12-17 23:29:29 +0000"
@@ -3036,6 +3354,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-12-17 23:01:56 +0000"
@@ -3060,9 +3384,27 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/diamond_knife": {
+    "criteria": {
+      "has_diamond": "2024-12-20 00:47:13 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/purple_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
       "has_sleeping_bag": "2024-12-17 23:34:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/oak_kitchen_drawer": {
+    "criteria": {
+      "has_oak_planks": "2024-12-20 00:47:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_lime_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
     },
     "done": true
   },
@@ -3288,6 +3630,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_purple_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_greatsword": {
     "criteria": {
       "has_cobblestone": "2024-12-17 23:02:12 +0000"
@@ -3384,6 +3732,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_red_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-17 23:02:48 +0000"
@@ -3438,6 +3792,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_black_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_warhammer": {
     "criteria": {
       "has_diamond": "2024-12-17 23:25:02 +0000"
@@ -3489,6 +3855,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/lime_lamp": {
     "criteria": {
       "has_glowstone_dust": "2024-12-20 00:41:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/orange_dye_from_glow_berries": {
+    "criteria": {
+      "has_glow_berries": "2024-12-20 00:48:13 +0000"
     },
     "done": true
   },
@@ -3552,6 +3924,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/yellow_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-20 00:47:47 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/emerald": {
     "criteria": {
       "has_emerald": "2024-12-17 23:24:56 +0000"
@@ -3606,6 +3984,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/purple_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-20 00:47:47 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_rapier": {
     "criteria": {
       "has_wood": "2024-12-17 23:01:56 +0000"
@@ -3627,6 +4011,18 @@
   "minecraft:recipes/transportation/jungle_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-18 02:29:01 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/light_gray_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-20 00:47:47 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-20 00:52:24 +0000"
     },
     "done": true
   },
@@ -3660,6 +4056,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/mangrove_storage_jar": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2024-12-17 23:07:24 +0000"
@@ -3687,6 +4089,12 @@
   "securitycraft:recipes/securitycraft/security_camera": {
     "criteria": {
       "has_iron": "2024-12-20 00:41:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/frying/glow_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2024-12-20 00:48:13 +0000"
     },
     "done": true
   },
@@ -3894,6 +4302,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/oak_storage_jar": {
+    "criteria": {
+      "has_oak_planks": "2024-12-20 00:47:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2024-12-17 22:59:19 +0000"
@@ -3924,6 +4338,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-20 00:47:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2024-12-17 23:16:53 +0000"
@@ -3951,6 +4371,12 @@
   "minecraft:recipes/redstone/lightning_rod": {
     "criteria": {
       "has_copper_ingot": "2024-12-18 00:03:37 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/red_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-20 00:47:47 +0000"
     },
     "done": true
   },
@@ -4041,6 +4467,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_cyan_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/crimson_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 00:41:08 +0000"
@@ -4093,6 +4525,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_saber": {
     "criteria": {
       "has_gold_ingot": "2024-12-18 01:02:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2024-12-20 00:48:13 +0000"
     },
     "done": true
   },
@@ -4150,6 +4588,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-20 00:48:13 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/handle_from_wool": {
     "criteria": {
       "has_stick": "2024-12-17 22:53:51 +0000"
@@ -4180,6 +4624,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/light_blue_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-20 00:47:47 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/umbran_boat": {
     "criteria": {
       "in_water": "2024-12-17 23:07:24 +0000"
@@ -4195,6 +4645,12 @@
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-17 23:21:03 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/slicing/bread_slice_from_bread": {
+    "criteria": {
+      "has_bread": "2024-12-20 00:48:15 +0000"
     },
     "done": true
   },
@@ -4273,6 +4729,12 @@
   "tconstruct:recipes/tconstruct/gadgets/gadgets/frame/gold": {
     "criteria": {
       "has_item": "2024-12-18 03:09:18 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/oak_mail_box": {
+    "criteria": {
+      "has_oak_planks": "2024-12-20 00:47:47 +0000"
     },
     "done": true
   },
@@ -4378,6 +4840,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/crimson_storage_jar": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/spartanshields/obsidian_tower_shield": {
     "criteria": {
       "has_obsidian": "2024-12-18 23:33:26 +0000"
@@ -4417,6 +4885,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-17 23:16:53 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2024-12-20 00:52:24 +0000"
     },
     "done": true
   },
@@ -4492,6 +4966,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/pink_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-20 00:47:47 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2024-12-20 00:41:15 +0000"
@@ -4513,6 +4993,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_sword": "2024-12-17 23:25:04 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
     },
     "done": true
   },
@@ -4546,6 +5032,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/white_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-20 00:47:47 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2024-12-20 00:31:32 +0000"
@@ -4567,6 +5059,12 @@
   "securitycraft:recipes/securitycraft/camera_monitor": {
     "criteria": {
       "has_iron": "2024-12-20 00:41:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_orange_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
     },
     "done": true
   },
@@ -4720,6 +5218,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_magenta_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/gray_sofa": {
     "criteria": {
       "has_white_wool": "2024-12-20 00:41:15 +0000"
@@ -4747,6 +5251,12 @@
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2024-12-18 23:45:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/acacia_storage_jar": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
     },
     "done": true
   },
@@ -4780,9 +5290,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/green_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-20 00:47:47 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/blank_upgrade": {
     "criteria": {
       "has_chest": "2024-12-18 00:35:31 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/jungle_storage_jar": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
     },
     "done": true
   },
@@ -4846,6 +5368,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_cyan_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/spartanshields/stone_tower_shield": {
     "criteria": {
       "has_cobblestone": "2024-12-17 23:02:12 +0000"
@@ -4888,6 +5416,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2024-12-20 00:48:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-12-18 23:19:24 +0000"
@@ -4921,6 +5455,18 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-18 23:16:23 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/diorite_stepping_stones": {
+    "criteria": {
+      "has_diorite": "2024-12-20 00:52:21 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/oak_lattice_fence": {
+    "criteria": {
+      "has_oak_planks": "2024-12-20 00:47:47 +0000"
     },
     "done": true
   },
@@ -5110,6 +5656,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/gray_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-20 00:47:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-12-18 00:41:03 +0000",
@@ -5149,6 +5701,12 @@
   "iceandfire:iceandfire/gorgon_head": {
     "criteria": {
       "bestiary": "2024-12-18 00:26:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
     },
     "done": true
   },
@@ -5254,6 +5812,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/oak_table": {
+    "criteria": {
+      "has_oak_planks": "2024-12-20 00:47:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2024-12-17 23:22:06 +0000"
@@ -5314,6 +5878,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_green_stained_glass_pane_from_glass": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_spear": {
     "criteria": {
       "has_wood": "2024-12-17 23:01:56 +0000"
@@ -5365,6 +5935,12 @@
   "spartanweaponry:recipes/spartanweaponry.modded/silver_greatsword": {
     "criteria": {
       "has_silver_ingot": "2024-12-18 01:03:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/spruce_storage_jar": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
     },
     "done": true
   },
@@ -5425,6 +6001,12 @@
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2024-12-18 22:59:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
     },
     "done": true
   },
@@ -5698,6 +6280,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/white_sofa": {
     "criteria": {
       "has_white_wool": "2024-12-20 00:41:15 +0000"
@@ -5794,6 +6382,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/lime_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-20 00:47:47 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2024-12-17 23:07:24 +0000"
@@ -5803,6 +6397,12 @@
   "tconstruct:recipes/tconstruct/general/common/copper_platform": {
     "criteria": {
       "has_bars": "2024-12-18 00:03:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
     },
     "done": true
   },
@@ -5950,6 +6550,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/oak_crate": {
+    "criteria": {
+      "has_oak_planks": "2024-12-20 00:47:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-18 01:39:32 +0000"
@@ -6082,6 +6688,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_light_gray_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2024-12-17 23:32:38 +0000"
@@ -6118,6 +6730,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
     "criteria": {
       "has_mossy_stone_bricks": "2024-12-18 00:26:39 +0000"
@@ -6145,6 +6763,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/basin": {
     "criteria": {
       "has_item": "2024-12-18 02:15:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/orange_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-20 00:47:47 +0000"
     },
     "done": true
   },
@@ -6262,6 +6886,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_white_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2024-12-17 23:32:38 +0000"
@@ -6274,9 +6904,21 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2024-12-20 00:48:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2024-12-18 03:36:44 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/oak_drawer": {
+    "criteria": {
+      "has_oak_planks": "2024-12-20 00:47:47 +0000"
     },
     "done": true
   },

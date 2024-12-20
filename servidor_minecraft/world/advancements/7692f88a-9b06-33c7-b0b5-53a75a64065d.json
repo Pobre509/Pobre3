@@ -491,6 +491,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/dark_lightswitch": {
+    "criteria": {
+      "has_lightswitch": "2024-12-20 00:50:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-17 23:19:55 +0000"
@@ -2467,6 +2473,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2024-12-20 00:46:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2024-12-17 23:32:05 +0000"
@@ -3517,6 +3529,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/dark_ceiling_light": {
+    "criteria": {
+      "has_light_ceiling_light": "2024-12-20 00:49:57 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/gray_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 23:26:30 +0000"
@@ -4237,6 +4255,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/dark_lightswitch": {
+    "criteria": {
+      "has_light_lightswitch": "2024-12-20 00:50:56 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2024-12-17 23:20:04 +0000"
@@ -4468,6 +4492,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-17 23:09:48 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/dark_ceiling_light": {
+    "criteria": {
+      "has_ceiling_light": "2024-12-20 00:49:57 +0000"
     },
     "done": true
   },
@@ -5556,6 +5586,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/copper_pike": {
     "criteria": {
       "has_copper_ingot": "2024-12-18 02:15:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2024-12-20 00:46:24 +0000"
     },
     "done": true
   },
@@ -6874,6 +6910,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/brown_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 23:26:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/bone_broth": {
+    "criteria": {
+      "has_bone": "2024-12-20 00:46:49 +0000"
     },
     "done": true
   },
