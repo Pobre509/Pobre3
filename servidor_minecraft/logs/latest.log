@@ -4,3 +4,19 @@
 [20Dec2024 00:05:23.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
 [20Dec2024 00:16:10.544] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@27a1d89a[id=<null>,name=percentyack,properties={},legacy=false] (/127.113.173.157:60755) lost connection: Disconnected
 [20Dec2024 00:25:56.092] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@58d1d518[id=<null>,name=percentyack,properties={},legacy=false] (/127.113.173.157:50875) lost connection: Disconnected
+[20Dec2024 00:26:24.692] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6352eef1[id=<null>,name=percentyack,properties={},legacy=false] (/127.113.173.157:35085) lost connection: Disconnected
+[20Dec2024 00:26:32.440] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@240ac203[id=<null>,name=percentyack,properties={},legacy=false] (/127.113.173.157:47773) lost connection: Disconnected
+[20Dec2024 00:26:36.290] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1e5bf8ee[id=<null>,name=percentyack,properties={},legacy=false] (/127.113.173.157:58369) lost connection: Disconnected
+[20Dec2024 00:26:57.589] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6d5adf4d[id=<null>,name=percentyack,properties={},legacy=false] (/127.113.173.157:32945) lost connection: Disconnected
+[20Dec2024 00:27:02.488] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@f8567e[id=<null>,name=percentyack,properties={},legacy=false] (/127.113.173.157:50689) lost connection: Disconnected
+[20Dec2024 00:27:06.339] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5d12ce2[id=<null>,name=percentyack,properties={},legacy=false] (/127.113.173.157:47923) lost connection: Disconnected
+[20Dec2024 00:27:12.190] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@73c7a7c8[id=<null>,name=percentyack,properties={},legacy=false] (/127.113.173.157:32773) lost connection: Disconnected
+[20Dec2024 00:31:32.143] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5958302e
+[20Dec2024 00:31:32.163] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: percentyack[/127.113.173.157:50741] logged in with entity id 17314 at (-4487.300000011921, -11.0, -4935.699999988079)
+[20Dec2024 00:31:32.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack joined the game
+[20Dec2024 00:31:35.052] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2868ms or 57 ticks behind
+[20Dec2024 00:32:42.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
+[20Dec2024 00:32:46.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[20Dec2024 00:33:05.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[20Dec2024 00:34:49.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: R3hsk moved too quickly! 9.824578808568731,0.12129684053920187,-2.809867115722227
+[20Dec2024 00:35:00.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Using Matter on Matter]
