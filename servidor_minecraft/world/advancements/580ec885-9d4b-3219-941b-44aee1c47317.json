@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2024-12-20 18:54:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/brown_grill": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 00:41:08 +0000"
@@ -533,6 +539,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/acacia_lattice_fence": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-20 18:54:36 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_saber": {
     "criteria": {
       "has_cobblestone": "2024-12-17 23:02:12 +0000"
@@ -788,6 +800,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/oak_kitchen_cabinetry": {
     "criteria": {
       "has_oak_planks": "2024-12-20 00:47:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/acacia_drawer": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-20 18:54:36 +0000"
     },
     "done": true
   },
@@ -1058,6 +1076,12 @@
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2024-12-17 23:21:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-20 18:54:36 +0000"
     },
     "done": true
   },
@@ -1535,6 +1559,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-20 18:54:35 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/mangrove_light_ceiling_fan": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 00:41:08 +0000"
@@ -1682,6 +1712,12 @@
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-18 00:52:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2024-12-20 18:54:35 +0000"
     },
     "done": true
   },
@@ -2413,6 +2449,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2024-12-20 18:54:35 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/projecte/relay_mk1": {
     "criteria": {
       "has_diamond": "2024-12-20 00:41:09 +0000"
@@ -2719,6 +2761,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/acacia_crate": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-20 18:54:36 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_stairs_stonecutter": {
     "criteria": {
       "has_item": "2024-12-18 02:15:48 +0000"
@@ -2881,6 +2929,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/acacia_desk": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-20 18:54:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/computer": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 00:41:08 +0000"
@@ -2932,6 +2986,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-18 04:04:21 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/acacia_kitchen_drawer": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-20 18:54:35 +0000"
     },
     "done": true
   },
@@ -3115,6 +3175,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/acacia_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-20 18:54:35 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_club": {
     "criteria": {
       "has_wood_log": "2024-12-17 23:01:42 +0000"
@@ -3232,6 +3298,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/jungle_basin": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 00:41:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-20 18:54:36 +0000"
     },
     "done": true
   },
@@ -3409,6 +3481,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/acacia_table": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-20 18:54:35 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/melter": {
     "criteria": {
       "has_item": "2024-12-18 02:15:26 +0000"
@@ -3454,6 +3532,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/light_gray_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 00:41:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/acacia_cutting_board": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-20 18:54:36 +0000"
     },
     "done": true
   },
@@ -3586,6 +3670,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/light_blue_grill": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 00:41:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/acacia_mail_box": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-20 18:54:36 +0000"
     },
     "done": true
   },
@@ -4207,6 +4297,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/acacia_kitchen_cabinetry": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-20 18:54:36 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/jungle_toilet": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 00:41:08 +0000"
@@ -4306,6 +4402,12 @@
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-18 03:36:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2024-12-20 18:54:36 +0000"
     },
     "done": true
   },
@@ -5589,6 +5691,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-20 18:54:35 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/tools/tools/armor/travelers_goggles": {
     "criteria": {
       "has_item": "2024-12-18 00:03:37 +0000"
@@ -6243,6 +6351,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2024-12-20 18:54:36 +0000"
+    },
+    "done": true
+  },
   "tconstruct:tools/make_part": {
     "criteria": {
       "crafted_part": "2024-12-18 00:04:29 +0000"
@@ -6753,6 +6867,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-20 18:54:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-12-17 23:12:45 +0000"
@@ -6774,6 +6894,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-12-17 23:02:12 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/acacia_lattice_fence_gate": {
+    "criteria": {
+      "has_acacia_planks": "2024-12-20 18:54:36 +0000"
     },
     "done": true
   },
@@ -6882,6 +7008,12 @@
   "refurbished_furniture:recipes/misc/slicing/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2024-12-20 01:12:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/acacia_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-20 18:54:36 +0000"
     },
     "done": true
   },
