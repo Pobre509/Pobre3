@@ -3405,3 +3405,23 @@ Caused by: java.lang.IllegalArgumentException: Player literal{R3hsk} is missing 
 [20Dec2024 20:43:59.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported R3hsk to 18624.500000, 64.374293, 20560.500000]
 [20Dec2024 20:44:10.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
 [20Dec2024 20:44:14.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[20Dec2024 20:44:41.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Applied effect Regeneration to R3hsk]
+[20Dec2024 20:45:26.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was slain by Enderman
+[20Dec2024 20:45:55.199] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WanderingTrader['Agizahr the Archmage'/81975, l='ServerLevel[world]', x=18635.05, y=61.00, z=20521.23] died: Agizahr the Archmage was slain by R3hsk
+[20Dec2024 20:46:04.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
+[20Dec2024 20:46:43.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[20Dec2024 20:46:53.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Spectator Mode]
+[20Dec2024 20:46:55.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[20Dec2024 20:48:18.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has reached the goal [Sky's the Limit]
+[20Dec2024 20:48:23.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Local Brewery]
+[20Dec2024 20:48:37.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack fell out of the world
+[20Dec2024 20:48:44.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported R3hsk to percentyack]
+[20Dec2024 20:50:55.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[20Dec2024 20:51:20.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[20Dec2024 20:52:21.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[20Dec2024 20:52:32.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[20Dec2024 20:56:43.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[20Dec2024 21:00:43.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [A Supreme Material]
+[20Dec2024 21:00:48.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [A Supreme Material]
+[20Dec2024 21:01:21.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Is There no End to Gobber?]
+[20Dec2024 21:01:25.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [A Stronger Material]

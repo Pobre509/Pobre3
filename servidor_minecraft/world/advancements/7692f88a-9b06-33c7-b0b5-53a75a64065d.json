@@ -911,6 +911,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_ingot": {
+    "criteria": {
+      "gobber2_ingot": "2024-12-20 20:59:54 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_glaive": {
     "criteria": {
       "has_diamond": "2024-12-17 23:32:05 +0000"
@@ -2420,6 +2426,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_ingot_end": {
+    "criteria": {
+      "gobber2_ingot_end": "2024-12-20 21:00:43 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2024-12-17 23:20:04 +0000"
@@ -2651,6 +2663,12 @@
   "securitycraft:recipes/securitycraft/keypad_frame": {
     "criteria": {
       "has_redstone": "2024-12-19 23:29:06 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/iron_sheet_metal_from_iron_block_stonecutting": {
+    "criteria": {
+      "has_iron_block": "2024-12-20 20:54:17 +0000"
     },
     "done": true
   },
@@ -2906,6 +2924,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/misc/common/glass/vanilla/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-12-20 20:59:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-12-17 23:19:52 +0000"
@@ -3137,6 +3161,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_javelin": {
     "criteria": {
       "has_gold_ingot": "2024-12-18 03:11:25 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_glob_end": {
+    "criteria": {
+      "gobber2_glob_end": "2024-12-20 21:01:21 +0000"
     },
     "done": true
   },
@@ -4223,6 +4253,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/dark_oak_basin": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 23:26:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-20 20:54:17 +0000"
     },
     "done": true
   },
@@ -5637,6 +5673,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2024-12-20 20:52:46 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/leather_heavy_crossbow": {
     "criteria": {
       "has_leather": "2024-12-17 23:40:43 +0000"
@@ -6779,6 +6821,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/codebreaker": {
+    "criteria": {
+      "has_nether_star": "2024-12-20 20:59:26 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_halberd": {
     "criteria": {
       "has_diamond": "2024-12-17 23:32:05 +0000"
@@ -7383,6 +7431,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/beacon": {
+    "criteria": {
+      "has_nether_star": "2024-12-20 20:59:26 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_glaive": {
     "criteria": {
       "has_iron_ingot": "2024-12-18 00:11:57 +0000"
@@ -7773,6 +7827,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-20 20:54:17 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_staff": {
     "criteria": {
       "bestiary": "2024-12-18 04:20:08 +0000"
@@ -7884,6 +7944,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/magenta_grill": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 23:26:30 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:smeltery/structure": {
+    "criteria": {
+      "open_smeltery": "2024-12-20 20:58:01 +0000"
     },
     "done": true
   },
