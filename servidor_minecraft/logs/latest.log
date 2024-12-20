@@ -3098,3 +3098,23 @@ Caused by: java.lang.IllegalArgumentException: Player literal{R3hsk} is missing 
 [20Dec2024 19:18:40.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Applied enchantment Looting III to R3hsk's item]
 [20Dec2024 19:21:14.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
 [20Dec2024 19:22:15.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[20Dec2024 19:23:27.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[20Dec2024 19:23:32.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[20Dec2024 19:23:57.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported R3hsk to percentyack]
+[20Dec2024 19:24:14.698] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4584, y=103, z=-5405} BlockPos{x=-4584, y=104, z=-5404}
+[20Dec2024 19:24:15.080] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4584, y=103, z=-5405} BlockPos{x=-4585, y=104, z=-5404}
+[20Dec2024 19:24:15.249] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4584, y=103, z=-5405} BlockPos{x=-4586, y=104, z=-5404}
+[20Dec2024 19:24:15.449] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4584, y=103, z=-5405} BlockPos{x=-4587, y=104, z=-5404}
+[20Dec2024 19:24:15.583] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4584, y=103, z=-5405} BlockPos{x=-4588, y=104, z=-5404}
+[20Dec2024 19:25:28.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[20Dec2024 19:25:50.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[20Dec2024 19:26:16.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[20Dec2024 19:27:18.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[20Dec2024 19:27:35.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[20Dec2024 19:28:41.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[20Dec2024 19:32:59.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Would you Like to Know More?]
+[20Dec2024 19:34:50.606] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/59061, l='ServerLevel[world]', x=-4792.07, y=81.62, z=-5846.95] died, message: 'Villager was slain by Zombie'
+[20Dec2024 19:37:33.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[20Dec2024 19:37:42.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[20Dec2024 19:38:24.322] [Worker-Main-27/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-4796, y=38, z=-6384}
+[20Dec2024 19:42:54.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has completed the challenge [Just a Flesh Wound]
