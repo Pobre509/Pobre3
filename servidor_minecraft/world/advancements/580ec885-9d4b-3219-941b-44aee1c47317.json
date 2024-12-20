@@ -299,15 +299,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/refurbished_furniture/constructing/cyan_stool": {
-    "criteria": {
-      "has_white_wool": "2024-12-20 00:41:15 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/pink_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 00:41:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/cyan_stool": {
+    "criteria": {
+      "has_white_wool": "2024-12-20 00:41:15 +0000"
     },
     "done": true
   },
@@ -1211,15 +1211,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_observer": {
-    "criteria": {
-      "has_quartz": "2024-12-20 00:48:16 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/smart_module": {
     "criteria": {
       "has_iron": "2024-12-20 00:41:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2024-12-20 00:48:16 +0000"
     },
     "done": true
   },
@@ -2275,15 +2275,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_bookshelf": {
-    "criteria": {
-      "has_book": "2024-12-20 00:51:55 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_light_blue_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-20 00:49:02 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_bookshelf": {
+    "criteria": {
+      "has_book": "2024-12-20 00:51:55 +0000"
     },
     "done": true
   },
@@ -2605,15 +2605,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_brown_stained_glass_pane_from_dye": {
-    "criteria": {
-      "has_glass": "2024-12-20 00:49:02 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/refurbished_furniture/spatula": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 00:41:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_brown_stained_glass_pane_from_dye": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
     },
     "done": true
   },
@@ -2767,15 +2767,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/heating/baked_potato": {
-    "criteria": {
-      "has_ingredient": "2024-12-20 00:52:24 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/oak_cutting_board": {
     "criteria": {
       "has_oak_planks": "2024-12-20 00:47:47 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2024-12-20 00:52:24 +0000"
     },
     "done": true
   },
@@ -3037,15 +3037,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/cooking/ratatouille": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-20 01:10:35 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_brown_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-20 00:49:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-20 01:10:35 +0000"
     },
     "done": true
   },
@@ -3229,15 +3229,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/refurbished_furniture/constructing/oak_desk": {
-    "criteria": {
-      "has_oak_planks": "2024-12-20 00:47:47 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/spruce_basin": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 00:41:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/oak_desk": {
+    "criteria": {
+      "has_oak_planks": "2024-12-20 00:47:47 +0000"
     },
     "done": true
   },
@@ -3349,15 +3349,15 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/building_blocks/hellbark_stairs": {
-    "criteria": {
-      "has_planks": "2024-12-20 00:58:03 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/black_cooler": {
     "criteria": {
       "has_planks": "2024-12-20 00:47:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/hellbark_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-20 00:58:03 +0000"
     },
     "done": true
   },
@@ -3925,15 +3925,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/cooking/vegetable_soup": {
-    "criteria": {
-      "has_any_ingredient": "2024-12-20 01:10:35 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_orange_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-20 00:49:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-20 01:10:35 +0000"
     },
     "done": true
   },
@@ -5133,15 +5133,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/refurbished_furniture/constructing/pink_cooler": {
-    "criteria": {
-      "has_planks": "2024-12-20 00:47:47 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2024-12-20 00:41:15 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/pink_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-20 00:47:47 +0000"
     },
     "done": true
   },
@@ -5199,15 +5199,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/refurbished_furniture/constructing/white_cooler": {
-    "criteria": {
-      "has_planks": "2024-12-20 00:47:47 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2024-12-20 00:31:32 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/white_cooler": {
+    "criteria": {
+      "has_planks": "2024-12-20 00:47:47 +0000"
     },
     "done": true
   },
@@ -5439,15 +5439,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/refurbished_furniture/constructing/acacia_storage_jar": {
-    "criteria": {
-      "has_glass": "2024-12-20 00:49:02 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/yellow_stool": {
     "criteria": {
       "has_white_wool": "2024-12-20 00:41:15 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/acacia_storage_jar": {
+    "criteria": {
+      "has_glass": "2024-12-20 00:49:02 +0000"
     },
     "done": true
   },
@@ -5739,15 +5739,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/bone_meal_from_bone_block": {
-    "criteria": {
-      "has_bone_block": "2024-12-20 01:16:07 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/track_mine": {
     "criteria": {
       "has_iron": "2024-12-20 00:41:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-20 01:16:07 +0000"
     },
     "done": true
   },
@@ -6243,15 +6243,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/refurbished_furniture/constructing/red_stool": {
-    "criteria": {
-      "has_white_wool": "2024-12-20 00:41:15 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
       "has_glowstone_dust": "2024-12-20 00:41:13 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/red_stool": {
+    "criteria": {
+      "has_white_wool": "2024-12-20 00:41:15 +0000"
     },
     "done": true
   },
@@ -6549,15 +6549,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/refurbished_furniture/constructing/brown_stool": {
-    "criteria": {
-      "has_white_wool": "2024-12-20 00:41:15 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/bouncing_betty": {
     "criteria": {
       "has_iron": "2024-12-20 00:41:08 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/brown_stool": {
+    "criteria": {
+      "has_white_wool": "2024-12-20 00:41:15 +0000"
     },
     "done": true
   },
@@ -6645,15 +6645,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/keycard_lv4": {
-    "criteria": {
-      "has_iron": "2024-12-20 00:41:08 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/sc_manual": {
     "criteria": {
       "has_wood": "2024-12-20 00:37:08 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv4": {
+    "criteria": {
+      "has_iron": "2024-12-20 00:41:08 +0000"
     },
     "done": true
   },

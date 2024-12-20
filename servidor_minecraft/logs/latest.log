@@ -131,3 +131,11 @@
 [20Dec2024 01:16:04.708] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved too quickly! -6.912823349126711,-2.85702961030713,-8.770367990429804
 [20Dec2024 01:16:05.195] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved too quickly! -9.951755314171578,1.0,-4.738594302461706
 [20Dec2024 01:16:05.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved too quickly! -9.706214534526168,-1.5111010141305599,-2.3967778258120234
+[20Dec2024 01:17:04.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was slain by Hoglin
+[20Dec2024 01:17:26.557] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=28, y=77, z=115}
+[20Dec2024 01:17:28.282] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=28, y=77, z=115}
+[20Dec2024 01:17:39.539] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: percentyack lost connection: Disconnected
+[20Dec2024 01:17:39.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack left the game
+[20Dec2024 01:21:44.679] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@265a98b1
+[20Dec2024 01:21:44.694] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: percentyack[/127.113.173.157:46067] logged in with entity id 34506 at (54.10318292994845, 69.0, 95.86828741405432)
+[20Dec2024 01:21:44.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack joined the game
