@@ -23,3 +23,14 @@
 [20Dec2024 00:38:24.029] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: R3hsk moved too quickly! 9.491407747212179,0.3693736602695026,-3.8510503702527785
 [20Dec2024 00:43:11.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [An alchemist's best friend!]
 [20Dec2024 00:55:49.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [We Need to Go Deeper]
+[20Dec2024 00:57:13.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [The Path to Better Gear]
+[20Dec2024 01:04:20.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of R3hsk) moved too quickly! -10.178357583198704,-0.9069151476567754,-2.453966483586555
+[20Dec2024 01:04:21.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of R3hsk) moved too quickly! 13.411690957365863,1.3532983501802391,3.478853922367307
+[20Dec2024 01:04:21.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of R3hsk) moved too quickly! 12.436217481836138,1.253672875108947,3.22397250728136
+[20Dec2024 01:04:21.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of R3hsk) moved too quickly! 11.575849876418943,1.165803206096058,2.999167099175793
+[20Dec2024 01:04:21.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of R3hsk) moved too quickly! 10.8170056484405,1.0883021580266927,2.800888729227154
+[20Dec2024 01:04:21.450] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of R3hsk) moved too quickly! 10.147705039364155,1.0199462336295113,2.6260072069317175
+[20Dec2024 01:04:21.523] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of R3hsk) moved too quickly! -10.078046909173281,-1.0128320224419411,-2.607806237618206
+[20Dec2024 01:06:02.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[20Dec2024 01:06:11.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[20Dec2024 01:06:26.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack tried to swim in lava
