@@ -2,3 +2,5 @@
 [20Dec2024 00:05:11.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
 [20Dec2024 00:05:16.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
 [20Dec2024 00:05:23.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[20Dec2024 00:16:10.544] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@27a1d89a[id=<null>,name=percentyack,properties={},legacy=false] (/127.113.173.157:60755) lost connection: Disconnected
+[20Dec2024 00:25:56.092] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@58d1d518[id=<null>,name=percentyack,properties={},legacy=false] (/127.113.173.157:50875) lost connection: Disconnected
