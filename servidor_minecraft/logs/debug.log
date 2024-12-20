@@ -10932,3 +10932,146 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [20Dec2024 01:06:16.846] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [20Dec2024 01:06:26.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack tried to swim in lava
 [20Dec2024 01:06:27.734] [Server thread/DEBUG] [moze_intel.projecte.PECore/]: Clearing offline data cache in preparation to load online data
+[20Dec2024 01:06:51.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
+[20Dec2024 01:06:52.095] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 01:06:52.095] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 01:06:53.482] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 01:06:53.483] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 01:07:11.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[20Dec2024 01:07:26.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[20Dec2024 01:08:14.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Dragon Growth Hormone]
+[20Dec2024 01:09:34.582] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 01:09:34.582] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 01:10:11.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: percentyack moved wrongly!
+[20Dec2024 01:10:18.428] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 01:10:18.428] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 01:10:19.231] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 01:10:19.231] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 01:10:19.232] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Dec2024 01:11:16.850] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 01:11:16.858] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 01:11:45.245] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/24421, l='ServerLevel[world]', x=-4492.51, y=62.94, z=-5337.53] died, message: 'Villager was turned to ice by percentyack'
+[20Dec2024 01:11:49.144] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 01:11:49.144] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 01:11:49.292] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/19466, l='ServerLevel[world]', x=-4493.21, y=62.94, z=-5339.29] died, message: 'Fletcher was frozen by percentyack'
+[20Dec2024 01:11:49.698] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 01:11:49.698] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 01:12:12.253] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.3092503083871634
+[20Dec2024 01:12:12.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.9311607236149939
+[20Dec2024 01:12:12.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 1.5889768008182727
+[20Dec2024 01:12:12.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 2.266005281863727
+[20Dec2024 01:12:12.453] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.44175189337602205
+[20Dec2024 01:12:12.465] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 1.1345612649347459
+[20Dec2024 01:12:12.533] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.4501959332528713
+[20Dec2024 01:12:12.547] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 1.1494818321698403
+[20Dec2024 01:12:12.646] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.4536613939144445
+[20Dec2024 01:12:12.700] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.4536251459358027
+[20Dec2024 01:12:12.702] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 1.1585455618014748
+[20Dec2024 01:12:12.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.4566763115926733
+[20Dec2024 01:12:12.850] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 1.1802449330743912
+[20Dec2024 01:12:12.868] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 1.9152297808941512
+[20Dec2024 01:12:12.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.4955366810072519
+[20Dec2024 01:12:13.001] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.49880526845208806
+[20Dec2024 01:12:13.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 1.2307527907669282
+[20Dec2024 01:12:13.073] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.49391146868674696
+[20Dec2024 01:12:13.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.48377218572113634
+[20Dec2024 01:12:13.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.9934812010569658
+[20Dec2024 01:12:13.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.374996074559931
+[20Dec2024 01:13:50.292] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: R3hsk lost connection: Disconnected
+[20Dec2024 01:13:50.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk left the game
+[20Dec2024 01:14:22.035] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4597, y=105, z=-5422}
+[20Dec2024 01:14:22.035] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4575, y=105, z=-5408}
+[20Dec2024 01:14:22.035] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4597, y=105, z=-5414}
+[20Dec2024 01:14:22.064] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4582, y=105, z=-5408}
+[20Dec2024 01:14:22.064] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4575, y=105, z=-5414}
+[20Dec2024 01:14:22.064] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4590, y=109, z=-5422}
+[20Dec2024 01:14:22.065] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4590, y=105, z=-5422}
+[20Dec2024 01:14:22.065] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4590, y=109, z=-5414}
+[20Dec2024 01:14:22.065] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4582, y=109, z=-5422}
+[20Dec2024 01:14:22.065] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4597, y=105, z=-5408}
+[20Dec2024 01:14:22.065] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4582, y=105, z=-5422}
+[20Dec2024 01:14:22.065] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4590, y=105, z=-5414}
+[20Dec2024 01:14:22.065] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4584, y=109, z=-5415}
+[20Dec2024 01:14:22.065] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4584, y=105, z=-5415}
+[20Dec2024 01:14:22.065] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4590, y=105, z=-5408}
+[20Dec2024 01:14:22.065] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4593, y=104, z=-5405}
+[20Dec2024 01:14:22.065] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4575, y=105, z=-5422}
+[20Dec2024 01:14:22.065] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4595, y=103, z=-5401}
+[20Dec2024 01:14:22.065] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4600, y=103, z=-5402}
+[20Dec2024 01:14:45.108] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.6312066087181165
+[20Dec2024 01:14:45.109] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 1.4956864124629874
+[20Dec2024 01:14:45.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 2.36350477981955
+[20Dec2024 01:14:45.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 3.2331095460009465
+[20Dec2024 01:14:45.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 4.103670178576635
+[20Dec2024 01:15:14.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.4790118094703075
+[20Dec2024 01:15:14.695] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 1.1497387207861607
+[20Dec2024 01:15:14.753] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 1.8390419883894538
+[20Dec2024 01:15:14.803] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.7897967197304752
+[20Dec2024 01:15:14.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 1.4349171201479862
+[20Dec2024 01:15:14.941] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.7571496273773164
+[20Dec2024 01:15:14.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.6782801785330435
+[20Dec2024 01:15:15.019] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 1.485012360878443
+[20Dec2024 01:15:15.093] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.613497543972926
+[20Dec2024 01:15:15.094] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 1.385565830191581
+[20Dec2024 01:15:15.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.5949495842790498
+[20Dec2024 01:15:15.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.5914901693911929
+[20Dec2024 01:15:15.249] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.589639105457934
+[20Dec2024 01:15:15.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.5886486380535416
+[20Dec2024 01:15:15.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 1.3474207701484602
+[20Dec2024 01:15:15.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.5878350773041348
+[20Dec2024 01:15:15.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 1.0357704167636825
+[20Dec2024 01:15:15.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.36152653663657475
+[20Dec2024 01:15:16.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 1.6388438011122162
+[20Dec2024 01:15:16.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 1.2405631866409976
+[20Dec2024 01:15:16.118] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 1.3587630149011147
+[20Dec2024 01:15:16.155] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.7289336396386261
+[20Dec2024 01:15:16.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.31101247066953874
+[20Dec2024 01:15:16.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.9431565236736787
+[20Dec2024 01:15:16.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.4799761358617616
+[20Dec2024 01:15:16.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 1.202529277338158
+[20Dec2024 01:15:16.430] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.5283522365405133
+[20Dec2024 01:15:16.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.5373748735406707
+[20Dec2024 01:15:16.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 1.2906409351417096
+[20Dec2024 01:15:16.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.5447861077497009
+[20Dec2024 01:15:16.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 1.3020177730119258
+[20Dec2024 01:15:16.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.5469080232031729
+[20Dec2024 01:15:16.701] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.5473037050212497
+[20Dec2024 01:15:16.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 1.3009592476545322
+[20Dec2024 01:15:16.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.5449945112845853
+[20Dec2024 01:15:16.848] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 1.2812643801986496
+[20Dec2024 01:15:16.945] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.5307744121334963
+[20Dec2024 01:15:16.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 1.211814414613741
+[20Dec2024 01:15:17.040] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.5068310169888264
+[20Dec2024 01:15:17.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 1.1750593861070229
+[20Dec2024 01:15:17.130] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.47744721996991757
+[20Dec2024 01:15:17.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 1.1299529051530044
+[20Dec2024 01:15:17.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.4221994699299785
+[20Dec2024 01:16:00.315] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.5752428366640743
+[20Dec2024 01:16:00.316] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 1.25
+[20Dec2024 01:16:00.474] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 3.477625661045181
+[20Dec2024 01:16:00.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 3.477625661045181
+[20Dec2024 01:16:00.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 2.3134145409461553
+[20Dec2024 01:16:00.575] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 1.240436676195941
+[20Dec2024 01:16:00.666] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.4541422002905051
+[20Dec2024 01:16:00.666] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.4541422002905051
+[20Dec2024 01:16:00.667] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved wrongly! 0.4541422002905051
+[20Dec2024 01:16:03.421] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved too quickly! -6.149118609569314,-1.9382252466685657,-8.990388230986241
+[20Dec2024 01:16:03.893] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved too quickly! -6.064084224174337,-0.6253511891886205,-8.32103319653504
+[20Dec2024 01:16:03.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved too quickly! -7.207692698751316,-0.7098276742452754,-10.090553649896037
+[20Dec2024 01:16:03.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved too quickly! -8.334306326197122,-0.7843359340652398,-11.885935023893921
+[20Dec2024 01:16:03.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved too quickly! -9.445930498473217,-0.8500522192264555,-13.704125729893576
+[20Dec2024 01:16:04.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved too quickly! -5.388377713914963,-0.22901960490466422,-9.349250296740593
+[20Dec2024 01:16:04.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved too quickly! -5.45278864953832,-1.7604848923837295,-8.686641151246135
+[20Dec2024 01:16:04.708] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved too quickly! -6.912823349126711,-2.85702961030713,-8.770367990429804
+[20Dec2024 01:16:05.195] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved too quickly! -9.951755314171578,1.0,-4.738594302461706
+[20Dec2024 01:16:05.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ice Dragon (vehicle of percentyack) moved too quickly! -9.706214534526168,-1.5111010141305599,-2.3967778258120234
+[20Dec2024 01:16:16.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 01:16:16.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 01:16:30.214] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 01:16:30.215] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 01:16:30.392] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 01:16:30.392] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 01:16:30.544] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 01:16:30.544] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 01:16:30.870] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 01:16:30.870] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
