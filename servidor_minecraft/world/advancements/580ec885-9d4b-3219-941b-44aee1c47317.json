@@ -407,6 +407,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.metals/copper_sheet_metal_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-12-20 21:41:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:18:46 +0000"
@@ -686,6 +692,12 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2024-12-17 23:25:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot": {
+    "criteria": {
+      "has_copper_block": "2024-12-20 21:41:41 +0000"
     },
     "done": true
   },
@@ -4094,6 +4106,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-20 21:26:06 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/melon": {
     "criteria": {
       "has_melon_slice": "2024-12-17 23:22:02 +0000"
@@ -4655,6 +4673,12 @@
   "securitycraft:recipes/securitycraft/reinforced_red_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-20 00:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-12-20 21:41:41 +0000"
     },
     "done": true
   },
@@ -5473,6 +5497,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-12-17 23:24:50 +0000",
+      "minecraft:blaze": "2024-12-20 21:26:06 +0000",
       "minecraft:skeleton": "2024-12-17 23:17:28 +0000",
       "minecraft:hoglin": "2024-12-20 00:57:37 +0000",
       "minecraft:vindicator": "2024-12-17 23:22:49 +0000",
@@ -5726,6 +5751,12 @@
   "tconstruct:recipes/tconstruct/world/common/materials/raw_cobalt_block_from_raws": {
     "criteria": {
       "has_item": "2024-12-20 20:49:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-20 21:26:06 +0000"
     },
     "done": true
   },
@@ -6457,6 +6488,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper": {
+    "criteria": {
+      "has_copper_block": "2024-12-20 21:41:41 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/orange_lamp": {
     "criteria": {
       "has_glowstone_dust": "2024-12-20 00:41:13 +0000"
@@ -7027,6 +7064,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cut_copper_slab_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-12-20 21:41:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2024-12-17 23:23:36 +0000"
@@ -7445,6 +7488,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/spruce_storage_jar": {
     "criteria": {
       "has_glass": "2024-12-20 00:49:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_copper_from_copper_block_stonecutting": {
+    "criteria": {
+      "has_copper_block": "2024-12-20 21:41:41 +0000"
     },
     "done": true
   },
@@ -8018,6 +8067,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/waxed_copper_block_from_honeycomb": {
+    "criteria": {
+      "has_copper_block": "2024-12-20 21:41:41 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-20 00:49:02 +0000"
@@ -8339,6 +8394,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/spruce_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 00:41:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-20 21:26:06 +0000"
     },
     "done": true
   },
@@ -8669,6 +8730,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/pole_from_string": {
     "criteria": {
       "has_stick": "2024-12-17 22:53:51 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/travelersbackpack/blaze": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-20 21:26:06 +0000"
     },
     "done": true
   },
