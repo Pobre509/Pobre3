@@ -161,6 +161,12 @@
     },
     "done": true
   },
+  "avaritia:recipes/misc/ultimate_stew": {
+    "criteria": {
+      "has_item": "2024-12-20 22:11:46 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/mahogany_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-17 23:19:34 +0000"
@@ -404,6 +410,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/cyan_sofa": {
     "criteria": {
       "has_planks": "2024-12-19 23:09:23 +0000"
+    },
+    "done": true
+  },
+  "avaritia:recipes/misc/infinity_ingot": {
+    "criteria": {
+      "has_item": "2024-12-20 22:11:49 +0000"
     },
     "done": true
   },
@@ -2546,6 +2558,12 @@
     },
     "done": true
   },
+  "avaritia:recipes/misc/neutron_nugget": {
+    "criteria": {
+      "has_item": "2024-12-20 22:11:40 +0000"
+    },
+    "done": true
+  },
   "avaritia:recipes/misc/double_compressed_crafting_table": {
     "criteria": {
       "has_item": "2024-12-18 23:02:23 +0000"
@@ -3414,6 +3432,12 @@
   "create:root": {
     "criteria": {
       "0": "2024-12-20 18:41:11 +0000"
+    },
+    "done": true
+  },
+  "avaritia:recipes/misc/cosmic_meatballs": {
+    "criteria": {
+      "has_item": "2024-12-20 22:11:46 +0000"
     },
     "done": true
   },
@@ -4413,6 +4437,12 @@
     },
     "done": true
   },
+  "avaritia:recipes/misc/neutron": {
+    "criteria": {
+      "has_item": "2024-12-20 22:11:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-12-20 19:13:21 +0000"
@@ -5196,6 +5226,12 @@
   "minecraft:recipes/decorations/magenta_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-18 04:07:56 +0000"
+    },
+    "done": true
+  },
+  "avaritia:recipes/misc/neutron_ingot": {
+    "criteria": {
+      "has_item": "2024-12-20 22:11:46 +0000"
     },
     "done": true
   },
@@ -6633,6 +6669,12 @@
   "tconstruct:recipes/tconstruct/gadgets/gadgets/shuriken/flint_shuriken": {
     "criteria": {
       "has_item": "2024-12-17 23:38:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-20 22:13:07 +0000"
     },
     "done": true
   },
@@ -8224,6 +8266,12 @@
     },
     "done": true
   },
+  "avaritia:recipes/misc/neutron_compressor": {
+    "criteria": {
+      "has_item": "2024-12-20 22:11:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-12-17 23:21:55 +0000"
@@ -8875,6 +8923,12 @@
   "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2024-12-20 20:26:02 +0000"
+    },
+    "done": true
+  },
+  "avaritia:recipes/misc/endest_pearl": {
+    "criteria": {
+      "has_item": "2024-12-20 22:11:49 +0000"
     },
     "done": true
   },
