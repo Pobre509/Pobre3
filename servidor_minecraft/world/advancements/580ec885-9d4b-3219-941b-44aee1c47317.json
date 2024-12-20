@@ -1220,7 +1220,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-12-20 00:55:49 +0000",
-      "minecraft:soul_sand_valley": "2024-12-20 00:56:20 +0000"
+      "minecraft:soul_sand_valley": "2024-12-20 00:56:20 +0000",
+      "minecraft:nether_wastes": "2024-12-20 22:56:42 +0000"
     },
     "done": false
   },
@@ -3160,9 +3161,11 @@
       "woodland": "2024-12-17 22:51:42 +0000",
       "shrubland": "2024-12-18 00:24:00 +0000",
       "scrubland": "2024-12-18 00:23:43 +0000",
+      "erupting_inferno": "2024-12-20 22:56:50 +0000",
       "old_growth_woodland": "2024-12-18 00:42:46 +0000",
       "wooded_scrubland": "2024-12-18 00:42:39 +0000",
       "crystalline_chasm": "2024-12-20 00:57:11 +0000",
+      "withered_abyss": "2024-12-20 22:56:43 +0000",
       "orchard": "2024-12-20 00:38:18 +0000",
       "mediterranean_forest": "2024-12-18 00:35:11 +0000",
       "cherry_blossom_grove": "2024-12-18 02:41:43 +0000",
