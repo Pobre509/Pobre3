@@ -3084,3 +3084,17 @@ Caused by: java.lang.IllegalArgumentException: Player literal{R3hsk} is missing 
 [20Dec2024 18:58:57.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk joined the game
 [20Dec2024 19:01:20.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Applied effect Regeneration to R3hsk]
 [20Dec2024 19:01:33.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Applied effect Resistance to R3hsk]
+[20Dec2024 19:06:51.228] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-545, y=81, z=-669} BlockPos{x=-465, y=108, z=-660}
+[20Dec2024 19:09:37.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Spectator Mode]
+[20Dec2024 19:10:23.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[20Dec2024 19:13:07.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[20Dec2024 19:13:57.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported R3hsk to -431.500000, 71.012078, -255.500000]
+[20Dec2024 19:14:07.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Spectator Mode]
+[20Dec2024 19:14:09.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [A Terrible Fortress]
+[20Dec2024 19:14:13.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[20Dec2024 19:15:49.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Spectator Mode]
+[20Dec2024 19:16:20.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[20Dec2024 19:16:25.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Into Fire]
+[20Dec2024 19:18:40.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Applied enchantment Looting III to R3hsk's item]
+[20Dec2024 19:21:14.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[20Dec2024 19:22:15.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
