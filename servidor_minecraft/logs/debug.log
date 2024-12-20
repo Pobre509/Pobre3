@@ -16071,3 +16071,694 @@ Caused by: java.lang.IllegalArgumentException: Player literal{R3hsk} is missing 
 [20Dec2024 19:42:54.358] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [20Dec2024 19:42:54.358] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
 [20Dec2024 19:42:54.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has completed the challenge [Just a Flesh Wound]
+[20Dec2024 19:43:52.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 19:43:52.359] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 19:44:08.128] [Worker-Main-26/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:guardianboss at BlockPos{x=-4974, y=39, z=-6918} at Chest with:minecraft:chests/underwater_ruin_small
+[20Dec2024 19:44:10.301] [Worker-Main-26/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=-5131, y=52, z=-6520} at Chest with:minecraft:chests/shipwreck_supply
+[20Dec2024 19:45:20.728] [Worker-Main-27/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-5099, y=-50, z=-6316} at Chest with:minecraft:chests/simple_dungeon
+[20Dec2024 19:45:55.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Crops of the Wild]
+[20Dec2024 19:46:32.603] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:46:32.603] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:46:32.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [The Desert Swimmers]
+[20Dec2024 19:46:38.053] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:46:38.053] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:46:39.470] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:46:39.471] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:46:40.704] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:46:40.704] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:46:41.568] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:46:41.568] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:46:43.462] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:46:43.462] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:46:44.610] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:46:44.610] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:46:49.357] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:46:49.357] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:46:50.703] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:46:50.703] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:46:51.797] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:46:51.798] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:46:53.954] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:46:53.954] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:46:55.399] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:46:55.399] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:46:56.652] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:46:56.652] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:47:19.061] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:47:19.061] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:47:19.617] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:47:19.618] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:47:20.268] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:47:20.268] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:47:20.872] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:47:20.872] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:47:30.311] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:47:30.311] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:47:38.256] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:47:38.256] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:47:56.993] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4597, y=105, z=-5422}
+[20Dec2024 19:47:56.993] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4575, y=105, z=-5408}
+[20Dec2024 19:47:56.993] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4597, y=105, z=-5414}
+[20Dec2024 19:47:57.041] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4575, y=105, z=-5414}
+[20Dec2024 19:47:57.041] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4590, y=109, z=-5422}
+[20Dec2024 19:47:57.041] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4590, y=105, z=-5422}
+[20Dec2024 19:47:57.041] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4590, y=109, z=-5414}
+[20Dec2024 19:47:57.041] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4582, y=109, z=-5422}
+[20Dec2024 19:47:57.041] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4597, y=105, z=-5408}
+[20Dec2024 19:47:57.041] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4582, y=105, z=-5422}
+[20Dec2024 19:47:57.041] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4590, y=105, z=-5414}
+[20Dec2024 19:47:57.041] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4584, y=109, z=-5415}
+[20Dec2024 19:47:57.041] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4584, y=105, z=-5415}
+[20Dec2024 19:47:57.041] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4590, y=105, z=-5408}
+[20Dec2024 19:47:57.041] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4575, y=105, z=-5422}
+[20Dec2024 19:47:57.041] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4593, y=104, z=-5405}
+[20Dec2024 19:47:57.041] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4595, y=103, z=-5401}
+[20Dec2024 19:47:57.041] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4600, y=103, z=-5402}
+[20Dec2024 19:48:08.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Hot Stuff]
+[20Dec2024 19:48:28.753] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:48:28.753] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:48:28.754] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Dec2024 19:48:29.356] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:48:29.356] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:48:29.709] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:48:29.709] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:48:38.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack tried to swim in lava
+[20Dec2024 19:48:40.933] [Server thread/DEBUG] [moze_intel.projecte.PECore/]: Clearing offline data cache in preparation to load online data
+[20Dec2024 19:48:52.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 19:48:52.359] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 19:48:58.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Spectator Mode]
+[20Dec2024 19:49:02.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Eye Spy]
+[20Dec2024 19:49:04.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[20Dec2024 19:49:11.686] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:49:11.686] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:49:14.049] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:49:14.049] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:49:16.513] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:49:16.513] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:49:19.462] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:49:19.462] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:49:20.050] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:20.098] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:20.147] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:20.196] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:20.246] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:20.297] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:20.349] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:20.402] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:20.448] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:20.497] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:20.546] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:20.598] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:20.648] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:20.698] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:20.747] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:20.800] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:20.850] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:20.898] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:20.948] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:20.998] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:21.052] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:21.145] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:21.179] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:21.207] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:21.255] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:21.298] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:21.346] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:21.403] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:21.447] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:21.500] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:21.546] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:21.598] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:21.647] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:21.698] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:21.746] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:21.798] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:21.846] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:21.898] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:21.947] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:21.997] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:22.049] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:22.096] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:22.148] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:22.198] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Dec2024 19:49:57.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Spectator Mode]
+[20Dec2024 19:50:07.445] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:50:07.445] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:50:09.264] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:50:09.264] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:50:19.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[20Dec2024 19:50:19.803] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:50:19.804] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:50:21.185] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:50:21.185] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:50:21.848] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:50:21.848] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:50:22.506] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:50:22.506] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:50:23.709] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:50:23.710] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:50:24.304] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:50:24.304] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:50:25.185] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:50:25.185] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:50:25.662] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:50:25.662] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:50:25.664] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Evoker['Rumak the Dark'/67835, l='ServerLevel[world]', x=-4888.30, y=-30.00, z=-6720.70] died: Rumak the Dark was slain by R3hsk
+[20Dec2024 19:50:45.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Spectator Mode]
+[20Dec2024 19:51:10.562] [Worker-Main-26/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:guardianboss at BlockPos{x=-4797, y=38, z=-7004} at Chest with:minecraft:chests/underwater_ruin_small
+[20Dec2024 19:51:11.623] [Worker-Main-26/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=-4671, y=-5, z=-7004} at Chest with:minecraft:chests/simple_dungeon
+[20Dec2024 19:51:15.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[20Dec2024 19:51:19.013] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:51:19.013] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:51:26.255] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:51:26.255] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:51:27.461] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:51:27.461] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:51:35.774] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:51:35.774] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:51:41.348] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:51:41.348] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:51:41.545] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:51:41.545] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:51:46.871] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:51:46.871] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:51:52.247] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:51:52.247] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:51:52.248] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Dec2024 19:52:06.996] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:52:06.996] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:52:07.974] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:52:07.974] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:52:26.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Gobber Goes Nether]
+[20Dec2024 19:53:13.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
+[20Dec2024 19:53:13.913] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4575, y=105, z=-5414}
+[20Dec2024 19:53:13.914] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4597, y=105, z=-5422}
+[20Dec2024 19:53:13.914] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4590, y=109, z=-5422}
+[20Dec2024 19:53:13.914] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4575, y=105, z=-5408}
+[20Dec2024 19:53:13.914] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4590, y=105, z=-5422}
+[20Dec2024 19:53:13.914] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4597, y=105, z=-5414}
+[20Dec2024 19:53:13.914] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4590, y=109, z=-5414}
+[20Dec2024 19:53:13.914] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4582, y=109, z=-5422}
+[20Dec2024 19:53:13.914] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4597, y=105, z=-5408}
+[20Dec2024 19:53:13.914] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4582, y=105, z=-5422}
+[20Dec2024 19:53:13.914] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4590, y=105, z=-5414}
+[20Dec2024 19:53:13.914] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4584, y=109, z=-5415}
+[20Dec2024 19:53:13.914] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4584, y=105, z=-5415}
+[20Dec2024 19:53:13.914] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4590, y=105, z=-5408}
+[20Dec2024 19:53:13.914] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4575, y=105, z=-5422}
+[20Dec2024 19:53:13.914] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4593, y=104, z=-5405}
+[20Dec2024 19:53:13.914] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4595, y=103, z=-5401}
+[20Dec2024 19:53:13.914] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4600, y=103, z=-5402}
+[20Dec2024 19:53:13.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Eye Spy]
+[20Dec2024 19:53:29.264] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:53:29.264] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:53:29.809] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:53:29.809] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:53:30.378] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:53:30.378] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:53:30.719] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:53:30.719] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:53:31.078] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:53:31.078] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:53:51.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [The End?]
+[20Dec2024 19:53:52.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [The End?]
+[20Dec2024 19:53:52.789] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 19:53:52.801] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 19:53:53.970] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
+[20Dec2024 19:53:53.989] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
+[20Dec2024 19:53:54.942] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2506ms or 50 ticks behind
+[20Dec2024 19:53:59.844] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:54:05.143] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:54:05.143] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:54:09.838] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:54:19.838] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:54:21.869] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:54:21.869] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:54:21.869] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Dec2024 19:54:22.922] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:54:22.922] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:54:23.766] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:54:23.767] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:54:27.933] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1791871 : 768128
+[20Dec2024 19:54:27.933] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1791872 : 768127
+[20Dec2024 19:54:27.934] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1791872 : 768128
+[20Dec2024 19:54:27.934] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1791873 : 768128
+[20Dec2024 19:54:27.934] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1791872 : 768129
+[20Dec2024 19:54:27.936] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: f6d937f7-6339-4cec-a471-a5b608cd8c12 watched ships: [3]
+[20Dec2024 19:54:27.987] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: d81d2e82-62ca-48aa-b32f-38b31cc5ad82 watched ships: [3]
+[20Dec2024 19:54:28.559] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1791615 : 768128
+[20Dec2024 19:54:28.559] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1791616 : 768128
+[20Dec2024 19:54:28.559] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1791616 : 768127
+[20Dec2024 19:54:28.559] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1791617 : 768128
+[20Dec2024 19:54:28.559] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1791616 : 768129
+[20Dec2024 19:54:28.560] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: f6d937f7-6339-4cec-a471-a5b608cd8c12 watched ships: [4]
+[20Dec2024 19:54:28.561] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: d81d2e82-62ca-48aa-b32f-38b31cc5ad82 watched ships: [4]
+[20Dec2024 19:54:29.838] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:54:35.442] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791872 : 768128
+[20Dec2024 19:54:35.442] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791872 : 768129
+[20Dec2024 19:54:35.442] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791873 : 768128
+[20Dec2024 19:54:35.491] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791871 : 768128
+[20Dec2024 19:54:35.491] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791872 : 768127
+[20Dec2024 19:54:35.492] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: f6d937f7-6339-4cec-a471-a5b608cd8c12 unwatched ships [3]
+[20Dec2024 19:54:35.541] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791872 : 768128
+[20Dec2024 19:54:35.542] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791872 : 768129
+[20Dec2024 19:54:35.542] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791871 : 768128
+[20Dec2024 19:54:35.542] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791873 : 768128
+[20Dec2024 19:54:35.542] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791872 : 768127
+[20Dec2024 19:54:35.542] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: f6d937f7-6339-4cec-a471-a5b608cd8c12 unwatched ships [3]
+[20Dec2024 19:54:35.543] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: d81d2e82-62ca-48aa-b32f-38b31cc5ad82 unwatched ships [3]
+[20Dec2024 19:54:39.838] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:54:40.919] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1791360 : 768127
+[20Dec2024 19:54:40.919] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1791361 : 768128
+[20Dec2024 19:54:40.920] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1791360 : 768128
+[20Dec2024 19:54:40.920] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1791359 : 768128
+[20Dec2024 19:54:40.920] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1791360 : 768129
+[20Dec2024 19:54:40.920] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: f6d937f7-6339-4cec-a471-a5b608cd8c12 watched ships: [5]
+[20Dec2024 19:54:40.921] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: d81d2e82-62ca-48aa-b32f-38b31cc5ad82 watched ships: [5]
+[20Dec2024 19:54:44.838] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:54:49.043] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791360 : 768129
+[20Dec2024 19:54:49.093] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791360 : 768128
+[20Dec2024 19:54:49.094] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791359 : 768128
+[20Dec2024 19:54:49.094] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791361 : 768128
+[20Dec2024 19:54:49.142] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791360 : 768127
+[20Dec2024 19:54:49.142] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: f6d937f7-6339-4cec-a471-a5b608cd8c12 unwatched ships [5]
+[20Dec2024 19:54:51.943] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791615 : 768128
+[20Dec2024 19:54:51.943] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791616 : 768129
+[20Dec2024 19:54:51.943] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791616 : 768128
+[20Dec2024 19:54:51.943] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791616 : 768127
+[20Dec2024 19:54:51.943] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791617 : 768128
+[20Dec2024 19:54:51.944] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: d81d2e82-62ca-48aa-b32f-38b31cc5ad82 unwatched ships [4]
+[20Dec2024 19:54:52.391] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1791871 : 768128
+[20Dec2024 19:54:52.391] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1791872 : 768129
+[20Dec2024 19:54:52.391] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1791872 : 768128
+[20Dec2024 19:54:52.391] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1791872 : 768127
+[20Dec2024 19:54:52.391] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1791873 : 768128
+[20Dec2024 19:54:52.391] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: d81d2e82-62ca-48aa-b32f-38b31cc5ad82 watched ships: [3]
+[20Dec2024 19:54:53.848] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791615 : 768128
+[20Dec2024 19:54:53.848] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791616 : 768129
+[20Dec2024 19:54:53.894] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791616 : 768127
+[20Dec2024 19:54:53.894] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791617 : 768128
+[20Dec2024 19:54:53.894] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791616 : 768128
+[20Dec2024 19:54:53.894] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: f6d937f7-6339-4cec-a471-a5b608cd8c12 unwatched ships [4]
+[20Dec2024 19:54:53.895] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: d81d2e82-62ca-48aa-b32f-38b31cc5ad82 unwatched ships [4]
+[20Dec2024 19:54:54.840] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:54:56.642] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791871 : 768128
+[20Dec2024 19:54:56.642] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791872 : 768129
+[20Dec2024 19:54:56.643] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791872 : 768128
+[20Dec2024 19:54:56.643] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791872 : 768127
+[20Dec2024 19:54:56.643] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791873 : 768128
+[20Dec2024 19:54:56.643] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: f6d937f7-6339-4cec-a471-a5b608cd8c12 unwatched ships [3]
+[20Dec2024 19:54:56.643] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: d81d2e82-62ca-48aa-b32f-38b31cc5ad82 unwatched ships [3]
+[20Dec2024 19:54:57.991] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791360 : 768128
+[20Dec2024 19:54:57.992] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791360 : 768127
+[20Dec2024 19:54:57.992] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791361 : 768128
+[20Dec2024 19:54:57.992] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791359 : 768128
+[20Dec2024 19:54:57.992] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791360 : 768129
+[20Dec2024 19:54:57.992] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: f6d937f7-6339-4cec-a471-a5b608cd8c12 unwatched ships [5]
+[20Dec2024 19:54:57.992] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: d81d2e82-62ca-48aa-b32f-38b31cc5ad82 unwatched ships [5]
+[20Dec2024 19:54:58.100] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1791871 : 768128
+[20Dec2024 19:54:58.100] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1791872 : 768129
+[20Dec2024 19:54:58.100] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1791872 : 768128
+[20Dec2024 19:54:58.100] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: d81d2e82-62ca-48aa-b32f-38b31cc5ad82 watched ships: [3]
+[20Dec2024 19:54:58.157] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1791872 : 768127
+[20Dec2024 19:54:58.157] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1791873 : 768128
+[20Dec2024 19:55:01.140] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791871 : 768128
+[20Dec2024 19:55:01.140] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791872 : 768129
+[20Dec2024 19:55:01.140] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791872 : 768128
+[20Dec2024 19:55:01.140] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791872 : 768127
+[20Dec2024 19:55:01.140] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791873 : 768128
+[20Dec2024 19:55:01.141] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: f6d937f7-6339-4cec-a471-a5b608cd8c12 unwatched ships [3]
+[20Dec2024 19:55:01.141] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: d81d2e82-62ca-48aa-b32f-38b31cc5ad82 unwatched ships [3]
+[20Dec2024 19:55:02.255] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:55:02.255] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:55:02.990] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1791615 : 768128
+[20Dec2024 19:55:02.990] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1791616 : 768129
+[20Dec2024 19:55:02.990] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1791616 : 768128
+[20Dec2024 19:55:02.990] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1791616 : 768127
+[20Dec2024 19:55:02.990] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1791617 : 768128
+[20Dec2024 19:55:02.990] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: d81d2e82-62ca-48aa-b32f-38b31cc5ad82 watched ships: [4]
+[20Dec2024 19:55:03.350] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:55:03.351] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:55:04.838] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:55:05.759] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:55:05.759] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:55:07.190] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791616 : 768129
+[20Dec2024 19:55:07.190] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791616 : 768128
+[20Dec2024 19:55:07.190] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791615 : 768128
+[20Dec2024 19:55:07.190] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791617 : 768128
+[20Dec2024 19:55:07.190] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791616 : 768127
+[20Dec2024 19:55:07.190] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: f6d937f7-6339-4cec-a471-a5b608cd8c12 unwatched ships [4]
+[20Dec2024 19:55:07.190] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: d81d2e82-62ca-48aa-b32f-38b31cc5ad82 unwatched ships [4]
+[20Dec2024 19:55:14.838] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:55:17.757] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:55:17.757] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:55:21.859] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:55:21.859] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:55:22.456] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:55:22.457] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:55:22.457] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Dec2024 19:55:22.457] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:55:22.457] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:55:23.654] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:55:23.654] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:55:23.655] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Dec2024 19:55:24.838] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:55:26.766] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:55:26.766] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:55:27.398] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1791104 : 768127
+[20Dec2024 19:55:27.398] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1791104 : 768128
+[20Dec2024 19:55:27.398] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1791105 : 768128
+[20Dec2024 19:55:27.399] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1791103 : 768128
+[20Dec2024 19:55:27.399] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1791104 : 768129
+[20Dec2024 19:55:27.399] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: f6d937f7-6339-4cec-a471-a5b608cd8c12 watched ships: [6]
+[20Dec2024 19:55:27.399] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: d81d2e82-62ca-48aa-b32f-38b31cc5ad82 watched ships: [6]
+[20Dec2024 19:55:27.507] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:55:27.507] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:55:27.508] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Dec2024 19:55:28.812] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:55:28.812] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:55:28.812] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Dec2024 19:55:29.466] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:55:29.466] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:55:29.467] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Dec2024 19:55:29.838] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[31.0, -2032.0, 22.0] -> [35.0, 2031.0, 26.0] returning empty list! this might break things
+[20Dec2024 19:55:34.838] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:55:42.165] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1790848 : 768127
+[20Dec2024 19:55:42.165] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1790848 : 768128
+[20Dec2024 19:55:42.165] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1790849 : 768128
+[20Dec2024 19:55:42.165] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1790847 : 768128
+[20Dec2024 19:55:42.165] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1790848 : 768129
+[20Dec2024 19:55:42.165] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: d81d2e82-62ca-48aa-b32f-38b31cc5ad82 watched ships: [7]
+[20Dec2024 19:55:42.241] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1790847 : 768128
+[20Dec2024 19:55:42.241] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1790848 : 768129
+[20Dec2024 19:55:42.241] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1790848 : 768128
+[20Dec2024 19:55:42.241] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1790848 : 768127
+[20Dec2024 19:55:42.241] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1790849 : 768128
+[20Dec2024 19:55:42.241] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: f6d937f7-6339-4cec-a471-a5b608cd8c12 watched ships: [7]
+[20Dec2024 19:55:44.840] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:55:49.940] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791103 : 768128
+[20Dec2024 19:55:50.139] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791104 : 768129
+[20Dec2024 19:55:50.190] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791104 : 768127
+[20Dec2024 19:55:50.190] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791104 : 768128
+[20Dec2024 19:55:50.340] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791105 : 768128
+[20Dec2024 19:55:50.340] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: d81d2e82-62ca-48aa-b32f-38b31cc5ad82 unwatched ships [6]
+[20Dec2024 19:55:50.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[20Dec2024 19:55:54.639] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791105 : 768128
+[20Dec2024 19:55:54.639] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791104 : 768128
+[20Dec2024 19:55:54.639] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791104 : 768129
+[20Dec2024 19:55:54.639] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791104 : 768127
+[20Dec2024 19:55:54.639] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1791103 : 768128
+[20Dec2024 19:55:54.640] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: f6d937f7-6339-4cec-a471-a5b608cd8c12 unwatched ships [6]
+[20Dec2024 19:55:54.640] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: d81d2e82-62ca-48aa-b32f-38b31cc5ad82 unwatched ships [6]
+[20Dec2024 19:55:54.859] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:56:03.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[20Dec2024 19:56:04.734] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1790592 : 768127
+[20Dec2024 19:56:04.734] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1790592 : 768128
+[20Dec2024 19:56:04.734] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1790593 : 768128
+[20Dec2024 19:56:04.734] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1790591 : 768128
+[20Dec2024 19:56:04.734] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1790592 : 768129
+[20Dec2024 19:56:04.734] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: f6d937f7-6339-4cec-a471-a5b608cd8c12 watched ships: [8]
+[20Dec2024 19:56:04.735] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: d81d2e82-62ca-48aa-b32f-38b31cc5ad82 watched ships: [8]
+[20Dec2024 19:56:04.843] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:56:05.243] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1790848 : 768128
+[20Dec2024 19:56:05.243] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1790849 : 768128
+[20Dec2024 19:56:05.243] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1790848 : 768129
+[20Dec2024 19:56:05.243] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1790848 : 768127
+[20Dec2024 19:56:05.243] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1790847 : 768128
+[20Dec2024 19:56:05.243] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: d81d2e82-62ca-48aa-b32f-38b31cc5ad82 unwatched ships [7]
+[20Dec2024 19:56:05.490] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1790336 : 768127
+[20Dec2024 19:56:05.490] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1790336 : 768128
+[20Dec2024 19:56:05.490] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1790337 : 768128
+[20Dec2024 19:56:05.490] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1790335 : 768128
+[20Dec2024 19:56:05.490] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1790336 : 768129
+[20Dec2024 19:56:05.491] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: f6d937f7-6339-4cec-a471-a5b608cd8c12 watched ships: [9]
+[20Dec2024 19:56:05.491] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: d81d2e82-62ca-48aa-b32f-38b31cc5ad82 watched ships: [9]
+[20Dec2024 19:56:05.941] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1790849 : 768128
+[20Dec2024 19:56:06.040] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1790848 : 768127
+[20Dec2024 19:56:06.139] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1790848 : 768129
+[20Dec2024 19:56:06.139] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1790848 : 768128
+[20Dec2024 19:56:06.241] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1790847 : 768128
+[20Dec2024 19:56:06.241] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: f6d937f7-6339-4cec-a471-a5b608cd8c12 unwatched ships [7]
+[20Dec2024 19:56:06.241] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: d81d2e82-62ca-48aa-b32f-38b31cc5ad82 unwatched ships [7]
+[20Dec2024 19:56:10.701] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:56:10.701] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:56:10.711] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:56:11.190] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1790592 : 768128
+[20Dec2024 19:56:11.190] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1790593 : 768128
+[20Dec2024 19:56:11.190] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1790592 : 768129
+[20Dec2024 19:56:11.190] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1790592 : 768127
+[20Dec2024 19:56:11.190] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1790591 : 768128
+[20Dec2024 19:56:11.190] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: d81d2e82-62ca-48aa-b32f-38b31cc5ad82 unwatched ships [8]
+[20Dec2024 19:56:11.390] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1790592 : 768127
+[20Dec2024 19:56:11.390] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1790593 : 768128
+[20Dec2024 19:56:11.439] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1790591 : 768128
+[20Dec2024 19:56:11.439] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1790592 : 768129
+[20Dec2024 19:56:11.439] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1790592 : 768128
+[20Dec2024 19:56:11.440] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: f6d937f7-6339-4cec-a471-a5b608cd8c12 unwatched ships [8]
+[20Dec2024 19:56:11.440] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: d81d2e82-62ca-48aa-b32f-38b31cc5ad82 unwatched ships [8]
+[20Dec2024 19:56:13.848] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:56:13.848] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:56:14.410] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:56:14.410] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:56:15.561] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:56:15.561] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:56:16.268] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:56:16.268] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:56:16.853] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:56:16.853] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:56:17.397] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:56:17.397] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:56:17.947] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:56:17.947] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:56:18.497] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:56:18.497] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:56:20.021] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:56:20.021] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:56:20.609] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:56:20.609] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:56:20.688] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:56:21.212] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:56:21.212] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:56:21.797] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:56:21.797] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:56:25.691] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:56:28.440] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1790337 : 768128
+[20Dec2024 19:56:28.440] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1790336 : 768129
+[20Dec2024 19:56:28.489] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1790336 : 768128
+[20Dec2024 19:56:28.489] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1790335 : 768128
+[20Dec2024 19:56:28.489] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1790337 : 768128
+[20Dec2024 19:56:28.489] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1790336 : 768129
+[20Dec2024 19:56:28.546] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1790336 : 768127
+[20Dec2024 19:56:28.546] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: f6d937f7-6339-4cec-a471-a5b608cd8c12 unwatched ships [9]
+[20Dec2024 19:56:28.546] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: d81d2e82-62ca-48aa-b32f-38b31cc5ad82 unwatched ships [9]
+[20Dec2024 19:56:35.687] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:56:36.607] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:56:36.607] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:56:36.761] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:56:36.762] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:56:45.687] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:56:53.677] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1790080 : 768128
+[20Dec2024 19:56:53.678] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1790080 : 768127
+[20Dec2024 19:56:53.678] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1790081 : 768128
+[20Dec2024 19:56:53.678] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1790079 : 768128
+[20Dec2024 19:56:53.678] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1790080 : 768129
+[20Dec2024 19:56:53.678] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: f6d937f7-6339-4cec-a471-a5b608cd8c12 watched ships: [10]
+[20Dec2024 19:56:53.678] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: d81d2e82-62ca-48aa-b32f-38b31cc5ad82 watched ships: [10]
+[20Dec2024 19:56:53.914] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1789824 : 768128
+[20Dec2024 19:56:53.914] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1789824 : 768127
+[20Dec2024 19:56:53.914] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1789825 : 768128
+[20Dec2024 19:56:53.914] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1789823 : 768128
+[20Dec2024 19:56:53.914] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1789824 : 768129
+[20Dec2024 19:56:53.915] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: f6d937f7-6339-4cec-a471-a5b608cd8c12 watched ships: [11]
+[20Dec2024 19:56:53.915] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: d81d2e82-62ca-48aa-b32f-38b31cc5ad82 watched ships: [11]
+[20Dec2024 19:56:55.242] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1789824 : 768128
+[20Dec2024 19:56:55.242] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: f6d937f7-6339-4cec-a471-a5b608cd8c12 unwatched ships [11]
+[20Dec2024 19:56:55.243] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: d81d2e82-62ca-48aa-b32f-38b31cc5ad82 unwatched ships [11]
+[20Dec2024 19:56:55.688] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:57:04.148] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:57:04.148] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:57:04.157] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:57:14.140] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:57:16.540] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1790081 : 768128
+[20Dec2024 19:57:16.541] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1790080 : 768127
+[20Dec2024 19:57:16.594] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1790080 : 768129
+[20Dec2024 19:57:16.595] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1790080 : 768128
+[20Dec2024 19:57:16.595] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1790081 : 768128
+[20Dec2024 19:57:16.595] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1790079 : 768128
+[20Dec2024 19:57:16.595] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: f6d937f7-6339-4cec-a471-a5b608cd8c12 unwatched ships [10]
+[20Dec2024 19:57:16.644] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1790079 : 768128
+[20Dec2024 19:57:16.644] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1790080 : 768128
+[20Dec2024 19:57:16.644] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1790080 : 768127
+[20Dec2024 19:57:16.644] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1790080 : 768129
+[20Dec2024 19:57:16.644] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: f6d937f7-6339-4cec-a471-a5b608cd8c12 unwatched ships [10]
+[20Dec2024 19:57:16.644] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: d81d2e82-62ca-48aa-b32f-38b31cc5ad82 unwatched ships [10]
+[20Dec2024 19:57:17.923] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1789569 : 768128
+[20Dec2024 19:57:17.923] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1789568 : 768127
+[20Dec2024 19:57:17.923] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1789568 : 768128
+[20Dec2024 19:57:17.923] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1789568 : 768129
+[20Dec2024 19:57:17.923] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1789567 : 768128
+[20Dec2024 19:57:17.923] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: f6d937f7-6339-4cec-a471-a5b608cd8c12 watched ships: [12]
+[20Dec2024 19:57:17.923] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: d81d2e82-62ca-48aa-b32f-38b31cc5ad82 watched ships: [12]
+[20Dec2024 19:57:18.189] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1789313 : 768128
+[20Dec2024 19:57:18.189] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1789312 : 768127
+[20Dec2024 19:57:18.189] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1789312 : 768128
+[20Dec2024 19:57:18.189] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1789312 : 768129
+[20Dec2024 19:57:18.189] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Watch task for dimension minecraft:dimension:minecraft:the_end: -1789311 : 768128
+[20Dec2024 19:57:18.190] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: f6d937f7-6339-4cec-a471-a5b608cd8c12 watched ships: [13]
+[20Dec2024 19:57:18.190] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: d81d2e82-62ca-48aa-b32f-38b31cc5ad82 watched ships: [13]
+[20Dec2024 19:57:18.793] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1789313 : 768128
+[20Dec2024 19:57:18.793] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 13, but a ship with this ShipId does not exist!
+[20Dec2024 19:57:18.794] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: f6d937f7-6339-4cec-a471-a5b608cd8c12 unwatched ships [13]
+[20Dec2024 19:57:18.794] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: d81d2e82-62ca-48aa-b32f-38b31cc5ad82 unwatched ships [13]
+[20Dec2024 19:57:18.845] [Server thread/DEBUG] [org.valkyrienskies.mod.common.world.ChunkManagement/]: Unwatch task for dimension minecraft:dimension:minecraft:the_end: -1789569 : 768128
+[20Dec2024 19:57:18.845] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: f6d937f7-6339-4cec-a471-a5b608cd8c12 unwatched ships [12]
+[20Dec2024 19:57:18.845] [Server thread/DEBUG] [org.valkyrienskies.core.impl.shadow.zV/]: d81d2e82-62ca-48aa-b32f-38b31cc5ad82 unwatched ships [12]
+[20Dec2024 19:57:19.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [The Key to Unbreakable Gear]
+[20Dec2024 19:57:24.138] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:57:29.138] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:57:39.138] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:57:44.138] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:57:49.138] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:57:54.138] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:58:04.138] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:58:14.138] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:58:15.943] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:58:15.944] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:58:20.938] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:58:30.939] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:58:38.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[20Dec2024 19:58:40.938] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:58:45.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[20Dec2024 19:58:50.938] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:58:54.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Dec2024 19:58:54.894] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Dec2024 19:58:55.938] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:59:02.345] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:59:09.492] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:59:19.488] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:59:24.488] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:59:27.707] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:59:27.707] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:59:32.688] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:59:35.008] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:59:35.008] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:59:38.542] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:59:42.360] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 19:59:42.360] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 19:59:42.364] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Dec2024 19:59:47.338] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:59:57.338] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 20:00:02.338] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 20:00:12.338] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 20:00:17.014] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:00:17.014] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:00:17.665] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:00:17.665] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:00:18.248] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:00:18.248] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:00:18.898] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:00:18.898] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:00:19.547] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:00:19.547] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:00:20.157] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:00:20.157] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:00:20.717] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:00:20.717] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:00:21.366] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:00:21.366] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:00:22.015] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:00:22.015] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:00:22.338] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 20:00:22.509] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:00:22.509] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:00:28.548] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:00:28.548] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:00:32.338] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 20:00:42.338] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 20:00:52.338] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 20:01:02.338] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 20:01:07.338] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 20:01:12.338] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 20:01:22.338] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 20:01:26.112] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:01:26.112] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:01:26.830] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:01:26.830] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:01:27.338] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 20:01:27.393] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:01:27.393] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:01:27.424] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:01:27.424] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:01:28.007] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:01:28.007] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:01:28.725] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:01:28.726] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:01:29.250] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:01:29.250] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:01:29.798] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:01:29.798] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:01:30.359] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:01:30.359] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:01:30.967] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:01:30.967] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:01:31.504] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:01:31.504] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:01:33.324] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:01:33.324] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:01:36.352] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:01:36.352] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:01:36.858] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:01:36.858] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:01:37.338] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 20:01:37.460] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:01:37.460] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:01:46.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Free the End]
+[20Dec2024 20:01:47.338] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 20:01:52.338] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 20:01:57.338] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 20:01:57.665] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:01:57.665] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:01:57.665] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Dec2024 20:01:58.266] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:01:58.266] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:01:58.266] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Dec2024 20:01:59.060] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:01:59.060] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:02:14.655] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:02:14.655] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:02:27.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has reached the goal [The Next Generation]
+[20Dec2024 20:02:30.972] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:02:30.972] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:02:31.166] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:02:31.166] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:02:31.260] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:02:31.260] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:02:31.402] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:02:31.402] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:02:31.556] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:02:31.556] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:02:31.746] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:02:31.746] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:02:33.368] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:02:33.368] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:02:34.105] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:02:34.105] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:02:35.310] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:02:35.310] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:02:35.915] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:02:35.915] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:02:38.019] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:02:38.019] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:02:38.617] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:02:38.617] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:02:39.208] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:02:39.208] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:02:39.814] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:02:39.814] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:02:40.367] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:02:40.367] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:02:48.940] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Dec2024 20:02:48.940] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[20Dec2024 20:03:04.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[20Dec2024 20:03:24.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has reached the goal [The Next Generation]
+[20Dec2024 20:03:47.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]

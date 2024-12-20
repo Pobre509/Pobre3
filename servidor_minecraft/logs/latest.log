@@ -3118,3 +3118,93 @@ Caused by: java.lang.IllegalArgumentException: Player literal{R3hsk} is missing 
 [20Dec2024 19:37:42.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
 [20Dec2024 19:38:24.322] [Worker-Main-27/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-4796, y=38, z=-6384}
 [20Dec2024 19:42:54.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has completed the challenge [Just a Flesh Wound]
+[20Dec2024 19:45:55.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Crops of the Wild]
+[20Dec2024 19:46:32.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [The Desert Swimmers]
+[20Dec2024 19:48:08.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Hot Stuff]
+[20Dec2024 19:48:38.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack tried to swim in lava
+[20Dec2024 19:48:58.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Spectator Mode]
+[20Dec2024 19:49:02.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Eye Spy]
+[20Dec2024 19:49:04.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[20Dec2024 19:49:57.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Spectator Mode]
+[20Dec2024 19:50:19.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[20Dec2024 19:50:25.664] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Evoker['Rumak the Dark'/67835, l='ServerLevel[world]', x=-4888.30, y=-30.00, z=-6720.70] died: Rumak the Dark was slain by R3hsk
+[20Dec2024 19:50:45.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Spectator Mode]
+[20Dec2024 19:51:15.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[20Dec2024 19:52:26.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Gobber Goes Nether]
+[20Dec2024 19:53:13.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
+[20Dec2024 19:53:13.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Eye Spy]
+[20Dec2024 19:53:51.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [The End?]
+[20Dec2024 19:53:52.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [The End?]
+[20Dec2024 19:53:53.970] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Scanning for legacy world dragon fight...
+[20Dec2024 19:53:53.989] [Server thread/INFO] [net.minecraft.world.level.dimension.end.EndDragonFight/]: Found that the dragon has not yet been killed in this world.
+[20Dec2024 19:53:54.942] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2506ms or 50 ticks behind
+[20Dec2024 19:53:59.844] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:54:09.838] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:54:19.838] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:54:29.838] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:54:39.838] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:54:44.838] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:54:54.840] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:55:04.838] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:55:14.838] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:55:24.838] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:55:29.838] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[31.0, -2032.0, 22.0] -> [35.0, 2031.0, 26.0] returning empty list! this might break things
+[20Dec2024 19:55:34.838] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:55:44.840] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:55:50.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[20Dec2024 19:55:54.859] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:56:03.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[20Dec2024 19:56:04.843] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:56:10.711] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:56:20.688] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:56:25.691] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:56:35.687] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:56:45.687] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:56:55.688] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:57:04.157] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:57:14.140] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:57:18.793] [Server thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Received physics frame update for ship with ShipId: 13, but a ship with this ShipId does not exist!
+[20Dec2024 19:57:19.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [The Key to Unbreakable Gear]
+[20Dec2024 19:57:24.138] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:57:29.138] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:57:39.138] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:57:44.138] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:57:49.138] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:57:54.138] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:58:04.138] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:58:14.138] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:58:20.938] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:58:30.939] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:58:38.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[20Dec2024 19:58:40.938] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:58:45.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[20Dec2024 19:58:50.938] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:58:55.938] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:59:02.345] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:59:09.492] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:59:19.488] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:59:24.488] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:59:32.688] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:59:38.542] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:59:47.338] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 19:59:57.338] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 20:00:02.338] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 20:00:12.338] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 20:00:22.338] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 20:00:32.338] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 20:00:42.338] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 20:00:52.338] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 20:01:02.338] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 20:01:07.338] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 20:01:12.338] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 20:01:22.338] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 20:01:27.338] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 20:01:37.338] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 20:01:46.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Free the End]
+[20Dec2024 20:01:47.338] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 20:01:52.338] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 20:01:57.338] [Server thread/ERROR] [VS2 Get Entities Mixin/]: java.lang.Exception: Collision box is too big! AABB[40.0, -2032.0, -2.0] -> [44.0, 2031.0, 2.0] returning empty list! this might break things
+[20Dec2024 20:02:27.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has reached the goal [The Next Generation]
+[20Dec2024 20:03:04.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[20Dec2024 20:03:24.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has reached the goal [The Next Generation]
+[20Dec2024 20:03:47.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
