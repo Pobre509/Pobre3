@@ -2961,6 +2961,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2024-12-20 21:56:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2024-12-17 23:25:02 +0000"
@@ -4106,6 +4112,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_armor_dragon": {
+    "criteria": {
+      "gobber2_boots_dragon": "2024-12-20 21:58:42 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/crimson_bath": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 00:41:08 +0000"
@@ -4511,6 +4523,12 @@
   "spartanweaponry:battleaxe": {
     "criteria": {
       "has_battleaxe": "2024-12-18 23:28:45 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_ring_end": {
+    "criteria": {
+      "gobber2_ring_end": "2024-12-20 21:55:55 +0000"
     },
     "done": true
   },
@@ -8199,6 +8217,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_armor_end": {
+    "criteria": {
+      "gobber2_helmet_end": "2024-12-20 21:57:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-20 18:54:35 +0000"
@@ -8208,6 +8232,12 @@
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-12-17 23:12:45 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_dragon_elytra": {
+    "criteria": {
+      "gobber2_dragon_elytra": "2024-12-20 21:58:21 +0000"
     },
     "done": true
   },
@@ -8472,6 +8502,12 @@
   "travelersbackpack:recipes/travelersbackpack/standard": {
     "criteria": {
       "has_chest": "2024-12-18 00:35:31 +0000"
+    },
+    "done": true
+  },
+  "gobber2:gobber2_links_end": {
+    "criteria": {
+      "gobber2_links_end": "2024-12-20 21:56:21 +0000"
     },
     "done": true
   },

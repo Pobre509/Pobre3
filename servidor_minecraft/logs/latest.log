@@ -3487,3 +3487,23 @@ Caused by: java.lang.IllegalArgumentException: Player literal{R3hsk} is missing 
 [20Dec2024 21:52:05.594] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
 [20Dec2024 21:54:43.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
 [20Dec2024 21:55:04.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Suit Up]
+[20Dec2024 21:55:55.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [A Rung Above the Rest]
+[20Dec2024 21:56:21.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [A Link to the Best Armor]
+[20Dec2024 21:56:29.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[20Dec2024 21:56:32.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Suit Up]
+[20Dec2024 21:56:41.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[20Dec2024 21:57:02.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[20Dec2024 21:57:03.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Unbreakable Armor With a Glider]
+[20Dec2024 21:58:21.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [A step towards flight]
+[20Dec2024 21:58:38.854] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: R3hsk lost connection: Disconnected
+[20Dec2024 21:58:38.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk left the game
+[20Dec2024 21:58:42.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Unbreakable Armor With Creative Flight]
+[20Dec2024 21:59:19.958] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2cb0009a
+[20Dec2024 21:59:19.973] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: R3hsk[/127.250.204.19:54387] logged in with entity id 97171 at (-4615.812964680315, 112.09031367301941, -5381.577898285131)
+[20Dec2024 21:59:19.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk joined the game
+[20Dec2024 22:01:18.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[20Dec2024 22:01:33.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[20Dec2024 22:02:13.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[20Dec2024 22:02:26.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[20Dec2024 22:04:00.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Applied enchantment Feather Falling IV to R3hsk's item]
+[20Dec2024 22:04:51.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
