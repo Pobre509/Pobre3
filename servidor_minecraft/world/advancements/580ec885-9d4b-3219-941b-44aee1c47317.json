@@ -799,7 +799,8 @@
   },
   "tconstruct:world/slime_collector": {
     "criteria": {
-      "earth": "2024-12-17 23:00:24 +0000"
+      "earth": "2024-12-17 23:00:24 +0000",
+      "ender": "2024-12-20 20:11:08 +0000"
     },
     "done": false
   },
@@ -1313,6 +1314,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/dragon": {
+    "criteria": {
+      "has_dragon_egg": "2024-12-20 20:02:27 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/brown_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
       "has_sleeping_bag": "2024-12-17 23:34:19 +0000"
@@ -1448,6 +1455,12 @@
   "tconstruct:recipes/tconstruct/general/common/gold_bars": {
     "criteria": {
       "has_ingot": "2024-12-18 01:02:34 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/world/common/slime/ender/congealed": {
+    "criteria": {
+      "has_item": "2024-12-20 20:11:08 +0000"
     },
     "done": true
   },
@@ -1814,6 +1827,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-18 00:40:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/dragon_egg": {
+    "criteria": {
+      "dragon_egg": "2024-12-20 20:02:27 +0000"
     },
     "done": true
   },
@@ -3888,6 +3907,12 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2024-12-20 20:07:10 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_throwing_knife": {
     "criteria": {
       "has_cobblestone": "2024-12-17 23:02:12 +0000"
@@ -5305,6 +5330,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/world/common/slime/ender/slimeblock": {
+    "criteria": {
+      "has_item": "2024-12-20 20:11:08 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_flanged_mace": {
     "criteria": {
       "has_diamond": "2024-12-17 23:25:02 +0000"
@@ -5927,6 +5958,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2024-12-17 22:53:51 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/general/common/slime/ender/slimeball_from_congealed": {
+    "criteria": {
+      "has_item": "2024-12-20 20:11:53 +0000"
     },
     "done": true
   },
@@ -7108,6 +7145,12 @@
     },
     "done": true
   },
+  "gobber2:gobber2_rod_end": {
+    "criteria": {
+      "gobber2_rod_end": "2024-12-20 20:04:27 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_green_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-20 00:49:02 +0000"
@@ -7777,6 +7820,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-18 00:40:20 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:world/ender_island": {
+    "criteria": {
+      "found_island": "2024-12-20 20:09:37 +0000"
     },
     "done": true
   },
