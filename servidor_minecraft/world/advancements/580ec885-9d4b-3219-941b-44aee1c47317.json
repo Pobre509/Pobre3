@@ -2875,6 +2875,12 @@
     },
     "done": true
   },
+  "create:root": {
+    "criteria": {
+      "0": "2024-12-20 18:45:14 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/computer": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 00:41:08 +0000"

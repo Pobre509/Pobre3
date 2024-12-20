@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/industrial_iron_block_from_ingots_iron_stonecutting": {
+    "criteria": {
+      "has_ingots_iron": "2024-12-20 18:41:11 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/silver_rapier": {
     "criteria": {
       "has_silver_ingot": "2024-12-18 00:13:16 +0000"
@@ -617,6 +623,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/logistics/pulse_repeater": {
+    "criteria": {
+      "has_item": "2024-12-20 18:41:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/recycle_bin": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 23:26:30 +0000"
@@ -923,6 +935,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-20 18:43:10 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/ingot_gauge": {
     "criteria": {
       "has_item": "2024-12-18 02:15:15 +0000"
@@ -1196,6 +1214,12 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2024-12-17 23:13:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/andesite_alloy": {
+    "criteria": {
+      "has_item": "2024-12-20 18:41:11 +0000"
     },
     "done": true
   },
@@ -2335,6 +2359,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/logistics/powered_toggle_latch": {
+    "criteria": {
+      "has_item": "2024-12-20 18:41:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/granite_wall": {
     "criteria": {
       "has_granite": "2024-12-18 00:48:42 +0000"
@@ -2881,6 +2911,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/rose_quartz": {
+    "criteria": {
+      "has_item": "2024-12-20 18:41:11 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/copper_flanged_mace": {
     "criteria": {
       "has_copper_ingot": "2024-12-18 02:15:54 +0000"
@@ -2902,6 +2938,12 @@
   "tconstruct:recipes/tconstruct/general/tables/part_builder": {
     "criteria": {
       "has_item": "2024-12-18 02:16:00 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-12-20 18:41:11 +0000"
     },
     "done": true
   },
@@ -3709,6 +3751,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/logistics/pulse_extender": {
+    "criteria": {
+      "has_item": "2024-12-20 18:41:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-18 04:25:40 +0000"
@@ -3910,6 +3958,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/copper_katana": {
     "criteria": {
       "has_copper_ingot": "2024-12-18 02:15:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/powered_latch": {
+    "criteria": {
+      "has_item": "2024-12-20 18:41:11 +0000"
     },
     "done": true
   },
@@ -5373,6 +5427,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/empty_blaze_burner": {
+    "criteria": {
+      "has_item": "2024-12-20 18:41:11 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/portable_tune_player": {
     "criteria": {
       "has_redstone": "2024-12-19 23:29:06 +0000"
@@ -5739,6 +5799,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.metals/iron_hull": {
+    "criteria": {
+      "has_item": "2024-12-20 18:41:11 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/tools/tools/armor/travelers_goggles": {
     "criteria": {
       "has_item": "2024-12-18 02:15:54 +0000"
@@ -5802,6 +5868,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_halberd": {
     "criteria": {
       "has_diamond": "2024-12-17 23:32:05 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/polished_iron_bars_from_iron_ingot_stonecutting": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-20 18:41:11 +0000"
     },
     "done": true
   },
