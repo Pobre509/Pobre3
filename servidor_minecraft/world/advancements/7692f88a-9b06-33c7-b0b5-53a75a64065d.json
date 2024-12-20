@@ -2504,6 +2504,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_heavenly_conqueror": {
+    "criteria": {
+      "location0": "2024-12-20 20:38:42 +0000"
+    },
+    "done": true
+  },
   "avaritia:recipes/misc/double_compressed_crafting_table": {
     "criteria": {
       "has_item": "2024-12-18 23:02:23 +0000"
