@@ -2679,6 +2679,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.metals/iron_sheet_metal_from_iron_block_stonecutting": {
+    "criteria": {
+      "has_iron_block": "2024-12-20 21:19:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2024-12-17 22:53:51 +0000"
@@ -4277,6 +4283,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/dark_oak_basin": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 00:41:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-20 21:19:57 +0000"
     },
     "done": true
   },
@@ -7757,6 +7769,12 @@
   "advancednetherite:recipes/advancednetherite.tab/netherite_gold_ingot": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/gold]": "2024-12-18 01:02:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-20 21:19:57 +0000"
     },
     "done": true
   },
