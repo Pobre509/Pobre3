@@ -3523,3 +3523,14 @@ Caused by: java.lang.IllegalArgumentException: Player literal{R3hsk} is missing 
 [20Dec2024 22:22:13.626] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: R3hsk[/127.250.204.19:34981] logged in with entity id 102712 at (-4610.615835753515, 103.0, -5411.280994539762)
 [20Dec2024 22:22:13.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk joined the game
 [20Dec2024 22:24:27.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[20Dec2024 22:28:38.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[20Dec2024 22:29:11.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[20Dec2024 22:31:55.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[20Dec2024 22:32:43.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Take Aim]
+[20Dec2024 22:32:44.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[20Dec2024 22:34:18.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Summoned new Warden]
+[20Dec2024 22:34:28.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Summoned new Warden]
+[20Dec2024 22:34:46.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Sneak 100]
+[20Dec2024 22:34:51.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Sneak 100]
+[20Dec2024 22:35:10.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[20Dec2024 22:35:24.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Summoned new Warden]
