@@ -9,8 +9,8 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "built-social.gl.joinmc.link",
-          "assigned_srv": "built-social.gl.joinmc.link",
+          "assigned_domain": "robert-finance.gl.joinmc.link",
+          "assigned_srv": "robert-finance.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
