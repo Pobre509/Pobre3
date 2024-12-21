@@ -12223,3 +12223,81 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [21Dec2024 01:06:28.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Dec2024 01:11:28.399] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Dec2024 01:11:28.478] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 01:16:28.281] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 01:16:28.292] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 01:19:39.622] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4597, y=105, z=-5422}
+[21Dec2024 01:19:39.623] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4597, y=105, z=-5414}
+[21Dec2024 01:19:40.281] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4575, y=105, z=-5408}
+[21Dec2024 01:19:40.335] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4575, y=105, z=-5414}
+[21Dec2024 01:19:40.336] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4590, y=109, z=-5422}
+[21Dec2024 01:19:40.336] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4590, y=105, z=-5422}
+[21Dec2024 01:19:40.336] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4590, y=109, z=-5414}
+[21Dec2024 01:19:40.336] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4582, y=109, z=-5422}
+[21Dec2024 01:19:40.345] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4597, y=105, z=-5408}
+[21Dec2024 01:19:40.346] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4582, y=105, z=-5422}
+[21Dec2024 01:19:40.346] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4590, y=105, z=-5414}
+[21Dec2024 01:19:40.346] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4584, y=109, z=-5415}
+[21Dec2024 01:19:40.346] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4584, y=105, z=-5415}
+[21Dec2024 01:19:40.346] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4593, y=104, z=-5405}
+[21Dec2024 01:19:40.347] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4575, y=105, z=-5422}
+[21Dec2024 01:19:40.347] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4595, y=103, z=-5401}
+[21Dec2024 01:19:40.347] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4600, y=103, z=-5402}
+[21Dec2024 01:19:40.353] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4590, y=105, z=-5408}
+[21Dec2024 01:19:46.341] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[21Dec2024 01:20:05.757] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4622, y=102, z=-5437} BlockPos{x=-468, y=68, z=-628}
+[21Dec2024 01:20:05.845] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4622, y=102, z=-5437} BlockPos{x=-468, y=66, z=-627}
+[21Dec2024 01:20:06.891] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4622, y=102, z=-5437} BlockPos{x=-468, y=69, z=-627}
+[21Dec2024 01:20:07.010] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4622, y=102, z=-5437} BlockPos{x=-468, y=68, z=-627}
+[21Dec2024 01:20:07.265] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4622, y=102, z=-5437} BlockPos{x=-468, y=67, z=-627}
+[21Dec2024 01:20:08.169] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4622, y=102, z=-5437} BlockPos{x=-468, y=65, z=-626}
+[21Dec2024 01:20:08.363] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4622, y=102, z=-5437} BlockPos{x=-468, y=65, z=-627}
+[21Dec2024 01:20:08.536] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4622, y=102, z=-5437} BlockPos{x=-468, y=64, z=-626}
+[21Dec2024 01:20:08.660] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4622, y=102, z=-5437} BlockPos{x=-468, y=65, z=-625}
+[21Dec2024 01:20:08.841] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4622, y=102, z=-5437} BlockPos{x=-468, y=66, z=-625}
+[21Dec2024 01:20:09.265] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4622, y=102, z=-5437} BlockPos{x=-469, y=65, z=-625}
+[21Dec2024 01:20:09.269] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4622, y=102, z=-5437} BlockPos{x=-470, y=65, z=-625}
+[21Dec2024 01:20:23.491] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-470, y=66, z=-625} BlockPos{x=-476, y=70, z=-608}
+[21Dec2024 01:20:23.651] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-470, y=66, z=-625} BlockPos{x=-476, y=69, z=-607}
+[21Dec2024 01:20:23.823] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-470, y=66, z=-625} BlockPos{x=-476, y=68, z=-607}
+[21Dec2024 01:20:23.940] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-470, y=66, z=-625} BlockPos{x=-476, y=67, z=-607}
+[21Dec2024 01:20:24.091] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-470, y=66, z=-625} BlockPos{x=-476, y=68, z=-606}
+[21Dec2024 01:20:24.139] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-470, y=66, z=-625} BlockPos{x=-476, y=70, z=-607}
+[21Dec2024 01:20:24.736] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-470, y=66, z=-625} BlockPos{x=-476, y=66, z=-607}
+[21Dec2024 01:20:40.142] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-470, y=66, z=-625} BlockPos{x=-485, y=70, z=-572}
+[21Dec2024 01:20:40.175] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-470, y=66, z=-625} BlockPos{x=-486, y=70, z=-572}
+[21Dec2024 01:20:40.301] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-470, y=66, z=-625} BlockPos{x=-485, y=71, z=-572}
+[21Dec2024 01:20:40.359] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-470, y=66, z=-625} BlockPos{x=-485, y=71, z=-571}
+[21Dec2024 01:20:40.421] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-470, y=66, z=-625} BlockPos{x=-485, y=72, z=-572}
+[21Dec2024 01:20:40.619] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-485, y=71, z=-571} BlockPos{x=-485, y=69, z=-571}
+[21Dec2024 01:20:40.855] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-485, y=71, z=-571} BlockPos{x=-485, y=69, z=-572}
+[21Dec2024 01:20:41.063] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-485, y=71, z=-571} BlockPos{x=-486, y=69, z=-572}
+[21Dec2024 01:20:41.155] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-485, y=71, z=-571} BlockPos{x=-485, y=68, z=-572}
+[21Dec2024 01:20:41.663] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-485, y=71, z=-571} BlockPos{x=-485, y=66, z=-572}
+[21Dec2024 01:20:42.389] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-485, y=71, z=-571} BlockPos{x=-485, y=67, z=-572}
+[21Dec2024 01:20:46.307] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-485, y=71, z=-571} BlockPos{x=-488, y=72, z=-542}
+[21Dec2024 01:20:46.415] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-485, y=71, z=-571} BlockPos{x=-488, y=72, z=-541}
+[21Dec2024 01:20:46.589] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-485, y=71, z=-571} BlockPos{x=-488, y=71, z=-541}
+[21Dec2024 01:20:46.661] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-485, y=71, z=-571} BlockPos{x=-488, y=72, z=-540}
+[21Dec2024 01:20:46.667] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-485, y=71, z=-571} BlockPos{x=-488, y=72, z=-540}
+[21Dec2024 01:20:46.839] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-485, y=71, z=-571} BlockPos{x=-489, y=70, z=-539}
+[21Dec2024 01:20:46.938] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-485, y=71, z=-571} BlockPos{x=-488, y=70, z=-540}
+[21Dec2024 01:20:47.339] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-485, y=71, z=-571} BlockPos{x=-488, y=70, z=-541}
+[21Dec2024 01:20:51.549] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-485, y=71, z=-571} BlockPos{x=-469, y=73, z=-545}
+[21Dec2024 01:20:52.147] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-485, y=71, z=-571} BlockPos{x=-468, y=71, z=-544}
+[21Dec2024 01:20:52.199] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-485, y=71, z=-571} BlockPos{x=-469, y=71, z=-545}
+[21Dec2024 01:20:52.275] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-485, y=71, z=-571} BlockPos{x=-468, y=72, z=-545}
+[21Dec2024 01:20:52.461] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-485, y=71, z=-571} BlockPos{x=-468, y=73, z=-545}
+[21Dec2024 01:20:52.540] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-485, y=71, z=-571} BlockPos{x=-467, y=73, z=-545}
+[21Dec2024 01:20:52.697] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-485, y=71, z=-571} BlockPos{x=-468, y=71, z=-545}
+[21Dec2024 01:20:52.841] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-485, y=71, z=-571} BlockPos{x=-468, y=70, z=-545}
+[21Dec2024 01:20:53.073] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-485, y=71, z=-571} BlockPos{x=-468, y=69, z=-545}
+[21Dec2024 01:20:53.547] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-485, y=71, z=-571} BlockPos{x=-468, y=68, z=-545}
+[21Dec2024 01:21:06.743] [Worker-Main-9/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[21Dec2024 01:21:06.744] [Worker-Main-9/DEBUG] [mixin/]: Mixing WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[21Dec2024 01:21:06.751] [Worker-Main-9/DEBUG] [mixin/]: Mixing SpawnerBlockListener from brutalbosses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[21Dec2024 01:21:06.751] [Worker-Main-9/DEBUG] [mixin/]: brutalbosses.mixins.json:SpawnerBlockListener: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[21Dec2024 01:21:07.099] [Worker-Main-9/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[21Dec2024 01:21:07.114] [Worker-Main-9/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[21Dec2024 01:21:28.279] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 01:21:28.291] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 01:24:35.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [Glow and Behold!]
