@@ -449,6 +449,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/channel": {
+    "criteria": {
+      "has_item": "2024-12-21 01:07:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
       "has_diamond": "2024-12-17 23:25:02 +0000"
@@ -659,6 +665,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/chute": {
+    "criteria": {
+      "has_item": "2024-12-21 01:07:22 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/spartanshields/iron_tower_shield": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:18:46 +0000"
@@ -770,6 +782,12 @@
   "tconstruct:recipes/tconstruct/general/common/gold_platform": {
     "criteria": {
       "has_gold": "2024-12-18 01:02:34 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/ingot_tank": {
+    "criteria": {
+      "has_item": "2024-12-21 01:07:22 +0000"
     },
     "done": true
   },
@@ -1351,6 +1369,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/alloyer": {
+    "criteria": {
+      "has_item": "2024-12-21 01:07:22 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooking/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2024-12-20 01:10:35 +0000"
@@ -1681,6 +1705,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/general/common/fantastic_foundry": {
+    "criteria": {
+      "has_item": "2024-12-21 01:03:17 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/slime_ball_from_slime_block": {
     "criteria": {
       "has_slime_block": "2024-12-20 00:45:02 +0000"
@@ -1752,6 +1782,12 @@
       "skeleton_skull": "2024-12-18 23:32:57 +0000"
     },
     "done": false
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/scorched_tinted_glass": {
+    "criteria": {
+      "has_item": "2024-12-21 01:07:22 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
@@ -2244,6 +2280,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/scorched_bricks_from_brick": {
+    "criteria": {
+      "has_item": "2024-12-21 01:07:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2024-12-18 01:02:34 +0000"
@@ -2610,6 +2652,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/scorched_road_smelting": {
+    "criteria": {
+      "has_item": "2024-12-21 01:07:29 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/lime_sleeping_bag_from_white_sleeping_bag": {
     "criteria": {
       "has_sleeping_bag": "2024-12-17 23:34:19 +0000"
@@ -2631,6 +2679,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/copper_boomerang": {
     "criteria": {
       "has_copper_ingot": "2024-12-18 00:03:37 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/basin": {
+    "criteria": {
+      "has_item": "2024-12-21 01:07:22 +0000"
     },
     "done": true
   },
@@ -3057,6 +3111,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/stone_warhammer": {
     "criteria": {
       "has_cobblestone": "2024-12-17 23:02:12 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/scorched_bricks_stonecutting": {
+    "criteria": {
+      "has_block": "2024-12-21 01:07:29 +0000"
     },
     "done": true
   },
@@ -3626,6 +3686,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/scorched_ladder": {
+    "criteria": {
+      "has_item": "2024-12-21 01:07:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/magenta_seat": {
     "criteria": {
       "has_wool": "2024-12-20 19:14:46 +0000"
@@ -3677,6 +3743,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-12-17 22:59:07 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/ingot_gauge": {
+    "criteria": {
+      "has_item": "2024-12-21 01:07:22 +0000"
     },
     "done": true
   },
@@ -4712,6 +4784,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/smeltery/scorched/scorched_brick_kiln": {
+    "criteria": {
+      "has_item": "2024-12-21 01:03:17 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/white_kitchen_storage_cabinet": {
     "criteria": {
       "has_white_dye": "2024-12-20 22:24:22 +0000"
@@ -4823,6 +4901,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2024-12-17 23:33:17 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/faucet": {
+    "criteria": {
+      "has_item": "2024-12-21 01:07:22 +0000"
     },
     "done": true
   },
@@ -5009,6 +5093,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/red_grill_from_dyeing": {
     "criteria": {
       "has_dye": "2024-12-20 22:21:02 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/scorched_brick": {
+    "criteria": {
+      "has_item": "2024-12-21 01:03:17 +0000"
     },
     "done": true
   },
@@ -5261,6 +5351,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_parrying_dagger": {
     "criteria": {
       "has_gold_ingot": "2024-12-18 01:02:34 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/scorched_glass": {
+    "criteria": {
+      "has_item": "2024-12-21 01:07:22 +0000"
     },
     "done": true
   },
@@ -5600,6 +5696,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/scorched_soul_glass": {
+    "criteria": {
+      "has_item": "2024-12-21 01:07:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_white_dye": "2024-12-20 22:24:22 +0000"
@@ -5818,6 +5920,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/fuel_gauge": {
+    "criteria": {
+      "has_item": "2024-12-21 01:07:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-18 03:36:44 +0000"
@@ -5920,6 +6028,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/polished_scorched_stone_stonecutting": {
+    "criteria": {
+      "has_block": "2024-12-21 01:07:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_gravel": "2024-12-17 23:05:06 +0000"
@@ -5947,6 +6061,12 @@
   "securitycraft:recipes/securitycraft/reinforced_gray_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-20 00:49:02 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/scorched_bricks_fence": {
+    "criteria": {
+      "has_item": "2024-12-21 01:09:06 +0000"
     },
     "done": true
   },
@@ -6929,6 +7049,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/duct_retextured": {
+    "criteria": {
+      "has_item": "2024-12-21 01:07:29 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_katana": {
     "criteria": {
       "has_diamond": "2024-12-17 23:25:02 +0000"
@@ -7205,6 +7331,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/fuel_tank": {
+    "criteria": {
+      "has_item": "2024-12-21 01:07:22 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/light_gray_toilet": {
     "criteria": {
       "has_dye": "2024-12-20 22:23:29 +0000"
@@ -7238,6 +7370,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/acacia_desk": {
     "criteria": {
       "has_acacia_planks": "2024-12-20 18:54:36 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/scorched_bricks_slab_stonecutter": {
+    "criteria": {
+      "has_item": "2024-12-21 01:09:06 +0000"
     },
     "done": true
   },
@@ -7538,6 +7676,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/purple_lamp": {
     "criteria": {
       "has_glowstone_dust": "2024-12-20 00:41:13 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/table": {
+    "criteria": {
+      "has_item": "2024-12-21 01:07:22 +0000"
     },
     "done": true
   },
@@ -8141,6 +8285,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/scorched_bricks_slab": {
+    "criteria": {
+      "has_item": "2024-12-21 01:09:06 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-20 00:52:24 +0000"
@@ -8180,6 +8330,12 @@
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2024-12-18 00:31:49 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/scorched_bricks_stairs": {
+    "criteria": {
+      "has_item": "2024-12-21 01:09:06 +0000"
     },
     "done": true
   },
@@ -8264,6 +8420,12 @@
   "create:recipes/create.palettes/cut_calcite_brick_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-20 19:15:51 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/drain_retextured": {
+    "criteria": {
+      "has_item": "2024-12-21 01:07:29 +0000"
     },
     "done": true
   },
@@ -8483,6 +8645,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/scorched_bricks_stairs_stonecutter": {
+    "criteria": {
+      "has_item": "2024-12-21 01:09:06 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-20 19:14:56 +0000"
@@ -8498,6 +8666,12 @@
   "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
     "criteria": {
       "has_red_dye": "2024-12-20 22:21:02 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/chute_retextured": {
+    "criteria": {
+      "has_item": "2024-12-21 01:07:29 +0000"
     },
     "done": true
   },
@@ -8648,6 +8822,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/copper_can": {
     "criteria": {
       "has_item": "2024-12-18 00:03:37 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/lantern": {
+    "criteria": {
+      "has_item": "2024-12-21 01:07:22 +0000"
     },
     "done": true
   },
@@ -9337,9 +9517,21 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/drain": {
+    "criteria": {
+      "has_item": "2024-12-21 01:07:22 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/jungle_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2024-12-20 00:43:19 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/chiseled_scorched_bricks_stonecutting": {
+    "criteria": {
+      "has_block": "2024-12-21 01:07:29 +0000"
     },
     "done": true
   },
@@ -9376,6 +9568,12 @@
   "securitycraft:recipes/securitycraft/harming_module": {
     "criteria": {
       "has_iron": "2024-12-20 00:41:08 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/polished_scorched_stone_crafting": {
+    "criteria": {
+      "has_item": "2024-12-21 01:07:29 +0000"
     },
     "done": true
   },
