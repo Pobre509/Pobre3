@@ -12336,3 +12336,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [25Dec2024 22:27:21.318] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4582, y=109, z=-5422}
 [25Dec2024 22:27:24.969] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4584, y=109, z=-5415}
 [25Dec2024 22:27:28.916] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4590, y=109, z=-5414}
+[25Dec2024 22:27:38.020] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4590, y=105, z=-5408}
+[25Dec2024 22:28:30.366] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 22:28:30.377] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[25Dec2024 22:33:30.369] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[25Dec2024 22:33:30.380] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
