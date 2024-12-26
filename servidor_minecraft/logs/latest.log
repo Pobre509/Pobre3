@@ -282,3 +282,9 @@
 [26Dec2024 22:52:48.350] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Fisk of the Sand'/8369, l='ServerLevel[world]', x=-4474.56, y=-39.23, z=-5385.51] died: Fisk of the Sand was slain by R3hsk
 [26Dec2024 22:56:24.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Spectator Mode]
 [26Dec2024 22:56:40.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[26Dec2024 23:28:54.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[26Dec2024 23:29:22.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Spectator Mode]
+[26Dec2024 23:29:24.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[26Dec2024 23:30:03.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[26Dec2024 23:30:17.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[26Dec2024 23:30:48.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
