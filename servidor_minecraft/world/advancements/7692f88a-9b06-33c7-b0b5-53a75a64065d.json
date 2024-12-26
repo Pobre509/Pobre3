@@ -1225,6 +1225,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_leggings": "2024-12-26 22:53:02 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/ocelot": {
     "criteria": {
       "has_cod": "2024-12-17 23:22:05 +0000"
@@ -2102,6 +2108,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_leggings": "2024-12-26 22:53:02 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_bricks_from_brick": {
     "criteria": {
       "has_item": "2024-12-18 02:15:15 +0000"
@@ -2483,6 +2495,12 @@
   "minecraft:recipes/building_blocks/end_stone_bricks": {
     "criteria": {
       "has_end_stone": "2024-12-20 19:55:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2024-12-26 22:48:42 +0000"
     },
     "done": true
   },
@@ -3966,6 +3984,12 @@
   "securitycraft:recipes/securitycraft/speed_module": {
     "criteria": {
       "has_iron": "2024-12-19 23:26:30 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/safety_net": {
+    "criteria": {
+      "has_rope": "2024-12-26 22:53:07 +0000"
     },
     "done": true
   },
