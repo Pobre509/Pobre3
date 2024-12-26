@@ -2912,6 +2912,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/slime_ball_from_slime_block": {
+    "criteria": {
+      "has_slime_block": "2024-12-26 03:41:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-18 00:40:07 +0000"
@@ -8797,6 +8803,12 @@
   "avaritia:recipes/tools/infinity_shovel": {
     "criteria": {
       "has_item": "2024-12-20 22:23:59 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/gold_sheet_metal_from_gold_block_stonecutting": {
+    "criteria": {
+      "has_gold_block": "2024-12-26 03:41:09 +0000"
     },
     "done": true
   },
