@@ -270,3 +270,9 @@
 [26Dec2024 21:44:37.848] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: R3hsk[/127.45.71.119:41221] logged in with entity id 80 at (-4592.178136390613, 103.0, -5402.421497039748)
 [26Dec2024 21:44:37.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk joined the game
 [26Dec2024 21:44:40.467] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2679ms or 53 ticks behind
+[26Dec2024 21:52:55.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[26Dec2024 21:53:44.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[26Dec2024 21:55:04.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[26Dec2024 21:55:06.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[26Dec2024 21:55:13.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[26Dec2024 21:55:19.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
