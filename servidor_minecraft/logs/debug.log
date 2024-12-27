@@ -12299,3 +12299,293 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [27Dec2024 20:47:07.645] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
 [27Dec2024 20:47:08.136] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [27Dec2024 20:47:08.137] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 20:49:14.158] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 20:49:14.169] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 20:52:01.870] [Worker-Main-80/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[27Dec2024 20:52:01.871] [Worker-Main-80/DEBUG] [mixin/]: Mixing WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[27Dec2024 20:52:01.884] [Worker-Main-80/DEBUG] [mixin/]: Mixing SpawnerBlockListener from brutalbosses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[27Dec2024 20:52:01.884] [Worker-Main-80/DEBUG] [mixin/]: brutalbosses.mixins.json:SpawnerBlockListener: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[27Dec2024 20:52:02.704] [Worker-Main-90/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[27Dec2024 20:52:02.718] [Worker-Main-90/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[27Dec2024 20:52:12.132] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4598, y=112, z=-5405}
+[27Dec2024 20:52:12.133] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4597, y=105, z=-5408}
+[27Dec2024 20:52:12.133] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4593, y=109, z=-5406}
+[27Dec2024 20:52:12.133] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4600, y=106, z=-5428}
+[27Dec2024 20:52:12.133] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4597, y=109, z=-5422}
+[27Dec2024 20:52:12.134] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4597, y=105, z=-5422}
+[27Dec2024 20:52:12.134] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4601, y=111, z=-5405}
+[27Dec2024 20:52:12.134] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4597, y=109, z=-5408}
+[27Dec2024 20:52:12.134] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4599, y=111, z=-5403}
+[27Dec2024 20:52:12.135] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4600, y=106, z=-5403}
+[27Dec2024 20:52:12.135] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4599, y=112, z=-5416}
+[27Dec2024 20:52:12.135] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4599, y=112, z=-5414}
+[27Dec2024 20:52:12.135] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4599, y=112, z=-5406}
+[27Dec2024 20:52:12.136] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4599, y=112, z=-5424}
+[27Dec2024 20:52:12.136] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4597, y=112, z=-5426}
+[27Dec2024 20:52:12.136] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4601, y=106, z=-5427}
+[27Dec2024 20:52:12.136] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4597, y=109, z=-5415}
+[27Dec2024 20:52:12.136] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4597, y=105, z=-5415}
+[27Dec2024 20:52:12.137] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4598, y=108, z=-5405}
+[27Dec2024 20:52:12.137] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4601, y=106, z=-5404}
+[27Dec2024 20:52:12.137] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4595, y=108, z=-5405}
+[27Dec2024 20:52:12.137] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4601, y=111, z=-5426}
+[27Dec2024 20:52:12.137] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4599, y=111, z=-5428}
+[27Dec2024 20:52:12.138] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4593, y=104, z=-5405}
+[27Dec2024 20:52:13.673] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4582, y=105, z=-5408}
+[27Dec2024 20:52:13.673] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4592, y=114, z=-5420}
+[27Dec2024 20:52:13.673] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4590, y=118, z=-5418}
+[27Dec2024 20:52:13.673] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4590, y=118, z=-5412}
+[27Dec2024 20:52:13.673] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4582, y=118, z=-5418}
+[27Dec2024 20:52:13.673] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4592, y=114, z=-5410}
+[27Dec2024 20:52:13.673] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4584, y=112, z=-5419}
+[27Dec2024 20:52:13.673] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4585, y=116, z=-5413}
+[27Dec2024 20:52:13.673] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4580, y=114, z=-5420}
+[27Dec2024 20:52:13.673] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4582, y=105, z=-5422}
+[27Dec2024 20:52:13.673] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4590, y=109, z=-5408}
+[27Dec2024 20:52:13.673] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4590, y=105, z=-5408}
+[27Dec2024 20:52:13.673] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4582, y=109, z=-5408}
+[27Dec2024 20:52:13.673] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4590, y=109, z=-5422}
+[27Dec2024 20:52:13.673] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4590, y=105, z=-5422}
+[27Dec2024 20:52:13.673] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4582, y=109, z=-5422}
+[27Dec2024 20:52:13.673] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4583, y=118, z=-5411}
+[27Dec2024 20:52:13.673] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4581, y=114, z=-5409}
+[27Dec2024 20:52:13.673] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4589, y=118, z=-5419}
+[27Dec2024 20:52:13.674] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4591, y=114, z=-5421}
+[27Dec2024 20:52:13.674] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4587, y=112, z=-5426}
+[27Dec2024 20:52:13.674] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4585, y=112, z=-5426}
+[27Dec2024 20:52:13.674] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4583, y=118, z=-5419}
+[27Dec2024 20:52:13.674] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4589, y=118, z=-5411}
+[27Dec2024 20:52:13.674] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4581, y=114, z=-5421}
+[27Dec2024 20:52:13.674] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4591, y=114, z=-5409}
+[27Dec2024 20:52:13.674] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4590, y=105, z=-5415}
+[27Dec2024 20:52:13.674] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4582, y=109, z=-5415}
+[27Dec2024 20:52:13.674] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4582, y=105, z=-5415}
+[27Dec2024 20:52:13.674] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4590, y=103, z=-5426}
+[27Dec2024 20:52:13.674] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4585, y=119, z=-5414}
+[27Dec2024 20:52:13.674] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4590, y=109, z=-5415}
+[27Dec2024 20:52:13.674] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4585, y=113, z=-5415}
+[27Dec2024 20:52:13.674] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4582, y=118, z=-5412}
+[27Dec2024 20:52:13.674] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4591, y=108, z=-5405}
+[27Dec2024 20:52:13.674] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4580, y=114, z=-5410}
+[27Dec2024 20:52:13.674] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4586, y=112, z=-5405}
+[27Dec2024 20:52:13.674] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4586, y=119, z=-5416}
+[27Dec2024 20:52:13.674] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4585, y=119, z=-5416}
+[27Dec2024 20:52:13.674] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4586, y=119, z=-5415}
+[27Dec2024 20:52:13.674] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4585, y=119, z=-5415}
+[27Dec2024 20:52:15.022] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4575, y=109, z=-5408}
+[27Dec2024 20:52:15.022] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4575, y=105, z=-5408}
+[27Dec2024 20:52:15.022] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4573, y=111, z=-5403}
+[27Dec2024 20:52:15.022] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4571, y=111, z=-5405}
+[27Dec2024 20:52:15.022] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4575, y=109, z=-5422}
+[27Dec2024 20:52:15.022] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4575, y=105, z=-5422}
+[27Dec2024 20:52:15.022] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4573, y=103, z=-5423}
+[27Dec2024 20:52:15.022] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4573, y=112, z=-5406}
+[27Dec2024 20:52:15.022] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4572, y=106, z=-5403}
+[27Dec2024 20:52:15.022] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4573, y=112, z=-5424}
+[27Dec2024 20:52:15.022] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4571, y=106, z=-5427}
+[27Dec2024 20:52:15.022] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4573, y=112, z=-5416}
+[27Dec2024 20:52:15.022] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4573, y=112, z=-5414}
+[27Dec2024 20:52:15.022] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4575, y=105, z=-5415}
+[27Dec2024 20:52:15.022] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4575, y=112, z=-5426}
+[27Dec2024 20:52:15.022] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4573, y=111, z=-5428}
+[27Dec2024 20:52:15.022] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4571, y=111, z=-5426}
+[27Dec2024 20:52:15.022] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4575, y=109, z=-5415}
+[27Dec2024 20:52:15.023] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4574, y=112, z=-5405}
+[27Dec2024 20:52:15.023] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4571, y=106, z=-5404}
+[27Dec2024 20:52:15.023] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4572, y=106, z=-5428}
+[27Dec2024 20:52:17.904] [Worker-Main-90/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-4040, y=-41, z=-5747} at Chest with:minecraft:chests/simple_dungeon
+[27Dec2024 20:53:01.188] [Worker-Main-78/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:evilchickenboss at BlockPos{x=-4115, y=-41, z=-5920} at Chest with:minecraft:chests/simple_dungeon
+[27Dec2024 20:53:01.878] [Worker-Main-90/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:vexboss at BlockPos{x=-4002, y=45, z=-5916} at Chest with:minecraft:chests/simple_dungeon
+[27Dec2024 20:53:02.496] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 20:53:02.496] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 20:53:12.811] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 20:53:12.811] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 20:53:27.893] [Worker-Main-80/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=-4319, y=48, z=-6030} at Chest with:minecraft:chests/simple_dungeon
+[27Dec2024 20:54:14.214] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 20:54:14.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 20:54:17.575] [Worker-Main-78/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-3883, y=-46, z=-6409} at Chest with:minecraft:chests/simple_dungeon
+[27Dec2024 20:54:36.970] [Worker-Main-90/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-3665, y=28, z=-6584} at Chest with:betterdungeons:zombie_dungeon/chests/tombstone
+[27Dec2024 20:55:01.335] [Worker-Main-78/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-3833, y=-14, z=-6844} at Chest with:minecraft:chests/simple_dungeon
+[27Dec2024 20:55:29.276] [Worker-Main-90/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:vexboss at BlockPos{x=-3873, y=-35, z=-7227} at Chest with:minecraft:chests/simple_dungeon
+[27Dec2024 20:55:39.689] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 20:55:39.689] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 20:55:39.701] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[27Dec2024 20:55:40.321] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 20:55:40.321] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 20:55:40.962] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 20:55:40.962] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 20:55:42.464] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 20:55:42.464] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 20:55:42.953] [Worker-Main-90/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-3985, y=18, z=-7020} at Chest with:minecraft:chests/simple_dungeon
+[27Dec2024 20:55:44.799] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 20:55:44.799] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 20:55:45.294] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 20:55:45.294] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 20:55:48.321] [Worker-Main-80/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:shulkerboss at BlockPos{x=-3904, y=6, z=-7355} at Chest with:minecraft:chests/simple_dungeon
+[27Dec2024 20:55:51.160] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 20:55:51.160] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 20:55:51.161] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[27Dec2024 20:55:53.274] [Worker-Main-80/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:guardianboss at BlockPos{x=-4025, y=64, z=-7367} at Chest with:minecraft:chests/underwater_ruin_small
+[27Dec2024 20:55:54.043] [Worker-Main-90/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-4120, y=-26, z=-7270} at Chest with:minecraft:chests/simple_dungeon
+[27Dec2024 20:55:59.329] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[27Dec2024 20:55:59.374] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[27Dec2024 20:55:59.422] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[27Dec2024 20:56:02.603] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 20:56:02.603] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 20:56:03.244] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 20:56:03.244] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 20:56:03.851] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 20:56:03.851] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 20:56:34.058] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Dec2024 20:56:34.845] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Dec2024 20:56:37.691] [Worker-Main-78/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-4329, y=-42, z=-7340} at Chest with:minecraft:chests/simple_dungeon
+[27Dec2024 20:56:38.444] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 20:56:38.444] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 20:56:39.043] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 20:56:39.043] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 20:56:43.469] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 20:56:43.469] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 20:56:53.796] [Worker-Main-80/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:rabbitboss at BlockPos{x=-4505, y=-31, z=-7016} at Chest with:minecraft:chests/simple_dungeon
+[27Dec2024 20:57:00.037] [Worker-Main-78/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=-4373, y=53, z=-6975} at Chest with:minecraft:chests/shipwreck_map
+[27Dec2024 20:57:08.659] [Worker-Main-90/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:pillagerboss at BlockPos{x=-4526, y=-6, z=-6902} at Chest with:minecraft:chests/simple_dungeon
+[27Dec2024 20:57:19.300] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 20:57:19.301] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 20:57:22.189] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 20:57:22.190] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 20:57:25.309] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 20:57:25.309] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 20:57:25.834] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 20:57:25.834] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 20:57:33.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has completed the challenge [Praise the Sun]
+[27Dec2024 20:57:35.620] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 20:57:35.621] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 20:58:19.433] [Worker-Main-78/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=-4776, y=51, z=-7107} at Chest with:minecraft:chests/shipwreck_map
+[27Dec2024 20:58:37.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Jaws]
+[27Dec2024 20:58:57.709] [Worker-Main-78/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-5065, y=-45, z=-7234} at Chest with:minecraft:chests/simple_dungeon
+[27Dec2024 20:59:03.358] [Worker-Main-90/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=-5132, y=41, z=-7146} at Chest with:minecraft:chests/shipwreck_supply
+[27Dec2024 20:59:03.599] [Worker-Main-80/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:guardianboss at BlockPos{x=-5129, y=50, z=-7335} at Chest with:minecraft:chests/underwater_ruin_small
+[27Dec2024 20:59:07.207] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 20:59:07.207] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 20:59:08.904] [Worker-Main-80/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:rabbitboss at BlockPos{x=-5176, y=-36, z=-7041} at Chest with:minecraft:chests/simple_dungeon
+[27Dec2024 20:59:09.283] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 20:59:09.283] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 20:59:10.124] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 20:59:10.124] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 20:59:14.196] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 20:59:14.208] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 20:59:31.137] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Dec2024 20:59:34.495] [Worker-Main-90/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:strayboss at BlockPos{x=-5396, y=-37, z=-7168} at Chest with:minecraft:chests/simple_dungeon
+[27Dec2024 20:59:37.027] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 20:59:37.027] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 20:59:57.328] [Worker-Main-78/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:endervindicatorboss at BlockPos{x=-5412, y=-28, z=-7474} at Chest with:minecraft:chests/simple_dungeon
+[27Dec2024 20:59:59.498] [Worker-Main-78/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-5277, y=28, z=-7487} at Chest with:minecraft:chests/simple_dungeon
+[27Dec2024 21:00:00.150] [Worker-Main-78/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-5569, y=-35, z=-7333} at Chest with:minecraft:chests/simple_dungeon
+[27Dec2024 21:00:05.450] [Worker-Main-90/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:vindicatorboss at BlockPos{x=-5578, y=26, z=-7486} at Chest with:minecraft:chests/simple_dungeon
+[27Dec2024 21:00:14.759] [Worker-Main-90/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:endervindicatorboss at BlockPos{x=-5696, y=-32, z=-7548} at Chest with:minecraft:chests/simple_dungeon
+[27Dec2024 21:00:22.518] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 21:00:22.518] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 21:00:22.520] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[27Dec2024 21:00:25.600] [Worker-Main-90/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:witchboss at BlockPos{x=-5752, y=-45, z=-7305} at Chest with:minecraft:chests/simple_dungeon
+[27Dec2024 21:00:40.487] [Worker-Main-90/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-6014, y=-26, z=-7488} at Chest with:minecraft:chests/simple_dungeon
+[27Dec2024 21:00:46.268] [Worker-Main-78/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:vexboss at BlockPos{x=-6062, y=-27, z=-7648} at Chest with:minecraft:chests/simple_dungeon
+[27Dec2024 21:01:21.304] [Worker-Main-80/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:endervindicatorboss at BlockPos{x=-6474, y=-25, z=-7694} at Chest with:minecraft:chests/simple_dungeon
+[27Dec2024 21:01:38.149] [Worker-Main-80/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-6531, y=-42, z=-7428} at Chest with:minecraft:chests/simple_dungeon
+[27Dec2024 21:01:39.939] [Worker-Main-78/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=-6541, y=48, z=-7549} at Chest with:minecraft:chests/underwater_ruin_small
+[27Dec2024 21:02:30.946] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 21:02:30.960] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 21:02:36.132] [Worker-Main-78/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:guardianboss at BlockPos{x=-6628, y=45, z=-7348} at Chest with:minecraft:chests/underwater_ruin_small
+[27Dec2024 21:02:41.447] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 21:02:41.447] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 21:02:42.279] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 21:02:42.279] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 21:02:44.359] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 21:02:44.359] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 21:02:45.698] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 21:02:45.698] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 21:02:47.621] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 21:02:47.621] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 21:03:08.214] [Worker-Main-90/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-6470, y=-25, z=-7090} at Chest with:minecraft:chests/simple_dungeon
+[27Dec2024 21:03:20.562] [Worker-Main-80/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-6032, y=-24, z=-7242} at Chest with:minecraft:chests/simple_dungeon
+[27Dec2024 21:03:20.733] [Worker-Main-90/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-6061, y=-44, z=-7053} at Chest with:minecraft:chests/simple_dungeon
+[27Dec2024 21:03:26.610] [Worker-Main-90/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-5951, y=17, z=-7082} at Chest with:minecraft:chests/simple_dungeon
+[27Dec2024 21:03:34.116] [Worker-Main-80/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:drownedboss at BlockPos{x=-5861, y=59, z=-7007} at Chest with:minecraft:chests/shipwreck_treasure
+[27Dec2024 21:03:49.169] [Worker-Main-90/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:rabbitboss at BlockPos{x=-6190, y=-19, z=-6832} at Chest with:minecraft:chests/simple_dungeon
+[27Dec2024 21:04:11.761] [Worker-Main-78/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-6236, y=-41, z=-6544} at Chest with:minecraft:chests/simple_dungeon
+[27Dec2024 21:04:14.217] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 21:04:14.225] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 21:04:20.837] [Worker-Main-78/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-6351, y=64, z=-6691} at Chest with:minecraft:chests/ruined_portal
+[27Dec2024 21:04:30.590] [Worker-Main-78/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:phantomboss at BlockPos{x=-6152, y=64, z=-6346} at Chest with:minecraft:chests/ruined_portal
+[27Dec2024 21:04:51.010] [Worker-Main-90/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=-6352, y=-5, z=-6082} at Chest with:minecraft:chests/simple_dungeon
+[27Dec2024 21:05:24.988] [Worker-Main-80/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=-6210, y=-15, z=-5873} at Chest with:minecraft:chests/simple_dungeon
+[27Dec2024 21:05:25.359] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 21:05:25.360] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 21:05:27.347] [Worker-Main-90/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-6421, y=-41, z=-5951} at Chest with:minecraft:chests/simple_dungeon
+[27Dec2024 21:06:01.736] [Worker-Main-78/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-5907, y=18, z=-6078} at Chest with:minecraft:chests/simple_dungeon
+[27Dec2024 21:06:31.707] [Worker-Main-80/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-5859, y=28, z=-5795} at Chest with:betterdungeons:zombie_dungeon/chests/common
+[27Dec2024 21:06:51.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[27Dec2024 21:09:14.173] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 21:09:14.182] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 21:10:24.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[27Dec2024 21:10:47.591] [Worker-Main-78/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-5882, y=-39, z=-5678} at Chest with:betterdungeons:skeleton_dungeon/chests/common
+[27Dec2024 21:13:39.007] [Worker-Main-80/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-5751, y=132, z=-6015} at Chest with:minecraft:chests/ruined_portal
+[27Dec2024 21:13:40.102] [Worker-Main-80/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombieboss at BlockPos{x=-5713, y=22, z=-5725} at Chest with:minecraft:chests/simple_dungeon
+[27Dec2024 21:14:14.154] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 21:14:14.164] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 21:14:35.552] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 21:14:35.552] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 21:14:36.558] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 21:14:36.558] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 21:15:37.529] [Worker-Main-80/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-106, y=-32, z=-216}
+[27Dec2024 21:15:40.057] [Worker-Main-90/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-32, z=-208}
+[27Dec2024 21:15:47.872] [Worker-Main-78/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-5543, y=-40, z=-5515} at Chest with:minecraft:chests/simple_dungeon
+[27Dec2024 21:15:53.326] [Worker-Main-90/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:pillagerboss at BlockPos{x=-5499, y=29, z=-5450} at Chest with:minecraft:chests/simple_dungeon
+[27Dec2024 21:16:10.624] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 21:16:10.625] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 21:16:10.626] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[27Dec2024 21:16:10.626] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 21:16:10.626] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 21:16:16.279] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 21:16:16.279] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 21:16:18.180] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 21:16:18.180] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 21:16:18.182] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[27Dec2024 21:16:27.957] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 21:16:27.957] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 21:16:28.590] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 21:16:28.590] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 21:17:01.834] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 21:17:01.834] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 21:17:10.483] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 21:17:10.483] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 21:17:40.810] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 21:17:40.810] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 21:17:40.811] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[27Dec2024 21:17:53.844] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 21:17:53.844] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 21:17:53.847] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[27Dec2024 21:17:53.847] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 21:17:53.847] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 21:17:58.324] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 21:17:58.324] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 21:17:58.325] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[27Dec2024 21:18:01.180] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 21:18:01.180] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 21:18:01.180] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[27Dec2024 21:18:13.179] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 21:18:13.179] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 21:18:19.722] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 21:18:19.723] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 21:18:20.272] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 21:18:20.272] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 21:18:20.971] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 21:18:20.971] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 21:18:20.972] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[27Dec2024 21:18:29.499] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 21:18:29.499] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 21:18:29.500] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[27Dec2024 21:18:32.594] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 21:18:32.594] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 21:18:32.595] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[27Dec2024 21:18:54.170] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Dec2024 21:18:54.171] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[27Dec2024 21:18:54.171] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!

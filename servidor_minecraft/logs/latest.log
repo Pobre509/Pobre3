@@ -284,3 +284,12 @@
 [27Dec2024 20:44:41.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Summoned new Warden]
 [27Dec2024 20:44:51.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Warden
 [27Dec2024 20:46:59.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Summoned new Warden]
+[27Dec2024 20:56:34.058] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Dec2024 20:56:34.845] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Dec2024 20:57:33.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has completed the challenge [Praise the Sun]
+[27Dec2024 20:58:37.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Jaws]
+[27Dec2024 20:59:31.137] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[27Dec2024 21:06:51.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[27Dec2024 21:10:24.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[27Dec2024 21:15:37.529] [Worker-Main-80/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-106, y=-32, z=-216}
+[27Dec2024 21:15:40.057] [Worker-Main-90/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-99, y=-32, z=-208}
