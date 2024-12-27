@@ -1226,6 +1226,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-27 01:40:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_bricks": {
     "criteria": {
       "has_quartz_block": "2024-12-17 23:30:05 +0000"
@@ -6686,6 +6692,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-27 01:40:35 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/materials/rose_gold_nugget_from_ingot": {
     "criteria": {
       "has_item": "2024-12-20 21:44:50 +0000"
@@ -10221,6 +10233,12 @@
     },
     "done": true
   },
+  "advancednetherite:recipes/advancednetherite.tab/netherite_diamond_ingot_from_block": {
+    "criteria": {
+      "has_Block{advancednetherite:netherite_diamond_block}": "2024-12-27 01:48:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-12-17 23:19:52 +0000"
@@ -11028,6 +11046,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_halberd": {
     "criteria": {
       "has_wood": "2024-12-17 23:09:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-27 01:40:35 +0000"
     },
     "done": true
   },
