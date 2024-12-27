@@ -3589,6 +3589,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/refurbished_furniture/dark_stove": {
+    "criteria": {
+      "has_stove": "2024-12-27 00:33:13 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/diamond_tier_upgrade": {
     "criteria": {
       "has_diamond": "2024-12-17 23:32:05 +0000"
@@ -3856,6 +3862,12 @@
   "securitycraft:recipes/securitycraft/camera_monitor": {
     "criteria": {
       "has_iron": "2024-12-19 23:26:30 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/refurbished_furniture/constructing/dark_stove": {
+    "criteria": {
+      "has_light_stove": "2024-12-27 00:33:13 +0000"
     },
     "done": true
   },
@@ -4858,6 +4870,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2024-12-17 23:33:15 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-27 00:34:22 +0000"
     },
     "done": true
   },
@@ -6788,6 +6806,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2024-12-27 00:37:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2024-12-17 23:38:38 +0000"
@@ -8126,6 +8150,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-27 00:34:22 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/wrench": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 23:26:30 +0000"
@@ -8219,6 +8249,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_lance": {
     "criteria": {
       "has_gold_ingot": "2024-12-18 03:11:25 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/grout_multiple": {
+    "criteria": {
+      "has_item": "2024-12-27 00:37:37 +0000"
     },
     "done": true
   },
