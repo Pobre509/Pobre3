@@ -569,6 +569,15 @@
     },
     "done": true
   },
+  "tconstruct:foundry/plate_armor": {
+    "criteria": {
+      "crafted_leggings": "2024-12-27 00:12:41 +0000",
+      "crafted_boots": "2024-12-27 00:12:42 +0000",
+      "crafted_helmet": "2024-12-27 00:12:37 +0000",
+      "crafted_chestplate": "2024-12-27 00:12:35 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_scythe": {
     "criteria": {
       "has_cobblestone": "2024-12-17 23:19:52 +0000"
@@ -1378,6 +1387,12 @@
   "create:recipes/create.base/crafting/kinetics/hose_pulley": {
     "criteria": {
       "has_item": "2024-12-26 04:03:57 +0000"
+    },
+    "done": true
+  },
+  "tconstruct:tools/modified": {
+    "criteria": {
+      "crafted_tool": "2024-12-27 00:12:50 +0000"
     },
     "done": true
   },
@@ -2841,6 +2856,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2024-12-27 00:24:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2024-12-18 00:26:18 +0000"
@@ -3381,6 +3402,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2024-12-27 00:24:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-18 02:57:29 +0000"
@@ -3667,6 +3694,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/crimson_basin": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 23:26:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2024-12-27 00:24:02 +0000"
     },
     "done": true
   },
@@ -6947,6 +6980,12 @@
     },
     "done": true
   },
+  "tconstruct:foundry/encyclopedia": {
+    "criteria": {
+      "crafted_book": "2024-12-27 00:10:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2024-12-17 23:09:10 +0000"
@@ -9776,6 +9815,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/green_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 23:26:30 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2024-12-27 00:24:02 +0000"
     },
     "done": true
   },
