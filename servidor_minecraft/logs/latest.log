@@ -275,3 +275,7 @@
 [27Dec2024 19:09:08.883] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
 [27Dec2024 19:09:09.884] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
 [27Dec2024 19:09:11.018] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[27Dec2024 19:26:28.883] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@128979e5
+[27Dec2024 19:26:28.940] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: R3hsk[/127.45.71.119:35073] logged in with entity id 81 at (-4585.220377968507, 102.9375, -5383.176188081324)
+[27Dec2024 19:26:29.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk joined the game
+[27Dec2024 19:26:31.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2537ms or 50 ticks behind
