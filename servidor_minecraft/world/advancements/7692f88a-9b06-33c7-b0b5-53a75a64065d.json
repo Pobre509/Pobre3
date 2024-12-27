@@ -1477,6 +1477,12 @@
     },
     "done": true
   },
+  "tconstruct:smeltery/tinkers_anvil": {
+    "criteria": {
+      "crafted_overworld": "2024-12-27 00:10:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2024-12-18 00:11:57 +0000"
