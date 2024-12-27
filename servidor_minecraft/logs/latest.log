@@ -281,3 +281,6 @@
 [27Dec2024 19:26:31.398] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2537ms or 50 ticks behind
 [27Dec2024 19:35:32.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
 [27Dec2024 19:35:41.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[27Dec2024 20:44:41.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Summoned new Warden]
+[27Dec2024 20:44:51.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk was slain by Warden
+[27Dec2024 20:46:59.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Summoned new Warden]
