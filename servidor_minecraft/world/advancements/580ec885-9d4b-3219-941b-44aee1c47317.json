@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_bearing": {
+    "criteria": {
+      "has_item": "2024-12-28 22:14:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/acacia_button": {
     "criteria": {
       "has_planks": "2024-12-20 18:54:35 +0000"
@@ -845,6 +851,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_drill": {
+    "criteria": {
+      "has_item": "2024-12-28 22:14:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_blue_dye": "2024-12-20 22:21:03 +0000"
@@ -932,6 +944,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_battleaxe": {
     "criteria": {
       "has_wood": "2024-12-17 23:01:56 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/andesite_sheet_metal_from_andesite_casing_stonecutting": {
+    "criteria": {
+      "has_andesite_casing": "2024-12-28 22:14:18 +0000"
     },
     "done": true
   },
@@ -1070,6 +1088,12 @@
   "gobber2:gobber2_sword": {
     "criteria": {
       "gobber2_sword": "2024-12-18 02:50:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/stressometerfrom_conversion": {
+    "criteria": {
+      "has_item": "2024-12-28 22:14:59 +0000"
     },
     "done": true
   },
@@ -1741,6 +1765,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/weighted_ejector": {
+    "criteria": {
+      "has_item": "2024-12-28 22:14:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-18 00:40:20 +0000"
@@ -2131,6 +2161,12 @@
     },
     "done": true
   },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2024-12-28 22:14:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs": {
     "criteria": {
       "has_andesite": "2024-12-18 23:16:23 +0000"
@@ -2499,6 +2535,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-17 23:33:17 +0000"
+    },
+    "done": true
+  },
+  "create:stressometer": {
+    "criteria": {
+      "0": "2024-12-28 22:16:32 +0000"
     },
     "done": true
   },
@@ -3090,6 +3132,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_roller": {
+    "criteria": {
+      "has_item": "2024-12-28 22:14:18 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/jungle_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2024-12-20 00:41:08 +0000"
@@ -3210,6 +3258,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/gearshift": {
+    "criteria": {
+      "has_item": "2024-12-28 22:14:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2024-12-18 00:26:39 +0000"
@@ -3249,6 +3303,12 @@
   "minecraft:recipes/building_blocks/cut_copper_stairs_from_copper_block_stonecutting": {
     "criteria": {
       "has_copper_block": "2024-12-20 21:41:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2024-12-28 22:14:52 +0000"
     },
     "done": true
   },
@@ -3894,6 +3954,12 @@
   "securitycraft:recipes/securitycraft/reinforced_cyan_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-20 00:49:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_press": {
+    "criteria": {
+      "has_item": "2024-12-28 22:14:18 +0000"
     },
     "done": true
   },
@@ -4843,6 +4909,12 @@
   "securitycraft:recipes/securitycraft/speed_module": {
     "criteria": {
       "has_iron": "2024-12-20 00:41:08 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_plough": {
+    "criteria": {
+      "has_item": "2024-12-28 22:14:18 +0000"
     },
     "done": true
   },
@@ -6774,6 +6846,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/speedometerfrom_conversion": {
+    "criteria": {
+      "has_item": "2024-12-28 22:16:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
     "criteria": {
       "has_deepslate_diamond_ore": "2024-12-28 02:09:12 +0000"
@@ -7041,6 +7119,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_pike": {
     "criteria": {
       "has_diamond": "2024-12-17 23:25:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/millstone": {
+    "criteria": {
+      "has_item": "2024-12-28 22:14:18 +0000"
     },
     "done": true
   },
@@ -7591,6 +7675,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/gantry_carriage": {
+    "criteria": {
+      "has_item": "2024-12-28 22:14:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-18 00:28:35 +0000"
@@ -7888,6 +7978,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-18 04:02:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_saw": {
+    "criteria": {
+      "has_item": "2024-12-28 22:14:18 +0000"
     },
     "done": true
   },
@@ -8735,6 +8831,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/andesite_door": {
+    "criteria": {
+      "has_item": "2024-12-28 22:14:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/filter": {
     "criteria": {
       "has_item": "2024-12-28 21:45:48 +0000"
@@ -8942,6 +9044,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/crimson_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-20 22:04:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/clutch": {
+    "criteria": {
+      "has_item": "2024-12-28 22:14:18 +0000"
     },
     "done": true
   },
@@ -10623,6 +10731,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_piston": {
+    "criteria": {
+      "has_item": "2024-12-28 22:14:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-12-18 01:02:34 +0000"
@@ -10948,6 +11062,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/depot": {
+    "criteria": {
+      "has_item": "2024-12-28 22:14:18 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.metals/brass_mesh_fence": {
     "criteria": {
       "has_item": "2024-12-28 21:37:58 +0000"
@@ -10963,6 +11083,12 @@
   "create:recipes/create.base/crafting/logistics/andesite_funnel": {
     "criteria": {
       "has_item": "2024-12-28 21:45:48 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/portable_storage_interface": {
+    "criteria": {
+      "has_item": "2024-12-28 22:14:18 +0000"
     },
     "done": true
   },
@@ -11458,6 +11584,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/encased_chain_drive": {
+    "criteria": {
+      "has_item": "2024-12-28 22:14:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/acacia_window": {
     "criteria": {
       "has_ingredient": "2024-12-20 18:54:36 +0000"
@@ -11641,6 +11773,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/basin": {
     "criteria": {
       "has_item": "2024-12-18 02:15:26 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_harvester": {
+    "criteria": {
+      "has_item": "2024-12-28 22:14:18 +0000"
     },
     "done": true
   },
