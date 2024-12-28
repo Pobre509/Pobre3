@@ -12215,3 +12215,121 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [28Dec2024 18:58:26.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
 [28Dec2024 18:58:58.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
 [28Dec2024 19:01:08.218] [Server thread/DEBUG] [mixin/]: Mixing mod_compat.create.MixinSharedDepotBlockMethods from valkyrienskies-common.mixins.json into com.simibubi.create.content.logistics.depot.SharedDepotBlockMethods
+[28Dec2024 19:02:28.220] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 19:02:28.231] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 19:05:58.684] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[28Dec2024 19:07:28.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 19:07:28.240] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 19:10:39.285] [Server thread/DEBUG] [mixin/]: Mixing feature.ai.node_evaluator.SwimNodeEvaluatorMixin from valkyrienskies-common.mixins.json into net.minecraft.world.level.pathfinder.SwimNodeEvaluator
+[28Dec2024 19:10:39.287] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$getFluidStateRedirectGetNode$3(Lcom/llamalad7/mixinextras/injector/wrapoperation/Operation;Lnet/minecraft/world/level/PathNavigationRegion;[Lnet/minecraft/world/level/material/FluidState;DDD)V to md9a02f3$lambda$getFluidStateRedirectGetNode$3$0 in valkyrienskies-common.mixins.json:feature.ai.node_evaluator.SwimNodeEvaluatorMixin
+[28Dec2024 19:10:39.288] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$isPathFindableRedirectPathType$2(Lcom/llamalad7/mixinextras/injector/wrapoperation/Operation;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/Level;Lnet/minecraft/world/level/pathfinder/PathComputationType;[ZDDD)V to md9a02f3$lambda$isPathFindableRedirectPathType$2$1 in valkyrienskies-common.mixins.json:feature.ai.node_evaluator.SwimNodeEvaluatorMixin
+[28Dec2024 19:10:39.288] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$getBlockStateRedirectPathType$1(Lcom/llamalad7/mixinextras/injector/wrapoperation/Operation;Lnet/minecraft/world/level/Level;[Lnet/minecraft/world/level/block/state/BlockState;DDD)V to md9a02f3$lambda$getBlockStateRedirectPathType$1$2 in valkyrienskies-common.mixins.json:feature.ai.node_evaluator.SwimNodeEvaluatorMixin
+[28Dec2024 19:10:39.288] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$getFluidStateRedirectPathType$0(Lcom/llamalad7/mixinextras/injector/wrapoperation/Operation;Lnet/minecraft/world/level/Level;[Lnet/minecraft/world/level/material/FluidState;DDD)V to md9a02f3$lambda$getFluidStateRedirectPathType$0$3 in valkyrienskies-common.mixins.json:feature.ai.node_evaluator.SwimNodeEvaluatorMixin
+[28Dec2024 19:10:50.699] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4597, y=109, z=-5422}
+[28Dec2024 19:10:50.700] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4597, y=105, z=-5422}
+[28Dec2024 19:10:50.700] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4599, y=112, z=-5416}
+[28Dec2024 19:10:50.700] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4599, y=112, z=-5414}
+[28Dec2024 19:10:50.701] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4599, y=112, z=-5424}
+[28Dec2024 19:10:50.701] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4597, y=109, z=-5415}
+[28Dec2024 19:10:50.701] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4597, y=105, z=-5415}
+[28Dec2024 19:10:50.758] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4575, y=109, z=-5408}
+[28Dec2024 19:10:50.758] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4575, y=105, z=-5408}
+[28Dec2024 19:10:50.758] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4573, y=111, z=-5403}
+[28Dec2024 19:10:50.758] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4571, y=111, z=-5405}
+[28Dec2024 19:10:50.759] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4573, y=112, z=-5406}
+[28Dec2024 19:10:50.759] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4572, y=106, z=-5403}
+[28Dec2024 19:10:50.759] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4574, y=112, z=-5405}
+[28Dec2024 19:10:50.760] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4571, y=106, z=-5404}
+[28Dec2024 19:10:51.849] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4582, y=105, z=-5408}
+[28Dec2024 19:10:51.849] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4592, y=114, z=-5420}
+[28Dec2024 19:10:51.849] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4590, y=118, z=-5418}
+[28Dec2024 19:10:51.849] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4590, y=118, z=-5412}
+[28Dec2024 19:10:51.849] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4582, y=118, z=-5418}
+[28Dec2024 19:10:51.850] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4592, y=114, z=-5410}
+[28Dec2024 19:10:51.850] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4584, y=112, z=-5419}
+[28Dec2024 19:10:51.850] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4598, y=112, z=-5405}
+[28Dec2024 19:10:51.850] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4585, y=116, z=-5413}
+[28Dec2024 19:10:51.850] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4580, y=114, z=-5420}
+[28Dec2024 19:10:51.850] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4597, y=105, z=-5408}
+[28Dec2024 19:10:51.850] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4582, y=105, z=-5422}
+[28Dec2024 19:10:51.850] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4593, y=109, z=-5406}
+[28Dec2024 19:10:51.850] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4590, y=109, z=-5408}
+[28Dec2024 19:10:51.850] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4575, y=109, z=-5422}
+[28Dec2024 19:10:51.850] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4590, y=105, z=-5408}
+[28Dec2024 19:10:51.850] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4600, y=106, z=-5428}
+[28Dec2024 19:10:51.851] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4575, y=105, z=-5422}
+[28Dec2024 19:10:51.851] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4582, y=109, z=-5408}
+[28Dec2024 19:10:51.851] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4573, y=103, z=-5423}
+[28Dec2024 19:10:51.851] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4590, y=109, z=-5422}
+[28Dec2024 19:10:51.851] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4590, y=105, z=-5422}
+[28Dec2024 19:10:51.851] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4601, y=111, z=-5405}
+[28Dec2024 19:10:51.851] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4597, y=109, z=-5408}
+[28Dec2024 19:10:51.851] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4582, y=109, z=-5422}
+[28Dec2024 19:10:51.851] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4599, y=111, z=-5403}
+[28Dec2024 19:10:51.851] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4583, y=118, z=-5411}
+[28Dec2024 19:10:51.852] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4600, y=106, z=-5403}
+[28Dec2024 19:10:51.852] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4573, y=112, z=-5424}
+[28Dec2024 19:10:51.852] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4581, y=114, z=-5409}
+[28Dec2024 19:10:51.852] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4571, y=106, z=-5427}
+[28Dec2024 19:10:51.852] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4573, y=112, z=-5416}
+[28Dec2024 19:10:51.852] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4573, y=112, z=-5414}
+[28Dec2024 19:10:51.852] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4575, y=105, z=-5415}
+[28Dec2024 19:10:51.852] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4589, y=118, z=-5419}
+[28Dec2024 19:10:51.852] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4591, y=114, z=-5421}
+[28Dec2024 19:10:51.852] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4587, y=112, z=-5426}
+[28Dec2024 19:10:51.852] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4585, y=112, z=-5426}
+[28Dec2024 19:10:51.852] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4583, y=118, z=-5419}
+[28Dec2024 19:10:51.852] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4589, y=118, z=-5411}
+[28Dec2024 19:10:51.853] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4599, y=112, z=-5406}
+[28Dec2024 19:10:51.853] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4581, y=114, z=-5421}
+[28Dec2024 19:10:51.853] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4591, y=114, z=-5409}
+[28Dec2024 19:10:51.853] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4575, y=112, z=-5426}
+[28Dec2024 19:10:51.853] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4573, y=111, z=-5428}
+[28Dec2024 19:10:51.853] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4590, y=105, z=-5415}
+[28Dec2024 19:10:51.853] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4571, y=111, z=-5426}
+[28Dec2024 19:10:51.853] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4582, y=109, z=-5415}
+[28Dec2024 19:10:51.853] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4597, y=112, z=-5426}
+[28Dec2024 19:10:51.854] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4601, y=106, z=-5427}
+[28Dec2024 19:10:51.854] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4582, y=105, z=-5415}
+[28Dec2024 19:10:51.854] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4575, y=109, z=-5415}
+[28Dec2024 19:10:51.854] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4590, y=103, z=-5426}
+[28Dec2024 19:10:51.854] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4585, y=119, z=-5414}
+[28Dec2024 19:10:51.854] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4590, y=109, z=-5415}
+[28Dec2024 19:10:51.854] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4585, y=113, z=-5415}
+[28Dec2024 19:10:51.854] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4582, y=118, z=-5412}
+[28Dec2024 19:10:51.854] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4598, y=108, z=-5405}
+[28Dec2024 19:10:51.854] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4601, y=106, z=-5404}
+[28Dec2024 19:10:51.854] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4595, y=108, z=-5405}
+[28Dec2024 19:10:51.855] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4601, y=111, z=-5426}
+[28Dec2024 19:10:51.855] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4599, y=111, z=-5428}
+[28Dec2024 19:10:51.855] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4572, y=106, z=-5428}
+[28Dec2024 19:10:51.855] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4580, y=114, z=-5410}
+[28Dec2024 19:10:51.855] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4591, y=108, z=-5405}
+[28Dec2024 19:10:51.855] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4586, y=112, z=-5405}
+[28Dec2024 19:10:51.855] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4593, y=104, z=-5405}
+[28Dec2024 19:10:51.855] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4586, y=119, z=-5416}
+[28Dec2024 19:10:51.855] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4585, y=119, z=-5416}
+[28Dec2024 19:10:51.855] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4586, y=119, z=-5415}
+[28Dec2024 19:10:51.856] [Server thread/DEBUG] [MrCrayfish's Furniture Mod: Refurbished/]: Stopping ticking node at BlockPos{x=-4585, y=119, z=-5415}
+[28Dec2024 19:11:44.427] [Worker-Main-33/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterdungeons.mixins.json into net.minecraft.server.level.WorldGenRegion
+[28Dec2024 19:11:44.433] [Worker-Main-33/DEBUG] [mixin/]: Mixing WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[28Dec2024 19:11:44.436] [Worker-Main-33/DEBUG] [mixin/]: Mixing SpawnerBlockListener from brutalbosses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[28Dec2024 19:11:44.437] [Worker-Main-33/DEBUG] [mixin/]: brutalbosses.mixins.json:SpawnerBlockListener: Class version 61 required is higher than the class version supported by the current version of Mixin (JAVA_8 supports class version 52)
+[28Dec2024 19:11:44.778] [Worker-Main-32/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[28Dec2024 19:11:44.787] [Worker-Main-32/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[28Dec2024 19:11:48.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Spectator Mode]
+[28Dec2024 19:11:55.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[28Dec2024 19:12:28.221] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 19:12:28.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 19:17:28.217] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 19:17:28.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 19:19:02.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has reached the goal [Workout Session]
+[28Dec2024 19:22:28.216] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 19:22:28.226] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 19:24:06.293] [Server thread/DEBUG] [mixin/]: Mixing item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[28Dec2024 19:25:13.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[28Dec2024 19:25:20.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[28Dec2024 19:27:28.213] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 19:27:28.224] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 19:28:05.369] [Server thread/DEBUG] [mixin/]: Mixing mod_compat.create.MixinBeltMovementHandler from valkyrienskies-common.mixins.json into com.simibubi.create.content.kinetics.belt.transport.BeltMovementHandler
+[28Dec2024 19:31:24.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
