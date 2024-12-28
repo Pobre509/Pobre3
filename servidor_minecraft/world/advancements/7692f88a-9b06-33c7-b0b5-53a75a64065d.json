@@ -2688,6 +2688,12 @@
     },
     "done": true
   },
+  "create:stressometer": {
+    "criteria": {
+      "0": "2024-12-28 22:35:17 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_tomahawk": {
     "criteria": {
       "has_iron_ingot": "2024-12-18 00:11:57 +0000"
@@ -4287,6 +4293,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/medium_arrow_quiver_smithing": {
     "criteria": {
       "has_medium_quiver_upgrade_kit": "2024-12-28 01:44:34 +0000"
+    },
+    "done": true
+  },
+  "create:stressometer_maxed": {
+    "criteria": {
+      "0": "2024-12-28 22:35:17 +0000"
     },
     "done": true
   },
@@ -7426,6 +7438,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/ingot_gauge": {
     "criteria": {
       "has_item": "2024-12-18 02:15:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/speedometerfrom_conversion": {
+    "criteria": {
+      "has_item": "2024-12-28 22:35:15 +0000"
     },
     "done": true
   },
