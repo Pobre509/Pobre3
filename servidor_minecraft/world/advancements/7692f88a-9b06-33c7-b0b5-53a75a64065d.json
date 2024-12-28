@@ -671,6 +671,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/sequenced_gearshift": {
+    "criteria": {
+      "has_item": "2024-12-28 19:40:08 +0000"
+    },
+    "done": true
+  },
   "tconstruct:foundry/plate_armor": {
     "criteria": {
       "crafted_leggings": "2024-12-27 00:12:41 +0000",
@@ -3336,6 +3342,12 @@
     },
     "done": true
   },
+  "create:brass_casing": {
+    "criteria": {
+      "0": "2024-12-28 19:40:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-19 22:03:01 +0000"
@@ -3636,6 +3648,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/kinetics/brass_door": {
+    "criteria": {
+      "has_item": "2024-12-28 19:40:08 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.metals/zinc_door": {
     "criteria": {
       "has_item": "2024-12-28 19:32:23 +0000"
@@ -3687,6 +3705,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/purple_kitchen_drawer": {
     "criteria": {
       "has_wooden_kitchen_drawers": "2024-12-27 01:16:49 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/content_observer": {
+    "criteria": {
+      "has_item": "2024-12-28 19:40:08 +0000"
     },
     "done": true
   },
@@ -4488,6 +4512,12 @@
     },
     "done": true
   },
+  "create:mechanical_crafter": {
+    "criteria": {
+      "0": "2024-12-28 19:40:57 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/crimson_basin": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 23:26:30 +0000"
@@ -4989,6 +5019,12 @@
   "farmersdelight:recipes/farmersdelight/wheat_dough_from_eggs": {
     "criteria": {
       "has_wheat": "2024-12-28 02:30:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/nixie_tube": {
+    "criteria": {
+      "has_item": "2024-12-28 19:40:08 +0000"
     },
     "done": true
   },
@@ -6558,6 +6594,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-28 19:40:04 +0000"
+    },
+    "done": true
+  },
   "avaritia:recipes/misc/endest_pearl": {
     "criteria": {
       "has_item": "2024-12-20 22:11:49 +0000"
@@ -7668,6 +7710,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/logistics/redstone_link": {
+    "criteria": {
+      "has_item": "2024-12-28 19:40:08 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_pike": {
     "criteria": {
       "has_diamond": "2024-12-17 23:32:05 +0000"
@@ -7713,6 +7761,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block": {
     "criteria": {
       "has_quartz_block": "2024-12-17 23:30:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/redstone_contact": {
+    "criteria": {
+      "has_item": "2024-12-28 19:40:08 +0000"
     },
     "done": true
   },
@@ -9739,6 +9793,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_crafter": {
+    "criteria": {
+      "has_item": "2024-12-28 19:40:08 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/organic_compost_from_rotten_flesh": {
     "criteria": {
       "has_rotten_flesh": "2024-12-20 01:11:38 +0000"
@@ -10033,6 +10093,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/logistics/display_link": {
+    "criteria": {
+      "has_item": "2024-12-28 19:40:08 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/gadgets/gadgets/shuriken/quartz_shuriken": {
     "criteria": {
       "has_item": "2024-12-18 02:16:00 +0000"
@@ -10282,6 +10348,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/seared_triangle_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2024-12-18 02:15:53 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/clockwork_bearing": {
+    "criteria": {
+      "has_item": "2024-12-28 19:40:08 +0000"
     },
     "done": true
   },
@@ -11364,6 +11436,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_arm": {
+    "criteria": {
+      "has_item": "2024-12-28 19:40:08 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_greatsword": {
     "criteria": {
       "has_wood": "2024-12-17 23:09:48 +0000"
@@ -11613,6 +11691,12 @@
   "minecraft:recipes/misc/firework_rocket_simple": {
     "criteria": {
       "has_gunpowder": "2024-12-17 23:18:55 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/rotation_speed_controller": {
+    "criteria": {
+      "has_item": "2024-12-28 19:40:08 +0000"
     },
     "done": true
   },
@@ -12179,6 +12263,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/logistics/stockpile_switch": {
+    "criteria": {
+      "has_item": "2024-12-28 19:40:08 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-20 19:48:49 +0000"
@@ -12314,6 +12404,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/pasta_with_mutton_chop": {
     "criteria": {
       "has_any_ingredient": "2024-12-28 01:34:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/crafter_slot_cover": {
+    "criteria": {
+      "has_item": "2024-12-28 19:40:37 +0000"
     },
     "done": true
   },
