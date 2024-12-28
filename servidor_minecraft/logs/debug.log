@@ -13752,3 +13752,12 @@ Caused by: java.lang.IllegalArgumentException: Player literal{percentyack} is mi
 [28Dec2024 23:02:40.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
 [28Dec2024 23:02:52.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
 [28Dec2024 23:02:56.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[28Dec2024 23:05:03.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has reached the goal [Full Steam]
+[28Dec2024 23:07:31.132] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 23:07:31.143] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 23:09:23.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was processed by Crushing Wheels
+[28Dec2024 23:09:24.727] [Server thread/DEBUG] [moze_intel.projecte.PECore/]: Clearing offline data cache in preparation to load online data
+[28Dec2024 23:09:48.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[28Dec2024 23:10:00.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[28Dec2024 23:12:31.131] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 23:12:31.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

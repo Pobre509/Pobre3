@@ -576,3 +576,7 @@ Caused by: java.lang.IllegalArgumentException: Player literal{percentyack} is mi
 [28Dec2024 23:02:40.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
 [28Dec2024 23:02:52.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
 [28Dec2024 23:02:56.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[28Dec2024 23:05:03.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has reached the goal [Full Steam]
+[28Dec2024 23:09:23.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack was processed by Crushing Wheels
+[28Dec2024 23:09:48.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[28Dec2024 23:10:00.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]

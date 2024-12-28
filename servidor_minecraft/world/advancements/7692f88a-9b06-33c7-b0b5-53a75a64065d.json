@@ -1154,6 +1154,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/stressometerfrom_conversion": {
+    "criteria": {
+      "has_item": "2024-12-28 23:02:37 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/golden_scythe": {
     "criteria": {
       "has_gold_ingot": "2024-12-18 03:11:25 +0000"
@@ -2384,6 +2390,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2024-12-18 03:06:33 +0000"
+    },
+    "done": true
+  },
+  "create:steam_engine_maxed": {
+    "criteria": {
+      "0": "2024-12-28 23:05:03 +0000"
     },
     "done": true
   },
