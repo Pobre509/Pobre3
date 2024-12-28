@@ -9837,6 +9837,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/vertical_gearboxfrom_conversion": {
+    "criteria": {
+      "has_item": "2024-12-28 21:31:14 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_greatsword": {
     "criteria": {
       "has_wood": "2024-12-17 23:01:56 +0000"
@@ -10339,6 +10345,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2024-12-18 23:33:26 +0000"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2024-12-28 21:32:08 +0000"
     },
     "done": true
   },

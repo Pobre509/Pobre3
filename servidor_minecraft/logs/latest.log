@@ -387,3 +387,7 @@ Caused by: java.lang.IllegalArgumentException: Player literal{R3hsk} is missing 
 [28Dec2024 21:03:06.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <percentyack> ñajia
 [28Dec2024 21:12:18.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [What a Deal!]
 [28Dec2024 21:13:00.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [A Pair of Giants]
+[28Dec2024 21:25:34.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[28Dec2024 21:26:12.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[28Dec2024 21:26:16.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[28Dec2024 21:26:27.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
