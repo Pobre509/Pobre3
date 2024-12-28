@@ -254,3 +254,20 @@ Caused by: java.lang.IllegalArgumentException: Player literal{percentyack} is mi
 [28Dec2024 02:18:59.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
 [28Dec2024 02:31:53.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
 [28Dec2024 02:32:02.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[28Dec2024 02:32:54.550] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: percentyack lost connection: Disconnected
+[28Dec2024 02:32:54.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack left the game
+[28Dec2024 02:32:54.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Kicked percentyack: Kicked by an operator]
+[28Dec2024 02:32:54.586] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Dec2024 02:33:14.888] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@60e986f1
+[28Dec2024 02:33:14.900] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: percentyack[/127.113.173.157:43227] logged in with entity id 100424 at (-4598.699999988079, 104.08809801229431, -5414.280604705526)
+[28Dec2024 02:33:14.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack joined the game
+[28Dec2024 02:33:23.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Kicked percentyack: Kicked by an operator]
+[28Dec2024 02:33:23.269] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: percentyack lost connection: Kicked by an operator
+[28Dec2024 02:33:23.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack left the game
+[28Dec2024 02:33:47.938] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@39e6ed0
+[28Dec2024 02:33:47.951] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: percentyack[/127.113.173.157:39999] logged in with entity id 100571 at (-4598.699999988079, 104.08809801229431, -5414.280604705526)
+[28Dec2024 02:33:47.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack joined the game
+[28Dec2024 02:37:48.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk experienced kinetic energy
+[28Dec2024 02:40:11.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <percentyack> .
+[28Dec2024 02:40:46.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <percentyack> <Herobrine> pañales de coco 🔥
+[28Dec2024 02:42:23.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Applied effect Night Vision to R3hsk]
