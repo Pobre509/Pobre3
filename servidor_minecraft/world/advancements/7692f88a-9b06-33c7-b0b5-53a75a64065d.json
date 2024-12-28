@@ -3078,6 +3078,12 @@
     },
     "done": true
   },
+  "create:crushing_wheel": {
+    "criteria": {
+      "0": "2024-12-28 20:15:28 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_diorite_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-20 19:48:49 +0000"
@@ -3401,6 +3407,12 @@
       "0": "2024-12-28 19:19:02 +0000"
     },
     "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2024-12-28 20:02:59 +0000"
+    },
+    "done": false
   },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_greatsword": {
     "criteria": {
@@ -4419,6 +4431,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_pike": {
     "criteria": {
       "has_wood": "2024-12-17 23:09:48 +0000"
+    },
+    "done": true
+  },
+  "create:crafter_lazy_000": {
+    "criteria": {
+      "0": "2024-12-28 20:13:33 +0000"
     },
     "done": true
   },

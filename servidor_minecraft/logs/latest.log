@@ -361,3 +361,5 @@ Caused by: java.lang.IllegalArgumentException: Player literal{R3hsk} is missing 
 [28Dec2024 19:47:31.292] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: R3hsk[/127.45.71.119:51433] logged in with entity id 11397 at (-4517.605995332384, 64.0, -5291.375113239929)
 [28Dec2024 19:47:31.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk joined the game
 [28Dec2024 19:47:34.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2903ms or 58 ticks behind
+[28Dec2024 20:13:33.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has reached the goal [Desperate Measures]
+[28Dec2024 20:15:28.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [A Pair of Giants]
