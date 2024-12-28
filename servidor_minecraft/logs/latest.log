@@ -107,3 +107,19 @@ Caused by: java.lang.IllegalArgumentException: Player literal{R3hsk} is missing 
 [28Dec2024 01:35:26.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk joined the game
 [28Dec2024 01:35:28.877] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2616ms or 52 ticks behind
 [28Dec2024 01:40:53.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Summoned new Warden]
+[28Dec2024 01:46:05.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Backpack Full of Ammo!]
+[28Dec2024 01:47:18.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [An Even Bigger Quiver?]
+[28Dec2024 01:47:59.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Gave 1 [Netherite Ingot] to R3hsk]
+[28Dec2024 01:48:07.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has reached the goal [Maximum Capacity]
+[28Dec2024 01:51:06.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Gave 1 [Netherite Ingot] to R3hsk]
+[28Dec2024 01:51:11.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has reached the goal [Upgrade Me with Debris]
+[28Dec2024 01:53:09.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[28Dec2024 01:53:50.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[28Dec2024 01:57:24.919] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: R3hsk lost connection: Disconnected
+[28Dec2024 01:57:24.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk left the game
+[28Dec2024 01:58:03.832] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@64dcb049
+[28Dec2024 01:58:03.849] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: R3hsk[/127.45.71.119:45457] logged in with entity id 90424 at (-4543.99064949808, 63.0, -5324.883423969889)
+[28Dec2024 01:58:03.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk joined the game
+[28Dec2024 01:58:41.641] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4a2efa4a
+[28Dec2024 01:58:41.656] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: percentyack[/127.113.173.157:33081] logged in with entity id 90718 at (-4576.43319352323, 99.1867946169482, -5375.639321559226)
+[28Dec2024 01:58:41.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack joined the game
