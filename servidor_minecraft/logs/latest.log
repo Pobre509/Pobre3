@@ -371,3 +371,11 @@ Caused by: java.lang.IllegalArgumentException: Player literal{R3hsk} is missing 
 [28Dec2024 20:40:37.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
 [28Dec2024 20:43:16.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
 [28Dec2024 20:49:44.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[28Dec2024 21:00:56.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[28Dec2024 21:02:02.243] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2731a73c
+[28Dec2024 21:02:02.260] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: percentyack[/127.113.173.157:34049] logged in with entity id 25276 at (-4722.273783167438, 103.0, -5404.937652466834)
+[28Dec2024 21:02:02.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack joined the game
+[28Dec2024 21:02:08.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[28Dec2024 21:02:16.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <R3hsk> a
+[28Dec2024 21:02:18.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <R3hsk> XD
+[28Dec2024 21:02:39.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <R3hsk> metete xD
