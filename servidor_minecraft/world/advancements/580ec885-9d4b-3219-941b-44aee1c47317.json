@@ -989,15 +989,15 @@
     },
     "done": true
   },
-  "create:recipes/create.base/crafting/kinetics/cuckoo_clock": {
-    "criteria": {
-      "has_item": "2024-12-28 21:45:48 +0000"
-    },
-    "done": true
-  },
   "createdeco:recipes/createdeco.props/green_brass_lamp": {
     "criteria": {
       "has_item": "2024-12-28 21:37:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/cuckoo_clock": {
+    "criteria": {
+      "has_item": "2024-12-28 21:45:48 +0000"
     },
     "done": true
   },
@@ -7065,6 +7065,12 @@
   "create:recipes/create.palettes/cut_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-28 21:56:41 +0000"
+    },
+    "done": true
+  },
+  "create:windmill_maxed": {
+    "criteria": {
+      "0": "2024-12-28 22:49:55 +0000"
     },
     "done": true
   },
