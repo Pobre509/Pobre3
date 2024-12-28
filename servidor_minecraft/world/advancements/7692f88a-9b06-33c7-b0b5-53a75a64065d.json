@@ -575,6 +575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-28 03:04:31 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/blue_trampoline": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 23:26:30 +0000"
@@ -1385,6 +1391,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_glaive": {
     "criteria": {
       "has_gold_ingot": "2024-12-18 03:11:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-28 03:04:31 +0000"
     },
     "done": true
   },
@@ -6531,6 +6543,12 @@
   "tconstruct:recipes/tconstruct/general/common/glass/yellow_clear_stained_glass": {
     "criteria": {
       "has_clear_glass": "2024-12-26 23:08:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-28 03:04:31 +0000"
     },
     "done": true
   },

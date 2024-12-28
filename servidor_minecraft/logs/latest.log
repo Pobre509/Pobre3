@@ -271,3 +271,19 @@ Caused by: java.lang.IllegalArgumentException: Player literal{percentyack} is mi
 [28Dec2024 02:40:11.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <percentyack> .
 [28Dec2024 02:40:46.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <percentyack> <Herobrine> pañales de coco 🔥
 [28Dec2024 02:42:23.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Applied effect Night Vision to R3hsk]
+[28Dec2024 02:59:23.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[28Dec2024 02:59:48.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[28Dec2024 03:03:21.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
+[28Dec2024 03:04:25.189] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4561, y=50, z=-5236} BlockPos{x=-4561, y=49, z=-5236}
+[28Dec2024 03:05:17.506] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4468, y=55, z=-5185} BlockPos{x=-4468, y=54, z=-5185}
+[28Dec2024 03:05:17.560] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4468, y=55, z=-5185} BlockPos{x=-4468, y=54, z=-5185}
+[28Dec2024 03:05:17.636] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4468, y=55, z=-5185} BlockPos{x=-4468, y=54, z=-5185}
+[28Dec2024 03:07:16.424] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/111235, l='ServerLevel[world]', x=-5595.63, y=151.31, z=-5561.34] died, message: 'Leatherworker was slain by Dread Ghoul'
+[28Dec2024 03:08:25.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Teleported percentyack to R3hsk]
+[28Dec2024 03:09:02.270] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: R3hsk lost connection: Disconnected
+[28Dec2024 03:09:02.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk left the game
+[28Dec2024 03:10:14.434] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@12f52261
+[28Dec2024 03:10:14.447] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: R3hsk[/127.45.71.119:37081] logged in with entity id 116852 at (-4590.858272451269, 103.0, -5407.656589117667)
+[28Dec2024 03:10:14.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk joined the game
+[28Dec2024 03:12:17.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[28Dec2024 03:12:40.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]

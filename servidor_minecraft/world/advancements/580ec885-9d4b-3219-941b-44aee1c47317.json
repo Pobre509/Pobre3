@@ -2316,6 +2316,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-12-28 02:54:22 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_club": {
     "criteria": {
       "has_wood_log": "2024-12-17 23:01:42 +0000"
@@ -3858,6 +3864,12 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-20 01:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-12-28 02:54:22 +0000"
     },
     "done": true
   },
@@ -5733,6 +5745,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/travelersbackpack/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2024-12-28 02:54:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-18 03:36:44 +0000"
@@ -6092,6 +6110,12 @@
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2024-12-18 02:29:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-12-28 02:54:22 +0000"
     },
     "done": true
   },
@@ -7884,6 +7908,12 @@
     },
     "done": true
   },
+  "dungeons_arise:find_greenwood_pub": {
+    "criteria": {
+      "location0": "2024-12-28 03:06:37 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_warhammer": {
     "criteria": {
       "has_iron_ingot": "2024-12-17 23:18:46 +0000"
@@ -9338,19 +9368,27 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-12-28 03:04:40 +0000",
+      "minecraft:taiga": "2024-12-28 03:03:33 +0000",
       "minecraft:deep_ocean": "2024-12-18 02:17:53 +0000",
       "minecraft:sunflower_plains": "2024-12-18 03:05:42 +0000",
       "minecraft:beach": "2024-12-18 00:25:43 +0000",
+      "minecraft:dark_forest": "2024-12-28 03:05:36 +0000",
       "minecraft:lukewarm_ocean": "2024-12-17 22:57:52 +0000",
       "minecraft:river": "2024-12-18 00:29:59 +0000",
       "minecraft:stony_shore": "2024-12-17 22:54:52 +0000",
+      "minecraft:dripstone_caves": "2024-12-28 03:08:20 +0000",
+      "minecraft:grove": "2024-12-28 03:06:30 +0000",
       "minecraft:cold_ocean": "2024-12-18 02:41:01 +0000",
       "minecraft:forest": "2024-12-17 23:06:03 +0000",
       "minecraft:desert": "2024-12-20 19:53:13 +0000",
       "minecraft:ocean": "2024-12-17 23:21:39 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-28 03:03:21 +0000",
       "minecraft:warm_ocean": "2024-12-20 19:53:16 +0000",
       "minecraft:flower_forest": "2024-12-18 03:20:00 +0000",
+      "minecraft:frozen_peaks": "2024-12-28 03:07:07 +0000",
       "minecraft:deep_dark": "2024-12-18 02:09:28 +0000",
+      "minecraft:meadow": "2024-12-28 03:01:53 +0000",
       "minecraft:savanna": "2024-12-18 00:31:43 +0000",
       "minecraft:plains": "2024-12-18 03:03:48 +0000"
     },
