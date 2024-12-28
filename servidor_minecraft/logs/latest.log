@@ -29,3 +29,81 @@
 [28Dec2024 01:07:33.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
 [28Dec2024 01:09:52.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
 [28Dec2024 01:10:14.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[28Dec2024 01:34:48.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk fell from a high place
+[28Dec2024 01:34:51.317] [Server thread/ERROR] [net.minecraftforge.eventbus.EventBus/EVENTBUS]: Exception caught during firing event: Player literal{R3hsk} is missing a damage model!
+	Index: 1
+	Listeners:
+		0: LOW
+		1: ASM: class ichttt.mods.firstaid.common.EventHandler onHeal(Lnet/minecraftforge/event/entity/living/LivingHealEvent;)V
+java.lang.IllegalArgumentException: Player literal{R3hsk} is missing a damage model!
+	at TRANSFORMER/firstaid@1.12.0/ichttt.mods.firstaid.common.util.CommonUtils.lambda$getDamageModel$1(CommonUtils.java:145)
+	at TRANSFORMER/forge@43.4.2/net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:281)
+	at TRANSFORMER/firstaid@1.12.0/ichttt.mods.firstaid.common.util.CommonUtils.getDamageModel(CommonUtils.java:145)
+	at TRANSFORMER/firstaid@1.12.0/ichttt.mods.firstaid.common.damagesystem.distribution.HealthDistribution.distributeHealth(HealthDistribution.java:94)
+	at TRANSFORMER/firstaid@1.12.0/ichttt.mods.firstaid.common.EventHandler.onHeal(EventHandler.java:248)
+	at TRANSFORMER/firstaid@1.12.0/ichttt.mods.firstaid.common.__EventHandler_onHeal_LivingHealEvent.invoke(.dynamic)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:315)
+	at MC-BOOTSTRAP/net.minecraftforge.eventbus/net.minecraftforge.eventbus.EventBus.post(EventBus.java:296)
+	at TRANSFORMER/forge@43.4.2/net.minecraftforge.event.ForgeEventFactory.onLivingHeal(ForgeEventFactory.java:471)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.LivingEntity.m_5634_(LivingEntity.java:1003)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.effect.MobEffect.m_6742_(MobEffect.java:57)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.effect.MobEffectInstance.m_19550_(MobEffectInstance.java:187)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.effect.MobEffectInstance.m_19552_(MobEffectInstance.java:160)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:745)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:418)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.Entity.m_8119_(Entity.java:417)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2252)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.world.entity.player.Player.m_8119_(Player.java:243)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:447)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:264)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.network.Connection.m_129483_(Connection.java:248)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:880)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:292)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:806)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:654)
+	at TRANSFORMER/minecraft@1.19.2/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244)
+	at java.base/java.lang.Thread.run(Thread.java:1583)
+
+[28Dec2024 01:34:51.362] [Server thread/WARN] [net.minecraft.server.network.ServerConnectionListener/]: Failed to handle packet for /127.45.71.119:35073
+net.minecraft.ReportedException: Ticking player
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:510) ~[server-1.19.2-20220805.130853-srg.jar%23191!/:?]
+	at net.minecraft.server.network.ServerGamePacketListenerImpl.m_9933_(ServerGamePacketListenerImpl.java:264) ~[server-1.19.2-20220805.130853-srg.jar%23191!/:?]
+	at net.minecraft.network.Connection.m_129483_(Connection.java:248) ~[server-1.19.2-20220805.130853-srg.jar%23191!/:?]
+	at net.minecraft.server.network.ServerConnectionListener.m_9721_(ServerConnectionListener.java:143) ~[server-1.19.2-20220805.130853-srg.jar%23191!/:?]
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:880) ~[server-1.19.2-20220805.130853-srg.jar%23191!/:?]
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:292) ~[server-1.19.2-20220805.130853-srg.jar%23191!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:806) ~[server-1.19.2-20220805.130853-srg.jar%23191!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:654) ~[server-1.19.2-20220805.130853-srg.jar%23191!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23191!/:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+Caused by: java.lang.IllegalArgumentException: Player literal{R3hsk} is missing a damage model!
+	at ichttt.mods.firstaid.common.util.CommonUtils.lambda$getDamageModel$1(CommonUtils.java:145) ~[firstaid-1.12.0.jar%23163!/:1.12.0]
+	at net.minecraftforge.common.util.LazyOptional.orElseThrow(LazyOptional.java:281) ~[forge-1.19.2-43.4.2-universal.jar%23196!/:?]
+	at ichttt.mods.firstaid.common.util.CommonUtils.getDamageModel(CommonUtils.java:145) ~[firstaid-1.12.0.jar%23163!/:1.12.0]
+	at ichttt.mods.firstaid.common.damagesystem.distribution.HealthDistribution.distributeHealth(HealthDistribution.java:94) ~[firstaid-1.12.0.jar%23163!/:1.12.0]
+	at ichttt.mods.firstaid.common.EventHandler.onHeal(EventHandler.java:248) ~[firstaid-1.12.0.jar%23163!/:1.12.0]
+	at ichttt.mods.firstaid.common.__EventHandler_onHeal_LivingHealEvent.invoke(.dynamic) ~[firstaid-1.12.0.jar%23163!/:1.12.0]
+	at net.minecraftforge.eventbus.ASMEventHandler.invoke(ASMEventHandler.java:73) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:315) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:296) ~[eventbus-6.0.3.jar%2351!/:?]
+	at net.minecraftforge.event.ForgeEventFactory.onLivingHeal(ForgeEventFactory.java:471) ~[forge-1.19.2-43.4.2-universal.jar%23196!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_5634_(LivingEntity.java:1003) ~[server-1.19.2-20220805.130853-srg.jar%23191!/:?]
+	at net.minecraft.world.effect.MobEffect.m_6742_(MobEffect.java:57) ~[server-1.19.2-20220805.130853-srg.jar%23191!/:?]
+	at net.minecraft.world.effect.MobEffectInstance.m_19550_(MobEffectInstance.java:187) ~[server-1.19.2-20220805.130853-srg.jar%23191!/:?]
+	at net.minecraft.world.effect.MobEffectInstance.m_19552_(MobEffectInstance.java:160) ~[server-1.19.2-20220805.130853-srg.jar%23191!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_21217_(LivingEntity.java:745) ~[server-1.19.2-20220805.130853-srg.jar%23191!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_6075_(LivingEntity.java:418) ~[server-1.19.2-20220805.130853-srg.jar%23191!/:?]
+	at net.minecraft.world.entity.Entity.m_8119_(Entity.java:417) ~[server-1.19.2-20220805.130853-srg.jar%23191!/:?]
+	at net.minecraft.world.entity.LivingEntity.m_8119_(LivingEntity.java:2252) ~[server-1.19.2-20220805.130853-srg.jar%23191!/:?]
+	at net.minecraft.world.entity.player.Player.m_8119_(Player.java:243) ~[server-1.19.2-20220805.130853-srg.jar%23191!/:?]
+	at net.minecraft.server.level.ServerPlayer.m_9240_(ServerPlayer.java:447) ~[server-1.19.2-20220805.130853-srg.jar%23191!/:?]
+	... 9 more
+[28Dec2024 01:34:51.370] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: R3hsk lost connection: Internal server error
+[28Dec2024 01:34:51.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk left the game
+[28Dec2024 01:35:26.222] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3916ee67
+[28Dec2024 01:35:26.246] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: R3hsk[/127.45.71.119:44173] logged in with entity id 86740 at (-5546.699999988079, 90.0, -5677.9971274185955)
+[28Dec2024 01:35:26.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk joined the game
+[28Dec2024 01:35:28.877] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2616ms or 52 ticks behind
+[28Dec2024 01:40:53.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Summoned new Warden]
