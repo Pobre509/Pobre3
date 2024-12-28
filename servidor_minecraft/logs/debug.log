@@ -12685,3 +12685,34 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [28Dec2024 00:14:16.315] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [28Dec2024 00:19:16.307] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Dec2024 00:19:16.319] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 00:21:36.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[28Dec2024 00:21:39.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[28Dec2024 00:24:16.304] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 00:24:16.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 00:26:33.468] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Dec2024 00:26:33.468] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[28Dec2024 00:26:33.972] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [Blunt-force Trauma]
+[28Dec2024 00:26:59.569] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Dec2024 00:26:59.569] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[28Dec2024 00:27:01.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[28Dec2024 00:27:07.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[28Dec2024 00:28:21.302] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Dec2024 00:28:21.302] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[28Dec2024 00:28:21.303] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[28Dec2024 00:29:16.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 00:29:16.318] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 00:31:19.418] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Dec2024 00:31:19.418] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[28Dec2024 00:31:19.418] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[28Dec2024 00:31:19.420] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[28Dec2024 00:31:19.423] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 7.5 Armor value: 0.0 Damage ignoring armor (50.0% damage): 3.75 Damage not ignoring armor: 3.75 Reduced Damage: 3.75 Result Damage: 7.5
+[28Dec2024 00:31:21.268] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Dec2024 00:31:21.268] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[28Dec2024 00:31:21.268] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[28Dec2024 00:31:21.268] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[28Dec2024 00:31:21.268] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 7.5 Armor value: 0.0 Damage ignoring armor (50.0% damage): 3.75 Damage not ignoring armor: 3.75 Reduced Damage: 3.75 Result Damage: 7.5
+[28Dec2024 00:31:22.718] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[28Dec2024 00:31:22.718] [Server thread/DEBUG] [Spartan Weaponry/]: Original damage source class: class net.minecraft.world.damagesource.EntityDamageSource
+[28Dec2024 00:31:22.718] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[28Dec2024 00:31:22.718] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[28Dec2024 00:31:22.718] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 7.5 Armor value: 0.0 Damage ignoring armor (50.0% damage): 3.75 Damage not ignoring armor: 3.75 Reduced Damage: 3.75 Result Damage: 7.5
