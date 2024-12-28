@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/curiosities/peculiar_bell": {
+    "criteria": {
+      "has_item": "2024-12-28 19:33:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-12-17 23:36:42 +0000"
@@ -629,6 +635,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/deployer": {
+    "criteria": {
+      "has_item": "2024-12-28 19:36:31 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/general/common/materials/rose_gold_block_from_ingots": {
     "criteria": {
       "has_item": "2024-12-20 21:44:50 +0000"
@@ -701,6 +713,12 @@
   "gobber2:gobber2_ingot": {
     "criteria": {
       "gobber2_ingot": "2024-12-20 20:59:54 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/andesite_alloy_from_zinc": {
+    "criteria": {
+      "has_item": "2024-12-28 19:32:23 +0000"
     },
     "done": true
   },
@@ -839,6 +857,12 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-18 02:57:29 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/logistics/brass_funnel": {
+    "criteria": {
+      "has_item": "2024-12-28 19:33:08 +0000"
     },
     "done": true
   },
@@ -1019,6 +1043,12 @@
   "create:recipes/create.base/crafting/kinetics/cuckoo_clock": {
     "criteria": {
       "has_item": "2024-12-28 02:40:35 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.props/green_brass_lamp": {
+    "criteria": {
+      "has_item": "2024-12-28 19:35:30 +0000"
     },
     "done": true
   },
@@ -1298,6 +1328,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.metals/brass_bars_from_brass_ingot_stonecutting": {
+    "criteria": {
+      "has_brass_ingot": "2024-12-28 19:33:08 +0000"
+    },
+    "done": true
+  },
   "tconstruct:world/earth_island": {
     "criteria": {
       "found_island": "2024-12-17 23:37:51 +0000"
@@ -1475,6 +1511,12 @@
   "tconstruct:recipes/tconstruct/general/common/glass/black_clear_stained_glass": {
     "criteria": {
       "has_clear_glass": "2024-12-26 23:08:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/brass_ladder_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2024-12-28 19:33:08 +0000"
     },
     "done": true
   },
@@ -1822,6 +1864,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/brass_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2024-12-28 19:33:08 +0000"
+    },
+    "done": true
+  },
   "avaritia:recipes/misc/neutron_nugget": {
     "criteria": {
       "has_item": "2024-12-20 22:11:40 +0000"
@@ -1999,6 +2047,12 @@
   "iceandfire:iceandfire/dragonsteel": {
     "criteria": {
       "steel": "2024-12-20 21:40:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/rose_quartz_lamp": {
+    "criteria": {
+      "has_item": "2024-12-28 19:32:23 +0000"
     },
     "done": true
   },
@@ -3306,6 +3360,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/attribute_filter": {
+    "criteria": {
+      "has_item": "2024-12-28 19:33:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2024-12-17 23:44:46 +0000"
@@ -3387,6 +3447,12 @@
   "createdeco:recipes/createdeco.bricks/red_long_bricks_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2024-12-27 00:51:07 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_mixer": {
+    "criteria": {
+      "0": "2024-12-28 19:33:05 +0000"
     },
     "done": true
   },
@@ -3570,6 +3636,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.metals/zinc_door": {
+    "criteria": {
+      "has_item": "2024-12-28 19:32:23 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/emerald": {
     "criteria": {
       "has_emerald": "2024-12-17 23:23:19 +0000"
@@ -3615,6 +3687,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/purple_kitchen_drawer": {
     "criteria": {
       "has_wooden_kitchen_drawers": "2024-12-27 01:16:49 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/brass_door": {
+    "criteria": {
+      "has_item": "2024-12-28 19:33:08 +0000"
     },
     "done": true
   },
@@ -4067,6 +4145,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/adjustable_chain_gearshift": {
+    "criteria": {
+      "has_item": "2024-12-28 19:36:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-18 02:57:29 +0000"
@@ -4512,6 +4596,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/copycat_step_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2024-12-28 19:32:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2024-12-18 23:49:22 +0000"
@@ -4668,6 +4758,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.metals/brass_catwalk": {
+    "criteria": {
+      "has_item": "2024-12-28 19:35:30 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/granite_stepping_stones": {
     "criteria": {
       "has_granite": "2024-12-26 22:58:17 +0000"
@@ -4689,6 +4785,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/mangrove_kitchen_storage_cabinet": {
     "criteria": {
       "has_white_dye": "2024-12-27 01:16:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/flywheel": {
+    "criteria": {
+      "has_item": "2024-12-28 19:33:08 +0000"
     },
     "done": true
   },
@@ -6192,9 +6294,21 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.metals/zinc_bars": {
+    "criteria": {
+      "has_item": "2024-12-28 19:32:23 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/blue_lamp": {
     "criteria": {
       "has_planks": "2024-12-19 23:09:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/placard": {
+    "criteria": {
+      "has_item": "2024-12-28 19:33:08 +0000"
     },
     "done": true
   },
@@ -6612,6 +6726,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/brass_hand": {
+    "criteria": {
+      "has_item": "2024-12-28 19:33:08 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/netherite_quarterstaff_smithing": {
     "criteria": {
       "has_netherite_ingot": "2024-12-28 01:47:59 +0000"
@@ -6834,6 +6954,12 @@
     },
     "done": true
   },
+  "create:brass": {
+    "criteria": {
+      "0": "2024-12-28 19:33:08 +0000"
+    },
+    "done": true
+  },
   "create:mechanical_pump_0": {
     "criteria": {
       "0": "2024-12-28 18:43:33 +0000"
@@ -6993,6 +7119,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/crimson_kitchen_cabinetry": {
     "criteria": {
       "has_white_dye": "2024-12-27 01:16:41 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/copycat_panel_from_ingots_zinc_stonecutting": {
+    "criteria": {
+      "has_ingots_zinc": "2024-12-28 19:32:23 +0000"
     },
     "done": true
   },
@@ -7203,6 +7335,12 @@
   "iceandfire:iceandfire/kill_troll": {
     "criteria": {
       "killed_fire_dragon": "2024-12-18 23:23:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/brass_scaffolding_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2024-12-28 19:33:08 +0000"
     },
     "done": true
   },
@@ -7797,6 +7935,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/spruce_cutting_board": {
     "criteria": {
       "has_spruce_planks": "2024-12-19 23:09:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/brass_bars_from_ingots_brass_stonecutting": {
+    "criteria": {
+      "has_ingots_brass": "2024-12-28 19:33:08 +0000"
     },
     "done": true
   },
@@ -8581,6 +8725,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/blue_brass_lamp": {
+    "criteria": {
+      "has_item": "2024-12-28 19:35:30 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/copper_bolt": {
     "criteria": {
       "has_feather": "2024-12-17 23:14:35 +0000"
@@ -8893,6 +9043,18 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/yellow_brass_lamp": {
+    "criteria": {
+      "has_item": "2024-12-28 19:35:30 +0000"
+    },
+    "done": true
+  },
+  "create:deployer": {
+    "criteria": {
+      "0": "2024-12-28 19:37:15 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/cheese": {
     "criteria": {
       "has_milk": "2024-12-19 23:18:53 +0000"
@@ -8938,6 +9100,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/knife": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 23:26:30 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/brass_bars": {
+    "criteria": {
+      "has_item": "2024-12-28 19:33:08 +0000"
     },
     "done": true
   },
@@ -9142,6 +9310,12 @@
   "create:recipes/create.base/crafting/kinetics/turntable": {
     "criteria": {
       "has_item": "2024-12-28 02:40:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/materials/brass_block_from_compacting": {
+    "criteria": {
+      "has_item": "2024-12-28 19:33:08 +0000"
     },
     "done": true
   },
@@ -9361,6 +9535,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.metals/zinc_sheet_metal_from_zinc_block_stonecutting": {
+    "criteria": {
+      "has_zinc_block": "2024-12-28 19:31:42 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/createdeco.bricks/mossy_red_long_bricks_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2024-12-27 00:51:07 +0000"
@@ -9538,6 +9718,12 @@
   "create:recipes/create.base/crafting/kinetics/clutch": {
     "criteria": {
       "has_item": "2024-12-28 04:28:26 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/brass_trapdoor": {
+    "criteria": {
+      "has_item": "2024-12-28 19:33:08 +0000"
     },
     "done": true
   },
@@ -10135,6 +10321,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/zinc_nugget_from_decompacting": {
+    "criteria": {
+      "has_item": "2024-12-28 19:32:23 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/oak_storage_jar": {
     "criteria": {
       "has_oak_planks": "2024-12-19 23:09:23 +0000"
@@ -10282,6 +10474,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/jungle_kitchen_drawer": {
     "criteria": {
       "has_white_dye": "2024-12-27 01:16:41 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/zinc_hull": {
+    "criteria": {
+      "has_item": "2024-12-28 19:32:23 +0000"
     },
     "done": true
   },
@@ -10591,6 +10789,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/elevator_pulley": {
+    "criteria": {
+      "has_item": "2024-12-28 19:33:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2024-12-17 23:09:52 +0000"
@@ -10831,6 +11035,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.metals/zinc_trapdoor": {
+    "criteria": {
+      "has_item": "2024-12-28 19:32:23 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_battle_hammer": {
     "criteria": {
       "has_iron_ingot": "2024-12-18 00:11:57 +0000"
@@ -10870,6 +11080,12 @@
   "securitycraft:recipes/securitycraft/limited_use_keycard": {
     "criteria": {
       "has_iron": "2024-12-19 23:26:30 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.props/red_brass_lamp": {
+    "criteria": {
+      "has_item": "2024-12-28 19:35:30 +0000"
     },
     "done": true
   },
@@ -11436,6 +11652,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/materials/zinc_block_from_compacting": {
+    "criteria": {
+      "has_item": "2024-12-28 19:32:23 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/diamond_bolt": {
     "criteria": {
       "has_feather": "2024-12-17 23:14:35 +0000"
@@ -11681,6 +11903,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/zinc_ingot_from_decompacting": {
+    "criteria": {
+      "has_item": "2024-12-28 19:31:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/depot": {
     "criteria": {
       "has_item": "2024-12-28 04:28:26 +0000"
@@ -11690,6 +11918,12 @@
   "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-12-17 23:36:42 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/brass_mesh_fence": {
+    "criteria": {
+      "has_item": "2024-12-28 19:35:30 +0000"
     },
     "done": true
   },
@@ -12215,6 +12449,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/logistics/brass_tunnel": {
+    "criteria": {
+      "has_item": "2024-12-28 19:33:08 +0000"
+    },
+    "done": true
+  },
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/fuel_tank": {
     "criteria": {
       "has_item": "2024-12-18 02:15:15 +0000"
@@ -12302,6 +12542,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2024-12-20 19:16:25 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/brass_hull": {
+    "criteria": {
+      "has_item": "2024-12-28 19:33:08 +0000"
     },
     "done": true
   },
@@ -12470,6 +12716,12 @@
   "createdeco:recipes/createdeco.bricks/cracked_red_bricks_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2024-12-27 00:51:07 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/zinc_bars_from_zinc_ingot_stonecutting": {
+    "criteria": {
+      "has_zinc_ingot": "2024-12-28 19:32:23 +0000"
     },
     "done": true
   },

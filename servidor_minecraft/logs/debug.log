@@ -12333,3 +12333,11 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [28Dec2024 19:27:28.224] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [28Dec2024 19:28:05.369] [Server thread/DEBUG] [mixin/]: Mixing mod_compat.create.MixinBeltMovementHandler from valkyrienskies-common.mixins.json into com.simibubi.create.content.kinetics.belt.transport.BeltMovementHandler
 [28Dec2024 19:31:24.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[28Dec2024 19:31:47.340] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[28Dec2024 19:32:28.211] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 19:32:28.222] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 19:37:15.020] [Server thread/DEBUG] [mixin/]: Mixing mod_compat.create.IMixinDeployerHandler from valkyrienskies-common.mixins.json into com.simibubi.create.content.kinetics.deployer.DeployerHandler
+[28Dec2024 19:37:15.021] [Server thread/DEBUG] [mixin/]: Renaming @Invoker method invokeShouldActivate(Lnet/minecraft/world/item/ItemStack;Lnet/minecraft/world/level/Level;Lnet/minecraft/core/BlockPos;Lnet/minecraft/core/Direction;)Z to invokeShouldActivate_$md$9a02f3$0 in valkyrienskies-common.mixins.json:mod_compat.create.IMixinDeployerHandler
+[28Dec2024 19:37:28.218] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 19:37:28.231] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 19:40:07.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [The Brass Age]
