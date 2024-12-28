@@ -3204,6 +3204,12 @@
     },
     "done": true
   },
+  "farmersdelight:main/place_campfire": {
+    "criteria": {
+      "campfire": "2024-12-28 18:49:33 +0000"
+    },
+    "done": true
+  },
   "projecte:recipes/projecte/dm_hoe": {
     "criteria": {
       "has_matter": "2024-12-19 00:05:05 +0000"
@@ -11157,6 +11163,12 @@
   "createdeco:recipes/createdeco.metals/iron_hull": {
     "criteria": {
       "has_item": "2024-12-20 18:41:11 +0000"
+    },
+    "done": true
+  },
+  "create:water_supply": {
+    "criteria": {
+      "0": "2024-12-28 18:56:51 +0000"
     },
     "done": true
   },
