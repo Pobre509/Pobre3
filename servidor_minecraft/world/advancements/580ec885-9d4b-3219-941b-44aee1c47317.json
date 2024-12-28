@@ -2065,6 +2065,12 @@
     },
     "done": true
   },
+  "tconstruct:recipes/tconstruct/smeltery/smeltery/scorched/scorched_bricks_crafting": {
+    "criteria": {
+      "has_item": "2024-12-28 03:24:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/lime_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-18 04:04:21 +0000"
@@ -7889,6 +7895,13 @@
       "has_copper_ingot": "2024-12-18 00:03:37 +0000"
     },
     "done": true
+  },
+  "tconstruct:foundry/alloyer": {
+    "criteria": {
+      "scorched_basin": "2024-12-28 03:28:11 +0000",
+      "scorched_table": "2024-12-28 03:28:22 +0000"
+    },
+    "done": false
   },
   "travelersbackpack:recipes/travelersbackpack/coal": {
     "criteria": {
