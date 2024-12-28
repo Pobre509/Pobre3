@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_bearing": {
+    "criteria": {
+      "has_item": "2024-12-28 04:28:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_lilac": "2024-12-18 23:52:27 +0000"
@@ -374,6 +380,12 @@
   "securitycraft:recipes/securitycraft/reinforced_lime_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-26 04:03:47 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.props/cyan_decal": {
+    "criteria": {
+      "has_item": "2024-12-28 04:31:43 +0000"
     },
     "done": true
   },
@@ -866,6 +878,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_drill": {
+    "criteria": {
+      "has_item": "2024-12-28 04:28:26 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/secret_warped_sign_item": {
     "criteria": {
       "has_sign": "2024-12-26 23:23:38 +0000"
@@ -932,6 +950,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.metals/andesite_sheet_metal_from_andesite_casing_stonecutting": {
+    "criteria": {
+      "has_andesite_casing": "2024-12-28 04:28:26 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/cooking/baked_cod_stew": {
     "criteria": {
       "has_any_ingredient": "2024-12-20 19:30:58 +0000"
@@ -965,6 +989,12 @@
   "securitycraft:recipes/securitycraft/reinforced_black_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-26 04:03:47 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.props/red_iron_lamp": {
+    "criteria": {
+      "has_item": "2024-12-28 04:31:43 +0000"
     },
     "done": true
   },
@@ -1376,6 +1406,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/light_blue_decal": {
+    "criteria": {
+      "has_item": "2024-12-28 04:31:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_carpet": {
     "criteria": {
       "has_brown_wool": "2024-12-17 23:47:28 +0000"
@@ -1762,6 +1798,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/weighted_ejector": {
+    "criteria": {
+      "has_item": "2024-12-28 04:28:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-18 02:57:29 +0000"
@@ -1960,6 +2002,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/whisk": {
+    "criteria": {
+      "has_item": "2024-12-28 04:31:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_calcite_brick_stairs_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-20 20:10:41 +0000"
@@ -2117,6 +2165,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/encased_fan": {
+    "criteria": {
+      "has_item": "2024-12-28 04:31:43 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/tomato_seeds": {
     "criteria": {
       "has_tomato": "2024-12-20 19:45:55 +0000"
@@ -2138,6 +2192,12 @@
   "securitycraft:recipes/securitycraft/reinforced_gray_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-26 04:03:47 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2024-12-28 04:28:00 +0000"
     },
     "done": true
   },
@@ -2874,6 +2934,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/yellow_decal": {
+    "criteria": {
+      "has_item": "2024-12-28 04:31:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2024-12-20 19:48:17 +0000"
@@ -3042,6 +3108,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/blue_iron_lamp": {
+    "criteria": {
+      "has_item": "2024-12-28 04:31:43 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/mine": {
     "criteria": {
       "has_iron": "2024-12-19 23:26:30 +0000"
@@ -3150,6 +3222,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/mechanical_roller": {
+    "criteria": {
+      "has_item": "2024-12-28 04:28:26 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/jungle_storage_cabinet": {
     "criteria": {
       "has_iron_ingot": "2024-12-19 23:26:30 +0000"
@@ -3243,6 +3321,12 @@
   "create:recipes/create.base/crafting/materials/sand_paper": {
     "criteria": {
       "has_item": "2024-12-27 00:24:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/gearshift": {
+    "criteria": {
+      "has_item": "2024-12-28 04:28:26 +0000"
     },
     "done": true
   },
@@ -3405,6 +3489,12 @@
   "create:recipes/create.base/crafting/kinetics/large_water_wheel": {
     "criteria": {
       "has_the_recipe": "2024-12-28 03:24:26 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.props/red_decal": {
+    "criteria": {
+      "has_item": "2024-12-28 04:31:43 +0000"
     },
     "done": true
   },
@@ -3621,6 +3711,12 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2024-12-20 19:50:27 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.props/yellow_iron_lamp": {
+    "criteria": {
+      "has_item": "2024-12-28 04:31:43 +0000"
     },
     "done": true
   },
@@ -3956,6 +4052,12 @@
   "securitycraft:recipes/securitycraft/reinforced_cyan_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-26 04:03:47 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_press": {
+    "criteria": {
+      "has_item": "2024-12-28 04:28:26 +0000"
     },
     "done": true
   },
@@ -4341,6 +4443,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/warped_kitchen_storage_cabinet": {
     "criteria": {
       "has_white_dye": "2024-12-27 01:16:41 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/iron_catwalk": {
+    "criteria": {
+      "has_item": "2024-12-28 04:31:43 +0000"
     },
     "done": true
   },
@@ -4842,6 +4950,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/orange_decal": {
+    "criteria": {
+      "has_item": "2024-12-28 04:31:43 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/travelersbackpack/cow": {
     "criteria": {
       "has_milk_bucket": "2024-12-19 23:18:53 +0000"
@@ -4881,6 +4995,12 @@
   "iceandfire:iceandfire/dragon_meal": {
     "criteria": {
       "bestiary": "2024-12-18 03:54:33 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/iron_ladder_from_plates_iron_stonecutting": {
+    "criteria": {
+      "has_plates_iron": "2024-12-28 04:31:43 +0000"
     },
     "done": true
   },
@@ -4947,6 +5067,12 @@
   "farmersdelight:recipes/farmersdelight/safety_net": {
     "criteria": {
       "has_rope": "2024-12-26 22:53:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_plough": {
+    "criteria": {
+      "has_item": "2024-12-28 04:28:26 +0000"
     },
     "done": true
   },
@@ -5400,6 +5526,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/green_decal": {
+    "criteria": {
+      "has_item": "2024-12-28 04:31:43 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/red_stool": {
     "criteria": {
       "has_planks": "2024-12-19 23:09:23 +0000"
@@ -5433,6 +5565,12 @@
   "create:recipes/create.palettes/crafting/kinetics/light_blue_seat": {
     "criteria": {
       "has_wool": "2024-12-28 01:34:12 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.props/brown_decal": {
+    "criteria": {
+      "has_item": "2024-12-28 04:31:43 +0000"
     },
     "done": true
   },
@@ -5931,6 +6069,12 @@
   "farmersdelight:recipes/farmersdelight/cooking/noodle_soup": {
     "criteria": {
       "has_any_ingredient": "2024-12-20 19:08:45 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.props/light_gray_decal": {
+    "criteria": {
+      "has_item": "2024-12-28 04:31:43 +0000"
     },
     "done": true
   },
@@ -6720,6 +6864,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/black_decal": {
+    "criteria": {
+      "has_item": "2024-12-28 04:31:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-18 01:35:31 +0000"
@@ -7278,6 +7428,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/millstone": {
+    "criteria": {
+      "has_item": "2024-12-28 04:28:26 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.modded/silver_scythe": {
     "criteria": {
       "has_silver_ingot": "2024-12-18 00:13:16 +0000"
@@ -7365,6 +7521,12 @@
   "tconstruct:recipes/tconstruct/general/common/materials/rose_gold_nugget_from_ingot": {
     "criteria": {
       "has_item": "2024-12-20 21:44:50 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.props/green_iron_lamp": {
+    "criteria": {
+      "has_item": "2024-12-28 04:31:43 +0000"
     },
     "done": true
   },
@@ -7837,6 +7999,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/gantry_carriage": {
+    "criteria": {
+      "has_item": "2024-12-28 04:28:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2024-12-18 00:26:18 +0000"
@@ -7894,6 +8062,12 @@
   "biomesoplenty:recipes/transportation/mahogany_boat": {
     "criteria": {
       "in_water": "2024-12-17 23:20:04 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.metals/iron_mesh_fence": {
+    "criteria": {
+      "has_item": "2024-12-28 04:31:43 +0000"
     },
     "done": true
   },
@@ -8053,6 +8227,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/purple_decal": {
+    "criteria": {
+      "has_item": "2024-12-28 04:31:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2024-12-18 00:31:33 +0000"
@@ -8158,6 +8338,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-18 00:40:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_saw": {
+    "criteria": {
+      "has_item": "2024-12-28 04:28:26 +0000"
     },
     "done": true
   },
@@ -8947,6 +9133,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/lime_decal": {
+    "criteria": {
+      "has_item": "2024-12-28 04:31:43 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_magenta_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-26 04:03:47 +0000"
@@ -8992,6 +9184,12 @@
   "create:recipes/create.palettes/copper_bars_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2024-12-26 04:03:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/andesite_door": {
+    "criteria": {
+      "has_item": "2024-12-28 04:28:26 +0000"
     },
     "done": true
   },
@@ -9214,6 +9412,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/crimson_lattice_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-19 23:36:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/clutch": {
+    "criteria": {
+      "has_item": "2024-12-28 04:28:26 +0000"
     },
     "done": true
   },
@@ -10333,6 +10537,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/magenta_decal": {
+    "criteria": {
+      "has_item": "2024-12-28 04:31:43 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_boomerang": {
     "criteria": {
       "has_iron_ingot": "2024-12-18 00:11:57 +0000"
@@ -10680,6 +10890,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/blue_decal": {
+    "criteria": {
+      "has_item": "2024-12-28 04:31:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/raw_iron": {
     "criteria": {
       "has_raw_iron_block": "2024-12-20 00:46:24 +0000"
@@ -10917,6 +11133,12 @@
   "refurbished_furniture:recipes/refurbished_furniture/constructing/blue_stool": {
     "criteria": {
       "has_planks": "2024-12-19 23:09:23 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_piston": {
+    "criteria": {
+      "has_item": "2024-12-28 04:28:26 +0000"
     },
     "done": true
   },
@@ -11195,6 +11417,12 @@
     },
     "done": true
   },
+  "create:burner": {
+    "criteria": {
+      "0": "2024-12-28 04:35:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-18 00:47:35 +0000"
@@ -11297,6 +11525,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/depot": {
+    "criteria": {
+      "has_item": "2024-12-28 04:28:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
     "criteria": {
       "has_white_carpet": "2024-12-17 23:36:42 +0000"
@@ -11312,6 +11546,12 @@
   "create:recipes/create.base/crafting/logistics/andesite_funnel": {
     "criteria": {
       "has_item": "2024-12-28 02:40:35 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/portable_storage_interface": {
+    "criteria": {
+      "has_item": "2024-12-28 04:28:26 +0000"
     },
     "done": true
   },
@@ -11414,6 +11654,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2024-12-18 04:25:40 +0000"
+    },
+    "done": true
+  },
+  "createdeco:recipes/createdeco.props/gray_decal": {
+    "criteria": {
+      "has_item": "2024-12-28 04:31:43 +0000"
     },
     "done": true
   },
@@ -11552,6 +11798,12 @@
   "create:recipes/create.palettes/layered_scoria_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-12-20 19:13:21 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/propeller": {
+    "criteria": {
+      "has_item": "2024-12-28 04:31:43 +0000"
     },
     "done": true
   },
@@ -11705,6 +11957,12 @@
     },
     "done": true
   },
+  "createdeco:recipes/createdeco.props/pink_decal": {
+    "criteria": {
+      "has_item": "2024-12-28 04:31:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/nether_brick": {
     "criteria": {
       "has_netherrack": "2024-12-18 04:24:10 +0000"
@@ -11732,6 +11990,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2024-12-17 23:19:52 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/super_glue": {
+    "criteria": {
+      "has_item": "2024-12-28 04:31:43 +0000"
     },
     "done": true
   },
@@ -11810,6 +12074,12 @@
   "minecraft:recipes/decorations/shulker_box": {
     "criteria": {
       "has_shulker_shell": "2024-12-20 20:26:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/encased_chain_drive": {
+    "criteria": {
+      "has_item": "2024-12-28 04:28:26 +0000"
     },
     "done": true
   },
@@ -12014,6 +12284,12 @@
   "tconstruct:recipes/tconstruct/smeltery/smeltery/seared/basin": {
     "criteria": {
       "has_item": "2024-12-18 02:15:15 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_harvester": {
+    "criteria": {
+      "has_item": "2024-12-28 04:28:26 +0000"
     },
     "done": true
   },
