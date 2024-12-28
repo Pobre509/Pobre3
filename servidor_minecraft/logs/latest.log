@@ -14,3 +14,12 @@
 [28Dec2024 00:43:02.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
 [28Dec2024 00:43:16.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
 [28Dec2024 00:44:09.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: R3hsk has made the advancement [What a Deal!]
+[28Dec2024 00:53:15.486] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/77321, l='ServerLevel[world]', x=-4598.09, y=103.00, z=-5400.09] died, message: 'Villager was slain by R3hsk'
+[28Dec2024 00:53:23.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[28Dec2024 00:53:29.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[28Dec2024 00:56:14.685] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Librarian'/78772, l='ServerLevel[world]', x=-4603.49, y=100.00, z=-5417.51] died, message: 'Librarian was slain by R3hsk'
+[28Dec2024 00:56:39.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[28Dec2024 00:56:47.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[28Dec2024 01:00:38.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
+[28Dec2024 01:00:45.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[28Dec2024 01:01:43.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
