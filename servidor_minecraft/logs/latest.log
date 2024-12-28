@@ -386,3 +386,4 @@ Caused by: java.lang.IllegalArgumentException: Player literal{R3hsk} is missing 
 [28Dec2024 21:03:06.475] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: percentyack sent expired chat: 'ñajia'. Is the client/server system time unsynchronized?
 [28Dec2024 21:03:06.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <percentyack> ñajia
 [28Dec2024 21:12:18.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [What a Deal!]
+[28Dec2024 21:13:00.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has made the advancement [A Pair of Giants]

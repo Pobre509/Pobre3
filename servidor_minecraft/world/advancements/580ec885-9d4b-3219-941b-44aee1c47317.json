@@ -2670,6 +2670,12 @@
     },
     "done": true
   },
+  "create:crushing_wheel": {
+    "criteria": {
+      "0": "2024-12-28 21:13:00 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/refurbished_furniture/constructing/acacia_cutting_board": {
     "criteria": {
       "has_acacia_planks": "2024-12-20 18:54:36 +0000"
@@ -2969,6 +2975,12 @@
       "has_glass": "2024-12-18 00:40:20 +0000"
     },
     "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "1": "2024-12-28 21:12:38 +0000"
+    },
+    "done": false
   },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_greatsword": {
     "criteria": {
@@ -3303,6 +3315,12 @@
   "biomesoplenty:recipes/transportation/fir_boat": {
     "criteria": {
       "in_water": "2024-12-17 23:07:24 +0000"
+    },
+    "done": true
+  },
+  "create:windmill": {
+    "criteria": {
+      "0": "2024-12-28 21:14:28 +0000"
     },
     "done": true
   },
@@ -4165,6 +4183,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/copper_pike": {
     "criteria": {
       "has_copper_ingot": "2024-12-18 00:03:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2024-12-28 21:14:42 +0000"
     },
     "done": true
   },
