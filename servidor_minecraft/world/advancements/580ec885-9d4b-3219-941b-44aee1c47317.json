@@ -4005,6 +4005,12 @@
     },
     "done": true
   },
+  "create:stressometer_maxed": {
+    "criteria": {
+      "0": "2024-12-28 22:26:27 +0000"
+    },
+    "done": true
+  },
   "tconstruct:tools/tool_smith": {
     "criteria": {
       "sword": "2024-12-18 00:05:29 +0000",

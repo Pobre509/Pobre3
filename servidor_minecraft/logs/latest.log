@@ -482,3 +482,4 @@ Caused by: java.lang.IllegalArgumentException: Player literal{percentyack} is mi
 [28Dec2024 22:16:40.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
 [28Dec2024 22:18:10.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Creative Mode]
 [28Dec2024 22:18:28.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [R3hsk: Set own game mode to Survival Mode]
+[28Dec2024 22:26:27.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: percentyack has reached the goal [Perfectly Stressed]
